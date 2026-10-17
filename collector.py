@@ -3,6 +3,7 @@ import os
 import re
 import time
 from datetime import datetime, timezone
+from zoneinfo import ZoneInfo
 from http.cookiejar import MozillaCookieJar
 from pathlib import Path
 from urllib.parse import urljoin, unquote
@@ -14,10 +15,13 @@ DATA_PATH = Path("data/matches.json")
 STATE_PATH = Path("state/collector-state.json")
 COOKIE_PATH = Path("/tmp/kotv-cookies.txt")
 TIMEOUT = 20
-RETRY_SECONDS = 30 * 60
 
-# Only collect matches from these competitions.
-# Add more exact competition names here whenever needed.
+# Повторна перевірка — кожні 5 хвилин.
+RETRY_SECONDS = 5 * 60
+
+# Часовий пояс України.
+LOCAL_TZ = ZoneInfo("Europe/Kyiv")
+
 ALLOWED_COMPETITIONS = {
     "English Premier League",
     "Spanish La Liga",
@@ -103,7 +107,6 @@ def parse_streams(html):
             if ".m3u8" in value.lower():
                 found[quality] = absolute_url(value)
 
-    # Some pages store the stream inside a player URL.
     for match in re.finditer(
         r"""data-player-url=["']([^"']+)""",
         html,
@@ -120,7 +123,6 @@ def parse_streams(html):
             if stream and not found["sd"]:
                 found["sd"] = stream
 
-    # Fallback: direct M3U8 URLs embedded in the page HTML.
     direct_pattern = (
         r"""https?://[^"'\\\s<>]+?\.m3u8(?:\?[^"'\\\s<>]*)?"""
     )
@@ -161,8 +163,9 @@ def get_match_time(match):
 def main():
     setup_cookies()
 
+    # Unix-час порівнюємо в UTC, а дату запиту формуємо за Києвом.
     now = int(time.time())
-    today = datetime.now(timezone.utc).date().isoformat()
+    today = datetime.now(LOCAL_TZ).date().isoformat()
     livescore_url = f"{BASE}/livescore/?ajax=1&day={today}"
 
     try:
@@ -191,7 +194,6 @@ def main():
         if not isinstance(match, dict):
             continue
 
-        # Filter competitions before checking match pages.
         competition = str(match.get("competition") or "").strip()
         if competition not in ALLOWED_COMPETITIONS:
             excluded += 1
@@ -220,8 +222,7 @@ def main():
         match_time = get_match_time(match)
         is_live = bool(match.get("is_live"))
 
-        # Scan live matches immediately if no stream is known.
-        # Scan upcoming matches only within six hours of kickoff.
+        # Живі матчі перевіряємо одразу, майбутні — за 6 годин до початку.
         eligible = is_live or (
             match_time is not None
             and now - 30 * 60 <= match_time <= now + 6 * 60 * 60
@@ -231,7 +232,7 @@ def main():
         has_stream = bool(sd or hd)
         should_scan = eligible and not has_stream
 
-        # Don't retry failed scans more often than every 30 minutes.
+        # Якщо перевірка не знайшла потік, повторюємо через 5 хвилин.
         if should_scan and now - last_checked < RETRY_SECONDS:
             should_scan = False
 
@@ -298,11 +299,13 @@ def main():
     save_json(DATA_PATH, result)
     save_json(STATE_PATH, state)
 
+    print("Kyiv local date:", today)
     print("LiveScore records:", len(matches))
     print("Matches excluded by competition filter:", excluded)
     print("Matches included:", len(output))
     print("Pages scanned this run:", scanned)
     print("Matches skipped from scanning:", skipped)
+    print("Retry interval: 5 minutes")
     print("JSON saved to:", DATA_PATH)
     print("State saved to:", STATE_PATH)
 
