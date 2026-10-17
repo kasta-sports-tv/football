@@ -1,3 +1,4 @@
+
 import json
 import os
 import re
@@ -56,61 +57,39 @@ def save_json(path, value):
 
 
 def setup_cookies():
-    cookie_text = os.environ.get("KOTV_COOKIES", "").strip()
+    cookie_text = os.environ.get("KOTV_COOKIES", "")
 
-    if not cookie_text:
-        print("[COOKIE] Secret is empty; using no optional cookies.")
+    if not cookie_text.strip():
+        print("[COOKIE] KOTV_COOKIES is empty.")
         return
 
     COOKIE_PATH.parent.mkdir(parents=True, exist_ok=True)
-    COOKIE_PATH.write_text(cookie_text + "\n", encoding="utf-8")
+    COOKIE_PATH.write_text(
+        cookie_text.rstrip() + "\n",
+        encoding="utf-8",
+    )
 
-    # Варіант 1: Netscape / Mozilla cookie-файл.
     try:
         jar = MozillaCookieJar(str(COOKIE_PATH))
         jar.load(ignore_discard=True, ignore_expires=True)
 
-        if len(jar):
-            session.cookies.update(jar)
-            print("[COOKIE] Loaded Netscape-format cookies.")
+        if not len(jar):
+            print("[COOKIE] File loaded but contains no cookies.")
             return
-    except Exception:
-        pass
 
-    # Варіант 2: звичайний заголовок Cookie:
-    # name=value; name2=value2
-    text = re.sub(
-        r"^\s*Cookie\s*:\s*",
-        "",
-        cookie_text,
-        flags=re.IGNORECASE,
-    ).strip()
+        session.cookies.update(jar)
 
-    count = 0
-
-    if "\t" not in text and "\n" not in text:
-        for item in text.split(";"):
-            if "=" not in item:
-                continue
-
-            name, value = item.strip().split("=", 1)
-            name = name.strip()
-            value = value.strip()
-
-            if not name or not value:
-                continue
-
-            # Не дозволяємо встановлювати cookie з довільним Domain.
-            session.cookies.set(name, value, domain="kickofftv.id")
-            count += 1
-
-    if count:
-        print(f"[COOKIE] Loaded {count} cookies from Cookie header format.")
-    else:
+        print("[COOKIE] Netscape file parsed successfully.")
+        print("[COOKIE] Cookies loaded:", len(jar))
         print(
-            "[COOKIE] Could not parse cookie format. "
-            "Check the GitHub Secret format; values are not printed."
+            "[COOKIE] PHPSESSID present:",
+            any(c.name == "PHPSESSID" for c in jar),
         )
+
+    except Exception as exc:
+        # Не виводимо вміст секрету або cookie.
+        print("[COOKIE] Netscape parsing failed:", type(exc).__name__)
+        print("[COOKIE] Check the KOTV_COOKIES secret format.")
 
 
 def fetch_json(url):
@@ -153,7 +132,6 @@ def parse_streams(html):
             if ".m3u8" in value.lower():
                 found[quality] = absolute_url(value)
 
-    # Шукаємо вкладений параметр url=...m3u8.
     for match in re.finditer(
         r"""data-player-url\s*=\s*["']([^"']+)""",
         html,
@@ -172,7 +150,6 @@ def parse_streams(html):
             if stream and not found["sd"]:
                 found["sd"] = stream
 
-    # Шукаємо прямі адреси .m3u8 у HTML.
     direct_pattern = (
         r"""https?://[^"'\\\s<>]+?\.m3u8(?:\?[^"'\\\s<>]*)?"""
     )
@@ -205,7 +182,6 @@ def fetch_match_streams(slug):
         print(f"[DEBUG] Match: {slug}")
         print(f"[DEBUG] HTTP status: {response.status_code}")
 
-        # Не друкуємо query-параметри: у них іноді бувають токени.
         final = urlparse(response.url)
         print(
             "[DEBUG] Final page:",
@@ -275,7 +251,11 @@ def main():
     try:
         payload = fetch_json(livescore_url)
     except Exception as exc:
-        print("Could not fetch LiveScore:", type(exc).__name__, str(exc))
+        print(
+            "Could not fetch LiveScore:",
+            type(exc).__name__,
+            str(exc),
+        )
         raise
 
     matches = payload.get("matches", [])
@@ -344,7 +324,6 @@ def main():
 
         last_checked = int(checked.get(match_id, 0) or 0)
         has_stream = bool(sd or hd)
-
         should_scan = eligible and not has_stream
 
         if not eligible:
