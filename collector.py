@@ -2,7 +2,7 @@ import json
 import os
 import re
 import time
-from datetime import datetime, timezone, timedelta
+from datetime import datetime, timezone
 from http.cookiejar import MozillaCookieJar
 from pathlib import Path
 from urllib.parse import urljoin, unquote
@@ -15,6 +15,15 @@ STATE_PATH = Path("state/collector-state.json")
 COOKIE_PATH = Path("/tmp/kotv-cookies.txt")
 TIMEOUT = 20
 RETRY_SECONDS = 30 * 60
+
+# Only collect matches from these competitions.
+# Add more exact competition names here whenever needed.
+ALLOWED_COMPETITIONS = {
+    "English Premier League",
+    "Spanish La Liga",
+    "Italian Serie A",
+    "Bundesliga",
+}
 
 session = requests.Session()
 session.headers.update({
@@ -47,6 +56,7 @@ def save_json(path, value):
 def setup_cookies():
     cookie_text = os.environ.get("KOTV_COOKIES", "").strip()
     if not cookie_text:
+        print("KOTV_COOKIES secret is empty; continuing without optional cookies.")
         return
 
     COOKIE_PATH.write_text(cookie_text + "\n", encoding="utf-8")
@@ -175,9 +185,16 @@ def main():
 
     scanned = 0
     skipped = 0
+    excluded = 0
 
     for match in matches:
         if not isinstance(match, dict):
+            continue
+
+        # Filter competitions before checking match pages.
+        competition = str(match.get("competition") or "").strip()
+        if competition not in ALLOWED_COMPETITIONS:
+            excluded += 1
             continue
 
         status = str(match.get("status") or "").strip()
@@ -239,17 +256,14 @@ def main():
         else:
             skipped += 1
 
-        def logo_url(value):
-            return absolute_url(value)
-
         output.append({
             "id": match.get("id"),
             "slug": slug,
-            "competition": match.get("competition", ""),
+            "competition": competition,
             "home": match.get("home", ""),
             "away": match.get("away", ""),
-            "home_logo": logo_url(match.get("home_logo")),
-            "away_logo": logo_url(match.get("away_logo")),
+            "home_logo": absolute_url(match.get("home_logo")),
+            "away_logo": absolute_url(match.get("away_logo")),
             "home_score": match.get("home_score"),
             "away_score": match.get("away_score"),
             "status": status,
@@ -285,6 +299,7 @@ def main():
     save_json(STATE_PATH, state)
 
     print("LiveScore records:", len(matches))
+    print("Matches excluded by competition filter:", excluded)
     print("Matches included:", len(output))
     print("Pages scanned this run:", scanned)
     print("Matches skipped from scanning:", skipped)
