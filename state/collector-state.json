@@ -562,17 +562,48 @@
     "8yomo4h1j76zq0j": 1792269533,
     "965mkyhkxz3kr1g": 1792269533,
     "l7oqdehgzn94r51": 1792321742,
-    "1l4rjnh90ezlm7v": 1792328017,
-    "4wyrn4h6183vq86": 1792328017,
-    "dn1m1ghldz8lmoe": 1792328017,
-    "jw2r09hkdvwgrz8": 1792328017,
-    "pxwrxlhywoz6ryk": 1792328017,
-    "8yomo4h1o5y6q0j": 1792328017,
-    "pxwrxlhyov91ryk": 1792328017,
-    "1l4rjnh9p0eem7v": 1792328017,
-    "x7lm7phje5x1m2w": 1792328017,
-    "dj2ryohl3ko4q1z": 1792328017,
-    "23xmvkh6jxdwqg8": 1792328017
+    "1l4rjnh90ezlm7v": 1792328333,
+    "4wyrn4h6183vq86": 1792328333,
+    "dn1m1ghldz8lmoe": 1792328333,
+    "jw2r09hkdvwgrz8": 1792328333,
+    "pxwrxlhywoz6ryk": 1792328333,
+    "8yomo4h1o5y6q0j": 1792328333,
+    "pxwrxlhyov91ryk": 1792328333,
+    "1l4rjnh9p0eem7v": 1792328333,
+    "x7lm7phje5x1m2w": 1792328333,
+    "dj2ryohl3ko4q1z": 1792328333,
+    "23xmvkh6jxdwqg8": 1792328333
   },
-  "streams": {}
+  "streams": {
+    "1l4rjnh90ezlm7v": {
+      "sd": "https://kickofftv.id/player?url=https://apxvf0ws91.yarncdn.live/live/sd-6MweaGxUCEK3YseUS4/playlist.m3u8",
+      "hd": "https://kickofftv.id/player?url=https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGxUCEK3YseUS4/playlist.m3u8",
+      "slug": "ca-osasuna-vs-racing-santander-1l4rjnh90ezlm7v"
+    },
+    "4wyrn4h6183vq86": {
+      "sd": "https://kickofftv.id/player?url=https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jaUYwrS7FW6MW/playlist.m3u8",
+      "hd": "https://kickofftv.id/player?url=https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jaUYwrS7FW6MW/playlist.m3u8",
+      "slug": "fiorentina-vs-como-4wyrn4h6183vq86"
+    },
+    "dn1m1ghldz8lmoe": {
+      "sd": "https://kickofftv.id/player?url=https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQhXpKhwVtwH2g/playlist.m3u8",
+      "hd": "https://kickofftv.id/player?url=https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQhXpKhwVtwH2g/playlist.m3u8",
+      "slug": "bournemouth-afc-vs-sunderland-dn1m1ghldz8lmoe"
+    },
+    "jw2r09hkdvwgrz8": {
+      "sd": "https://kickofftv.id/player?url=https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQiJ8xyE4VWqAG/playlist.m3u8",
+      "hd": "https://kickofftv.id/player?url=https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQiJ8xyE4VWqAG/playlist.m3u8",
+      "slug": "brighton-hove-albion-vs-crystal-palace-jw2r09hkdvwgrz8"
+    },
+    "pxwrxlhywoz6ryk": {
+      "sd": "https://kickofftv.id/player?url=https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQiJ9CA7HNUL5e/playlist.m3u8",
+      "hd": "https://kickofftv.id/player?url=https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQiJ9CA7HNUL5e/playlist.m3u8",
+      "slug": "leeds-united-vs-manchester-united-pxwrxlhywoz6ryk"
+    },
+    "8yomo4h1o5y6q0j": {
+      "sd": "https://kickofftv.id/player?url=https://apxvf0ws91.yarncdn.live/live/sd-6MweaDgkUNpDK1cxi4/playlist.m3u8",
+      "hd": "https://kickofftv.id/player?url=https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaDgkUNpDK1cxi4/playlist.m3u8",
+      "slug": "bayer-04-leverkusen-vs-sc-freiburg-8yomo4h1o5y6q0j"
+    }
+  }
 }

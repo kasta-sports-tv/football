@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T12:53:45.200403+00:00",
+  "updated_at": "2026-10-18T12:59:00.724002+00:00",
   "source": "https://kickofftv.id",
   "matches_count": 11,
   "matches": [
@@ -13,15 +13,15 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzhkYjcyNjBhMThiMWJlNjhlODcxMGNmZGJmNmJlM2RmLnBuZw==",
       "home_score": 1,
       "away_score": 0,
-      "status": "First Half",
+      "status": "Half Time",
       "time_label": "18 Oct 2026 • 19:00 WIB",
       "match_time": 1792324800,
       "match_date": "2026-10-18",
       "is_live": true,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://kickofftv.id/player?url=https://apxvf0ws91.yarncdn.live/live/sd-6MweaGxUCEK3YseUS4/playlist.m3u8",
+        "hd": "https://kickofftv.id/player?url=https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGxUCEK3YseUS4/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/ca-osasuna-vs-racing-santander-1l4rjnh90ezlm7v"
     },
@@ -42,8 +42,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://kickofftv.id/player?url=https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQhXpKhwVtwH2g/playlist.m3u8",
+        "hd": "https://kickofftv.id/player?url=https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQhXpKhwVtwH2g/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/bournemouth-afc-vs-sunderland-dn1m1ghldz8lmoe"
     },
@@ -64,8 +64,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://kickofftv.id/player?url=https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQiJ8xyE4VWqAG/playlist.m3u8",
+        "hd": "https://kickofftv.id/player?url=https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQiJ8xyE4VWqAG/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/brighton-hove-albion-vs-crystal-palace-jw2r09hkdvwgrz8"
     },
@@ -86,8 +86,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://kickofftv.id/player?url=https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQiJ9CA7HNUL5e/playlist.m3u8",
+        "hd": "https://kickofftv.id/player?url=https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQiJ9CA7HNUL5e/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/leeds-united-vs-manchester-united-pxwrxlhywoz6ryk"
     },
@@ -108,8 +108,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://kickofftv.id/player?url=https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jaUYwrS7FW6MW/playlist.m3u8",
+        "hd": "https://kickofftv.id/player?url=https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jaUYwrS7FW6MW/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/fiorentina-vs-como-4wyrn4h6183vq86"
     },
@@ -130,8 +130,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://kickofftv.id/player?url=https://apxvf0ws91.yarncdn.live/live/sd-6MweaDgkUNpDK1cxi4/playlist.m3u8",
+        "hd": "https://kickofftv.id/player?url=https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaDgkUNpDK1cxi4/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/bayer-04-leverkusen-vs-sc-freiburg-8yomo4h1o5y6q0j"
     },
