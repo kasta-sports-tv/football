@@ -244,8 +244,7 @@ def get_match_time(match):
         number = int(value)
         if number > 10_000_000_000:
             number //= 1000
-        # WIB (UTC+7) переводимо у Київський час -> різниця 4 години назад
-        number -= 4 * 3600
+        # Залишаємо оригінальний час джерела без змін часових поясів
         return number
     except (TypeError, ValueError):
         return None
@@ -261,7 +260,7 @@ def main():
     matches = []
     seen_ids = set()
 
-    # Отримуємо розклад на сьогодні та завтра для захисту від зміщення часових поясів
+    # Збираємо розклад на сьогодні та завтра
     for target_date in [today_date, tomorrow_date]:
         livescore_url = f"{BASE}/livescore/?ajax=1&day={target_date.isoformat()}"
         try:
