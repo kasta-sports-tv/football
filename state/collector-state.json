@@ -569,10 +569,10 @@
     "pxwrxlhywoz6ryk": 1792328333,
     "8yomo4h1o5y6q0j": 1792328333,
     "pxwrxlhyov91ryk": 1792333327,
-    "1l4rjnh9p0eem7v": 1792328333,
-    "x7lm7phje5x1m2w": 1792328333,
-    "dj2ryohl3ko4q1z": 1792328333,
-    "23xmvkh6jxdwqg8": 1792328333
+    "1l4rjnh9p0eem7v": 1792342071,
+    "x7lm7phje5x1m2w": 1792342071,
+    "dj2ryohl3ko4q1z": 1792342071,
+    "23xmvkh6jxdwqg8": 1792342071
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -609,6 +609,26 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGxUCXttWiFofE/playlist.m3u8",
       "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGxUCXttWiFofE/playlist.m3u8",
       "slug": "rc-celta-vs-deportivo-alav-s-pxwrxlhyov91ryk"
+    },
+    "1l4rjnh9p0eem7v": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQiHyR68jbKtWL/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQiHyR68jbKtWL/playlist.m3u8",
+      "slug": "nottingham-forest-vs-arsenal-1l4rjnh9p0eem7v"
+    },
+    "x7lm7phje5x1m2w": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaDgkTtExzmt3iQ/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaDgkTtExzmt3iQ/playlist.m3u8",
+      "slug": "borussia-monchengladbach-vs-tsg-hoffenheim-x7lm7phje5x1m2w"
+    },
+    "dj2ryohl3ko4q1z": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jaV3pgbJq2REg/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jaV3pgbJq2REg/playlist.m3u8",
+      "slug": "ac-milan-vs-atalanta-dj2ryohl3ko4q1z"
+    },
+    "23xmvkh6jxdwqg8": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGxUCm5mjbDJac/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGxUCm5mjbDJac/playlist.m3u8",
+      "slug": "malaga-vs-real-sociedad-23xmvkh6jxdwqg8"
     }
   }
 }
