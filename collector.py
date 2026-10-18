@@ -2,7 +2,7 @@ import json
 import os
 import re
 import time
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from http.cookiejar import MozillaCookieJar
 from pathlib import Path
 from urllib.parse import urljoin, unquote, urlparse, parse_qs
@@ -152,7 +152,6 @@ def clean_stream_url(raw_value):
     
     value = unquote(str(raw_value).strip())
 
-    # Якщо посилання містить шлях до плеєра з параметром url=, витягуємо чистий .m3u8 звідти
     parsed_url = urlparse(value)
     query_params = parse_qs(parsed_url.query)
     if "url" in query_params:
@@ -160,7 +159,6 @@ def clean_stream_url(raw_value):
         if ".m3u8" in inner_url.lower():
             return absolute_url(inner_url)
 
-    # Альтернативний регекс для пошуку вкладеного url=
     nested = re.search(
         r"""(?:[?&]|^)url=(https?[^&"'<> ]+\.m3u8(?:\?[^&"'<> ]*)?)""",
         value,
@@ -246,7 +244,7 @@ def get_match_time(match):
         number = int(value)
         if number > 10_000_000_000:
             number //= 1000
-        # WIB (UTC+7) переводимо у Київський час (UTC+3 у жовтні) -> різниця 4 години назад
+        # WIB (UTC+7) переводимо у Київський час -> різниця 4 години назад
         number -= 4 * 3600
         return number
     except (TypeError, ValueError):
@@ -257,21 +255,29 @@ def main():
     setup_cookies()
 
     now = int(time.time())
-    today = datetime.now(LOCAL_TZ).date().isoformat()
-    livescore_url = f"{BASE}/livescore/?ajax=1&day={today}"
+    today_date = datetime.now(LOCAL_TZ).date()
+    tomorrow_date = today_date + timedelta(days=1)
+    
+    matches = []
+    seen_ids = set()
 
-    try:
-        payload = fetch_json(livescore_url)
-    except Exception as exc:
-        print("Could not fetch LiveScore:", type(exc).__name__, str(exc))
-        raise
+    # Отримуємо розклад на сьогодні та завтра для захисту від зміщення часових поясів
+    for target_date in [today_date, tomorrow_date]:
+        livescore_url = f"{BASE}/livescore/?ajax=1&day={target_date.isoformat()}"
+        try:
+            payload = fetch_json(livescore_url)
+            day_matches = payload.get("matches", [])
+            if isinstance(day_matches, list):
+                for m in day_matches:
+                    m_id = str(m.get("id") or m.get("slug") or "")
+                    if m_id and m_id not in seen_ids:
+                        seen_ids.add(m_id)
+                        matches.append(m)
+        except Exception as exc:
+            print(f"Could not fetch LiveScore for {target_date}:", type(exc).__name__, str(exc))
 
-    matches = payload.get("matches", [])
-
-    if not isinstance(matches, list):
-        raise RuntimeError(
-            "Unexpected LiveScore response: matches is not a list"
-        )
+    if not matches:
+        print("Warning: No matches fetched from LiveScore.")
 
     state = load_json(
         STATE_PATH,
@@ -409,8 +415,8 @@ def main():
 
     print()
     print("========== SUMMARY ==========")
-    print("Kyiv local date:", today)
-    print("LiveScore records:", len(matches))
+    print("Kyiv local dates:", today_date, "and", tomorrow_date)
+    print("LiveScore records fetched:", len(matches))
     print("Matches excluded by competition filter:", excluded)
     print("Matches included:", len(output))
     print("Pages scanned this run:", scanned)
