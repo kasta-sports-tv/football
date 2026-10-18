@@ -3,6 +3,8 @@ name: Update KickoffTV match data
 on:
   schedule:
     - cron: "*/5 * * * *"
+  repository_dispatch:
+    types: [trigger_update]
   workflow_dispatch:
     inputs:
       force_update:
@@ -20,10 +22,9 @@ concurrency:
 
 jobs:
   collect:
-    # За розкладом запускаємо лише тоді, коли AUTO_UPDATE не вимкнено.
-    # Ручний запуск через Run workflow доступний незалежно від цього перемикача.
     if: >-
       github.event_name == 'workflow_dispatch' ||
+      github.event_name == 'repository_dispatch' ||
       vars.AUTO_UPDATE != 'false'
 
     runs-on: ubuntu-latest
