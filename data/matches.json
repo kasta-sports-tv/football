@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T10:30:15.867343+00:00",
+  "updated_at": "2026-10-18T11:01:37.301788+00:00",
   "source": "https://kickofftv.id",
   "matches_count": 12,
   "matches": [
@@ -12,12 +12,12 @@
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2M3MTQwZWZlMDZkOTM2NDJmY2M5ODA1MDc3YzQ5YWE1LnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzZiYzM0OTZiZjM0YTZjODAzYjg3NGU2NTJlNmFjZWY1LnBuZw==",
       "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
+      "away_score": 1,
+      "status": "First Half",
       "time_label": "18 Oct 2026 • 17:30 WIB",
       "match_time": 1792319400,
       "match_date": "2026-10-18",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
         "sd": "",
