@@ -63,16 +63,17 @@ def perform_login():
         return False
 
     print("[AUTH] Attempting automated login for:", username)
-    login_url = urljoin(BASE + "/", "login") # або шлях обробника форми входу
+    login_url = urljoin(BASE + "/", "member/login.php")
     
     try:
-        # Спочатку отримуємо сторінку входу для ініціалізації сесії та отримання кук/токенів
-        resp_get = session.get(BASE + "/", timeout=TIMEOUT)
+        # Ініціалізуємо сесію, завантажуючи сторінку логіну
+        session.get(BASE + "/login/", timeout=TIMEOUT)
         
-        # Виконуємо POST запит на авторизацію (параметри залежать від форми на сайті)
+        # Передаємо правильні поля форми: login, password, redirect_to
         payload = {
-            "email": username,
+            "login": username,
             "password": password,
+            "redirect_to": "/",
         }
         response = session.post(login_url, data=payload, timeout=TIMEOUT, allow_redirects=True)
         
@@ -86,11 +87,9 @@ def perform_login():
 
 
 def setup_cookies():
-    # Спробуємо спочатку автоматичний логін за крелками
     if perform_login():
         return
 
-    # Якщо credentials не задані, падаємо на старий метод з KOTV_COOKIES
     cookie_text = os.environ.get("KOTV_COOKIES", "")
 
     if not cookie_text.strip():
