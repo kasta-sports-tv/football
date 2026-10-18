@@ -43,7 +43,8 @@ jobs:
 
       - name: Run collector
         env:
-          KOTV_COOKIES: ${{ secrets.KOTV_COOKIES }}
+          KOTV_USER: ${{ secrets.KOTV_USER }}
+          KOTV_PASS: ${{ secrets.KOTV_PASS }}
           TZ: Europe/Kyiv
         run: python collector.py
 
