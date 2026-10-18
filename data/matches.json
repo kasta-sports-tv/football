@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T14:22:07.662847+00:00",
+  "updated_at": "2026-10-18T14:30:17.285792+00:00",
   "source": "https://kickofftv.id",
   "matches_count": 10,
   "matches": [
@@ -20,8 +20,8 @@
       "is_live": true,
       "is_finished": false,
       "streams": {
-        "sd": "https://kickofftv.id/player?url=https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQhXpKhwVtwH2g/playlist.m3u8",
-        "hd": "https://kickofftv.id/player?url=https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQhXpKhwVtwH2g/playlist.m3u8"
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQhXpKhwVtwH2g/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQhXpKhwVtwH2g/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/bournemouth-afc-vs-sunderland-dn1m1ghldz8lmoe"
     },
@@ -42,8 +42,8 @@
       "is_live": true,
       "is_finished": false,
       "streams": {
-        "sd": "https://kickofftv.id/player?url=https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQiJ8xyE4VWqAG/playlist.m3u8",
-        "hd": "https://kickofftv.id/player?url=https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQiJ8xyE4VWqAG/playlist.m3u8"
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQiJ8xyE4VWqAG/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQiJ8xyE4VWqAG/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/brighton-hove-albion-vs-crystal-palace-jw2r09hkdvwgrz8"
     },
@@ -64,8 +64,8 @@
       "is_live": true,
       "is_finished": false,
       "streams": {
-        "sd": "https://kickofftv.id/player?url=https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQiJ9CA7HNUL5e/playlist.m3u8",
-        "hd": "https://kickofftv.id/player?url=https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQiJ9CA7HNUL5e/playlist.m3u8"
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQiJ9CA7HNUL5e/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQiJ9CA7HNUL5e/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/leeds-united-vs-manchester-united-pxwrxlhywoz6ryk"
     },
@@ -86,8 +86,8 @@
       "is_live": true,
       "is_finished": false,
       "streams": {
-        "sd": "https://kickofftv.id/player?url=https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jaUYwrS7FW6MW/playlist.m3u8",
-        "hd": "https://kickofftv.id/player?url=https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jaUYwrS7FW6MW/playlist.m3u8"
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jaUYwrS7FW6MW/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jaUYwrS7FW6MW/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/fiorentina-vs-como-4wyrn4h6183vq86"
     },
@@ -101,15 +101,15 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzY1MDg5NDZjOWE1ZmUyMmE4Nzg0YjkwNWIyNWU4Yzc5LnBuZw==",
       "home_score": 1,
       "away_score": 1,
-      "status": "First Half",
+      "status": "Half Time",
       "time_label": "18 Oct 2026 • 20:30 WIB",
       "match_time": 1792315800,
       "match_date": "2026-10-18",
       "is_live": true,
       "is_finished": false,
       "streams": {
-        "sd": "https://kickofftv.id/player?url=https://apxvf0ws91.yarncdn.live/live/sd-6MweaDgkUNpDK1cxi4/playlist.m3u8",
-        "hd": "https://kickofftv.id/player?url=https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaDgkUNpDK1cxi4/playlist.m3u8"
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaDgkUNpDK1cxi4/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaDgkUNpDK1cxi4/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/bayer-04-leverkusen-vs-sc-freiburg-8yomo4h1o5y6q0j"
     },
