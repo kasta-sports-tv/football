@@ -66,10 +66,8 @@ def perform_login():
     login_url = urljoin(BASE + "/", "member/login.php")
     
     try:
-        # Ініціалізуємо сесію, завантажуючи сторінку логіну
         session.get(BASE + "/login/", timeout=TIMEOUT)
         
-        # Передаємо правильні поля форми: login, password, redirect_to
         payload = {
             "login": username,
             "password": password,
@@ -148,6 +146,26 @@ def absolute_url(value):
     return ""
 
 
+def clean_stream_url(raw_value):
+    if not raw_value:
+        return ""
+    value = unquote(str(raw_value).strip())
+
+    # Перевіряємо, чи є вкладений параметром url= потік m3u8 (наприклад, /player?url=...)
+    nested = re.search(
+        r"""(?:[?&]|^)url=(https?[^&"'<> ]+\.m3u8(?:\?[^&"'<> ]*)?)""",
+        value,
+        re.IGNORECASE,
+    )
+    if nested:
+        return absolute_url(nested.group(1))
+
+    if ".m3u8" in value.lower():
+        return absolute_url(value)
+
+    return ""
+
+
 def parse_streams(html):
     found = {"sd": "", "hd": ""}
 
@@ -158,37 +176,23 @@ def parse_streams(html):
 
     for quality, pattern in patterns:
         match = re.search(pattern, html, re.IGNORECASE)
-
         if match:
-            value = unquote(match.group(1))
-            if ".m3u8" in value.lower():
-                found[quality] = absolute_url(value)
+            stream = clean_stream_url(match.group(1))
+            if stream:
+                found[quality] = stream
 
     for match in re.finditer(
         r"""data-player-url\s*=\s*["']([^"']+)""",
         html,
         re.IGNORECASE,
     ):
-        value = unquote(match.group(1))
+        stream = clean_stream_url(match.group(1))
+        if stream and not found["sd"]:
+            found["sd"] = stream
 
-        nested = re.search(
-            r"""(?:[?&]|^)url=(https?[^&"'<> ]+\.m3u8(?:\?[^&"'<> ]*)?)""",
-            value,
-            re.IGNORECASE,
-        )
-
-        if nested:
-            stream = absolute_url(nested.group(1))
-            if stream and not found["sd"]:
-                found["sd"] = stream
-
-    direct_pattern = (
-        r"""https?://[^"'\\\s<>]+?\.m3u8(?:\?[^"'\\\s<>]*)?"""
-    )
-
+    direct_pattern = r"""https?://[^"'\\\s<>]+?\.m3u8(?:\?[^"'\\\s<>]*)?"""
     for match in re.finditer(direct_pattern, html, re.IGNORECASE):
         stream = absolute_url(match.group(0))
-
         if not stream:
             continue
 
@@ -211,74 +215,9 @@ def fetch_match_streams(slug):
             allow_redirects=True,
         )
 
-        print(f"[DEBUG] Match: {slug}")
-        print(f"[DEBUG] HTTP status: {response.status_code}")
-
-        final = urlparse(response.url)
-        print(
-            "[DEBUG] Final page:",
-            final.scheme + "://" + final.netloc + final.path,
-        )
-        print(
-            "[DEBUG] Content-Type:",
-            response.headers.get("Content-Type", ""),
-        )
-
-        sent_cookie = bool(response.request.headers.get("Cookie"))
-        print("[DEBUG] Cookie header sent:", sent_cookie)
-        print(
-            "[DEBUG] PHPSESSID in session:",
-            any(c.name == "PHPSESSID" for c in session.cookies),
-        )
-        print("[DEBUG] Redirect count:", len(response.history))
-
         response.raise_for_status()
         html = response.text
-        lower = html.lower()
-
-        print("[DEBUG] HTML length:", len(html))
-        print(
-            "[DEBUG] SD attribute present:",
-            bool(re.search(r"data-player-url-sd\s*=", html, re.I)),
-        )
-        print(
-            "[DEBUG] SD attribute filled:",
-            bool(re.search(
-                r"""data-player-url-sd\s*=\s*["'][^"']+""",
-                html, re.I
-            )),
-        )
-        print(
-            "[DEBUG] HD attribute filled:",
-            bool(re.search(
-                r"""data-player-url-hd\s*=\s*["'][^"']+""",
-                html, re.I
-            )),
-        )
-        print(
-            "[DEBUG] Player URL attribute present:",
-            bool(re.search(r"data-player-url\s*=", html, re.I)),
-        )
-        print("[DEBUG] M3U8 marker:", ".m3u8" in lower)
-        print(
-            "[DEBUG] Password input present:",
-            bool(re.search(
-                r"""<input\b[^>]*type\s*=\s*["']password["']""",
-                html, re.I
-            )),
-        )
-        print(
-            "[DEBUG] Login-related text:",
-            bool(re.search(
-                r"please\s+log\s+in|sign\s+in\s+to|login\s+to",
-                html, re.I
-            )),
-        )
-
         streams = parse_streams(html)
-
-        print("[DEBUG] Parser found SD:", bool(streams["sd"]))
-        print("[DEBUG] Parser found HD:", bool(streams["hd"]))
 
         return streams, url
 
@@ -298,6 +237,8 @@ def get_match_time(match):
         number = int(value)
         if number > 10_000_000_000:
             number //= 1000
+        # Коригування зсуву часу на 4 години назад для київського часу
+        number -= 4 * 3600
         return number
     except (TypeError, ValueError):
         return None
@@ -352,7 +293,7 @@ def main():
         status_lower = status.lower()
 
         is_finished = bool(match.get("is_finished")) or (
-            status_lower in {"finished", "cancelled", "canceled"}
+            status_lower in {"finished", "cancelled", "canceled", "ft", "full time", "final", "ended"}
         )
 
         if is_finished:
@@ -430,7 +371,7 @@ def main():
             "match_time": match_time,
             "match_date": match.get("match_date", ""),
             "is_live": is_live,
-            "is_finished": False,
+            "is_finished": is_finished,
             "streams": {
                 "sd": sd,
                 "hd": hd,
