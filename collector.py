@@ -55,11 +55,46 @@ def save_json(path, value):
     temporary.replace(path)
 
 
+def perform_login():
+    username = os.environ.get("KOTV_USER", "").strip()
+    password = os.environ.get("KOTV_PASS", "").strip()
+
+    if not username or not password:
+        return False
+
+    print("[AUTH] Attempting automated login for:", username)
+    login_url = urljoin(BASE + "/", "login") # або шлях обробника форми входу
+    
+    try:
+        # Спочатку отримуємо сторінку входу для ініціалізації сесії та отримання кук/токенів
+        resp_get = session.get(BASE + "/", timeout=TIMEOUT)
+        
+        # Виконуємо POST запит на авторизацію (параметри залежать від форми на сайті)
+        payload = {
+            "email": username,
+            "password": password,
+        }
+        response = session.post(login_url, data=payload, timeout=TIMEOUT, allow_redirects=True)
+        
+        print(f"[AUTH] Login HTTP status: {response.status_code}")
+        print(f"[AUTH] PHPSESSID present after login:", any(c.name == "PHPSESSID" for c in session.cookies))
+        
+        return True
+    except Exception as exc:
+        print("[AUTH] Login failed with error:", type(exc).__name__, str(exc))
+        return False
+
+
 def setup_cookies():
+    # Спробуємо спочатку автоматичний логін за крелками
+    if perform_login():
+        return
+
+    # Якщо credentials не задані, падаємо на старий метод з KOTV_COOKIES
     cookie_text = os.environ.get("KOTV_COOKIES", "")
 
     if not cookie_text.strip():
-        print("[COOKIE] KOTV_COOKIES is empty.")
+        print("[COOKIE] KOTV_COOKIES is empty and no credentials provided.")
         return
 
     COOKIE_PATH.parent.mkdir(parents=True, exist_ok=True)
