@@ -1,95 +1,73 @@
 {
-  "updated_at": "2026-10-18T16:55:22.668878+00:00",
+  "updated_at": "2026-10-18T17:01:13.475194+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 4,
+  "matches_count": 3,
   "matches": [
     {
-      "id": "x7lm7phje5x1m2w",
-      "slug": "borussia-monchengladbach-vs-tsg-hoffenheim-x7lm7phje5x1m2w",
-      "competition": "Bundesliga",
-      "home": "Borussia Monchengladbach",
-      "away": "TSG Hoffenheim",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzg5Y2RhZGY2Y2YxZWI2ZjhkMjUwN2RlMWUwMWY4MDZjLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzcyYWI3ODYyYTYxMGIzNTBhZWY3NjUwZWMwZTA2ZTA2LnBuZw==",
-      "home_score": 1,
-      "away_score": 2,
-      "status": "Second Half",
-      "time_label": "18 Oct 2026 • 22:30 WIB",
-      "match_time": 1792323000,
-      "match_date": "2026-10-18",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaDgkTtExzmt3iQ/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaDgkTtExzmt3iQ/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/borussia-monchengladbach-vs-tsg-hoffenheim-x7lm7phje5x1m2w"
-    },
-    {
-      "id": "1l4rjnh9p0eem7v",
-      "slug": "nottingham-forest-vs-arsenal-1l4rjnh9p0eem7v",
-      "competition": "English Premier League",
-      "home": "Nottingham Forest",
-      "away": "Arsenal",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzYyNTcyOTk5ZDEwN2Y3NzdlZmE0YWViOTA3NDQzNTI3LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Q2ZjVkZWJjNDU2ZGExMTE5MjU2YWI2NjQ2MmFiNTEwLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Second Half",
-      "time_label": "18 Oct 2026 • 22:30 WIB",
-      "match_time": 1792323000,
-      "match_date": "2026-10-18",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQiHyR68jbKtWL/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQiHyR68jbKtWL/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/nottingham-forest-vs-arsenal-1l4rjnh9p0eem7v"
-    },
-    {
-      "id": "dj2ryohl3ko4q1z",
-      "slug": "ac-milan-vs-atalanta-dj2ryohl3ko4q1z",
+      "id": "318q66hxdop9qo9",
+      "slug": "juventus-vs-lazio-318q66hxdop9qo9",
       "competition": "Italian Serie A",
-      "home": "AC Milan",
-      "away": "Atalanta",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzY0M2VmNDEwMWIwMTdkYzE0OTVkYmQ5ZTlkNWNjZTI4LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzQzYTg3N2JmN2E2ZjRjMTA5ZjBhZmZiZjQ1ZDVmMTljLnBuZw==",
-      "home_score": 2,
+      "home": "Juventus",
+      "away": "Lazio",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2RjMGU0M2I5NWM2Njc2YzU0NDE1YmFjMTY4NDcyYWE0LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzVhMmZmNDZlZmEzM2FiYzZiMjkwOGViNjI3OWRmYmY4LnBuZw==",
+      "home_score": 0,
       "away_score": 0,
-      "status": "Half Time",
-      "time_label": "18 Oct 2026 • 23:00 WIB",
-      "match_time": 1792324800,
-      "match_date": "2026-10-18",
-      "is_live": true,
+      "status": "Not Started",
+      "time_label": "19 Oct 2026 • 01:45 WIB",
+      "match_time": 1792334700,
+      "match_date": "2026-10-19",
+      "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jaV3pgbJq2REg/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jaV3pgbJq2REg/playlist.m3u8"
+        "sd": "",
+        "hd": ""
       },
-      "match_url": "https://kickofftv.id/match/ac-milan-vs-atalanta-dj2ryohl3ko4q1z"
+      "match_url": "https://kickofftv.id/match/juventus-vs-lazio-318q66hxdop9qo9"
     },
     {
-      "id": "23xmvkh6jxdwqg8",
-      "slug": "malaga-vs-real-sociedad-23xmvkh6jxdwqg8",
+      "id": "4jwq2ghnj1vzm0v",
+      "slug": "real-madrid-vs-sevilla-fc-4jwq2ghnj1vzm0v",
       "competition": "Spanish La Liga",
-      "home": "Malaga",
-      "away": "Real Sociedad",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzljN2M2OGVlMGNhZDQ3YmU2OWE5ZDU3ZTQzMjYxNDg0LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzU3OWRiNmU5NTkwNTU0NTk3MzAzNWU2ZWFiOGRmMmNkLnBuZw==",
+      "home": "Real Madrid",
+      "away": "Sevilla FC",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzdkYWNhYTkzNGZlNGJlMDBmMjNjMWUyMDliNWVmOTQ3LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2QyMGVkMWRhNGYyOTljYzNlZjBlMWU5ZWIwNmVjZWQxLnBuZw==",
       "home_score": 0,
-      "away_score": 1,
-      "status": "First Half",
-      "time_label": "18 Oct 2026 • 23:30 WIB",
-      "match_time": 1792326600,
-      "match_date": "2026-10-18",
-      "is_live": true,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "19 Oct 2026 • 02:00 WIB",
+      "match_time": 1792335600,
+      "match_date": "2026-10-19",
+      "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGxUCm5mjbDJac/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGxUCm5mjbDJac/playlist.m3u8"
+        "sd": "",
+        "hd": ""
       },
-      "match_url": "https://kickofftv.id/match/malaga-vs-real-sociedad-23xmvkh6jxdwqg8"
+      "match_url": "https://kickofftv.id/match/real-madrid-vs-sevilla-fc-4jwq2ghnj1vzm0v"
+    },
+    {
+      "id": "pxwrxlhywg07ryk",
+      "slug": "monza-vs-cagliari-pxwrxlhywg07ryk",
+      "competition": "Italian Serie A",
+      "home": "Monza",
+      "away": "Cagliari",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzE4Y2NhYjcyMGNmZGE2YmUwYzM5ZmVmNTc5YzEzYzVhLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2RiYTY1YzE4NGUwM2M4NjBlZDkxOWNlMTkyYjg2YzVlLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "19 Oct 2026 • 23:30 WIB",
+      "match_time": 1792413000,
+      "match_date": "2026-10-19",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/monza-vs-cagliari-pxwrxlhywg07ryk"
     }
   ]
 }
