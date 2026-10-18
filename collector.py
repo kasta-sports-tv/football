@@ -5,7 +5,7 @@ import time
 from datetime import datetime, timezone
 from http.cookiejar import MozillaCookieJar
 from pathlib import Path
-from urllib.parse import urljoin, unquote, urlparse
+from urllib.parse import urljoin, unquote, urlparse, parse_qs
 from zoneinfo import ZoneInfo
 
 import requests
@@ -149,9 +149,18 @@ def absolute_url(value):
 def clean_stream_url(raw_value):
     if not raw_value:
         return ""
+    
     value = unquote(str(raw_value).strip())
 
-    # Перевіряємо, чи є вкладений параметром url= потік m3u8 (наприклад, /player?url=...)
+    # Якщо посилання містить шлях до плеєра з параметром url=, витягуємо чистий .m3u8 звідти
+    parsed_url = urlparse(value)
+    query_params = parse_qs(parsed_url.query)
+    if "url" in query_params:
+        inner_url = query_params["url"][0]
+        if ".m3u8" in inner_url.lower():
+            return absolute_url(inner_url)
+
+    # Альтернативний регекс для пошуку вкладеного url=
     nested = re.search(
         r"""(?:[?&]|^)url=(https?[^&"'<> ]+\.m3u8(?:\?[^&"'<> ]*)?)""",
         value,
@@ -192,7 +201,7 @@ def parse_streams(html):
 
     direct_pattern = r"""https?://[^"'\\\s<>]+?\.m3u8(?:\?[^"'\\\s<>]*)?"""
     for match in re.finditer(direct_pattern, html, re.IGNORECASE):
-        stream = absolute_url(match.group(0))
+        stream = clean_stream_url(match.group(0))
         if not stream:
             continue
 
@@ -237,7 +246,7 @@ def get_match_time(match):
         number = int(value)
         if number > 10_000_000_000:
             number //= 1000
-        # Коригування зсуву часу на 4 години назад для київського часу
+        # WIB (UTC+7) переводимо у Київський час (UTC+3 у жовтні) -> різниця 4 години назад
         number -= 4 * 3600
         return number
     except (TypeError, ValueError):
@@ -310,8 +319,8 @@ def main():
         if not isinstance(streams, dict):
             streams = {}
 
-        sd = streams.get("sd", "") or ""
-        hd = streams.get("hd", "") or ""
+        sd = clean_stream_url(streams.get("sd", ""))
+        hd = clean_stream_url(streams.get("hd", ""))
 
         match_time = get_match_time(match)
         is_live = bool(match.get("is_live"))
@@ -344,10 +353,10 @@ def main():
             checked[match_id] = now
 
             if new_streams.get("sd"):
-                sd = new_streams["sd"]
+                sd = clean_stream_url(new_streams["sd"])
 
             if new_streams.get("hd"):
-                hd = new_streams["hd"]
+                hd = clean_stream_url(new_streams["hd"])
 
             if sd or hd:
                 saved_streams[match_id] = {
