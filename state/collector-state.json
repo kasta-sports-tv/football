@@ -568,7 +568,7 @@
     "jw2r09hkdvwgrz8": 1792328333,
     "pxwrxlhywoz6ryk": 1792328333,
     "8yomo4h1o5y6q0j": 1792328333,
-    "pxwrxlhyov91ryk": 1792328333,
+    "pxwrxlhyov91ryk": 1792333327,
     "1l4rjnh9p0eem7v": 1792328333,
     "x7lm7phje5x1m2w": 1792328333,
     "dj2ryohl3ko4q1z": 1792328333,
@@ -604,6 +604,11 @@
       "sd": "https://kickofftv.id/player?url=https://apxvf0ws91.yarncdn.live/live/sd-6MweaDgkUNpDK1cxi4/playlist.m3u8",
       "hd": "https://kickofftv.id/player?url=https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaDgkUNpDK1cxi4/playlist.m3u8",
       "slug": "bayer-04-leverkusen-vs-sc-freiburg-8yomo4h1o5y6q0j"
+    },
+    "pxwrxlhyov91ryk": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGxUCXttWiFofE/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGxUCXttWiFofE/playlist.m3u8",
+      "slug": "rc-celta-vs-deportivo-alav-s-pxwrxlhyov91ryk"
     }
   }
 }
