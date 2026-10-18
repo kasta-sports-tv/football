@@ -86,7 +86,6 @@ def setup_cookies():
         )
 
     except Exception as exc:
-        # Не виводимо вміст секрету або cookie.
         print("[COOKIE] Netscape parsing failed:", type(exc).__name__)
         print("[COOKIE] Check the KOTV_COOKIES secret format.")
 
@@ -191,25 +190,55 @@ def fetch_match_streams(slug):
             response.headers.get("Content-Type", ""),
         )
 
+        sent_cookie = bool(response.request.headers.get("Cookie"))
+        print("[DEBUG] Cookie header sent:", sent_cookie)
+        print(
+            "[DEBUG] PHPSESSID in session:",
+            any(c.name == "PHPSESSID" for c in session.cookies),
+        )
+        print("[DEBUG] Redirect count:", len(response.history))
+
         response.raise_for_status()
         html = response.text
         lower = html.lower()
 
         print("[DEBUG] HTML length:", len(html))
-        print("[DEBUG] SD marker:", "data-player-url-sd" in lower)
-        print("[DEBUG] HD marker:", "data-player-url-hd" in lower)
-        print("[DEBUG] Player URL marker:", "data-player-url=" in lower)
-        print("[DEBUG] M3U8 marker:", ".m3u8" in lower)
-
-        login_markers = (
-            'type="password"',
-            "sign in",
-            "log in",
-            "login",
+        print(
+            "[DEBUG] SD attribute present:",
+            bool(re.search(r"data-player-url-sd\s*=", html, re.I)),
         )
         print(
-            "[DEBUG] Possible login page:",
-            any(marker in lower for marker in login_markers),
+            "[DEBUG] SD attribute filled:",
+            bool(re.search(
+                r"""data-player-url-sd\s*=\s*["'][^"']+""",
+                html, re.I
+            )),
+        )
+        print(
+            "[DEBUG] HD attribute filled:",
+            bool(re.search(
+                r"""data-player-url-hd\s*=\s*["'][^"']+""",
+                html, re.I
+            )),
+        )
+        print(
+            "[DEBUG] Player URL attribute present:",
+            bool(re.search(r"data-player-url\s*=", html, re.I)),
+        )
+        print("[DEBUG] M3U8 marker:", ".m3u8" in lower)
+        print(
+            "[DEBUG] Password input present:",
+            bool(re.search(
+                r"""<input\b[^>]*type\s*=\s*["']password["']""",
+                html, re.I
+            )),
+        )
+        print(
+            "[DEBUG] Login-related text:",
+            bool(re.search(
+                r"please\s+log\s+in|sign\s+in\s+to|login\s+to",
+                html, re.I
+            )),
         )
 
         streams = parse_streams(html)
@@ -250,11 +279,7 @@ def main():
     try:
         payload = fetch_json(livescore_url)
     except Exception as exc:
-        print(
-            "Could not fetch LiveScore:",
-            type(exc).__name__,
-            str(exc),
-        )
+        print("Could not fetch LiveScore:", type(exc).__name__, str(exc))
         raise
 
     matches = payload.get("matches", [])
