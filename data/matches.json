@@ -1,30 +1,8 @@
 {
-  "updated_at": "2026-10-18T11:09:12.053829+00:00",
+  "updated_at": "2026-10-18T12:39:44.053326+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 12,
+  "matches_count": 11,
   "matches": [
-    {
-      "id": "l7oqdehgzn94r51",
-      "slug": "udinese-vs-lecce-l7oqdehgzn94r51",
-      "competition": "Italian Serie A",
-      "home": "Udinese",
-      "away": "Lecce",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2M3MTQwZWZlMDZkOTM2NDJmY2M5ODA1MDc3YzQ5YWE1LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzZiYzM0OTZiZjM0YTZjODAzYjg3NGU2NTJlNmFjZWY1LnBuZw==",
-      "home_score": 0,
-      "away_score": 1,
-      "status": "First Half",
-      "time_label": "18 Oct 2026 • 17:30 WIB",
-      "match_time": 1792319400,
-      "match_date": "2026-10-18",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/udinese-vs-lecce-l7oqdehgzn94r51"
-    },
     {
       "id": "1l4rjnh90ezlm7v",
       "slug": "ca-osasuna-vs-racing-santander-1l4rjnh90ezlm7v",
@@ -33,13 +11,13 @@
       "away": "Racing Santander",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2MyMDUwYjk0MDA3NmRmNzBiMmFkMGE2MTAzYzUwZGY0LnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzhkYjcyNjBhMThiMWJlNjhlODcxMGNmZGJmNmJlM2RmLnBuZw==",
-      "home_score": 0,
+      "home_score": 1,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "First Half",
       "time_label": "18 Oct 2026 • 19:00 WIB",
       "match_time": 1792324800,
       "match_date": "2026-10-18",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
         "sd": "",
