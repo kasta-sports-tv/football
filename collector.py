@@ -23,6 +23,9 @@ ALLOWED_COMPETITIONS = {
     "Spanish La Liga",
     "Italian Serie A",
     "Bundesliga",
+    "French Ligue 1",
+    "Ukrainian Premier League",
+    "Ukrainian First League",
 }
 
 session = requests.Session()
