@@ -576,7 +576,10 @@
     "318q66hxdop9qo9": 1792346467,
     "4jwq2ghnj1vzm0v": 1792346467,
     "2y8m4zh595wdql0": 1792398962,
-    "pxwrxlhywg07ryk": 1792427172
+    "pxwrxlhywg07ryk": 1792427172,
+    "n54qllhny2g6qvy": 1792429649,
+    "jw2r09hkdv1grz8": 1792429649,
+    "y0or5jh8k1e1qwz": 1792429649
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -653,6 +656,21 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jZkEVUS1btLWk/playlist.m3u8",
       "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jZkEVUS1btLWk/playlist.m3u8",
       "slug": "monza-vs-cagliari-pxwrxlhywg07ryk"
+    },
+    "n54qllhny2g6qvy": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jaUigivnYpcmv/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jaUigivnYpcmv/playlist.m3u8",
+      "slug": "parma-vs-torino-n54qllhny2g6qvy"
+    },
+    "jw2r09hkdv1grz8": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQiJUX7BA3oiJt/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQiJUX7BA3oiJt/playlist.m3u8",
+      "slug": "tottenham-hotspur-vs-coventry-city-jw2r09hkdv1grz8"
+    },
+    "y0or5jh8k1e1qwz": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGxUCggozdZUGp/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGxUCggozdZUGp/playlist.m3u8",
+      "slug": "getafe-vs-rayo-vallecano-y0or5jh8k1e1qwz"
     }
   }
 }

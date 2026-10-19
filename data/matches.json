@@ -1,29 +1,73 @@
 {
-  "updated_at": "2026-10-19T16:27:59.594575+00:00",
+  "updated_at": "2026-10-19T17:07:33.326373+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 1,
+  "matches_count": 3,
   "matches": [
     {
-      "id": "pxwrxlhywg07ryk",
-      "slug": "monza-vs-cagliari-pxwrxlhywg07ryk",
+      "id": "n54qllhny2g6qvy",
+      "slug": "parma-vs-torino-n54qllhny2g6qvy",
       "competition": "Italian Serie A",
-      "home": "Monza",
-      "away": "Cagliari",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzE4Y2NhYjcyMGNmZGE2YmUwYzM5ZmVmNTc5YzEzYzVhLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2RiYTY1YzE4NGUwM2M4NjBlZDkxOWNlMTkyYjg2YzVlLnBuZw==",
+      "home": "Parma",
+      "away": "Torino",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzlmYWRkODdkMTkwOTgyYzgwODJkZGRmMTU2N2UwYjliLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2YwODU2YzFiMTZjMzIyNDVhOGQyYzcwMmZmZTg5YWM1LnBuZw==",
       "home_score": 0,
       "away_score": 0,
       "status": "Not Started",
-      "time_label": "19 Oct 2026 • 23:30 WIB",
-      "match_time": 1792427400,
-      "match_date": "2026-10-19",
+      "time_label": "20 Oct 2026 • 01:45 WIB",
+      "match_time": 1792435500,
+      "match_date": "2026-10-20",
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jZkEVUS1btLWk/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jZkEVUS1btLWk/playlist.m3u8"
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jaUigivnYpcmv/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jaUigivnYpcmv/playlist.m3u8"
       },
-      "match_url": "https://kickofftv.id/match/monza-vs-cagliari-pxwrxlhywg07ryk"
+      "match_url": "https://kickofftv.id/match/parma-vs-torino-n54qllhny2g6qvy"
+    },
+    {
+      "id": "jw2r09hkdv1grz8",
+      "slug": "tottenham-hotspur-vs-coventry-city-jw2r09hkdv1grz8",
+      "competition": "English Premier League",
+      "home": "Tottenham Hotspur",
+      "away": "Coventry City",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzhiMjJhYjQwNDFlNjY2Yjk5NmEyZDk2ZjIwZGVhNzA3LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzc1OWYxOWNjYWVjYWRkMzNhNWMwOWI1MzVlNTQzNDEwLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "20 Oct 2026 • 02:00 WIB",
+      "match_time": 1792436400,
+      "match_date": "2026-10-20",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQiJUX7BA3oiJt/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQiJUX7BA3oiJt/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/tottenham-hotspur-vs-coventry-city-jw2r09hkdv1grz8"
+    },
+    {
+      "id": "y0or5jh8k1e1qwz",
+      "slug": "getafe-vs-rayo-vallecano-y0or5jh8k1e1qwz",
+      "competition": "Spanish La Liga",
+      "home": "Getafe",
+      "away": "Rayo Vallecano",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzM2YmY1YmYwYzhmZGYwOGMxMjcwMTI0ODA4ZjA2MGUxLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzUwMDVkOGZlYWIxMDljZTY0ZTQwYmViOTgwNzNjYzFmLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "20 Oct 2026 • 02:00 WIB",
+      "match_time": 1792436400,
+      "match_date": "2026-10-20",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGxUCggozdZUGp/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGxUCggozdZUGp/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/getafe-vs-rayo-vallecano-y0or5jh8k1e1qwz"
     }
   ]
 }
