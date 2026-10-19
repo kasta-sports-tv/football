@@ -1,73 +1,51 @@
 {
-  "updated_at": "2026-10-19T17:07:33.326373+00:00",
+  "updated_at": "2026-10-19T21:12:09.133216+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 3,
+  "matches_count": 2,
   "matches": [
     {
-      "id": "n54qllhny2g6qvy",
-      "slug": "parma-vs-torino-n54qllhny2g6qvy",
-      "competition": "Italian Serie A",
-      "home": "Parma",
-      "away": "Torino",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzlmYWRkODdkMTkwOTgyYzgwODJkZGRmMTU2N2UwYjliLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2YwODU2YzFiMTZjMzIyNDVhOGQyYzcwMmZmZTg5YWM1LnBuZw==",
+      "id": "3glrw7hnx23jqdy",
+      "slug": "fenerbahce-vs-sk-slavia-praha-3glrw7hnx23jqdy",
+      "competition": "UEFA Champions League",
+      "home": "Fenerbahce",
+      "away": "SK Slavia Praha",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2RmZjAwZjFmZDRhN2RkMmZlYWMwMDBiNDYyNDE2ODY3LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzIwODBlZGUyYzVkMDk2MzhhNzE4ODkxM2M4MTA3NWVmLnBuZw==",
       "home_score": 0,
       "away_score": 0,
       "status": "Not Started",
-      "time_label": "20 Oct 2026 • 01:45 WIB",
-      "match_time": 1792435500,
+      "time_label": "20 Oct 2026 • 23:45 WIB",
+      "match_time": 1792514700,
       "match_date": "2026-10-20",
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jaUigivnYpcmv/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jaUigivnYpcmv/playlist.m3u8"
+        "sd": "",
+        "hd": ""
       },
-      "match_url": "https://kickofftv.id/match/parma-vs-torino-n54qllhny2g6qvy"
+      "match_url": "https://kickofftv.id/match/fenerbahce-vs-sk-slavia-praha-3glrw7hnx23jqdy"
     },
     {
-      "id": "jw2r09hkdv1grz8",
-      "slug": "tottenham-hotspur-vs-coventry-city-jw2r09hkdv1grz8",
-      "competition": "English Premier League",
-      "home": "Tottenham Hotspur",
-      "away": "Coventry City",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzhiMjJhYjQwNDFlNjY2Yjk5NmEyZDk2ZjIwZGVhNzA3LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzc1OWYxOWNjYWVjYWRkMzNhNWMwOWI1MzVlNTQzNDEwLnBuZw==",
+      "id": "jw2r09hkeykzrz8",
+      "slug": "sabah-baku-vs-borussia-dortmund-jw2r09hkeykzrz8",
+      "competition": "UEFA Champions League",
+      "home": "Sabah Baku",
+      "away": "Borussia Dortmund",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzMzMzNlN2E0NzZiMmI3ZTA1NTVjMGM3NjA3ZDFhMTBlLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2JiZmFjYmRiZTY3NzA1MTcyYzY0MTRkN2U5YzIxYjU4LnBuZw==",
       "home_score": 0,
       "away_score": 0,
       "status": "Not Started",
-      "time_label": "20 Oct 2026 • 02:00 WIB",
-      "match_time": 1792436400,
+      "time_label": "20 Oct 2026 • 23:45 WIB",
+      "match_time": 1792514700,
       "match_date": "2026-10-20",
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQiJUX7BA3oiJt/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQiJUX7BA3oiJt/playlist.m3u8"
+        "sd": "",
+        "hd": ""
       },
-      "match_url": "https://kickofftv.id/match/tottenham-hotspur-vs-coventry-city-jw2r09hkdv1grz8"
-    },
-    {
-      "id": "y0or5jh8k1e1qwz",
-      "slug": "getafe-vs-rayo-vallecano-y0or5jh8k1e1qwz",
-      "competition": "Spanish La Liga",
-      "home": "Getafe",
-      "away": "Rayo Vallecano",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzM2YmY1YmYwYzhmZGYwOGMxMjcwMTI0ODA4ZjA2MGUxLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzUwMDVkOGZlYWIxMDljZTY0ZTQwYmViOTgwNzNjYzFmLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "20 Oct 2026 • 02:00 WIB",
-      "match_time": 1792436400,
-      "match_date": "2026-10-20",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGxUCggozdZUGp/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGxUCggozdZUGp/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/getafe-vs-rayo-vallecano-y0or5jh8k1e1qwz"
+      "match_url": "https://kickofftv.id/match/sabah-baku-vs-borussia-dortmund-jw2r09hkeykzrz8"
     }
   ]
 }
