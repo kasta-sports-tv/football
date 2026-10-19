@@ -26,6 +26,7 @@ ALLOWED_COMPETITIONS = {
     "French Ligue 1",
     "Ukrainian Premier League",
     "Ukrainian First League",
+    "UEFA Champions League",
 }
 
 session = requests.Session()
