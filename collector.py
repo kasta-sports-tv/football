@@ -2,7 +2,7 @@ import json
 import os
 import re
 import time
-from datetime import datetime, timezone, timedelta
+from datetime import datetime, timezone
 from http.cookiejar import MozillaCookieJar
 from pathlib import Path
 from urllib.parse import urljoin, unquote, urlparse, parse_qs
@@ -247,7 +247,6 @@ def get_match_time(match):
         number = int(value)
         if number > 10_000_000_000:
             number //= 1000
-        # Залишаємо оригінальний час джерела без змін часових поясів
         return number
     except (TypeError, ValueError):
         return None
@@ -257,26 +256,16 @@ def main():
     setup_cookies()
 
     now = int(time.time())
-    today_date = datetime.now(LOCAL_TZ).date()
-    tomorrow_date = today_date + timedelta(days=1)
-    
-    matches = []
-    seen_ids = set()
+    livescore_url = f"{BASE}/livescore/?ajax=1"
 
-    # Збираємо розклад на сьогодні та завтра
-    for target_date in [today_date, tomorrow_date]:
-        livescore_url = f"{BASE}/livescore/?ajax=1&day={target_date.isoformat()}"
-        try:
-            payload = fetch_json(livescore_url)
-            day_matches = payload.get("matches", [])
-            if isinstance(day_matches, list):
-                for m in day_matches:
-                    m_id = str(m.get("id") or m.get("slug") or "")
-                    if m_id and m_id not in seen_ids:
-                        seen_ids.add(m_id)
-                        matches.append(m)
-        except Exception as exc:
-            print(f"Could not fetch LiveScore for {target_date}:", type(exc).__name__, str(exc))
+    try:
+        payload = fetch_json(livescore_url)
+        matches = payload.get("matches", [])
+        if not isinstance(matches, list):
+            matches = []
+    except Exception as exc:
+        print("Could not fetch LiveScore:", type(exc).__name__, str(exc))
+        raise
 
     if not matches:
         print("Warning: No matches fetched from LiveScore.")
@@ -333,6 +322,7 @@ def main():
         match_time = get_match_time(match)
         is_live = bool(match.get("is_live"))
 
+        # Скануємо .m3u8 лише для активних або найближчих матчів
         eligible = is_live or (
             match_time is not None
             and now - 30 * 60 <= match_time <= now + 6 * 60 * 60
@@ -417,10 +407,9 @@ def main():
 
     print()
     print("========== SUMMARY ==========")
-    print("Kyiv local dates:", today_date, "and", tomorrow_date)
     print("LiveScore records fetched:", len(matches))
     print("Matches excluded by competition filter:", excluded)
-    print("Matches included:", len(output))
+    print("Matches included in JSON:", len(output))
     print("Pages scanned this run:", scanned)
     print("Matches skipped (already have streams):", skipped)
     print("Matches waiting for retry:", retry_wait)
