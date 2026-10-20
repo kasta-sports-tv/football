@@ -268,6 +268,26 @@ def main():
         print("Could not fetch LiveScore:", type(exc).__name__, str(exc))
         raise
 
+    # Захист від зникнення активних матчів: підтягуємо ще й попередні не завершені матчі з існуючого matches.json
+    existing_data = load_json(DATA_PATH, {"matches": []})
+    existing_matches_map = {
+        str(m.get("id") or m.get("slug")): m 
+        for m in existing_data.get("matches", []) 
+        if isinstance(m, dict)
+    }
+
+    fresh_ids = {str(m.get("id") or m.get("slug")) for m in matches if isinstance(m, dict)}
+
+    # Додаємо назад у список свіжих ті матчі, які були раніше, але ще не завершилися
+    for m_id, old_match in existing_matches_map.items():
+        if m_id and m_id not in fresh_ids:
+            status_lower = str(old_match.get("status", "")).lower()
+            is_finished = bool(old_match.get("is_finished")) or (
+                status_lower in {"finished", "cancelled", "canceled", "ft", "full time", "final", "ended"}
+            )
+            if not is_finished:
+                matches.append(old_match)
+
     if not matches:
         print("Warning: No matches fetched from LiveScore.")
 
