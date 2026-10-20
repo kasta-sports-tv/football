@@ -1,96 +1,8 @@
 {
-  "updated_at": "2026-10-20T19:09:08.125943+00:00",
+  "updated_at": "2026-10-20T20:59:33.257487+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 9,
+  "matches_count": 4,
   "matches": [
-    {
-      "id": "4jwq2ghn8yp1m0v",
-      "slug": "as-roma-vs-slovan-bratislava-4jwq2ghn8yp1m0v",
-      "competition": "UEFA Champions League",
-      "home": "AS Roma",
-      "away": "Slovan Bratislava",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzdhMTkyNjg2ZDMwYzFhZDAzMWQyZmI2MDVlYWYyZjJhLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzhlMjIwYTc0NzkxYmU5ZTBlYjEzNTA3ZjBjZTQ0NGRiLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "First Half",
-      "time_label": "21 Oct 2026 • 02:00 WIB",
-      "match_time": 1792522800,
-      "match_date": "2026-10-21",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xWgBWDq8eiaec/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xWgBWDq8eiaec/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/as-roma-vs-slovan-bratislava-4jwq2ghn8yp1m0v"
-    },
-    {
-      "id": "pxwrxlhy683kryk",
-      "slug": "fc-porto-vs-psv-eindhoven-pxwrxlhy683kryk",
-      "competition": "UEFA Champions League",
-      "home": "FC Porto",
-      "away": "PSV Eindhoven",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzgzYWE4MjZlM2M0NWQ1MDQ3YThjOTE3ZmIwYjQxYTVlLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2NhZDVhZjRkMWZmMGU2ZjMxMTlhZjNkMjczZDk1ZDMxLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "First Half",
-      "time_label": "21 Oct 2026 • 02:00 WIB",
-      "match_time": 1792522800,
-      "match_date": "2026-10-21",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXSfvZ6F2SaMW/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXSfvZ6F2SaMW/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/fc-porto-vs-psv-eindhoven-pxwrxlhy683kryk"
-    },
-    {
-      "id": "y0or5jh8vyn1qwz",
-      "slug": "liverpool-vs-villarreal-cf-y0or5jh8vyn1qwz",
-      "competition": "UEFA Champions League",
-      "home": "Liverpool",
-      "away": "Villarreal CF",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzFjYjNkMDhhZGFjMGUyZGMxYzRmMTA0MjlkMDU1YmZlLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2FlZTYyYWY5NmE5NTY3NTZjYzI5ZmU0ODMxMjg2MzU3LnBuZw==",
-      "home_score": 0,
-      "away_score": 1,
-      "status": "First Half",
-      "time_label": "21 Oct 2026 • 02:00 WIB",
-      "match_time": 1792522800,
-      "match_date": "2026-10-21",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXRWCqPwh7uFN/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXRWCqPwh7uFN/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/liverpool-vs-villarreal-cf-y0or5jh8vyn1qwz"
-    },
-    {
-      "id": "4jwq2ghn8yezm0v",
-      "slug": "manchester-city-vs-aek-athens-4jwq2ghn8yezm0v",
-      "competition": "UEFA Champions League",
-      "home": "Manchester City",
-      "away": "AEK Athens",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2M0YTY1MjhhMmVlMTQ3Yjk5Yzk4ODVlZjI0Mzg1YTRlLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzEyZGNjNjliZWY2N2FhMmE5MzEwN2U5NDBlZTg5MTQ0LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "First Half",
-      "time_label": "21 Oct 2026 • 02:00 WIB",
-      "match_time": 1792522800,
-      "match_date": "2026-10-21",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXRViG9dTNzFi/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXRViG9dTNzFi/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/manchester-city-vs-aek-athens-4jwq2ghn8yezm0v"
-    },
     {
       "id": "4wyrn4h6jpxnq86",
       "slug": "napoli-vs-fk-bodo-glimt-4wyrn4h6jpxnq86",
@@ -99,9 +11,9 @@
       "away": "FK Bodo/Glimt",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzM3ZWQxM2QyN2VkY2NkMzBlMDUzMTY3OTYyYzAyYjNhLnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzk4ODU0YWI5N2VhZGYzZDJjN2M2ZDY1N2FkOTlkZjk2LnBuZw==",
-      "home_score": 1,
-      "away_score": 0,
-      "status": "First Half",
+      "home_score": 4,
+      "away_score": 3,
+      "status": "Second Half",
       "time_label": "21 Oct 2026 • 02:00 WIB",
       "match_time": 1792522800,
       "match_date": "2026-10-21",
@@ -121,9 +33,9 @@
       "away": "FC Barcelona",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzNiNzIwZjE4MWNlOTk5M2Y5NDIyZDI3NmFjZjdiMjkyLnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2YzNzhlYjFlYTA0ZTUzOTk5Yjg5MDUxYWEzMjQ0ZGU2LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "First Half",
+      "home_score": 4,
+      "away_score": 2,
+      "status": "Second Half",
       "time_label": "21 Oct 2026 • 02:00 WIB",
       "match_time": 1792522800,
       "match_date": "2026-10-21",
@@ -134,28 +46,6 @@
         "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXRzrUfvPgjDA/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/paris-saint-germain-vs-fc-barcelona-jw2r09hkey2zrz8"
-    },
-    {
-      "id": "dj2ryohlw67wq1z",
-      "slug": "vfb-stuttgart-vs-atletico-madrid-dj2ryohlw67wq1z",
-      "competition": "UEFA Champions League",
-      "home": "VfB Stuttgart",
-      "away": "Atletico Madrid",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2JmZGQ1MDA0ODQzMzBkNjNhNzIzY2JjMzk2ZGY3NjJjLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzM5MDk3N2IwNDIxYmNlMTM2YzU2MjA1N2VhMTcxZWNmLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "First Half",
-      "time_label": "21 Oct 2026 • 02:00 WIB",
-      "match_time": 1792522800,
-      "match_date": "2026-10-21",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xYAz5MFNqSzy6/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xYAz5MFNqSzy6/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/vfb-stuttgart-vs-atletico-madrid-dj2ryohlw67wq1z"
     },
     {
       "id": "4wyrn4h6jpl6q86",
