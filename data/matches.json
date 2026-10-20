@@ -1,52 +1,8 @@
 {
-  "updated_at": "2026-10-20T20:59:33.257487+00:00",
+  "updated_at": "2026-10-20T22:18:12.015934+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 4,
+  "matches_count": 2,
   "matches": [
-    {
-      "id": "4wyrn4h6jpxnq86",
-      "slug": "napoli-vs-fk-bodo-glimt-4wyrn4h6jpxnq86",
-      "competition": "UEFA Champions League",
-      "home": "Napoli",
-      "away": "FK Bodo/Glimt",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzM3ZWQxM2QyN2VkY2NkMzBlMDUzMTY3OTYyYzAyYjNhLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzk4ODU0YWI5N2VhZGYzZDJjN2M2ZDY1N2FkOTlkZjk2LnBuZw==",
-      "home_score": 4,
-      "away_score": 3,
-      "status": "Second Half",
-      "time_label": "21 Oct 2026 • 02:00 WIB",
-      "match_time": 1792522800,
-      "match_date": "2026-10-21",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXS1PFQ77FZMi/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXS1PFQ77FZMi/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/napoli-vs-fk-bodo-glimt-4wyrn4h6jpxnq86"
-    },
-    {
-      "id": "jw2r09hkey2zrz8",
-      "slug": "paris-saint-germain-vs-fc-barcelona-jw2r09hkey2zrz8",
-      "competition": "UEFA Champions League",
-      "home": "Paris Saint Germain",
-      "away": "FC Barcelona",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzNiNzIwZjE4MWNlOTk5M2Y5NDIyZDI3NmFjZjdiMjkyLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2YzNzhlYjFlYTA0ZTUzOTk5Yjg5MDUxYWEzMjQ0ZGU2LnBuZw==",
-      "home_score": 4,
-      "away_score": 2,
-      "status": "Second Half",
-      "time_label": "21 Oct 2026 • 02:00 WIB",
-      "match_time": 1792522800,
-      "match_date": "2026-10-21",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXRzrUfvPgjDA/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXRzrUfvPgjDA/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/paris-saint-germain-vs-fc-barcelona-jw2r09hkey2zrz8"
-    },
     {
       "id": "4wyrn4h6jpl6q86",
       "slug": "como-vs-manchester-united-4wyrn4h6jpl6q86",
