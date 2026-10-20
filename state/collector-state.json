@@ -582,13 +582,13 @@
     "y0or5jh8k1e1qwz": 1792429649,
     "3glrw7hnx23jqdy": 1792508342,
     "jw2r09hkeykzrz8": 1792508342,
-    "4jwq2ghn8yp1m0v": 1792516301,
-    "pxwrxlhy683kryk": 1792516301,
-    "y0or5jh8vyn1qwz": 1792516301,
-    "4jwq2ghn8yezm0v": 1792516301,
-    "4wyrn4h6jpxnq86": 1792516301,
-    "jw2r09hkey2zrz8": 1792516301,
-    "dj2ryohlw67wq1z": 1792516301
+    "4jwq2ghn8yp1m0v": 1792519048,
+    "pxwrxlhy683kryk": 1792519048,
+    "y0or5jh8vyn1qwz": 1792519048,
+    "4jwq2ghn8yezm0v": 1792519048,
+    "4wyrn4h6jpxnq86": 1792519048,
+    "jw2r09hkey2zrz8": 1792519048,
+    "dj2ryohlw67wq1z": 1792519048
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -680,6 +680,41 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGxUCggozdZUGp/playlist.m3u8",
       "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGxUCggozdZUGp/playlist.m3u8",
       "slug": "getafe-vs-rayo-vallecano-y0or5jh8k1e1qwz"
+    },
+    "4jwq2ghn8yp1m0v": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xWgBWDq8eiaec/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xWgBWDq8eiaec/playlist.m3u8",
+      "slug": "as-roma-vs-slovan-bratislava-4jwq2ghn8yp1m0v"
+    },
+    "pxwrxlhy683kryk": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXSfvZ6F2SaMW/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXSfvZ6F2SaMW/playlist.m3u8",
+      "slug": "fc-porto-vs-psv-eindhoven-pxwrxlhy683kryk"
+    },
+    "y0or5jh8vyn1qwz": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXRWCqPwh7uFN/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXRWCqPwh7uFN/playlist.m3u8",
+      "slug": "liverpool-vs-villarreal-cf-y0or5jh8vyn1qwz"
+    },
+    "4jwq2ghn8yezm0v": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXRViG9dTNzFi/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXRViG9dTNzFi/playlist.m3u8",
+      "slug": "manchester-city-vs-aek-athens-4jwq2ghn8yezm0v"
+    },
+    "4wyrn4h6jpxnq86": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXS1PFQ77FZMi/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXS1PFQ77FZMi/playlist.m3u8",
+      "slug": "napoli-vs-fk-bodo-glimt-4wyrn4h6jpxnq86"
+    },
+    "jw2r09hkey2zrz8": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXRzrUfvPgjDA/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXRzrUfvPgjDA/playlist.m3u8",
+      "slug": "paris-saint-germain-vs-fc-barcelona-jw2r09hkey2zrz8"
+    },
+    "dj2ryohlw67wq1z": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xYAz5MFNqSzy6/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xYAz5MFNqSzy6/playlist.m3u8",
+      "slug": "vfb-stuttgart-vs-atletico-madrid-dj2ryohlw67wq1z"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T17:11:45.895365+00:00",
+  "updated_at": "2026-10-20T17:57:31.467044+00:00",
   "source": "https://kickofftv.id",
   "matches_count": 9,
   "matches": [
@@ -20,8 +20,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xWgBWDq8eiaec/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xWgBWDq8eiaec/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/as-roma-vs-slovan-bratislava-4jwq2ghn8yp1m0v"
     },
@@ -42,8 +42,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXSfvZ6F2SaMW/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXSfvZ6F2SaMW/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/fc-porto-vs-psv-eindhoven-pxwrxlhy683kryk"
     },
@@ -64,8 +64,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXRWCqPwh7uFN/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXRWCqPwh7uFN/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/liverpool-vs-villarreal-cf-y0or5jh8vyn1qwz"
     },
@@ -86,8 +86,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXRViG9dTNzFi/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXRViG9dTNzFi/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/manchester-city-vs-aek-athens-4jwq2ghn8yezm0v"
     },
@@ -108,8 +108,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXS1PFQ77FZMi/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXS1PFQ77FZMi/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/napoli-vs-fk-bodo-glimt-4wyrn4h6jpxnq86"
     },
@@ -130,8 +130,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXRzrUfvPgjDA/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXRzrUfvPgjDA/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/paris-saint-germain-vs-fc-barcelona-jw2r09hkey2zrz8"
     },
@@ -152,8 +152,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xYAz5MFNqSzy6/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xYAz5MFNqSzy6/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/vfb-stuttgart-vs-atletico-madrid-dj2ryohlw67wq1z"
     },
