@@ -588,7 +588,9 @@
     "4jwq2ghn8yezm0v": 1792519048,
     "4wyrn4h6jpxnq86": 1792519048,
     "jw2r09hkey2zrz8": 1792519048,
-    "dj2ryohlw67wq1z": 1792519048
+    "dj2ryohlw67wq1z": 1792519048,
+    "4wyrn4h6jpl6q86": 1792596594,
+    "pxwrxlhy6851ryk": 1792596594
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -715,6 +717,16 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xYAz5MFNqSzy6/playlist.m3u8",
       "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xYAz5MFNqSzy6/playlist.m3u8",
       "slug": "vfb-stuttgart-vs-atletico-madrid-dj2ryohlw67wq1z"
+    },
+    "4wyrn4h6jpl6q86": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXSAtw1ZXcark/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXSAtw1ZXcark/playlist.m3u8",
+      "slug": "como-vs-manchester-united-4wyrn4h6jpl6q86"
+    },
+    "pxwrxlhy6851ryk": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXRW43UTmpEdn/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXRW43UTmpEdn/playlist.m3u8",
+      "slug": "losc-lille-vs-galatasaray-pxwrxlhy6851ryk"
     }
   }
 }

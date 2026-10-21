@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T10:24:22.889041+00:00",
+  "updated_at": "2026-10-21T15:29:56.428198+00:00",
   "source": "https://kickofftv.id",
   "matches_count": 2,
   "matches": [
@@ -20,8 +20,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXSAtw1ZXcark/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXSAtw1ZXcark/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/como-vs-manchester-united-4wyrn4h6jpl6q86"
     },
@@ -42,8 +42,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXRW43UTmpEdn/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXRW43UTmpEdn/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/losc-lille-vs-galatasaray-pxwrxlhy6851ryk"
     }
