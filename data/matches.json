@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-21T15:29:56.428198+00:00",
+  "updated_at": "2026-10-21T17:11:09.971252+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 2,
+  "matches_count": 10,
   "matches": [
     {
       "id": "4wyrn4h6jpl6q86",
@@ -46,6 +46,182 @@
         "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXRW43UTmpEdn/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/losc-lille-vs-galatasaray-pxwrxlhy6851ryk"
+    },
+    {
+      "id": "k82rekhg41verep",
+      "slug": "levante-vs-athletic-club-k82rekhg41verep",
+      "competition": "Spanish La Liga",
+      "home": "Levante",
+      "away": "Athletic Club",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzEzZTIwMzhiZDIzYTM4Y2UzMmEzZWIyNTljOGJmN2Q4LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2FiYmIzMWQ0MmM1NTYxMjczNzcxM2FhYzY1NjdhMjI2LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "22 Oct 2026 • 01:00 WIB",
+      "match_time": 1792605600,
+      "match_date": "2026-10-22",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGxUsTBPMRhzBz/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGxUsTBPMRhzBz/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/levante-vs-athletic-club-k82rekhg41verep"
+    },
+    {
+      "id": "318q66hx9y26qo9",
+      "slug": "aston-villa-vs-viking-318q66hx9y26qo9",
+      "competition": "UEFA Champions League",
+      "home": "Aston Villa",
+      "away": "Viking",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2EzYzMyZDZhOTA2MDgzMTE4Y2FjMmNiNzk2ZWRhYWIzLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzJmYTA4NDBlMGNiNzdmZDY2ZjEwNGZhOTMyMzAyYTcyLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "22 Oct 2026 • 02:00 WIB",
+      "match_time": 1792609200,
+      "match_date": "2026-10-22",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xWgBcpGk6CL7J/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xWgBcpGk6CL7J/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/aston-villa-vs-viking-318q66hx9y26qo9"
+    },
+    {
+      "id": "318q66hx9yg6qo9",
+      "slug": "club-brugge-vs-rc-lens-318q66hx9yg6qo9",
+      "competition": "UEFA Champions League",
+      "home": "Club Brugge",
+      "away": "RC Lens",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzJlOWY2NTJkMjhlYzkxZTBiNjZjMGI3MTRiZmY4ZDc4LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2I4YzUwMzhlYmIwZTIxYjA5YTcyMDA4YjdjYjYyMTlmLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "22 Oct 2026 • 02:00 WIB",
+      "match_time": 1792609200,
+      "match_date": "2026-10-22",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXSApY3pZxkYx/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXSApY3pZxkYx/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/club-brugge-vs-rc-lens-318q66hx9yg6qo9"
+    },
+    {
+      "id": "6ypq3nhv2ye9md7",
+      "slug": "fc-bayern-munich-vs-arsenal-6ypq3nhv2ye9md7",
+      "competition": "UEFA Champions League",
+      "home": "FC Bayern Munich",
+      "away": "Arsenal",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2VmMTlhODRhNjc0NWZlNTdhYTc4Njg3M2QyYjE4ZThhLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Q2ZjVkZWJjNDU2ZGExMTE5MjU2YWI2NjQ2MmFiNTEwLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "22 Oct 2026 • 02:00 WIB",
+      "match_time": 1792609200,
+      "match_date": "2026-10-22",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xWg1xLjokXdzg/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xWg1xLjokXdzg/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/fc-bayern-munich-vs-arsenal-6ypq3nhv2ye9md7"
+    },
+    {
+      "id": "y39mp1h6xg0dmoj",
+      "slug": "inter-milan-vs-fc-shakhtar-donetsk-y39mp1h6xg0dmoj",
+      "competition": "UEFA Champions League",
+      "home": "Inter Milan",
+      "away": "FC Shakhtar Donetsk",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2FhMjI0NTcwMmM0MGY3Nzc5OWE1YWQ0YjExOTU4MWE4LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzE0MWJjZjZhYjZkMGJjN2I4YzY3ZGM1ZWViOWYzNDdkLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "22 Oct 2026 • 02:00 WIB",
+      "match_time": 1792609200,
+      "match_date": "2026-10-22",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXSVxViLrAZ1i/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXSVxViLrAZ1i/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/inter-milan-vs-fc-shakhtar-donetsk-y39mp1h6xg0dmoj"
+    },
+    {
+      "id": "n54qllhnlgzeqvy",
+      "slug": "real-betis-vs-feyenoord-n54qllhnlgzeqvy",
+      "competition": "UEFA Champions League",
+      "home": "Real Betis",
+      "away": "Feyenoord",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzAxOGUyNjBhZDY4YmRhZDc0MWM2MWUzMTcxYzRjNjA4LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzQ0MDczZjJkMmM5NzlhOTM4OGY5ODUwNWFjM2I3NTRkLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "22 Oct 2026 • 02:00 WIB",
+      "match_time": 1792609200,
+      "match_date": "2026-10-22",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXSLdoWEpw7HA/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXSLdoWEpw7HA/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/real-betis-vs-feyenoord-n54qllhnlgzeqvy"
+    },
+    {
+      "id": "1l4rjnh98o9lm7v",
+      "slug": "real-madrid-vs-rb-leipzig-1l4rjnh98o9lm7v",
+      "competition": "UEFA Champions League",
+      "home": "Real Madrid",
+      "away": "RB Leipzig",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzdkYWNhYTkzNGZlNGJlMDBmMjNjMWUyMDliNWVmOTQ3LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2MxNjZhMjIwYmYyMDk3N2RmMmJkODJmYzA2NzY5NmY1LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "22 Oct 2026 • 02:00 WIB",
+      "match_time": 1792609200,
+      "match_date": "2026-10-22",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXR12RPnGzF92/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXR12RPnGzF92/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/real-madrid-vs-rb-leipzig-1l4rjnh98o9lm7v"
+    },
+    {
+      "id": "y39mp1h6xgddmoj",
+      "slug": "sporting-cp-vs-lask-linz-y39mp1h6xgddmoj",
+      "competition": "UEFA Champions League",
+      "home": "Sporting CP",
+      "away": "LASK Linz",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzY0Njc2NGU2ZTJmZTRjYTc5NzBiOWViODdjOGI2NWFmLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzVkMzNmODMxZjc3OTQyODg1ODEzOGQyOGM5ZGQ0NDgwLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "22 Oct 2026 • 02:00 WIB",
+      "match_time": 1792609200,
+      "match_date": "2026-10-22",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xYAzNw6Lg4LCG/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xYAzNw6Lg4LCG/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/sporting-cp-vs-lask-linz-y39mp1h6xgddmoj"
     }
   ]
 }
