@@ -1,52 +1,8 @@
 {
-  "updated_at": "2026-10-22T05:57:00.009112+00:00",
+  "updated_at": "2026-10-22T10:26:07.089324+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 20,
+  "matches_count": 18,
   "matches": [
-    {
-      "id": "4wyrn4h6jpl6q86",
-      "slug": "como-vs-manchester-united-4wyrn4h6jpl6q86",
-      "competition": "UEFA Champions League",
-      "home": "Como",
-      "away": "Manchester United",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzVmNzA1OWY0MDk2NWU1YTJjYzAwOTg3ZTZiYWMyZjMyLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2QzOWNlNTg2ZmQ3Mjc4MzQyZGRlMzNiMzA5MGIzZjc1LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "21 Oct 2026 • 23:45 WIB",
-      "match_time": 1792601100,
-      "match_date": "2026-10-21",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXSAtw1ZXcark/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXSAtw1ZXcark/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/como-vs-manchester-united-4wyrn4h6jpl6q86"
-    },
-    {
-      "id": "pxwrxlhy6851ryk",
-      "slug": "losc-lille-vs-galatasaray-pxwrxlhy6851ryk",
-      "competition": "UEFA Champions League",
-      "home": "LOSC Lille",
-      "away": "Galatasaray",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzI4ZTk0OTI1ZmRjYzg0OGY4NmE1NDRhMWNlZGNjZWVkLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZiY2YwMDJjOGQ2ZGQzNDgxM2ZhMmIzYTRjYzliMDRjLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "21 Oct 2026 • 23:45 WIB",
-      "match_time": 1792601100,
-      "match_date": "2026-10-21",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXRW43UTmpEdn/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXRW43UTmpEdn/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/losc-lille-vs-galatasaray-pxwrxlhy6851ryk"
-    },
     {
       "id": "6ypq3nhv2xg8md7",
       "slug": "fc-kairat-almaty-vs-panathinaikos-6ypq3nhv2xg8md7",
