@@ -284,9 +284,13 @@ def main():
     for m_id, old_match in existing_matches_map.items():
         if m_id and m_id not in fresh_ids:
             status_lower = str(old_match.get("status", "")).lower()
+            m_time = get_match_time(old_match)
+            
+            # Перевірка: чи завершений за статусом або чи минуло більше 4 годин з часу початку матчу
             is_finished = bool(old_match.get("is_finished")) or (
                 status_lower in {"finished", "cancelled", "canceled", "ft", "full time", "final", "ended"}
-            )
+            ) or (m_time is not None and now > m_time + 4 * 3600)
+
             if not is_finished:
                 matches.append(old_match)
 
@@ -321,9 +325,12 @@ def main():
         status = str(match.get("status") or "").strip()
         status_lower = status.lower()
 
+        match_time = get_match_time(match)
+
+        # Автоматичне завершення: якщо статус говорить про кінець АБО минуло більше 4 годин з початку матчу
         is_finished = bool(match.get("is_finished")) or (
             status_lower in {"finished", "cancelled", "canceled", "ft", "full time", "final", "ended"}
-        )
+        ) or (match_time is not None and now > match_time + 4 * 3600)
 
         if is_finished:
             continue
@@ -342,7 +349,6 @@ def main():
         sd = clean_stream_url(streams.get("sd", ""))
         hd = clean_stream_url(streams.get("hd", ""))
 
-        match_time = get_match_time(match)
         is_live = bool(match.get("is_live"))
 
         # Скануємо .m3u8 лише для активних або найближчих матчів
