@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-21T22:42:11.728829+00:00",
+  "updated_at": "2026-10-22T00:57:15.608572+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 2,
+  "matches_count": 20,
   "matches": [
     {
       "id": "4wyrn4h6jpl6q86",
@@ -46,6 +46,402 @@
         "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXRW43UTmpEdn/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/losc-lille-vs-galatasaray-pxwrxlhy6851ryk"
+    },
+    {
+      "id": "6ypq3nhv2xg8md7",
+      "slug": "fc-kairat-almaty-vs-panathinaikos-6ypq3nhv2xg8md7",
+      "competition": "UEFA Europa Conference League",
+      "home": "FC Kairat Almaty",
+      "away": "Panathinaikos",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzNlZjA0OTEyZjg4YzMxNjZmMWE0Nzg2NGNkZTcxOTQ5LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2JkN2FhNWJlNGMyYzlhMmYyMGU2NTk3ZWUyYzE3MzhiLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "22 Oct 2026 • 21:30 WIB",
+      "match_time": 1792679400,
+      "match_date": "2026-10-22",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/fc-kairat-almaty-vs-panathinaikos-6ypq3nhv2xg8md7"
+    },
+    {
+      "id": "6ypq3nhv2x4nmd7",
+      "slug": "crvena-zvezda-vs-fc-copenhagen-6ypq3nhv2x4nmd7",
+      "competition": "UEFA Europa Conference League",
+      "home": "Crvena Zvezda",
+      "away": "FC Copenhagen",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzYxYTFmOTQwNmNkZTA5OGEyNjUyODBhMzY4M2RhOWI3LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzYyOWI2Zjk4M2QwY2EzYzMzZjJjNGI1MGIzNDQ5MzE0LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "22 Oct 2026 • 23:45 WIB",
+      "match_time": 1792687500,
+      "match_date": "2026-10-22",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/crvena-zvezda-vs-fc-copenhagen-6ypq3nhv2x4nmd7"
+    },
+    {
+      "id": "3glrw7hnxd3eqdy",
+      "slug": "fc-iberia-1999-tbilisi-vs-mjallby-aif-3glrw7hnxd3eqdy",
+      "competition": "UEFA Europa Conference League",
+      "home": "FC Iberia 1999 Tbilisi",
+      "away": "Mjallby AIF",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2U4MGQ0OWIxNmU4YTFlYTZiNmQzODY0M2UxZDQyOWIwLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzBmZmI3ZmZhYjdlMTcyMGM5MTQyN2U3NWI0YTUwYWNlLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "22 Oct 2026 • 23:45 WIB",
+      "match_time": 1792687500,
+      "match_date": "2026-10-22",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/fc-iberia-1999-tbilisi-vs-mjallby-aif-3glrw7hnxd3eqdy"
+    },
+    {
+      "id": "3glrw7hnxd6eqdy",
+      "slug": "fk-jablonec-vs-brighton-hove-albion-3glrw7hnxd6eqdy",
+      "competition": "UEFA Europa Conference League",
+      "home": "FK Jablonec",
+      "away": "Brighton Hove Albion",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzVhZDEwODk5NmZjN2YyMmU4YzEyY2RkYmMzM2UxY2E3LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzliNDNhNjkwZDVhMDlmMWUzMTlmMDM2ODIxZThlMWQzLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "22 Oct 2026 • 23:45 WIB",
+      "match_time": 1792687500,
+      "match_date": "2026-10-22",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/fk-jablonec-vs-brighton-hove-albion-3glrw7hnxd6eqdy"
+    },
+    {
+      "id": "l5ergph4zg0gr8k",
+      "slug": "getafe-vs-lugano-l5ergph4zg0gr8k",
+      "competition": "UEFA Europa Conference League",
+      "home": "Getafe",
+      "away": "Lugano",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzM2YmY1YmYwYzhmZGYwOGMxMjcwMTI0ODA4ZjA2MGUxLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2I0NTJkMzRiNWMwMjE3NzhmZWRhYzM5MGZkZTVlOTYzLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "22 Oct 2026 • 23:45 WIB",
+      "match_time": 1792687500,
+      "match_date": "2026-10-22",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/getafe-vs-lugano-l5ergph4zg0gr8k"
+    },
+    {
+      "id": "dn1m1ghl56pomoe",
+      "slug": "inter-club-d-escaldes-vs-cs-universitatea-craiova-dn1m1ghl56pomoe",
+      "competition": "UEFA Europa Conference League",
+      "home": "Inter Club d'Escaldes",
+      "away": "CS Universitatea Craiova",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzgwOGE2M2M0ZTAyMWQxZWU0MGRkNmQ5ZDA3ZDNiYWEzLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Q4ZmVmNzMwNDM5NjFkMTFlZDYxYTM3NDc2YTU0NTY4LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "22 Oct 2026 • 23:45 WIB",
+      "match_time": 1792687500,
+      "match_date": "2026-10-22",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/inter-club-d-escaldes-vs-cs-universitatea-craiova-dn1m1ghl56pomoe"
+    },
+    {
+      "id": "4jwq2ghn8lz4m0v",
+      "slug": "kauno-zalgiris-vs-brann-4jwq2ghn8lz4m0v",
+      "competition": "UEFA Europa Conference League",
+      "home": "Kauno Zalgiris",
+      "away": "Brann",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZhNDBhNzQ5MjQxZjRiOGFiM2U5M2QyZjU5MjJlNWM3LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzQ0OGI4OGJlYjZjZGFmMGFjY2YxMjZiMjgwYjE3N2Q5LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "22 Oct 2026 • 23:45 WIB",
+      "match_time": 1792687500,
+      "match_date": "2026-10-22",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/kauno-zalgiris-vs-brann-4jwq2ghn8lz4m0v"
+    },
+    {
+      "id": "l5ergph4zglyr8k",
+      "slug": "nordsjaelland-vs-cska-sofia-l5ergph4zglyr8k",
+      "competition": "UEFA Europa Conference League",
+      "home": "Nordsjaelland",
+      "away": "CSKA Sofia",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Q2MzA5OWZkZmYwODM1NDFkMWViZWY5YmVhZTkwZjYzLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzNiMTljYWU0Nzg2Nzk4ODE1NTQ5MTRlNDVkMzE4NzQyLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "22 Oct 2026 • 23:45 WIB",
+      "match_time": 1792687500,
+      "match_date": "2026-10-22",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/nordsjaelland-vs-cska-sofia-l5ergph4zglyr8k"
+    },
+    {
+      "id": "l5ergph4zgyyr8k",
+      "slug": "pafos-fc-vs-riga-fc-l5ergph4zgyyr8k",
+      "competition": "UEFA Europa Conference League",
+      "home": "Pafos FC",
+      "away": "Riga FC",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzUwYzNjM2FjYTcyYWQ3YmQwNWY1YjQ3NDJlYTk5M2QzLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2I3NDEzOTg4YzAxYmRhYWM1NmM4MTE4NTM2YmRkMDczLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "22 Oct 2026 • 23:45 WIB",
+      "match_time": 1792687500,
+      "match_date": "2026-10-22",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/pafos-fc-vs-riga-fc-l5ergph4zgyyr8k"
+    },
+    {
+      "id": "y39mp1h6x70ymoj",
+      "slug": "trabzonspor-vs-heart-of-midlothian-f-c-y39mp1h6x70ymoj",
+      "competition": "UEFA Europa Conference League",
+      "home": "Trabzonspor",
+      "away": "Heart of Midlothian F.C.",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzlkYzljOGY5MjhkNWNhZmRjOTBhNzQ3ZmUwNDM5YzJkLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2VhZjA2MzU5ZjQyZGNmNjljN2FjNjYwNzMxNTExMjM5LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "22 Oct 2026 • 23:45 WIB",
+      "match_time": 1792687500,
+      "match_date": "2026-10-22",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/trabzonspor-vs-heart-of-midlothian-f-c-y39mp1h6x70ymoj"
+    },
+    {
+      "id": "4jwq2ghn8l4wm0v",
+      "slug": "ararat-armenia-fc-vs-az-alkmaar-4jwq2ghn8l4wm0v",
+      "competition": "UEFA Europa League",
+      "home": "Ararat-Armenia FC",
+      "away": "AZ Alkmaar",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzQ0NWIxNDIxNDRlYWZhMTU0NDlmOTI1NjNmZDFiOTc4LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2U1MmI3NDUxMjZiYmI2YmRkZGM5MGI5MWI0NDQxM2FlLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "22 Oct 2026 • 23:45 WIB",
+      "match_time": 1792687500,
+      "match_date": "2026-10-22",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/ararat-armenia-fc-vs-az-alkmaar-4jwq2ghn8l4wm0v"
+    },
+    {
+      "id": "y0or5jh8v7eoqwz",
+      "slug": "dinamo-zagreb-vs-nec-nijmegen-y0or5jh8v7eoqwz",
+      "competition": "UEFA Europa League",
+      "home": "Dinamo Zagreb",
+      "away": "NEC Nijmegen",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2IyMmQ5YjJjNWZjOGQ5OGRmOTE5NGE5YzVkNjZlYzgzLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2QyMmRlNDk0YTFmZjY0OGU5MDg5MmMyNDljNWFlZDEyLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "22 Oct 2026 • 23:45 WIB",
+      "match_time": 1792687500,
+      "match_date": "2026-10-22",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/dinamo-zagreb-vs-nec-nijmegen-y0or5jh8v7eoqwz"
+    },
+    {
+      "id": "y0or5jh8v7e5qwz",
+      "slug": "ferencvarosi-tc-vs-scu-torreense-y0or5jh8v7e5qwz",
+      "competition": "UEFA Europa League",
+      "home": "Ferencvarosi TC",
+      "away": "SCU Torreense",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzIwMmU0NWYzMGE5NDE5MzQ2NmJhMmFlOGE5NmU3Njg1LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzM1NTU5NzdiMjg4YTZiOGIwMmY4NzZiMGU1YTFkYTUzLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "22 Oct 2026 • 23:45 WIB",
+      "match_time": 1792687500,
+      "match_date": "2026-10-22",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/ferencvarosi-tc-vs-scu-torreense-y0or5jh8v7e5qwz"
+    },
+    {
+      "id": "2y8m4zh52l8nql0",
+      "slug": "juventus-vs-stade-rennais-fc-2y8m4zh52l8nql0",
+      "competition": "UEFA Europa League",
+      "home": "Juventus",
+      "away": "Stade Rennais FC",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2RjMGU0M2I5NWM2Njc2YzU0NDE1YmFjMTY4NDcyYWE0LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2VhYjhmMGU4NDc3NDJmZDMyOGJiNTgxMjk5YmQ5OWNhLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "22 Oct 2026 • 23:45 WIB",
+      "match_time": 1792687500,
+      "match_date": "2026-10-22",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/juventus-vs-stade-rennais-fc-2y8m4zh52l8nql0"
+    },
+    {
+      "id": "n54qllhnlv8wqvy",
+      "slug": "lech-poznan-vs-sunderland-n54qllhnlv8wqvy",
+      "competition": "UEFA Europa League",
+      "home": "Lech Poznan",
+      "away": "Sunderland",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Q0OWFiOTNmYmFjMGY0NjAyMjkzYmFjOThiOTRkOWMwLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzk1N2JkYzUwYzMwN2UyYTliNTI2YjM0YjM3OTJkYTFhLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "22 Oct 2026 • 23:45 WIB",
+      "match_time": 1792687500,
+      "match_date": "2026-10-22",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/lech-poznan-vs-sunderland-n54qllhnlv8wqvy"
+    },
+    {
+      "id": "965mkyhkjpzjr1g",
+      "slug": "ofi-crete-fc-vs-bayer-04-leverkusen-965mkyhkjpzjr1g",
+      "competition": "UEFA Europa League",
+      "home": "OFI Crete FC",
+      "away": "Bayer 04 Leverkusen",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzE0MGNmN2EyYTQzNTRhNGE5ZjllYWQ2YzlhNGRlNmZhLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2YxNWFlM2VjOWIyZDc4ODgxODBhNmM4Y2Y0YjEzN2U4LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "22 Oct 2026 • 23:45 WIB",
+      "match_time": 1792687500,
+      "match_date": "2026-10-22",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/ofi-crete-fc-vs-bayer-04-leverkusen-965mkyhkjpzjr1g"
+    },
+    {
+      "id": "l5ergph4zg2yr8k",
+      "slug": "sturm-graz-vs-marseille-l5ergph4zg2yr8k",
+      "competition": "UEFA Europa League",
+      "home": "Sturm Graz",
+      "away": "Marseille",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzRjYzkwNDRhZWQzNGY3MWM0ZTc5YmQyNjBlYTkzOGZiLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzBkYzRiNDU1MjQzNTBhNTBhNGQzMjc2YTI1MjU2OTNmLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "22 Oct 2026 • 23:45 WIB",
+      "match_time": 1792687500,
+      "match_date": "2026-10-22",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/sturm-graz-vs-marseille-l5ergph4zg2yr8k"
+    },
+    {
+      "id": "zp5rzghgn828q82",
+      "slug": "union-saint-gilloise-vs-hapoel-beer-sheva-zp5rzghgn828q82",
+      "competition": "UEFA Europa League",
+      "home": "Union Saint-Gilloise",
+      "away": "Hapoel Beer Sheva",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2I3OTZhZjhmMWEzZjQzZDVkNTZmNGE0MjU1Yjg3MjYwLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzhlYzdmYmRmNzNlZGU5YTgzNzM4ZjEzODJiY2MxMzUzLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "22 Oct 2026 • 23:45 WIB",
+      "match_time": 1792687500,
+      "match_date": "2026-10-22",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/union-saint-gilloise-vs-hapoel-beer-sheva-zp5rzghgn828q82"
     }
   ]
 }
