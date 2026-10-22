@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-10-22T18:06:25.531056+00:00",
+  "updated_at": "2026-10-22T19:02:46.645804+00:00",
   "source": "https://kickofftv.id",
   "matches_count": 40,
   "matches": [
+    {
+      "id": "k82rekhg5lzprep",
+      "slug": "borac-banja-luka-vs-kups-k82rekhg5lzprep",
+      "competition": "UEFA Europa Conference League",
+      "home": "Borac Banja Luka",
+      "away": "KuPs",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzUzOGQzMTJjMjUxMmViZGEzMTI5ZjEwNWRiMDRlNWU1LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzFmY2VkMDE1OGRlMTE2OWU5YmMzMjA5ZjRhYjk4ZTg0LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "First Half",
+      "time_label": "23 Oct 2026 • 02:00 WIB",
+      "match_time": 1792695600,
+      "match_date": "2026-10-23",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxip8GZwSeHJRGK4L/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/borac-banja-luka-vs-kups-k82rekhg5lzprep"
+    },
     {
       "id": "6ypq3nhv2x4nmd7",
       "slug": "crvena-zvezda-vs-fc-copenhagen-6ypq3nhv2x4nmd7",
@@ -442,28 +464,6 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/aarhus-agf-vs-egnatia-8yomo4h1wngyq0j"
-    },
-    {
-      "id": "k82rekhg5lzprep",
-      "slug": "borac-banja-luka-vs-kups-k82rekhg5lzprep",
-      "competition": "UEFA Europa Conference League",
-      "home": "Borac Banja Luka",
-      "away": "KuPs",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzUzOGQzMTJjMjUxMmViZGEzMTI5ZjEwNWRiMDRlNWU1LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzFmY2VkMDE1OGRlMTE2OWU5YmMzMjA5ZjRhYjk4ZTg0LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "23 Oct 2026 • 02:00 WIB",
-      "match_time": 1792695600,
-      "match_date": "2026-10-23",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxip8GZwSeHJRGK4L/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/borac-banja-luka-vs-kups-k82rekhg5lzprep"
     },
     {
       "id": "4jwq2ghn8l94m0v",
