@@ -1,30 +1,8 @@
 {
-  "updated_at": "2026-10-22T16:10:55.015540+00:00",
+  "updated_at": "2026-10-22T16:41:46.793231+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 18,
+  "matches_count": 17,
   "matches": [
-    {
-      "id": "6ypq3nhv2xg8md7",
-      "slug": "fc-kairat-almaty-vs-panathinaikos-6ypq3nhv2xg8md7",
-      "competition": "UEFA Europa Conference League",
-      "home": "FC Kairat Almaty",
-      "away": "Panathinaikos",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzNlZjA0OTEyZjg4YzMxNjZmMWE0Nzg2NGNkZTcxOTQ5LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2JkN2FhNWJlNGMyYzlhMmYyMGU2NTk3ZWUyYzE3MzhiLnBuZw==",
-      "home_score": 0,
-      "away_score": 5,
-      "status": "Second Half",
-      "time_label": "22 Oct 2026 • 21:30 WIB",
-      "match_time": 1792679400,
-      "match_date": "2026-10-22",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxip8J4Qv1Wtocr4x/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/fc-kairat-almaty-vs-panathinaikos-6ypq3nhv2xg8md7"
-    },
     {
       "id": "6ypq3nhv2x4nmd7",
       "slug": "crvena-zvezda-vs-fc-copenhagen-6ypq3nhv2x4nmd7",
