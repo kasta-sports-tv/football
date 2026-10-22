@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T13:26:51.804090+00:00",
+  "updated_at": "2026-10-22T14:09:01.077298+00:00",
   "source": "https://kickofftv.id",
   "matches_count": 18,
   "matches": [
@@ -20,7 +20,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxip8J4Qv1Wtocr4x/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/fc-kairat-almaty-vs-panathinaikos-6ypq3nhv2xg8md7"
