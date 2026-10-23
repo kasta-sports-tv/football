@@ -639,7 +639,12 @@
     "zp5rzghg9g5zq82": 1792736921,
     "ednm9whw4w7eryo": 1792741053,
     "4jwq2ghn2odkm0v": 1792741053,
-    "y39mp1h6n6zpmoj": 1792743126
+    "y39mp1h6n6zpmoj": 1792743126,
+    "pxwrxlhyo2ndryk": 1792780725,
+    "vjxm8gheo4dwr6o": 1792780725,
+    "3glrw7hneyvjqdy": 1792780725,
+    "4jwq2ghndj0em0v": 1792780725,
+    "4wyrn4h6n9dnq86": 1792780725
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -1021,6 +1026,31 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2gUvnzFxP3jN/playlist.m3u8",
       "hd": "",
       "slug": "veres-vs-kolos-kovalivka-y39mp1h6n6zpmoj"
+    },
+    "pxwrxlhyo2ndryk": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaDgke3HkFMHepg/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaDgke3HkFMHepg/playlist.m3u8",
+      "slug": "vfb-stuttgart-vs-borussia-monchengladbach-pxwrxlhyo2ndryk"
+    },
+    "vjxm8gheo4dwr6o": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jaVYfKGdvipxx/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jaVYfKGdvipxx/playlist.m3u8",
+      "slug": "torino-vs-monza-vjxm8gheo4dwr6o"
+    },
+    "3glrw7hneyvjqdy": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdpxgYdNGUo4NK6Y/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdpxgYdNGUo4NK6Y/playlist.m3u8",
+      "slug": "stade-brestois-29-vs-ogc-nice-3glrw7hneyvjqdy"
+    },
+    "4jwq2ghndj0em0v": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQiHUK56K8r4hn/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQiHUK56K8r4hn/playlist.m3u8",
+      "slug": "ipswich-town-vs-nottingham-forest-4jwq2ghndj0em0v"
+    },
+    "4wyrn4h6n9dnq86": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGxUhs6pA3h8PA/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGxUhs6pA3h8PA/playlist.m3u8",
+      "slug": "deportivo-alav-s-vs-malaga-4wyrn4h6n9dnq86"
     }
   }
 }
