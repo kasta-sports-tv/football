@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T06:28:44.624802+00:00",
+  "updated_at": "2026-10-23T07:37:38.319037+00:00",
   "source": "https://kickofftv.id",
   "matches_count": 5,
   "matches": [
@@ -42,7 +42,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb79RpMgkC3dCcJ4/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/metalist-kharkiv-vs-fenix-mariupol-4jwq2ghn2odkm0v"
@@ -86,7 +86,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2gUrQ2WzjDRa/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/polissya-zhytomyr-vs-obolon-kyiv-ednm9whw4w7eryo"
@@ -102,8 +102,8 @@
       "home_score": 0,
       "away_score": 0,
       "status": "Not Started",
-      "time_label": "23 Oct 2026 • 19:30 WIB",
-      "match_time": 1792758600,
+      "time_label": "23 Oct 2026 • 17:00 WIB",
+      "match_time": 1792749600,
       "match_date": "2026-10-23",
       "is_live": false,
       "is_finished": false,
