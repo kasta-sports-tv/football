@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T01:37:20.283624+00:00",
+  "updated_at": "2026-10-23T06:28:44.624802+00:00",
   "source": "https://kickofftv.id",
   "matches_count": 5,
   "matches": [
@@ -64,7 +64,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW1v9by42ivzqe/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/dynamo-kyiv-vs-kudrivka-zp5rzghg9g5zq82"
@@ -80,8 +80,8 @@
       "home_score": 0,
       "away_score": 0,
       "status": "Not Started",
-      "time_label": "23 Oct 2026 • 19:30 WIB",
-      "match_time": 1792758600,
+      "time_label": "23 Oct 2026 • 17:00 WIB",
+      "match_time": 1792749600,
       "match_date": "2026-10-23",
       "is_live": false,
       "is_finished": false,

@@ -634,7 +634,11 @@
     "y39mp1h6x7wymoj": 1792692374,
     "4jwq2ghn8l94m0v": 1792692374,
     "8yomo4h1wngyq0j": 1792692374,
-    "vjxm8gheny56r6o": 1792692374
+    "vjxm8gheny56r6o": 1792692374,
+    "zp5rzghgkyeyq82": 1792736921,
+    "zp5rzghg9g5zq82": 1792736921,
+    "ednm9whw4w7eryo": 1792736921,
+    "4jwq2ghn2odkm0v": 1792736921
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -991,6 +995,11 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxip8Jo4zvRpyBKN8/playlist.m3u8",
       "hd": "",
       "slug": "thun-vs-hajduk-split-vjxm8gheny56r6o"
+    },
+    "zp5rzghg9g5zq82": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW1v9by42ivzqe/playlist.m3u8",
+      "hd": "",
+      "slug": "dynamo-kyiv-vs-kudrivka-zp5rzghg9g5zq82"
     }
   }
 }
