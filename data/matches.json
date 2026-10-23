@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T07:54:52.258074+00:00",
+  "updated_at": "2026-10-23T08:12:07.775326+00:00",
   "source": "https://kickofftv.id",
   "matches_count": 5,
   "matches": [
@@ -13,14 +13,14 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2FmMjJkNGRiYzU4ZDBlZGU4NDU3ODQ1NDcyMjA3ODA3LnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "Delayed",
       "time_label": "23 Oct 2026 • 15:00 WIB",
       "match_time": 1792742400,
       "match_date": "2026-10-23",
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb79RpNDWvELmSSc/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/fc-chernigiv-vs-ahrobiznes-volochysk-zp5rzghgkyeyq82"
@@ -108,7 +108,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2gUvnzFxP3jN/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/veres-vs-kolos-kovalivka-y39mp1h6n6zpmoj"
