@@ -1,30 +1,8 @@
 {
-  "updated_at": "2026-10-24T09:42:53.959379+00:00",
+  "updated_at": "2026-10-24T11:30:54.199027+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 22,
+  "matches_count": 21,
   "matches": [
-    {
-      "id": "965mkyhkvl9er1g",
-      "slug": "fk-oleksandria-vs-probiy-horodenka-965mkyhkvl9er1g",
-      "competition": "Ukrainian First League",
-      "home": "FK Oleksandria",
-      "away": "Probiy Horodenka",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzcxYzFhZjQ5MDEwNTkzYjI5ZjlmYTQxYWEwZTIxYjQ5LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzNkNDQ4OTA2Y2Q3YjBiZTliZDA4NDAxODc0MDdhMWE5LnBuZw==",
-      "home_score": 1,
-      "away_score": 0,
-      "status": "First Half",
-      "time_label": "24 Oct 2026 • 16:00 WIB",
-      "match_time": 1792832400,
-      "match_date": "2026-10-24",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb79RoXUxxyNLuBe/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/fk-oleksandria-vs-probiy-horodenka-965mkyhkvl9er1g"
-    },
     {
       "id": "y39mp1h6lv81moj",
       "slug": "prykarpattya-ivano-frankivsk-vs-fc-victoria-mykolaivka-y39mp1h6lv81moj",
@@ -35,11 +13,11 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2EyMzI0YzM3N2ExNDJkODJkZTliNzEwMzA4Y2NhNjAyLnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "Second Half",
       "time_label": "24 Oct 2026 • 17:00 WIB",
       "match_time": 1792836000,
       "match_date": "2026-10-24",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
         "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb79RoXSmV6tWz2k/playlist.m3u8",
@@ -57,17 +35,39 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzAyNTE5ZDMyNzNkZTcwODE3ZmI4NjJjNjk1NWYxMWVlLnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "Second Half",
       "time_label": "24 Oct 2026 • 17:00 WIB",
       "match_time": 1792836000,
       "match_date": "2026-10-24",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
         "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2gUjoauZFTxt/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/fc-livyi-bereh-vs-lnz-cherkasy-4jwq2ghnjne7m0v"
+    },
+    {
+      "id": "1l4rjnh9094xm7v",
+      "slug": "fk-epitsentr-dunayivtsi-vs-metalist-1925-kharkiv-1l4rjnh9094xm7v",
+      "competition": "Ukrainian Premier League",
+      "home": "FK Epitsentr Dunayivtsi",
+      "away": "Metalist 1925 Kharkiv",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzlkODg2MjBmMzk3OTUyOTU4M2QwN2Y1NzkwYWMyZGFjLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Q3NzVhMzVmMWEzYTc1OTU1OGY2OWU0NmE1ZTBjYTM2LnBuZw==",
+      "home_score": 0,
+      "away_score": 1,
+      "status": "Second Half",
+      "time_label": "24 Oct 2026 • 17:00 WIB",
+      "match_time": 1792836000,
+      "match_date": "2026-10-24",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2gUn14n35P7n/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/fk-epitsentr-dunayivtsi-vs-metalist-1925-kharkiv-1l4rjnh9094xm7v"
     },
     {
       "id": "318q66hxezd7qo9",
@@ -79,11 +79,11 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzg5ZjhlMDU1NzBiZTcwMzljNmFiZDY4Yjg3ZWE3MWQzLnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "First Half",
       "time_label": "24 Oct 2026 • 18:00 WIB",
       "match_time": 1792839600,
       "match_date": "2026-10-24",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
         "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb79RoXXASqrApLY/playlist.m3u8",
@@ -134,28 +134,6 @@
         "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGxUY3qMjnimex/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/rayo-vallecano-vs-elche-cf-3glrw7hn5oyjqdy"
-    },
-    {
-      "id": "1l4rjnh9094xm7v",
-      "slug": "fk-epitsentr-dunayivtsi-vs-metalist-1925-kharkiv-1l4rjnh9094xm7v",
-      "competition": "Ukrainian Premier League",
-      "home": "FK Epitsentr Dunayivtsi",
-      "away": "Metalist 1925 Kharkiv",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzlkODg2MjBmMzk3OTUyOTU4M2QwN2Y1NzkwYWMyZGFjLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Q3NzVhMzVmMWEzYTc1OTU1OGY2OWU0NmE1ZTBjYTM2LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "24 Oct 2026 • 19:30 WIB",
-      "match_time": 1792845000,
-      "match_date": "2026-10-24",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2gUn14n35P7n/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/fk-epitsentr-dunayivtsi-vs-metalist-1925-kharkiv-1l4rjnh9094xm7v"
     },
     {
       "id": "318q66hxdo39qo9",
