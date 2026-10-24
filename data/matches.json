@@ -1,52 +1,8 @@
 {
-  "updated_at": "2026-10-24T14:50:06.125372+00:00",
+  "updated_at": "2026-10-24T15:27:26.630937+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 15,
+  "matches_count": 12,
   "matches": [
-    {
-      "id": "318q66hxdo39qo9",
-      "slug": "cagliari-vs-bologna-318q66hxdo39qo9",
-      "competition": "Italian Serie A",
-      "home": "Cagliari",
-      "away": "Bologna",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2RiYTY1YzE4NGUwM2M4NjBlZDkxOWNlMTkyYjg2YzVlLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2JkMTIyOThmYzM5MjBiYzIwYjdhZDQzYjE2YWQ5NjI0LnBuZw==",
-      "home_score": 0,
-      "away_score": 2,
-      "status": "Second Half",
-      "time_label": "24 Oct 2026 • 20:00 WIB",
-      "match_time": 1792846800,
-      "match_date": "2026-10-24",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jZk4LRem2UjQU/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jZk4LRem2UjQU/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/cagliari-vs-bologna-318q66hxdo39qo9"
-    },
-    {
-      "id": "23xmvkh6z3jyqg8",
-      "slug": "como-vs-sassuolo-23xmvkh6z3jyqg8",
-      "competition": "Italian Serie A",
-      "home": "Como",
-      "away": "Sassuolo",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzVmNzA1OWY0MDk2NWU1YTJjYzAwOTg3ZTZiYWMyZjMyLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzYxNmJmMjQyYTUzMmY3MmU5NzA2NDhmMmVhZDQyM2NmLnBuZw==",
-      "home_score": 2,
-      "away_score": 0,
-      "status": "Second Half",
-      "time_label": "24 Oct 2026 • 20:00 WIB",
-      "match_time": 1792846800,
-      "match_date": "2026-10-24",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jaVDFyF2HjcRv/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jaVDFyF2HjcRv/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/como-vs-sassuolo-23xmvkh6z3jyqg8"
-    },
     {
       "id": "965mkyhkxg0or1g",
       "slug": "1-fsv-mainz-05-vs-sv-werder-bremen-965mkyhkxg0or1g",
@@ -55,8 +11,8 @@
       "away": "SV Werder Bremen",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzI1ZGYyYWI4ZDZjOTc1YjQyMTg0ODBhMjNhY2U5Mjg1LnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzgyZTNiMDNhMWRmM2Q3YWUzZDM4ZTlmZGQyNGZlNjIyLnBuZw==",
-      "home_score": 1,
-      "away_score": 2,
+      "home_score": 2,
+      "away_score": 3,
       "status": "Second Half",
       "time_label": "24 Oct 2026 • 20:30 WIB",
       "match_time": 1792848600,
@@ -77,8 +33,8 @@
       "away": "1. FC Union Berlin",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2RiNDQxMWEzYzRjZTFkMGYwOTJmNWI5ZDFkZjA4NjY0LnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzQ1YWI0Yzg0NmIwZDRkZjViMDAyYzU3MWIxNjExMmRjLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
+      "home_score": 1,
+      "away_score": 1,
       "status": "Second Half",
       "time_label": "24 Oct 2026 • 20:30 WIB",
       "match_time": 1792848600,
@@ -114,28 +70,6 @@
       "match_url": "https://kickofftv.id/match/fc-k-ln-vs-schalke-04-318q66hxp73xqo9"
     },
     {
-      "id": "6ypq3nhvo482md7",
-      "slug": "rb-leipzig-vs-sv-07-elversberg-6ypq3nhvo482md7",
-      "competition": "Bundesliga",
-      "home": "RB Leipzig",
-      "away": "SV 07 Elversberg",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2MxNjZhMjIwYmYyMDk3N2RmMmJkODJmYzA2NzY5NmY1LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzIwZjkwNWZiMDk3NWU4ODQ4MmNmMTU3YWQ5ZGE0ODc0LnBuZw==",
-      "home_score": 1,
-      "away_score": 0,
-      "status": "Second Half",
-      "time_label": "24 Oct 2026 • 20:30 WIB",
-      "match_time": 1792848600,
-      "match_date": "2026-10-24",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaDgke5VE7q7Zya/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaDgke5VE7q7Zya/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/rb-leipzig-vs-sv-07-elversberg-6ypq3nhvo482md7"
-    },
-    {
       "id": "4wyrn4h6n75wq86",
       "slug": "sc-paderborn-07-vs-hamburger-sv-4wyrn4h6n75wq86",
       "competition": "Bundesliga",
@@ -143,7 +77,7 @@
       "away": "Hamburger SV",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzdjOGMzYzUwOTY2Yzc5M2ViYTkxMGUxODY1OTc1OWExLnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzkwZjUyYjMwZmJkZjJhYzU2OGNhMWQ0OGMwN2YyYmMzLnBuZw==",
-      "home_score": 0,
+      "home_score": 1,
       "away_score": 0,
       "status": "Second Half",
       "time_label": "24 Oct 2026 • 20:30 WIB",
@@ -167,7 +101,7 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzk1OTJkMWUwYmU2Mzc1YjllNmM1ZWYxNjliN2FhODY0LnBuZw==",
       "home_score": 1,
       "away_score": 0,
-      "status": "First Half",
+      "status": "Second Half",
       "time_label": "24 Oct 2026 • 21:00 WIB",
       "match_time": 1792850400,
       "match_date": "2026-10-24",
@@ -189,7 +123,7 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzI5OTgyNTExZjFlYTg2MTk2N2MzZTY0NzhkNmE4YTY4LnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "First Half",
+      "status": "Second Half",
       "time_label": "24 Oct 2026 • 21:00 WIB",
       "match_time": 1792850400,
       "match_date": "2026-10-24",
@@ -211,7 +145,7 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzIxNDA0OWQ0ZGYxMTc1NmEyZWIyMWJiZDgyNjZlMmExLnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "First Half",
+      "status": "Second Half",
       "time_label": "24 Oct 2026 • 21:15 WIB",
       "match_time": 1792851300,
       "match_date": "2026-10-24",
@@ -233,14 +167,14 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZiZmRkYWU5ZDkxZWFlYzNkMjJkZDU2Yzk1ZjQwNjdmLnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "First Half",
       "time_label": "24 Oct 2026 • 22:00 WIB",
       "match_time": 1792854000,
       "match_date": "2026-10-24",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2gUpCYeWuJGg/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/fc-shakhtar-donetsk-vs-zorya-965mkyhkxkygr1g"
@@ -284,8 +218,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaDgkdtVpmRyzD6/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaDgkdtVpmRyzD6/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/borussia-dortmund-vs-eintracht-frankfurt-dj2ryohl0dp6q1z"
     },
@@ -328,8 +262,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGxThRsr6Fmyrg/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGxThRsr6Fmyrg/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/valencia-cf-vs-villarreal-cf-23xmvkh6jxkwqg8"
     }

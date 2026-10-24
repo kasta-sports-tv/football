@@ -662,11 +662,11 @@
     "pxwrxlhywo29ryk": 1792834965,
     "y0or5jh8dk00qwz": 1792834965,
     "pxwrxlhyovj1ryk": 1792834965,
-    "965mkyhkxkygr1g": 1792853399,
+    "965mkyhkxkygr1g": 1792855644,
     "dn1m1ghld4x6moe": 1792853399,
     "vjxm8gheo62pr6o": 1792853399,
-    "23xmvkh6jxkwqg8": 1792853399,
-    "dj2ryohl0dp6q1z": 1792853399
+    "23xmvkh6jxkwqg8": 1792855644,
+    "dj2ryohl0dp6q1z": 1792855644
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -1168,6 +1168,21 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQiJJrdeDi92CG/playlist.m3u8",
       "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQiJJrdeDi92CG/playlist.m3u8",
       "slug": "chelsea-vs-tottenham-hotspur-vjxm8gheo62pr6o"
+    },
+    "965mkyhkxkygr1g": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2gUpCYeWuJGg/playlist.m3u8",
+      "hd": "",
+      "slug": "fc-shakhtar-donetsk-vs-zorya-965mkyhkxkygr1g"
+    },
+    "23xmvkh6jxkwqg8": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGxThRsr6Fmyrg/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGxThRsr6Fmyrg/playlist.m3u8",
+      "slug": "valencia-cf-vs-villarreal-cf-23xmvkh6jxkwqg8"
+    },
+    "dj2ryohl0dp6q1z": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaDgkdtVpmRyzD6/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaDgkdtVpmRyzD6/playlist.m3u8",
+      "slug": "borussia-dortmund-vs-eintracht-frankfurt-dj2ryohl0dp6q1z"
     }
   }
 }
