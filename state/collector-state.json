@@ -651,7 +651,18 @@
     "318q66hxezd7qo9": 1792823403,
     "vjxm8gheo62vr6o": 1792823403,
     "3glrw7hn5oyjqdy": 1792823403,
-    "1l4rjnh9094xm7v": 1792823403
+    "1l4rjnh9094xm7v": 1792823403,
+    "318q66hxdo39qo9": 1792834965,
+    "23xmvkh6z3jyqg8": 1792834965,
+    "6ypq3nhvo482md7": 1792834965,
+    "1l4rjnh903d3m7v": 1792834965,
+    "965mkyhkxg0or1g": 1792834965,
+    "318q66hxp73xqo9": 1792834965,
+    "4wyrn4h6n75wq86": 1792834965,
+    "pxwrxlhywo29ryk": 1792834965,
+    "y0or5jh8dk00qwz": 1792834965,
+    "pxwrxlhyovj1ryk": 1792834965,
+    "965mkyhkxkygr1g": 1792834965
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -1093,6 +1104,56 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2gUn14n35P7n/playlist.m3u8",
       "hd": "",
       "slug": "fk-epitsentr-dunayivtsi-vs-metalist-1925-kharkiv-1l4rjnh9094xm7v"
+    },
+    "318q66hxdo39qo9": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jZk4LRem2UjQU/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jZk4LRem2UjQU/playlist.m3u8",
+      "slug": "cagliari-vs-bologna-318q66hxdo39qo9"
+    },
+    "23xmvkh6z3jyqg8": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jaVDFyF2HjcRv/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jaVDFyF2HjcRv/playlist.m3u8",
+      "slug": "como-vs-sassuolo-23xmvkh6z3jyqg8"
+    },
+    "6ypq3nhvo482md7": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaDgke5VE7q7Zya/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaDgke5VE7q7Zya/playlist.m3u8",
+      "slug": "rb-leipzig-vs-sv-07-elversberg-6ypq3nhvo482md7"
+    },
+    "1l4rjnh903d3m7v": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaDgjoTXiUJAnBJ/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaDgjoTXiUJAnBJ/playlist.m3u8",
+      "slug": "fc-augsburg-vs-1-fc-union-berlin-1l4rjnh903d3m7v"
+    },
+    "965mkyhkxg0or1g": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaDgjoeX7phJMwn/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaDgjoeX7phJMwn/playlist.m3u8",
+      "slug": "1-fsv-mainz-05-vs-sv-werder-bremen-965mkyhkxg0or1g"
+    },
+    "318q66hxp73xqo9": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaDgjo5YumVuceL/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaDgjo5YumVuceL/playlist.m3u8",
+      "slug": "fc-k-ln-vs-schalke-04-318q66hxp73xqo9"
+    },
+    "4wyrn4h6n75wq86": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaDgjdgTjvX2Lbz/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaDgjdgTjvX2Lbz/playlist.m3u8",
+      "slug": "sc-paderborn-07-vs-hamburger-sv-4wyrn4h6n75wq86"
+    },
+    "pxwrxlhywo29ryk": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQiJJnEgUkVBtU/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQiJJnEgUkVBtU/playlist.m3u8",
+      "slug": "arsenal-vs-everton-pxwrxlhywo29ryk"
+    },
+    "y0or5jh8dk00qwz": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQiJJKrv2zaC3i/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQiJJKrv2zaC3i/playlist.m3u8",
+      "slug": "coventry-city-vs-fulham-y0or5jh8dk00qwz"
+    },
+    "pxwrxlhyovj1ryk": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGxUY62qcGYgor/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGxUY62qcGYgor/playlist.m3u8",
+      "slug": "racing-santander-vs-rcd-espanyol-de-barcelona-pxwrxlhyovj1ryk"
     }
   }
 }
