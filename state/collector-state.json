@@ -662,11 +662,11 @@
     "pxwrxlhywo29ryk": 1792834965,
     "y0or5jh8dk00qwz": 1792834965,
     "pxwrxlhyovj1ryk": 1792834965,
-    "965mkyhkxkygr1g": 1792841448,
-    "dn1m1ghld4x6moe": 1792841448,
-    "vjxm8gheo62pr6o": 1792841448,
-    "23xmvkh6jxkwqg8": 1792841448,
-    "dj2ryohl0dp6q1z": 1792841448
+    "965mkyhkxkygr1g": 1792853399,
+    "dn1m1ghld4x6moe": 1792853399,
+    "vjxm8gheo62pr6o": 1792853399,
+    "23xmvkh6jxkwqg8": 1792853399,
+    "dj2ryohl0dp6q1z": 1792853399
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -1158,6 +1158,16 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGxUY62qcGYgor/playlist.m3u8",
       "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGxUY62qcGYgor/playlist.m3u8",
       "slug": "racing-santander-vs-rcd-espanyol-de-barcelona-pxwrxlhyovj1ryk"
+    },
+    "dn1m1ghld4x6moe": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jZjjMFuifabZJ/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jZjjMFuifabZJ/playlist.m3u8",
+      "slug": "napoli-vs-as-roma-dn1m1ghld4x6moe"
+    },
+    "vjxm8gheo62pr6o": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQiJJrdeDi92CG/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQiJJrdeDi92CG/playlist.m3u8",
+      "slug": "chelsea-vs-tottenham-hotspur-vjxm8gheo62pr6o"
     }
   }
 }
