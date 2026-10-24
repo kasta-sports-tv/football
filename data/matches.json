@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T01:40:45.411113+00:00",
+  "updated_at": "2026-10-24T06:30:11.661223+00:00",
   "source": "https://kickofftv.id",
   "matches_count": 22,
   "matches": [
@@ -20,7 +20,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb79RoXUxxyNLuBe/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/fk-oleksandria-vs-probiy-horodenka-965mkyhkvl9er1g"
@@ -42,7 +42,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb79RoXSmV6tWz2k/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/prykarpattya-ivano-frankivsk-vs-fc-victoria-mykolaivka-y39mp1h6lv81moj"
@@ -64,7 +64,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2gUjoauZFTxt/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/fc-livyi-bereh-vs-lnz-cherkasy-4jwq2ghnjne7m0v"
@@ -86,7 +86,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb79RoXXASqrApLY/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/polissya-zhytomyr-b-vs-sc-poltava-318q66hxezd7qo9"
@@ -108,8 +108,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQiJJk3CcGfGja/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQiJJk3CcGfGja/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/aston-villa-vs-manchester-city-vjxm8gheo62vr6o"
     },
@@ -130,8 +130,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGxUY3qMjnimex/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGxUY3qMjnimex/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/rayo-vallecano-vs-elche-cf-3glrw7hn5oyjqdy"
     },
@@ -152,7 +152,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2gUn14n35P7n/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/fk-epitsentr-dunayivtsi-vs-metalist-1925-kharkiv-1l4rjnh9094xm7v"

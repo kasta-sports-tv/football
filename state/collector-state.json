@@ -644,7 +644,14 @@
     "vjxm8gheo4dwr6o": 1792780725,
     "3glrw7hneyvjqdy": 1792780725,
     "4jwq2ghndj0em0v": 1792780725,
-    "4wyrn4h6n9dnq86": 1792780725
+    "4wyrn4h6n9dnq86": 1792780725,
+    "965mkyhkvl9er1g": 1792823403,
+    "4jwq2ghnjne7m0v": 1792823403,
+    "y39mp1h6lv81moj": 1792823403,
+    "318q66hxezd7qo9": 1792823403,
+    "vjxm8gheo62vr6o": 1792823403,
+    "3glrw7hn5oyjqdy": 1792823403,
+    "1l4rjnh9094xm7v": 1792823403
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -1051,6 +1058,41 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGxUhs6pA3h8PA/playlist.m3u8",
       "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGxUhs6pA3h8PA/playlist.m3u8",
       "slug": "deportivo-alav-s-vs-malaga-4wyrn4h6n9dnq86"
+    },
+    "965mkyhkvl9er1g": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb79RoXUxxyNLuBe/playlist.m3u8",
+      "hd": "",
+      "slug": "fk-oleksandria-vs-probiy-horodenka-965mkyhkvl9er1g"
+    },
+    "4jwq2ghnjne7m0v": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2gUjoauZFTxt/playlist.m3u8",
+      "hd": "",
+      "slug": "fc-livyi-bereh-vs-lnz-cherkasy-4jwq2ghnjne7m0v"
+    },
+    "y39mp1h6lv81moj": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb79RoXSmV6tWz2k/playlist.m3u8",
+      "hd": "",
+      "slug": "prykarpattya-ivano-frankivsk-vs-fc-victoria-mykolaivka-y39mp1h6lv81moj"
+    },
+    "318q66hxezd7qo9": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb79RoXXASqrApLY/playlist.m3u8",
+      "hd": "",
+      "slug": "polissya-zhytomyr-b-vs-sc-poltava-318q66hxezd7qo9"
+    },
+    "vjxm8gheo62vr6o": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQiJJk3CcGfGja/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQiJJk3CcGfGja/playlist.m3u8",
+      "slug": "aston-villa-vs-manchester-city-vjxm8gheo62vr6o"
+    },
+    "3glrw7hn5oyjqdy": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGxUY3qMjnimex/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGxUY3qMjnimex/playlist.m3u8",
+      "slug": "rayo-vallecano-vs-elche-cf-3glrw7hn5oyjqdy"
+    },
+    "1l4rjnh9094xm7v": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2gUn14n35P7n/playlist.m3u8",
+      "hd": "",
+      "slug": "fk-epitsentr-dunayivtsi-vs-metalist-1925-kharkiv-1l4rjnh9094xm7v"
     }
   }
 }
