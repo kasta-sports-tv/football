@@ -1,95 +1,73 @@
 {
-  "updated_at": "2026-10-24T17:41:52.498644+00:00",
+  "updated_at": "2026-10-24T19:50:22.796235+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 34,
+  "matches_count": 30,
   "matches": [
     {
-      "id": "pxwrxlhywo29ryk",
-      "slug": "arsenal-vs-everton-pxwrxlhywo29ryk",
-      "competition": "English Premier League",
-      "home": "Arsenal",
-      "away": "Everton",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Q2ZjVkZWJjNDU2ZGExMTE5MjU2YWI2NjQ2MmFiNTEwLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzk1OTJkMWUwYmU2Mzc1YjllNmM1ZWYxNjliN2FhODY0LnBuZw==",
-      "home_score": 1,
-      "away_score": 0,
-      "status": "Second Half",
-      "time_label": "24 Oct 2026 • 21:00 WIB",
-      "match_time": 1792850400,
-      "match_date": "2026-10-24",
+      "id": "vjxm8gheo8z8r6o",
+      "slug": "rc-lens-vs-paris-fc-vjxm8gheo8z8r6o",
+      "competition": "French Ligue 1",
+      "home": "RC Lens",
+      "away": "Paris FC",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2I4YzUwMzhlYmIwZTIxYjA5YTcyMDA4YjdjYjYyMTlmLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzgzYTk4MmY4MjE5YTc2OGU3Y2QyOWQxYWM3NjViMTk5LnBuZw==",
+      "home_score": 0,
+      "away_score": 1,
+      "status": "Half Time",
+      "time_label": "25 Oct 2026 • 01:45 WIB",
+      "match_time": 1792867500,
+      "match_date": "2026-10-25",
       "is_live": true,
       "is_finished": false,
       "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQiJJnEgUkVBtU/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQiJJnEgUkVBtU/playlist.m3u8"
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdpxgYcshEUpdQ6t/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdpxgYcshEUpdQ6t/playlist.m3u8"
       },
-      "match_url": "https://kickofftv.id/match/arsenal-vs-everton-pxwrxlhywo29ryk"
+      "match_url": "https://kickofftv.id/match/rc-lens-vs-paris-fc-vjxm8gheo8z8r6o"
     },
     {
-      "id": "y0or5jh8dk00qwz",
-      "slug": "coventry-city-vs-fulham-y0or5jh8dk00qwz",
-      "competition": "English Premier League",
-      "home": "Coventry City",
-      "away": "Fulham",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzc1OWYxOWNjYWVjYWRkMzNhNWMwOWI1MzVlNTQzNDEwLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzI5OTgyNTExZjFlYTg2MTk2N2MzZTY0NzhkNmE4YTY4LnBuZw==",
+      "id": "l5ergph4joxor8k",
+      "slug": "lazio-vs-parma-l5ergph4joxor8k",
+      "competition": "Italian Serie A",
+      "home": "Lazio",
+      "away": "Parma",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzVhMmZmNDZlZmEzM2FiYzZiMjkwOGViNjI3OWRmYmY4LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzlmYWRkODdkMTkwOTgyYzgwODJkZGRmMTU2N2UwYjliLnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "Second Half",
-      "time_label": "24 Oct 2026 • 21:00 WIB",
-      "match_time": 1792850400,
-      "match_date": "2026-10-24",
+      "status": "Half Time",
+      "time_label": "25 Oct 2026 • 01:45 WIB",
+      "match_time": 1792867500,
+      "match_date": "2026-10-25",
       "is_live": true,
       "is_finished": false,
       "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQiJJKrv2zaC3i/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQiJJKrv2zaC3i/playlist.m3u8"
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jaViKnoaGPX5a/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jaViKnoaGPX5a/playlist.m3u8"
       },
-      "match_url": "https://kickofftv.id/match/coventry-city-vs-fulham-y0or5jh8dk00qwz"
+      "match_url": "https://kickofftv.id/match/lazio-vs-parma-l5ergph4joxor8k"
     },
     {
-      "id": "pxwrxlhyovj1ryk",
-      "slug": "racing-santander-vs-rcd-espanyol-de-barcelona-pxwrxlhyovj1ryk",
+      "id": "l7oqdehgk145r51",
+      "slug": "atletico-madrid-vs-rc-deportivo-l7oqdehgk145r51",
       "competition": "Spanish La Liga",
-      "home": "Racing Santander",
-      "away": "RCD Espanyol de Barcelona",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzhkYjcyNjBhMThiMWJlNjhlODcxMGNmZGJmNmJlM2RmLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzIxNDA0OWQ0ZGYxMTc1NmEyZWIyMWJiZDgyNjZlMmExLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Second Half",
-      "time_label": "24 Oct 2026 • 21:15 WIB",
-      "match_time": 1792851300,
-      "match_date": "2026-10-24",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGxUY62qcGYgor/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGxUY62qcGYgor/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/racing-santander-vs-rcd-espanyol-de-barcelona-pxwrxlhyovj1ryk"
-    },
-    {
-      "id": "965mkyhkxkygr1g",
-      "slug": "fc-shakhtar-donetsk-vs-zorya-965mkyhkxkygr1g",
-      "competition": "Ukrainian Premier League",
-      "home": "FC Shakhtar Donetsk",
-      "away": "Zorya",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzE0MWJjZjZhYjZkMGJjN2I4YzY3ZGM1ZWViOWYzNDdkLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZiZmRkYWU5ZDkxZWFlYzNkMjJkZDU2Yzk1ZjQwNjdmLnBuZw==",
+      "home": "Atletico Madrid",
+      "away": "RC Deportivo",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzM5MDk3N2IwNDIxYmNlMTM2YzU2MjA1N2VhMTcxZWNmLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Q3ZjlhYzZjY2VlZTRhMWQ0NzJlZWE1OWJlN2Y4NTgxLnBuZw==",
       "home_score": 0,
       "away_score": 0,
       "status": "First Half",
-      "time_label": "24 Oct 2026 • 22:00 WIB",
-      "match_time": 1792854000,
-      "match_date": "2026-10-24",
+      "time_label": "25 Oct 2026 • 02:00 WIB",
+      "match_time": 1792868400,
+      "match_date": "2026-10-25",
       "is_live": true,
       "is_finished": false,
       "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2gUpCYeWuJGg/playlist.m3u8",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGxUhJ8c6rJP5i/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGxUhJ8c6rJP5i/playlist.m3u8"
       },
-      "match_url": "https://kickofftv.id/match/fc-shakhtar-donetsk-vs-zorya-965mkyhkxkygr1g"
+      "match_url": "https://kickofftv.id/match/atletico-madrid-vs-rc-deportivo-l7oqdehgk145r51"
     },
     {
       "id": "dn1m1ghld4x6moe",
@@ -178,72 +156,6 @@
         "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGxThRsr6Fmyrg/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/valencia-cf-vs-villarreal-cf-23xmvkh6jxkwqg8"
-    },
-    {
-      "id": "vjxm8gheo8z8r6o",
-      "slug": "rc-lens-vs-paris-fc-vjxm8gheo8z8r6o",
-      "competition": "French Ligue 1",
-      "home": "RC Lens",
-      "away": "Paris FC",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2I4YzUwMzhlYmIwZTIxYjA5YTcyMDA4YjdjYjYyMTlmLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzgzYTk4MmY4MjE5YTc2OGU3Y2QyOWQxYWM3NjViMTk5LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "25 Oct 2026 • 01:45 WIB",
-      "match_time": 1792867500,
-      "match_date": "2026-10-25",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdpxgYcshEUpdQ6t/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdpxgYcshEUpdQ6t/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/rc-lens-vs-paris-fc-vjxm8gheo8z8r6o"
-    },
-    {
-      "id": "l5ergph4joxor8k",
-      "slug": "lazio-vs-parma-l5ergph4joxor8k",
-      "competition": "Italian Serie A",
-      "home": "Lazio",
-      "away": "Parma",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzVhMmZmNDZlZmEzM2FiYzZiMjkwOGViNjI3OWRmYmY4LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzlmYWRkODdkMTkwOTgyYzgwODJkZGRmMTU2N2UwYjliLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "25 Oct 2026 • 01:45 WIB",
-      "match_time": 1792867500,
-      "match_date": "2026-10-25",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jaViKnoaGPX5a/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jaViKnoaGPX5a/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/lazio-vs-parma-l5ergph4joxor8k"
-    },
-    {
-      "id": "l7oqdehgk145r51",
-      "slug": "atletico-madrid-vs-rc-deportivo-l7oqdehgk145r51",
-      "competition": "Spanish La Liga",
-      "home": "Atletico Madrid",
-      "away": "RC Deportivo",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzM5MDk3N2IwNDIxYmNlMTM2YzU2MjA1N2VhMTcxZWNmLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Q3ZjlhYzZjY2VlZTRhMWQ0NzJlZWE1OWJlN2Y4NTgxLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "25 Oct 2026 • 02:00 WIB",
-      "match_time": 1792868400,
-      "match_date": "2026-10-25",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGxUhJ8c6rJP5i/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGxUhJ8c6rJP5i/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/atletico-madrid-vs-rc-deportivo-l7oqdehgk145r51"
     },
     {
       "id": "k82rekhgkzd1rep",
