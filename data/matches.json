@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T17:34:00.368394+00:00",
+  "updated_at": "2026-10-25T18:08:36.940518+00:00",
   "source": "https://kickofftv.id",
   "matches_count": 13,
   "matches": [
@@ -166,8 +166,8 @@
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzZiYzM0OTZiZjM0YTZjODAzYjg3NGU2NTJlNmFjZWY1LnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2RjMGU0M2I5NWM2Njc2YzU0NDE1YmFjMTY4NDcyYWE0LnBuZw==",
       "home_score": 0,
-      "away_score": 0,
-      "status": "First Half",
+      "away_score": 2,
+      "status": "Half Time",
       "time_label": "26 Oct 2026 • 00:00 WIB",
       "match_time": 1792947600,
       "match_date": "2026-10-26",
@@ -187,8 +187,8 @@
       "away": "Levante",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzU3OWRiNmU5NTkwNTU0NTk3MzAzNWU2ZWFiOGRmMmNkLnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzEzZTIwMzhiZDIzYTM4Y2UzMmEzZWIyNTljOGJmN2Q4LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
+      "home_score": 2,
+      "away_score": 1,
       "status": "First Half",
       "time_label": "26 Oct 2026 • 00:30 WIB",
       "match_time": 1792949400,
