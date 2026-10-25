@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T19:55:40.278393+00:00",
+  "updated_at": "2026-10-25T20:07:47.079777+00:00",
   "source": "https://kickofftv.id",
   "matches_count": 9,
   "matches": [
@@ -136,6 +136,28 @@
       "match_url": "https://kickofftv.id/match/udinese-vs-ac-milan-8yomo4h1j7lzq0j"
     },
     {
+      "id": "6ypq3nhvo1w0md7",
+      "slug": "fc-barcelona-vs-real-madrid-6ypq3nhvo1w0md7",
+      "competition": "Spanish La Liga",
+      "home": "FC Barcelona",
+      "away": "Real Madrid",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2YzNzhlYjFlYTA0ZTUzOTk5Yjg5MDUxYWEzMjQ0ZGU2LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzdkYWNhYTkzNGZlNGJlMDBmMjNjMWUyMDliNWVmOTQ3LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "First Half",
+      "time_label": "26 Oct 2026 • 03:00 WIB",
+      "match_time": 1792958400,
+      "match_date": "2026-10-26",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGxUXySPzq4wMA/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGxUXySPzq4wMA/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/fc-barcelona-vs-real-madrid-6ypq3nhvo1w0md7"
+    },
+    {
       "id": "23xmvkh6jgl4qg8",
       "slug": "sc-freiburg-vs-fc-bayern-munich-23xmvkh6jgl4qg8",
       "competition": "Bundesliga",
@@ -178,28 +200,6 @@
         "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQiHUMGaBcfyrg/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/sunderland-vs-leeds-united-y39mp1h68nkomoj"
-    },
-    {
-      "id": "6ypq3nhvo1w0md7",
-      "slug": "fc-barcelona-vs-real-madrid-6ypq3nhvo1w0md7",
-      "competition": "Spanish La Liga",
-      "home": "FC Barcelona",
-      "away": "Real Madrid",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2YzNzhlYjFlYTA0ZTUzOTk5Yjg5MDUxYWEzMjQ0ZGU2LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzdkYWNhYTkzNGZlNGJlMDBmMjNjMWUyMDliNWVmOTQ3LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "26 Oct 2026 • 03:00 WIB",
-      "match_time": 1792958400,
-      "match_date": "2026-10-26",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGxUXySPzq4wMA/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGxUXySPzq4wMA/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/fc-barcelona-vs-real-madrid-6ypq3nhvo1w0md7"
     }
   ]
 }
