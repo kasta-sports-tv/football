@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-25T16:31:54.254633+00:00",
+  "updated_at": "2026-10-25T17:34:00.368394+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 9,
+  "matches_count": 13,
   "matches": [
     {
       "id": "vjxm8ghe6274r6o",
@@ -158,6 +158,50 @@
       "match_url": "https://kickofftv.id/match/toulouse-fc-vs-troyes-23xmvkh6zknwqg8"
     },
     {
+      "id": "zp5rzghgej9oq82",
+      "slug": "lecce-vs-juventus-zp5rzghgej9oq82",
+      "competition": "Italian Serie A",
+      "home": "Lecce",
+      "away": "Juventus",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzZiYzM0OTZiZjM0YTZjODAzYjg3NGU2NTJlNmFjZWY1LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2RjMGU0M2I5NWM2Njc2YzU0NDE1YmFjMTY4NDcyYWE0LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "First Half",
+      "time_label": "26 Oct 2026 • 00:00 WIB",
+      "match_time": 1792947600,
+      "match_date": "2026-10-26",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jaVDDmm9ouhH2/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jaVDDmm9ouhH2/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/lecce-vs-juventus-zp5rzghgej9oq82"
+    },
+    {
+      "id": "x7lm7phjepw9m2w",
+      "slug": "real-sociedad-vs-levante-x7lm7phjepw9m2w",
+      "competition": "Spanish La Liga",
+      "home": "Real Sociedad",
+      "away": "Levante",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzU3OWRiNmU5NTkwNTU0NTk3MzAzNWU2ZWFiOGRmMmNkLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzEzZTIwMzhiZDIzYTM4Y2UzMmEzZWIyNTljOGJmN2Q4LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "First Half",
+      "time_label": "26 Oct 2026 • 00:30 WIB",
+      "match_time": 1792949400,
+      "match_date": "2026-10-26",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGxUY8EKUkNbxk/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGxUY8EKUkNbxk/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/real-sociedad-vs-levante-x7lm7phjepw9m2w"
+    },
+    {
       "id": "23xmvkh6jgl4qg8",
       "slug": "sc-freiburg-vs-fc-bayern-munich-23xmvkh6jgl4qg8",
       "competition": "Bundesliga",
@@ -200,6 +244,50 @@
         "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQiHUMGaBcfyrg/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/sunderland-vs-leeds-united-y39mp1h68nkomoj"
+    },
+    {
+      "id": "8yomo4h1j7lzq0j",
+      "slug": "udinese-vs-ac-milan-8yomo4h1j7lzq0j",
+      "competition": "Italian Serie A",
+      "home": "Udinese",
+      "away": "AC Milan",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2M3MTQwZWZlMDZkOTM2NDJmY2M5ODA1MDc3YzQ5YWE1LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzY0M2VmNDEwMWIwMTdkYzE0OTVkYmQ5ZTlkNWNjZTI4LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "26 Oct 2026 • 02:45 WIB",
+      "match_time": 1792957500,
+      "match_date": "2026-10-26",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jaVZ7h35gdpoi/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jaVZ7h35gdpoi/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/udinese-vs-ac-milan-8yomo4h1j7lzq0j"
+    },
+    {
+      "id": "6ypq3nhvo1w0md7",
+      "slug": "fc-barcelona-vs-real-madrid-6ypq3nhvo1w0md7",
+      "competition": "Spanish La Liga",
+      "home": "FC Barcelona",
+      "away": "Real Madrid",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2YzNzhlYjFlYTA0ZTUzOTk5Yjg5MDUxYWEzMjQ0ZGU2LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzdkYWNhYTkzNGZlNGJlMDBmMjNjMWUyMDliNWVmOTQ3LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "26 Oct 2026 • 03:00 WIB",
+      "match_time": 1792958400,
+      "match_date": "2026-10-26",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGxUXySPzq4wMA/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGxUXySPzq4wMA/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/fc-barcelona-vs-real-madrid-6ypq3nhvo1w0md7"
     }
   ]
 }

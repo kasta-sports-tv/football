@@ -692,7 +692,11 @@
     "n54qllhny8okqvy": 1792945911,
     "23xmvkh6zknwqg8": 1792945911,
     "y39mp1h68nkomoj": 1792945911,
-    "23xmvkh6jgl4qg8": 1792945911
+    "23xmvkh6jgl4qg8": 1792945911,
+    "zp5rzghgej9oq82": 1792949639,
+    "x7lm7phjepw9m2w": 1792949639,
+    "8yomo4h1j7lzq0j": 1792949639,
+    "6ypq3nhvo1w0md7": 1792949639
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -1334,6 +1338,26 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaDgjoP8kjLWwsW/playlist.m3u8",
       "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaDgjoP8kjLWwsW/playlist.m3u8",
       "slug": "sc-freiburg-vs-fc-bayern-munich-23xmvkh6jgl4qg8"
+    },
+    "zp5rzghgej9oq82": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jaVDDmm9ouhH2/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jaVDDmm9ouhH2/playlist.m3u8",
+      "slug": "lecce-vs-juventus-zp5rzghgej9oq82"
+    },
+    "x7lm7phjepw9m2w": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGxUY8EKUkNbxk/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGxUY8EKUkNbxk/playlist.m3u8",
+      "slug": "real-sociedad-vs-levante-x7lm7phjepw9m2w"
+    },
+    "8yomo4h1j7lzq0j": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jaVZ7h35gdpoi/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jaVZ7h35gdpoi/playlist.m3u8",
+      "slug": "udinese-vs-ac-milan-8yomo4h1j7lzq0j"
+    },
+    "6ypq3nhvo1w0md7": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGxUXySPzq4wMA/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGxUXySPzq4wMA/playlist.m3u8",
+      "slug": "fc-barcelona-vs-real-madrid-6ypq3nhvo1w0md7"
     }
   }
 }
