@@ -685,7 +685,14 @@
     "ednm9whwl4dwryo": 1792921376,
     "965mkyhk9xg8r1g": 1792921376,
     "vjxm8ghe6274r6o": 1792921376,
-    "2y8m4zh591glql0": 1792921376
+    "2y8m4zh591glql0": 1792936645,
+    "6ypq3nhvdwj0md7": 1792936645,
+    "pxwrxlhywjk1ryk": 1792936645,
+    "x7lm7phjdw19m2w": 1792936645,
+    "n54qllhny8okqvy": 1792936645,
+    "23xmvkh6zknwqg8": 1792936645,
+    "y39mp1h68nkomoj": 1792936645,
+    "23xmvkh6jgl4qg8": 1792936645
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -1287,6 +1294,11 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaDgke7ghzJwV8U/playlist.m3u8",
       "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaDgke7ghzJwV8U/playlist.m3u8",
       "slug": "tsg-hoffenheim-vs-bayer-04-leverkusen-vjxm8ghe6274r6o"
+    },
+    "2y8m4zh591glql0": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGxUXu3SFsR73N/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGxUXu3SFsR73N/playlist.m3u8",
+      "slug": "rc-celta-vs-real-betis-2y8m4zh591glql0"
     }
   }
 }
