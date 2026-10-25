@@ -1,52 +1,8 @@
 {
-  "updated_at": "2026-10-25T18:08:36.940518+00:00",
+  "updated_at": "2026-10-25T19:43:20.342266+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 13,
+  "matches_count": 9,
   "matches": [
-    {
-      "id": "vjxm8ghe6274r6o",
-      "slug": "tsg-hoffenheim-vs-bayer-04-leverkusen-vjxm8ghe6274r6o",
-      "competition": "Bundesliga",
-      "home": "TSG Hoffenheim",
-      "away": "Bayer 04 Leverkusen",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzcyYWI3ODYyYTYxMGIzNTBhZWY3NjUwZWMwZTA2ZTA2LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2YxNWFlM2VjOWIyZDc4ODgxODBhNmM4Y2Y0YjEzN2U4LnBuZw==",
-      "home_score": 3,
-      "away_score": 0,
-      "status": "Second Half",
-      "time_label": "25 Oct 2026 • 21:30 WIB",
-      "match_time": 1792938600,
-      "match_date": "2026-10-25",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaDgke7ghzJwV8U/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaDgke7ghzJwV8U/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/tsg-hoffenheim-vs-bayer-04-leverkusen-vjxm8ghe6274r6o"
-    },
-    {
-      "id": "2y8m4zh591glql0",
-      "slug": "rc-celta-vs-real-betis-2y8m4zh591glql0",
-      "competition": "Spanish La Liga",
-      "home": "RC Celta",
-      "away": "Real Betis",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZkOTU0ZDA4M2VlODVhNmYxYTNmMjQ3MWRjNzU2MjQyLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzAxOGUyNjBhZDY4YmRhZDc0MWM2MWUzMTcxYzRjNjA4LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Second Half",
-      "time_label": "25 Oct 2026 • 22:15 WIB",
-      "match_time": 1792941300,
-      "match_date": "2026-10-25",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGxUXu3SFsR73N/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGxUXu3SFsR73N/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/rc-celta-vs-real-betis-2y8m4zh591glql0"
-    },
     {
       "id": "pxwrxlhywjk1ryk",
       "slug": "aj-auxerre-vs-le-mans-pxwrxlhywjk1ryk",
@@ -156,50 +112,6 @@
         "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdpxgYTZ12NoPxNL/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/toulouse-fc-vs-troyes-23xmvkh6zknwqg8"
-    },
-    {
-      "id": "zp5rzghgej9oq82",
-      "slug": "lecce-vs-juventus-zp5rzghgej9oq82",
-      "competition": "Italian Serie A",
-      "home": "Lecce",
-      "away": "Juventus",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzZiYzM0OTZiZjM0YTZjODAzYjg3NGU2NTJlNmFjZWY1LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2RjMGU0M2I5NWM2Njc2YzU0NDE1YmFjMTY4NDcyYWE0LnBuZw==",
-      "home_score": 0,
-      "away_score": 2,
-      "status": "Half Time",
-      "time_label": "26 Oct 2026 • 00:00 WIB",
-      "match_time": 1792947600,
-      "match_date": "2026-10-26",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jaVDDmm9ouhH2/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jaVDDmm9ouhH2/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/lecce-vs-juventus-zp5rzghgej9oq82"
-    },
-    {
-      "id": "x7lm7phjepw9m2w",
-      "slug": "real-sociedad-vs-levante-x7lm7phjepw9m2w",
-      "competition": "Spanish La Liga",
-      "home": "Real Sociedad",
-      "away": "Levante",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzU3OWRiNmU5NTkwNTU0NTk3MzAzNWU2ZWFiOGRmMmNkLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzEzZTIwMzhiZDIzYTM4Y2UzMmEzZWIyNTljOGJmN2Q4LnBuZw==",
-      "home_score": 2,
-      "away_score": 1,
-      "status": "First Half",
-      "time_label": "26 Oct 2026 • 00:30 WIB",
-      "match_time": 1792949400,
-      "match_date": "2026-10-26",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGxUY8EKUkNbxk/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGxUY8EKUkNbxk/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/real-sociedad-vs-levante-x7lm7phjepw9m2w"
     },
     {
       "id": "23xmvkh6jgl4qg8",
