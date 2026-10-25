@@ -670,7 +670,22 @@
     "l5ergph4joxor8k": 1792862724,
     "vjxm8gheo8z8r6o": 1792862724,
     "l7oqdehgk145r51": 1792862724,
-    "k82rekhgkzd1rep": 1792904284
+    "k82rekhgkzd1rep": 1792921376,
+    "23xmvkh6j68oqg8": 1792921376,
+    "1l4rjnh97yp6m7v": 1792921376,
+    "vjxm8gheo46wr6o": 1792921376,
+    "ednm9whwn8lzryo": 1792921376,
+    "jw2r09hkv1xzrz8": 1792921376,
+    "n54qllhn6n72qvy": 1792921376,
+    "dj2ryohl3k3gq1z": 1792921376,
+    "pxwrxlhywg4yryk": 1792921376,
+    "y0or5jh8d321qwz": 1792921376,
+    "23xmvkh6zjg9qg8": 1792921376,
+    "1l4rjnh9p03jm7v": 1792921376,
+    "ednm9whwl4dwryo": 1792921376,
+    "965mkyhk9xg8r1g": 1792921376,
+    "vjxm8ghe6274r6o": 1792921376,
+    "2y8m4zh591glql0": 1792921376
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -1202,6 +1217,76 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGxUhJ8c6rJP5i/playlist.m3u8",
       "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGxUhJ8c6rJP5i/playlist.m3u8",
       "slug": "atletico-madrid-vs-rc-deportivo-l7oqdehgk145r51"
+    },
+    "23xmvkh6j68oqg8": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW1v9eAXuCkuzY/playlist.m3u8",
+      "hd": "",
+      "slug": "chornomorets-odesa-vs-fc-karpaty-lviv-23xmvkh6j68oqg8"
+    },
+    "1l4rjnh97yp6m7v": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb79RpNBKSMrwXHi/playlist.m3u8",
+      "hd": "",
+      "slug": "fc-inhulets-petrove-vs-kolos-kovalivka-ii-1l4rjnh97yp6m7v"
+    },
+    "vjxm8gheo46wr6o": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jaVDiM1U3ecGg/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jaVDiM1U3ecGg/playlist.m3u8",
+      "slug": "inter-milan-vs-fiorentina-vjxm8gheo46wr6o"
+    },
+    "ednm9whwn8lzryo": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb79RpMeYiB9Nh9A/playlist.m3u8",
+      "hd": "",
+      "slug": "nyva-ternopil-vs-kulykiv-ednm9whwn8lzryo"
+    },
+    "jw2r09hkv1xzrz8": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGxUhLL5yL8JEc/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGxUhLL5yL8JEc/playlist.m3u8",
+      "slug": "athletic-club-vs-getafe-jw2r09hkv1xzrz8"
+    },
+    "n54qllhn6n72qvy": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW1vA8jnDSVpzC/playlist.m3u8",
+      "hd": "",
+      "slug": "fc-bukovyna-chernivtsi-vs-kryvbas-n54qllhn6n72qvy"
+    },
+    "dj2ryohl3k3gq1z": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jZjEHSMAgvgue/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jZjEHSMAgvgue/playlist.m3u8",
+      "slug": "atalanta-vs-frosinone-dj2ryohl3k3gq1z"
+    },
+    "pxwrxlhywg4yryk": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jaV3yUWnkL5rG/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jaV3yUWnkL5rG/playlist.m3u8",
+      "slug": "genoa-vs-venezia-pxwrxlhywg4yryk"
+    },
+    "y0or5jh8d321qwz": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdpxgYTUc4dqk84Y/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdpxgYTUc4dqk84Y/playlist.m3u8",
+      "slug": "as-monaco-vs-losc-lille-y0or5jh8d321qwz"
+    },
+    "23xmvkh6zjg9qg8": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQiHU85gxjiUwJ/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQiHU85gxjiUwJ/playlist.m3u8",
+      "slug": "crystal-palace-vs-newcastle-united-23xmvkh6zjg9qg8"
+    },
+    "1l4rjnh9p03jm7v": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQiHUCUehhNKF6/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQiHUCUehhNKF6/playlist.m3u8",
+      "slug": "hull-city-vs-brentford-1l4rjnh9p03jm7v"
+    },
+    "ednm9whwl4dwryo": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQiHUGscSf29Yt/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQiHUGscSf29Yt/playlist.m3u8",
+      "slug": "liverpool-vs-brighton-hove-albion-ednm9whwl4dwryo"
+    },
+    "965mkyhk9xg8r1g": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQiHUPU446Vu1a/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQiHUPU446Vu1a/playlist.m3u8",
+      "slug": "manchester-united-vs-bournemouth-afc-965mkyhk9xg8r1g"
+    },
+    "vjxm8ghe6274r6o": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaDgke7ghzJwV8U/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaDgke7ghzJwV8U/playlist.m3u8",
+      "slug": "tsg-hoffenheim-vs-bayer-04-leverkusen-vjxm8ghe6274r6o"
     }
   }
 }
