@@ -686,13 +686,13 @@
     "965mkyhk9xg8r1g": 1792921376,
     "vjxm8ghe6274r6o": 1792921376,
     "2y8m4zh591glql0": 1792936645,
-    "6ypq3nhvdwj0md7": 1792936645,
-    "pxwrxlhywjk1ryk": 1792936645,
-    "x7lm7phjdw19m2w": 1792936645,
-    "n54qllhny8okqvy": 1792936645,
-    "23xmvkh6zknwqg8": 1792936645,
-    "y39mp1h68nkomoj": 1792936645,
-    "23xmvkh6jgl4qg8": 1792936645
+    "6ypq3nhvdwj0md7": 1792945911,
+    "pxwrxlhywjk1ryk": 1792945911,
+    "x7lm7phjdw19m2w": 1792945911,
+    "n54qllhny8okqvy": 1792945911,
+    "23xmvkh6zknwqg8": 1792945911,
+    "y39mp1h68nkomoj": 1792945911,
+    "23xmvkh6jgl4qg8": 1792945911
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -1299,6 +1299,41 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGxUXu3SFsR73N/playlist.m3u8",
       "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGxUXu3SFsR73N/playlist.m3u8",
       "slug": "rc-celta-vs-real-betis-2y8m4zh591glql0"
+    },
+    "6ypq3nhvdwj0md7": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdpxgYdHsX46iUnk/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdpxgYdHsX46iUnk/playlist.m3u8",
+      "slug": "angers-sco-vs-lorient-6ypq3nhvdwj0md7"
+    },
+    "pxwrxlhywjk1ryk": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdpxgYdQTxfYCEFS/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdpxgYdQTxfYCEFS/playlist.m3u8",
+      "slug": "aj-auxerre-vs-le-mans-pxwrxlhywjk1ryk"
+    },
+    "x7lm7phjdw19m2w": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdpxgYcqVkcLoUwz/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdpxgYcqVkcLoUwz/playlist.m3u8",
+      "slug": "marseille-vs-havre-athletic-club-x7lm7phjdw19m2w"
+    },
+    "n54qllhny8okqvy": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdpxgYTSQamMvCue/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdpxgYTSQamMvCue/playlist.m3u8",
+      "slug": "stade-rennais-fc-vs-rc-strasbourg-alsace-n54qllhny8okqvy"
+    },
+    "23xmvkh6zknwqg8": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdpxgYTZ12NoPxNL/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdpxgYTZ12NoPxNL/playlist.m3u8",
+      "slug": "toulouse-fc-vs-troyes-23xmvkh6zknwqg8"
+    },
+    "y39mp1h68nkomoj": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQiHUMGaBcfyrg/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQiHUMGaBcfyrg/playlist.m3u8",
+      "slug": "sunderland-vs-leeds-united-y39mp1h68nkomoj"
+    },
+    "23xmvkh6jgl4qg8": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaDgjoP8kjLWwsW/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaDgjoP8kjLWwsW/playlist.m3u8",
+      "slug": "sc-freiburg-vs-fc-bayern-munich-23xmvkh6jgl4qg8"
     }
   }
 }

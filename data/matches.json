@@ -1,228 +1,8 @@
 {
-  "updated_at": "2026-10-25T13:57:32.129488+00:00",
+  "updated_at": "2026-10-25T16:31:54.254633+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 19,
+  "matches_count": 9,
   "matches": [
-    {
-      "id": "ednm9whwn8lzryo",
-      "slug": "nyva-ternopil-vs-kulykiv-ednm9whwn8lzryo",
-      "competition": "Ukrainian First League",
-      "home": "Nyva Ternopil",
-      "away": "Kulykiv",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzhmYmMyOTA2YjQwZGI1Yjk0YzkyOTAyMzczNmY5YjE3LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2RlMTUzNDVlZTBkMWE2YTMwYWMzNmVhMDA2YTdhNTA5LnBuZw==",
-      "home_score": 1,
-      "away_score": 0,
-      "status": "Half Time",
-      "time_label": "25 Oct 2026 • 19:30 WIB",
-      "match_time": 1792931400,
-      "match_date": "2026-10-25",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb79RpMeYiB9Nh9A/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/nyva-ternopil-vs-kulykiv-ednm9whwn8lzryo"
-    },
-    {
-      "id": "jw2r09hkv1xzrz8",
-      "slug": "athletic-club-vs-getafe-jw2r09hkv1xzrz8",
-      "competition": "Spanish La Liga",
-      "home": "Athletic Club",
-      "away": "Getafe",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2FiYmIzMWQ0MmM1NTYxMjczNzcxM2FhYzY1NjdhMjI2LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzM2YmY1YmYwYzhmZGYwOGMxMjcwMTI0ODA4ZjA2MGUxLnBuZw==",
-      "home_score": 2,
-      "away_score": 0,
-      "status": "Half Time",
-      "time_label": "25 Oct 2026 • 20:00 WIB",
-      "match_time": 1792933200,
-      "match_date": "2026-10-25",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGxUhLL5yL8JEc/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGxUhLL5yL8JEc/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/athletic-club-vs-getafe-jw2r09hkv1xzrz8"
-    },
-    {
-      "id": "n54qllhn6n72qvy",
-      "slug": "fc-bukovyna-chernivtsi-vs-kryvbas-n54qllhn6n72qvy",
-      "competition": "Ukrainian Premier League",
-      "home": "FC Bukovyna Chernivtsi",
-      "away": "Kryvbas",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Y0ZTFmMjRiMTkyNmE1NjQ2YzUyMmNkOTllNGM5MzU4LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzdlNmNiYzVjMmExZjViNTA3ZWFiNWFjOTVlZWU0NTRiLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "TBD",
-      "time_label": "25 Oct 2026 • 18:00 WIB",
-      "match_time": 1792926000,
-      "match_date": "2026-10-25",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW1vA8jnDSVpzC/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/fc-bukovyna-chernivtsi-vs-kryvbas-n54qllhn6n72qvy"
-    },
-    {
-      "id": "23xmvkh6zjg9qg8",
-      "slug": "crystal-palace-vs-newcastle-united-23xmvkh6zjg9qg8",
-      "competition": "English Premier League",
-      "home": "Crystal Palace",
-      "away": "Newcastle United",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzQyMzk2ZDE4NDQ0MTU2ZTY0MGMzNzQ3NmMyYjQxYjkzLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Q0NjU4MmMyNDYzMTQyNGFhNmMwMzc5NTcyYTI4NzExLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "25 Oct 2026 • 21:00 WIB",
-      "match_time": 1792936800,
-      "match_date": "2026-10-25",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQiHU85gxjiUwJ/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQiHU85gxjiUwJ/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/crystal-palace-vs-newcastle-united-23xmvkh6zjg9qg8"
-    },
-    {
-      "id": "1l4rjnh9p03jm7v",
-      "slug": "hull-city-vs-brentford-1l4rjnh9p03jm7v",
-      "competition": "English Premier League",
-      "home": "Hull City",
-      "away": "Brentford",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzI2MjY5MTIwNDEwMmQyMjAwNzk3ZjBhYzM0ZWZiMzE2LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzYwZjFjNzc4OGJlMzE0OGEzNzBkYmY1OWY5MTRhYmZlLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "25 Oct 2026 • 21:00 WIB",
-      "match_time": 1792936800,
-      "match_date": "2026-10-25",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQiHUCUehhNKF6/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQiHUCUehhNKF6/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/hull-city-vs-brentford-1l4rjnh9p03jm7v"
-    },
-    {
-      "id": "ednm9whwl4dwryo",
-      "slug": "liverpool-vs-brighton-hove-albion-ednm9whwl4dwryo",
-      "competition": "English Premier League",
-      "home": "Liverpool",
-      "away": "Brighton Hove Albion",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzFjYjNkMDhhZGFjMGUyZGMxYzRmMTA0MjlkMDU1YmZlLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzliNDNhNjkwZDVhMDlmMWUzMTlmMDM2ODIxZThlMWQzLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "25 Oct 2026 • 21:00 WIB",
-      "match_time": 1792936800,
-      "match_date": "2026-10-25",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQiHUGscSf29Yt/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQiHUGscSf29Yt/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/liverpool-vs-brighton-hove-albion-ednm9whwl4dwryo"
-    },
-    {
-      "id": "965mkyhk9xg8r1g",
-      "slug": "manchester-united-vs-bournemouth-afc-965mkyhk9xg8r1g",
-      "competition": "English Premier League",
-      "home": "Manchester United",
-      "away": "Bournemouth AFC",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2QzOWNlNTg2ZmQ3Mjc4MzQyZGRlMzNiMzA5MGIzZjc1LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzI0MGIzMGQzMzNjOTdkMjkzNzUyYWI3YWZkNzdjY2Q2LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "25 Oct 2026 • 21:00 WIB",
-      "match_time": 1792936800,
-      "match_date": "2026-10-25",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQiHUPU446Vu1a/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQiHUPU446Vu1a/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/manchester-united-vs-bournemouth-afc-965mkyhk9xg8r1g"
-    },
-    {
-      "id": "y0or5jh8d321qwz",
-      "slug": "as-monaco-vs-losc-lille-y0or5jh8d321qwz",
-      "competition": "French Ligue 1",
-      "home": "AS Monaco",
-      "away": "LOSC Lille",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzY5M2FmMGQyNzdmZTMxNzk1OTQ2OTU2MTRkY2U4NjY2LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzI4ZTk0OTI1ZmRjYzg0OGY4NmE1NDRhMWNlZGNjZWVkLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "25 Oct 2026 • 21:00 WIB",
-      "match_time": 1792936800,
-      "match_date": "2026-10-25",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdpxgYTUc4dqk84Y/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdpxgYTUc4dqk84Y/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/as-monaco-vs-losc-lille-y0or5jh8d321qwz"
-    },
-    {
-      "id": "dj2ryohl3k3gq1z",
-      "slug": "atalanta-vs-frosinone-dj2ryohl3k3gq1z",
-      "competition": "Italian Serie A",
-      "home": "Atalanta",
-      "away": "Frosinone",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzQzYTg3N2JmN2E2ZjRjMTA5ZjBhZmZiZjQ1ZDVmMTljLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzkzYzI3OGQ1ZDhkMWQ1ZTJkMzkwZmY2ODYzNTk5NjNkLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "25 Oct 2026 • 21:00 WIB",
-      "match_time": 1792936800,
-      "match_date": "2026-10-25",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jZjEHSMAgvgue/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jZjEHSMAgvgue/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/atalanta-vs-frosinone-dj2ryohl3k3gq1z"
-    },
-    {
-      "id": "pxwrxlhywg4yryk",
-      "slug": "genoa-vs-venezia-pxwrxlhywg4yryk",
-      "competition": "Italian Serie A",
-      "home": "Genoa",
-      "away": "Venezia",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzUxNDc0ZmI2OGM3ZGE0NmI5YzIwZWJkZGNjZWM3NzY2LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzNlNzI0ZGMwZTZmZmZkMDFhNjMwYjY1YWYzNDhmYWI2LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "25 Oct 2026 • 21:00 WIB",
-      "match_time": 1792936800,
-      "match_date": "2026-10-25",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jaV3yUWnkL5rG/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jaV3yUWnkL5rG/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/genoa-vs-venezia-pxwrxlhywg4yryk"
-    },
     {
       "id": "vjxm8ghe6274r6o",
       "slug": "tsg-hoffenheim-vs-bayer-04-leverkusen-vjxm8ghe6274r6o",
@@ -231,13 +11,13 @@
       "away": "Bayer 04 Leverkusen",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzcyYWI3ODYyYTYxMGIzNTBhZWY3NjUwZWMwZTA2ZTA2LnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2YxNWFlM2VjOWIyZDc4ODgxODBhNmM4Y2Y0YjEzN2U4LnBuZw==",
-      "home_score": 0,
+      "home_score": 3,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "Second Half",
       "time_label": "25 Oct 2026 • 21:30 WIB",
       "match_time": 1792938600,
       "match_date": "2026-10-25",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
         "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaDgke7ghzJwV8U/playlist.m3u8",
@@ -255,11 +35,11 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzAxOGUyNjBhZDY4YmRhZDc0MWM2MWUzMTcxYzRjNjA4LnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "Second Half",
       "time_label": "25 Oct 2026 • 22:15 WIB",
       "match_time": 1792941300,
       "match_date": "2026-10-25",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
         "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGxUXu3SFsR73N/playlist.m3u8",
@@ -277,15 +57,15 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzVkZTE3ZTNkMzVlZjMxMjU1OWJhZjFmOGMwYjBiNTg1LnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "First Half",
       "time_label": "25 Oct 2026 • 23:15 WIB",
       "match_time": 1792944900,
       "match_date": "2026-10-25",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdpxgYdQTxfYCEFS/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdpxgYdQTxfYCEFS/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/aj-auxerre-vs-le-mans-pxwrxlhywjk1ryk"
     },
@@ -299,15 +79,15 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2I1OTM3MjczMjE3OTMwODRiMWY3ODA0YWViZWRjMzFhLnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "First Half",
       "time_label": "25 Oct 2026 • 23:15 WIB",
       "match_time": 1792944900,
       "match_date": "2026-10-25",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdpxgYdHsX46iUnk/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdpxgYdHsX46iUnk/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/angers-sco-vs-lorient-6ypq3nhvdwj0md7"
     },
@@ -319,17 +99,17 @@
       "away": "Havre Athletic Club",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzBkYzRiNDU1MjQzNTBhNTBhNGQzMjc2YTI1MjU2OTNmLnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzhmZDUwYTUzZGFkNWVhNGZkMmQzMmJkM2NlNzI3ZjU4LnBuZw==",
-      "home_score": 0,
+      "home_score": 1,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "First Half",
       "time_label": "25 Oct 2026 • 23:15 WIB",
       "match_time": 1792944900,
       "match_date": "2026-10-25",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdpxgYcqVkcLoUwz/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdpxgYcqVkcLoUwz/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/marseille-vs-havre-athletic-club-x7lm7phjdw19m2w"
     },
@@ -343,15 +123,15 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzk5OGRiNDc4YmY3YzA2ZDU4MTdiZjg0Njk4N2EwZDBhLnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "First Half",
       "time_label": "25 Oct 2026 • 23:15 WIB",
       "match_time": 1792944900,
       "match_date": "2026-10-25",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdpxgYTSQamMvCue/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdpxgYTSQamMvCue/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/stade-rennais-fc-vs-rc-strasbourg-alsace-n54qllhny8okqvy"
     },
@@ -365,15 +145,15 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzk1MWE1MjJjMTMxZThkMmEwYTMyMTg1ODU4YmE2MzAwLnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "First Half",
       "time_label": "25 Oct 2026 • 23:15 WIB",
       "match_time": 1792944900,
       "match_date": "2026-10-25",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdpxgYTZ12NoPxNL/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdpxgYTZ12NoPxNL/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/toulouse-fc-vs-troyes-23xmvkh6zknwqg8"
     },
@@ -394,8 +174,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaDgjoP8kjLWwsW/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaDgjoP8kjLWwsW/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/sc-freiburg-vs-fc-bayern-munich-23xmvkh6jgl4qg8"
     },
@@ -416,8 +196,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQiHUMGaBcfyrg/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQiHUMGaBcfyrg/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/sunderland-vs-leeds-united-y39mp1h68nkomoj"
     }
