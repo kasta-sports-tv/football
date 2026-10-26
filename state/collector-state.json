@@ -699,7 +699,9 @@
     "6ypq3nhvo1w0md7": 1792949639,
     "zp5rzghgepl4q82": 1793035550,
     "y0or5jh8k131qwz": 1793035550,
-    "y0or5jh8y30nqwz": 1793040077
+    "y0or5jh8y30nqwz": 1793040077,
+    "k82rekhgp6dnrep": 1793041060,
+    "k82rekhg4662rep": 1793041060
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -1376,6 +1378,16 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweLB37NNWkD8RumA/playlist.m3u8",
       "hd": "",
       "slug": "santa-clara-vs-benfica-y0or5jh8y30nqwz"
+    },
+    "k82rekhgp6dnrep": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb6hHRJxxjE6uvdN/playlist.m3u8",
+      "hd": "",
+      "slug": "galatasaray-vs-fenerbahce-k82rekhgp6dnrep"
+    },
+    "k82rekhg4662rep": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARktnT83jygZe/playlist.m3u8",
+      "hd": "",
+      "slug": "andorra-cf-vs-burgos-cf-k82rekhg4662rep"
     }
   }
 }
