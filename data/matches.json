@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-10-26T11:13:23.535581+00:00",
+  "updated_at": "2026-10-26T17:25:52.614068+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 0,
-  "matches": []
+  "matches_count": 2,
+  "matches": [
+    {
+      "id": "zp5rzghgepl4q82",
+      "slug": "paris-saint-germain-vs-lyon-zp5rzghgepl4q82",
+      "competition": "French Ligue 1",
+      "home": "Paris Saint Germain",
+      "away": "Lyon",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzNiNzIwZjE4MWNlOTk5M2Y5NDIyZDI3NmFjZjdiMjkyLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzkyZmIzY2Y3OWVhMmJhOTE5Yjk0YjA0NjY4ZTEzNDkxLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "27 Oct 2026 • 02:30 WIB",
+      "match_time": 1793043000,
+      "match_date": "2026-10-27",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdpxgYTWoYWKa3DS/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdpxgYTWoYWKa3DS/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/paris-saint-germain-vs-lyon-zp5rzghgepl4q82"
+    },
+    {
+      "id": "y0or5jh8k131qwz",
+      "slug": "sevilla-fc-vs-ca-osasuna-y0or5jh8k131qwz",
+      "competition": "Spanish La Liga",
+      "home": "Sevilla FC",
+      "away": "CA Osasuna",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2QyMGVkMWRhNGYyOTljYzNlZjBlMWU5ZWIwNmVjZWQxLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2MyMDUwYjk0MDA3NmRmNzBiMmFkMGE2MTAzYzUwZGY0LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "27 Oct 2026 • 03:00 WIB",
+      "match_time": 1793044800,
+      "match_date": "2026-10-27",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGxUXdf5AWdgy6/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGxUXdf5AWdgy6/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/sevilla-fc-vs-ca-osasuna-y0or5jh8k131qwz"
+    }
+  ]
 }

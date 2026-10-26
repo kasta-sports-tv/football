@@ -696,7 +696,9 @@
     "zp5rzghgej9oq82": 1792949639,
     "x7lm7phjepw9m2w": 1792949639,
     "8yomo4h1j7lzq0j": 1792949639,
-    "6ypq3nhvo1w0md7": 1792949639
+    "6ypq3nhvo1w0md7": 1792949639,
+    "zp5rzghgepl4q82": 1793035550,
+    "y0or5jh8k131qwz": 1793035550
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -1358,6 +1360,16 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGxUXySPzq4wMA/playlist.m3u8",
       "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGxUXySPzq4wMA/playlist.m3u8",
       "slug": "fc-barcelona-vs-real-madrid-6ypq3nhvo1w0md7"
+    },
+    "zp5rzghgepl4q82": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdpxgYTWoYWKa3DS/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdpxgYTWoYWKa3DS/playlist.m3u8",
+      "slug": "paris-saint-germain-vs-lyon-zp5rzghgepl4q82"
+    },
+    "y0or5jh8k131qwz": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGxUXdf5AWdgy6/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGxUXdf5AWdgy6/playlist.m3u8",
+      "slug": "sevilla-fc-vs-ca-osasuna-y0or5jh8k131qwz"
     }
   }
 }
