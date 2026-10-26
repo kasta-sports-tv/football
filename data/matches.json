@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-10-26T17:25:52.614068+00:00",
+  "updated_at": "2026-10-26T18:41:18.280862+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 2,
+  "matches_count": 3,
   "matches": [
+    {
+      "id": "y0or5jh8y30nqwz",
+      "slug": "santa-clara-vs-benfica-y0or5jh8y30nqwz",
+      "competition": "Portuguese Primera Liga",
+      "home": "Santa Clara",
+      "away": "Benfica",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzBjNTE2MmU3ZjgzNzFjYjY5NzJjYTY0MTNiZjIyOGU4LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzc4MzYwNDQ1YzEyZmEzZmRjOGI0ODk0ODZmZmY0ZWI2LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "27 Oct 2026 • 01:45 WIB",
+      "match_time": 1793040300,
+      "match_date": "2026-10-27",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweLB37NNWkD8RumA/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/santa-clara-vs-benfica-y0or5jh8y30nqwz"
+    },
     {
       "id": "zp5rzghgepl4q82",
       "slug": "paris-saint-germain-vs-lyon-zp5rzghgepl4q82",
