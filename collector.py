@@ -25,6 +25,8 @@ ALLOWED_COMPETITIONS = {
     "Bundesliga",
     "French Ligue 1",
     "Portuguese Primera Liga",
+    "Turkish Super League",
+    "Spanish Segunda Division",
     "Ukrainian Premier League",
     "Ukrainian First League",
     "UEFA Champions League",
