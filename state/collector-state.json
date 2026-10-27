@@ -730,7 +730,9 @@
     "y0or5jh9x728qwz": 1793125485,
     "n54qllh45vo4qvy": 1793125485,
     "23xmvkhyv7n2qg8": 1793125485,
-    "zp5rzgh3y8ldq82": 1793125485
+    "zp5rzgh3y8ldq82": 1793125485,
+    "l5ergphk0vljr8k": 1793126272,
+    "l7oqdehjy48wr51": 1793126272
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -1562,6 +1564,16 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjKLjoEaASPZmy9r/playlist.m3u8",
       "hd": "",
       "slug": "recreativo-huelva-vs-rayo-vallecano-zp5rzgh3y8ldq82"
+    },
+    "l5ergphk0vljr8k": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjZPQApCkCDCWZ4U/playlist.m3u8",
+      "hd": "",
+      "slug": "bradford-city-vs-peterborough-united-l5ergphk0vljr8k"
+    },
+    "l7oqdehjy48wr51": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjZPQApH99xAAPNG/playlist.m3u8",
+      "hd": "",
+      "slug": "fleetwood-town-vs-arsenal-l7oqdehjy48wr51"
     }
   }
 }

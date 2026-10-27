@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-27T18:25:03.220458+00:00",
+  "updated_at": "2026-10-27T18:37:55.875872+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 29,
+  "matches_count": 31,
   "matches": [
     {
       "id": "4wyrn4h6gno8q86",
@@ -12,7 +12,7 @@
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzkwZjUyYjMwZmJkZjJhYzU2OGNhMWQ0OGMwN2YyYmMzLnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZlNjM2MTg5YTJmM2RiNzhkMDU1NGMzNGYwYmRhYWU2LnBuZw==",
       "home_score": 0,
-      "away_score": 1,
+      "away_score": 2,
       "status": "Second Half",
       "time_label": "28 Oct 2026 • 00:00 WIB",
       "match_time": 1793120400,
@@ -56,7 +56,7 @@
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzA0MmUxYTA0NTUzZTZiNTAxOTJiYTgwNTI1OGYxNWE1LnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2RiNDQxMWEzYzRjZTFkMGYwOTJmNWI5ZDFkZjA4NjY0LnBuZw==",
       "home_score": 2,
-      "away_score": 2,
+      "away_score": 3,
       "status": "Second Half",
       "time_label": "28 Oct 2026 • 00:00 WIB",
       "match_time": 1793120400,
@@ -101,7 +101,7 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzAwNmNlMjU5YjMzZWY3MmRkNTU3MGNmYThkYzM5ZjM4LnBuZw==",
       "home_score": 0,
       "away_score": 1,
-      "status": "Half Time",
+      "status": "Second Half",
       "time_label": "28 Oct 2026 • 00:30 WIB",
       "match_time": 1793122200,
       "match_date": "2026-10-28",
@@ -123,7 +123,7 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzVhMmZmNDZlZmEzM2FiYzZiMjkwOGViNjI3OWRmYmY4LnBuZw==",
       "home_score": 2,
       "away_score": 4,
-      "status": "First Half",
+      "status": "Half Time",
       "time_label": "28 Oct 2026 • 00:30 WIB",
       "match_time": 1793122200,
       "match_date": "2026-10-28",
@@ -144,7 +144,7 @@
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzM4ODZiMWM3NzQyMjJhNWFmNDI2YTllYjUwNjc3YWQ4LnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzU1Mzg2YWMyOTU0NTA0YWM3ODRkNTQ4OTRmZmM5MzVhLnBuZw==",
       "home_score": 0,
-      "away_score": 0,
+      "away_score": 1,
       "status": "First Half",
       "time_label": "28 Oct 2026 • 01:00 WIB",
       "match_time": 1793124000,
@@ -466,6 +466,28 @@
       "match_url": "https://kickofftv.id/match/sv-07-elversberg-vs-sv-darmstadt-98-2y8m4zh5l9w1ql0"
     },
     {
+      "id": "l5ergphk0vljr8k",
+      "slug": "bradford-city-vs-peterborough-united-l5ergphk0vljr8k",
+      "competition": "English Football League Cup",
+      "home": "Bradford City",
+      "away": "Peterborough United",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzE0NmQ5MDM4NDRiMTQ5ODFiYTUyYzViNTU3YmJjYTBiLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzIwYjViYzlmMjZkMDQxN2U5OTczNzY2OGJiNWY2N2I5LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "28 Oct 2026 • 02:45 WIB",
+      "match_time": 1793130300,
+      "match_date": "2026-10-28",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjZPQApCkCDCWZ4U/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/bradford-city-vs-peterborough-united-l5ergphk0vljr8k"
+    },
+    {
       "id": "965mkyhk970dr1g",
       "slug": "as-roma-vs-cagliari-965mkyhk970dr1g",
       "competition": "Italian Serie A",
@@ -640,6 +662,28 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/sporting-alcazar-vs-malaga-y0or5jh9x728qwz"
+    },
+    {
+      "id": "l7oqdehjy48wr51",
+      "slug": "fleetwood-town-vs-arsenal-l7oqdehjy48wr51",
+      "competition": "English Football League Cup",
+      "home": "Fleetwood Town",
+      "away": "Arsenal",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2U5ZTRlZjYxZjg3NzRjN2RmOWJjZmM3YTRjYzMyYTA4LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Q2ZjVkZWJjNDU2ZGExMTE5MjU2YWI2NjQ2MmFiNTEwLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "28 Oct 2026 • 03:00 WIB",
+      "match_time": 1793131200,
+      "match_date": "2026-10-28",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjZPQApH99xAAPNG/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/fleetwood-town-vs-arsenal-l7oqdehjy48wr51"
     }
   ]
 }
