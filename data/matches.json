@@ -1,6 +1,73 @@
 {
-  "updated_at": "2026-10-27T12:02:01.867983+00:00",
+  "updated_at": "2026-10-27T17:55:12.113231+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 0,
-  "matches": []
+  "matches_count": 3,
+  "matches": [
+    {
+      "id": "965mkyhk97vlr1g",
+      "slug": "sassuolo-vs-lazio-965mkyhk97vlr1g",
+      "competition": "Italian Serie A",
+      "home": "Sassuolo",
+      "away": "Lazio",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzYxNmJmMjQyYTUzMmY3MmU5NzA2NDhmMmVhZDQyM2NmLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzVhMmZmNDZlZmEzM2FiYzZiMjkwOGViNjI3OWRmYmY4LnBuZw==",
+      "home_score": 1,
+      "away_score": 3,
+      "status": "First Half",
+      "time_label": "28 Oct 2026 • 00:30 WIB",
+      "match_time": 1793122200,
+      "match_date": "2026-10-28",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jaUYqFzVp2Ltp/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jaUYqFzVp2Ltp/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/sassuolo-vs-lazio-965mkyhk97vlr1g"
+    },
+    {
+      "id": "965mkyhk970dr1g",
+      "slug": "as-roma-vs-cagliari-965mkyhk970dr1g",
+      "competition": "Italian Serie A",
+      "home": "AS Roma",
+      "away": "Cagliari",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzdhMTkyNjg2ZDMwYzFhZDAzMWQyZmI2MDVlYWYyZjJhLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2RiYTY1YzE4NGUwM2M4NjBlZDkxOWNlMTkyYjg2YzVlLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "28 Oct 2026 • 02:45 WIB",
+      "match_time": 1793130300,
+      "match_date": "2026-10-28",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jZk4kbwLJZp6L/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jZk4kbwLJZp6L/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/as-roma-vs-cagliari-965mkyhk970dr1g"
+    },
+    {
+      "id": "y39mp1h683nlmoj",
+      "slug": "torino-vs-como-y39mp1h683nlmoj",
+      "competition": "Italian Serie A",
+      "home": "Torino",
+      "away": "Como",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2YwODU2YzFiMTZjMzIyNDVhOGQyYzcwMmZmZTg5YWM1LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzVmNzA1OWY0MDk2NWU1YTJjYzAwOTg3ZTZiYWMyZjMyLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "28 Oct 2026 • 02:45 WIB",
+      "match_time": 1793130300,
+      "match_date": "2026-10-28",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jaVipN3tW8S5E/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jaVipN3tW8S5E/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/torino-vs-como-y39mp1h683nlmoj"
+    }
+  ]
 }
