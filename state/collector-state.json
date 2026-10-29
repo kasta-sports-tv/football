@@ -748,7 +748,7 @@
     "k82rekh2zl75rep": 1793207257,
     "318q66h8zl5lqo9": 1793207257,
     "dn1m1gh9v65vmoe": 1793207257,
-    "4wyrn4hyzgj8q86": 1793214415,
+    "4wyrn4hyzgj8q86": 1793293526,
     "l5ergphk0gz3r8k": 1793207257,
     "jw2r09h548exrz8": 1793207257,
     "l7oqdehjy7v0r51": 1793207257,
@@ -758,7 +758,7 @@
     "6ypq3nhk6x2gmd7": 1793207257,
     "k82rekh2zo82rep": 1793207257,
     "pxwrxlhlpd6eryk": 1793207257,
-    "3glrw7h4kdxpqdy": 1793214415,
+    "3glrw7h4kdxpqdy": 1793293526,
     "vjxm8ghkvyn5r6o": 1793207257,
     "x7lm7phxg4lzm2w": 1793207257,
     "3glrw7hnew56qdy": 1793207257,
@@ -774,7 +774,24 @@
     "y0or5jh9x7v8qwz": 1793207257,
     "n54qllh45vl4qvy": 1793207257,
     "23xmvkhyv7e2qg8": 1793207257,
-    "zp5rzgh3y8ndq82": 1793207257
+    "zp5rzgh3y8ndq82": 1793207257,
+    "1l4rjnh9p6ddm7v": 1793293526,
+    "1l4rjnhnyv8pm7v": 1793293526,
+    "4jwq2ghgol8jm0v": 1793293526,
+    "ednm9wh581jyryo": 1793293526,
+    "965mkyh8lpjvr1g": 1793293526,
+    "y39mp1hdv7x2moj": 1793293526,
+    "k82rekh2zl55rep": 1793293526,
+    "318q66h8zl9lqo9": 1793293526,
+    "dn1m1gh9v66vmoe": 1793293526,
+    "4wyrn4hyzgg8q86": 1793293526,
+    "l5ergphk0gg3r8k": 1793293526,
+    "dj2ryohl3k6gq1z": 1793293526,
+    "jw2r09h54x6vrz8": 1793293526,
+    "jw2r09h5488xrz8": 1793293526,
+    "l7oqdehjy770r51": 1793293526,
+    "dj2ryoh7v88nq1z": 1793293526,
+    "2y8m4zhv0ll1ql0": 1793293526
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -1816,6 +1833,101 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjKLjnEWvH2a7zAL/playlist.m3u8",
       "hd": "",
       "slug": "xerez-deportivo-vs-cadiz-cf-zp5rzgh3y8ndq82"
+    },
+    "4wyrn4hyzgj8q86": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjKLjnPxCvk2qBMa/playlist.m3u8",
+      "hd": "",
+      "slug": "numancia-vs-real-oviedo-4wyrn4hyzgj8q86"
+    },
+    "1l4rjnh9p6ddm7v": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jZk4iQTTpjtwS/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jZk4iQTTpjtwS/playlist.m3u8",
+      "slug": "frosinone-vs-lecce-1l4rjnh9p6ddm7v"
+    },
+    "1l4rjnhnyv8pm7v": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjKLjnEUioA6J51S/playlist.m3u8",
+      "hd": "",
+      "slug": "atletico-calatayud-vs-ca-osasuna-1l4rjnhnyv8pm7v"
+    },
+    "4jwq2ghgol8jm0v": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjKLjnDz9YqrZA1n/playlist.m3u8",
+      "hd": "",
+      "slug": "ub-lebrijana-vs-getafe-4jwq2ghgol8jm0v"
+    },
+    "ednm9wh581jyryo": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjKLjnDwx4yNjErt/playlist.m3u8",
+      "hd": "",
+      "slug": "cd-atl-tico-baleares-vs-eldense-ednm9wh581jyryo"
+    },
+    "965mkyh8lpjvr1g": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjKLjnjPkSE9eK3W/playlist.m3u8",
+      "hd": "",
+      "slug": "ud-san-sebasti-n-de-los-reyes-vs-cd-coria-965mkyh8lpjvr1g"
+    },
+    "y39mp1hdv7x2moj": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjKLjnjMYxMfpPtc/playlist.m3u8",
+      "hd": "",
+      "slug": "sd-laredo-vs-burgos-cf-y39mp1hdv7x2moj"
+    },
+    "k82rekh2zl55rep": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjKLjnjU9Py7J9MJ/playlist.m3u8",
+      "hd": "",
+      "slug": "cd-guijuelo-vs-sporting-gijon-k82rekh2zl55rep"
+    },
+    "318q66h8zl9lqo9": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjKLjnjRwv6dUECQ/playlist.m3u8",
+      "hd": "",
+      "slug": "cd-varea-vs-andorra-cf-318q66h8zl9lqo9"
+    },
+    "dn1m1gh9v66vmoe": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjKLjnjYYMi4wyf6/playlist.m3u8",
+      "hd": "",
+      "slug": "real-avila-cf-vs-unionistas-de-salamanca-cf-dn1m1gh9v66vmoe"
+    },
+    "4wyrn4hyzgg8q86": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjKLjnjWLsqb84WC/playlist.m3u8",
+      "hd": "",
+      "slug": "ub-conquense-vs-castellon-4wyrn4hyzgg8q86"
+    },
+    "l5ergphk0gg3r8k": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjKLjnjcwKT2boxt/playlist.m3u8",
+      "hd": "",
+      "slug": "antequera-cf-vs-aguilas-cf-l5ergphk0gg3r8k"
+    },
+    "3glrw7h4kdxpqdy": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjKLjnEHjPohAVEx/playlist.m3u8",
+      "hd": "",
+      "slug": "gimnastica-torrelavega-vs-ud-ourense-3glrw7h4kdxpqdy"
+    },
+    "dj2ryohl3k6gq1z": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jaVZ3J5LiyzVv/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jaVZ3J5LiyzVv/playlist.m3u8",
+      "slug": "fiorentina-vs-atalanta-dj2ryohl3k6gq1z"
+    },
+    "jw2r09h54x6vrz8": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjZPQApKLdpdzJXA/playlist.m3u8",
+      "hd": "",
+      "slug": "everton-vs-newcastle-united-jw2r09h54x6vrz8"
+    },
+    "jw2r09h5488xrz8": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjKLjnjajqaYmtoz/playlist.m3u8",
+      "hd": "",
+      "slug": "ribadesella-cf-vs-racing-santander-jw2r09h5488xrz8"
+    },
+    "l7oqdehjy770r51": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjKLjnj6AbGK2ypL/playlist.m3u8",
+      "hd": "",
+      "slug": "auriense-vs-rc-deportivo-l7oqdehjy770r51"
+    },
+    "dj2ryoh7v88nq1z": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjKLjnj3y7PqD4fS/playlist.m3u8",
+      "hd": "",
+      "slug": "sporting-hortaleza-vs-sevilla-fc-dj2ryoh7v88nq1z"
+    },
+    "2y8m4zhv0ll1ql0": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjKLjnZh5RRL9hmz/playlist.m3u8",
+      "hd": "",
+      "slug": "ae-prat-vs-athletic-club-2y8m4zhv0ll1ql0"
     }
   }
 }
