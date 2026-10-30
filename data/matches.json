@@ -1,30 +1,8 @@
 {
-  "updated_at": "2026-10-30T06:18:11.502766+00:00",
+  "updated_at": "2026-10-30T13:12:52.346035+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 2,
+  "matches_count": 1,
   "matches": [
-    {
-      "id": "dn1m1ghljvdkmoe",
-      "slug": "ahrobiznes-volochysk-vs-prykarpattya-ivano-frankivsk-dn1m1ghljvdkmoe",
-      "competition": "Ukrainian First League",
-      "home": "Ahrobiznes Volochysk",
-      "away": "Prykarpattya Ivano Frankivsk",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2FmMjJkNGRiYzU4ZDBlZGU4NDU3ODQ1NDcyMjA3ODA3LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2UxMDExMWU0NWMzZDkzOWQ0YzU3NzkyNzFkZTkxYTQ5LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "30 Oct 2026 • 17:00 WIB",
-      "match_time": 1793354400,
-      "match_date": "2026-10-30",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb79RoXdktTHeZoE/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/ahrobiznes-volochysk-vs-prykarpattya-ivano-frankivsk-dn1m1ghljvdkmoe"
-    },
     {
       "id": "dn1m1ghlzldgmoe",
       "slug": "fc-shakhtar-donetsk-vs-obolon-kyiv-dn1m1ghlzldgmoe",
