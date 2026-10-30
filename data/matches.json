@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T17:51:36.450104+00:00",
+  "updated_at": "2026-10-30T18:38:52.521815+00:00",
   "source": "https://kickofftv.id",
   "matches_count": 32,
   "matches": [
@@ -12,8 +12,8 @@
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2U3NWY4YjRlMWJhYWIzMDYwZGJlNWJhOTgzYTNiNDljLnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZiY2YwMDJjOGQ2ZGQzNDgxM2ZhMmIzYTRjYzliMDRjLnBuZw==",
       "home_score": 0,
-      "away_score": 2,
-      "status": "First Half",
+      "away_score": 4,
+      "status": "Second Half",
       "time_label": "31 Oct 2026 • 00:00 WIB",
       "match_time": 1793379600,
       "match_date": "2026-10-31",
@@ -24,6 +24,50 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/konyaspor-vs-galatasaray-vjxm8ghed3ozr6o"
+    },
+    {
+      "id": "1l4rjnh9pxwlm7v",
+      "slug": "havre-athletic-club-vs-paris-saint-germain-1l4rjnh9pxwlm7v",
+      "competition": "French Ligue 1",
+      "home": "Havre Athletic Club",
+      "away": "Paris Saint Germain",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzhmZDUwYTUzZGFkNWVhNGZkMmQzMmJkM2NlNzI3ZjU4LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzNiNzIwZjE4MWNlOTk5M2Y5NDIyZDI3NmFjZjdiMjkyLnBuZw==",
+      "home_score": 1,
+      "away_score": 2,
+      "status": "First Half",
+      "time_label": "31 Oct 2026 • 01:00 WIB",
+      "match_time": 1793383200,
+      "match_date": "2026-10-31",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdpxgYTdPz7m3ng8/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdpxgYTdPz7m3ng8/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/havre-athletic-club-vs-paris-saint-germain-1l4rjnh9pxwlm7v"
+    },
+    {
+      "id": "k82rekhgdo7erep",
+      "slug": "ogc-nice-vs-stade-rennais-fc-k82rekhgdo7erep",
+      "competition": "French Ligue 1",
+      "home": "OGC Nice",
+      "away": "Stade Rennais FC",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZmODk5MTg1M2Y3YWFiY2U3Y2I2NmYwOWNkYTBjNThlLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2VhYjhmMGU4NDc3NDJmZDMyOGJiNTgxMjk5YmQ5OWNhLnBuZw==",
+      "home_score": 1,
+      "away_score": 1,
+      "status": "First Half",
+      "time_label": "31 Oct 2026 • 01:00 WIB",
+      "match_time": 1793383200,
+      "match_date": "2026-10-31",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdpxgYT8pjoXJsgU/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdpxgYT8pjoXJsgU/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/ogc-nice-vs-stade-rennais-fc-k82rekhgdo7erep"
     },
     {
       "id": "dn1m1ghlzldgmoe",
@@ -46,50 +90,6 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/fc-shakhtar-donetsk-vs-obolon-kyiv-dn1m1ghlzldgmoe"
-    },
-    {
-      "id": "1l4rjnh9pxwlm7v",
-      "slug": "havre-athletic-club-vs-paris-saint-germain-1l4rjnh9pxwlm7v",
-      "competition": "French Ligue 1",
-      "home": "Havre Athletic Club",
-      "away": "Paris Saint Germain",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzhmZDUwYTUzZGFkNWVhNGZkMmQzMmJkM2NlNzI3ZjU4LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzNiNzIwZjE4MWNlOTk5M2Y5NDIyZDI3NmFjZjdiMjkyLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "31 Oct 2026 • 01:00 WIB",
-      "match_time": 1793383200,
-      "match_date": "2026-10-31",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdpxgYTdPz7m3ng8/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdpxgYTdPz7m3ng8/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/havre-athletic-club-vs-paris-saint-germain-1l4rjnh9pxwlm7v"
-    },
-    {
-      "id": "k82rekhgdo7erep",
-      "slug": "ogc-nice-vs-stade-rennais-fc-k82rekhgdo7erep",
-      "competition": "French Ligue 1",
-      "home": "OGC Nice",
-      "away": "Stade Rennais FC",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZmODk5MTg1M2Y3YWFiY2U3Y2I2NmYwOWNkYTBjNThlLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2VhYjhmMGU4NDc3NDJmZDMyOGJiNTgxMjk5YmQ5OWNhLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "31 Oct 2026 • 01:00 WIB",
-      "match_time": 1793383200,
-      "match_date": "2026-10-31",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdpxgYT8pjoXJsgU/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdpxgYT8pjoXJsgU/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/ogc-nice-vs-stade-rennais-fc-k82rekhgdo7erep"
     },
     {
       "id": "dj2ryohl0d36q1z",
