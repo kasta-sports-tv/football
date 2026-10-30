@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T00:26:27.564392+00:00",
+  "updated_at": "2026-10-30T06:18:11.502766+00:00",
   "source": "https://kickofftv.id",
   "matches_count": 2,
   "matches": [
@@ -20,7 +20,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb79RoXdktTHeZoE/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/ahrobiznes-volochysk-vs-prykarpattya-ivano-frankivsk-dn1m1ghljvdkmoe"

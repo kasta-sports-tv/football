@@ -791,7 +791,8 @@
     "jw2r09h5488xrz8": 1793293526,
     "l7oqdehjy770r51": 1793293526,
     "dj2ryoh7v88nq1z": 1793293526,
-    "2y8m4zhv0ll1ql0": 1793293526
+    "2y8m4zhv0ll1ql0": 1793293526,
+    "dn1m1ghljvdkmoe": 1793341090
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -1928,6 +1929,11 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjKLjnZh5RRL9hmz/playlist.m3u8",
       "hd": "",
       "slug": "ae-prat-vs-athletic-club-2y8m4zhv0ll1ql0"
+    },
+    "dn1m1ghljvdkmoe": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb79RoXdktTHeZoE/playlist.m3u8",
+      "hd": "",
+      "slug": "ahrobiznes-volochysk-vs-prykarpattya-ivano-frankivsk-dn1m1ghljvdkmoe"
     }
   }
 }
