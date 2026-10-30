@@ -793,7 +793,14 @@
     "dj2ryoh7v88nq1z": 1793293526,
     "2y8m4zhv0ll1ql0": 1793293526,
     "dn1m1ghljvdkmoe": 1793341090,
-    "dn1m1ghlzldgmoe": 1793365969
+    "dn1m1ghlzldgmoe": 1793365969,
+    "vjxm8ghed3ozr6o": 1793381364,
+    "1l4rjnh9pxwlm7v": 1793381364,
+    "k82rekhgdo7erep": 1793381364,
+    "dj2ryohl0d36q1z": 1793381364,
+    "vjxm8ghe6xp3r6o": 1793381364,
+    "4jwq2ghndx3zm0v": 1793381364,
+    "23xmvkh61kg1qg8": 1793381364
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -1935,6 +1942,41 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb79RoXdktTHeZoE/playlist.m3u8",
       "hd": "",
       "slug": "ahrobiznes-volochysk-vs-prykarpattya-ivano-frankivsk-dn1m1ghljvdkmoe"
+    },
+    "vjxm8ghed3ozr6o": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb6hHR9JVCHmFEWk/playlist.m3u8",
+      "hd": "",
+      "slug": "konyaspor-vs-galatasaray-vjxm8ghed3ozr6o"
+    },
+    "1l4rjnh9pxwlm7v": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdpxgYTdPz7m3ng8/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdpxgYTdPz7m3ng8/playlist.m3u8",
+      "slug": "havre-athletic-club-vs-paris-saint-germain-1l4rjnh9pxwlm7v"
+    },
+    "k82rekhgdo7erep": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdpxgYT8pjoXJsgU/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdpxgYT8pjoXJsgU/playlist.m3u8",
+      "slug": "ogc-nice-vs-stade-rennais-fc-k82rekhgdo7erep"
+    },
+    "dj2ryohl0d36q1z": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaDgjxnDvaKQDur/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaDgjxnDvaKQDur/playlist.m3u8",
+      "slug": "sv-07-elversberg-vs-1-fsv-mainz-05-dj2ryohl0d36q1z"
+    },
+    "vjxm8ghe6xp3r6o": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGyDrg3xosUFwv/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGyDrg3xosUFwv/playlist.m3u8",
+      "slug": "villarreal-cf-vs-rcd-espanyol-de-barcelona-vjxm8ghe6xp3r6o"
+    },
+    "4jwq2ghndx3zm0v": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdpxgYTbCWFHDsXE/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdpxgYTbCWFHDsXE/playlist.m3u8",
+      "slug": "losc-lille-vs-rc-lens-4jwq2ghndx3zm0v"
+    },
+    "23xmvkh61kg1qg8": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweLB37D621yb2PBW/playlist.m3u8",
+      "hd": "",
+      "slug": "casa-pia-ac-vs-sporting-cp-23xmvkh61kg1qg8"
     }
   }
 }
