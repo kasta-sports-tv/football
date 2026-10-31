@@ -800,7 +800,16 @@
     "dj2ryohl0d36q1z": 1793381364,
     "vjxm8ghe6xp3r6o": 1793381364,
     "4jwq2ghndx3zm0v": 1793381364,
-    "23xmvkh61kg1qg8": 1793381364
+    "23xmvkh61kg1qg8": 1793381364,
+    "l7oqdehgpyzor51": 1793432521,
+    "l5ergph410zdr8k": 1793432521,
+    "2y8m4zh5yxdeql0": 1793432521,
+    "l5ergph464w4r8k": 1793432521,
+    "2y8m4zh5d9n0ql0": 1793432521,
+    "x7lm7phjep99m2w": 1793432521,
+    "8yomo4h1oxxnq0j": 1793432521,
+    "3glrw7hn26e8qdy": 1793432521,
+    "dj2ryohl0l19q1z": 1793432521
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -1977,6 +1986,41 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweLB37D621yb2PBW/playlist.m3u8",
       "hd": "",
       "slug": "casa-pia-ac-vs-sporting-cp-23xmvkh61kg1qg8"
+    },
+    "2y8m4zh5yxdeql0": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb6hHR9BtkgKmV44/playlist.m3u8",
+      "hd": "",
+      "slug": "erzurumspor-fk-vs-corum-fk-2y8m4zh5yxdeql0"
+    },
+    "l5ergph464w4r8k": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2gUSDjwie8ji/playlist.m3u8",
+      "hd": "",
+      "slug": "fc-livyi-bereh-vs-fc-bukovyna-chernivtsi-l5ergph464w4r8k"
+    },
+    "2y8m4zh5d9n0ql0": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQiHJgo3FH1Hk4/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQiHJgo3FH1Hk4/playlist.m3u8",
+      "slug": "chelsea-vs-manchester-united-2y8m4zh5d9n0ql0"
+    },
+    "x7lm7phjep99m2w": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGyDrXG3KxAbLL/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGyDrXG3KxAbLL/playlist.m3u8",
+      "slug": "levante-vs-atletico-madrid-x7lm7phjep99m2w"
+    },
+    "8yomo4h1oxxnq0j": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARk4AVcQD2tmN/playlist.m3u8",
+      "hd": "",
+      "slug": "real-sociedad-b-vs-girona-fc-8yomo4h1oxxnq0j"
+    },
+    "3glrw7hn26e8qdy": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb6hHR9LggAF59fe/playlist.m3u8",
+      "hd": "",
+      "slug": "kocaelispor-vs-caykur-rizespor-3glrw7hn26e8qdy"
+    },
+    "dj2ryohl0l19q1z": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2gK9j1iBEcA4/playlist.m3u8",
+      "hd": "",
+      "slug": "veres-vs-chornomorets-odesa-dj2ryohl0l19q1z"
     }
   }
 }

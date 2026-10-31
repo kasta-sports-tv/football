@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T01:50:24.573961+00:00",
+  "updated_at": "2026-10-31T07:42:08.904328+00:00",
   "source": "https://kickofftv.id",
   "matches_count": 24,
   "matches": [
@@ -64,7 +64,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb6hHR9BtkgKmV44/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/erzurumspor-fk-vs-corum-fk-2y8m4zh5yxdeql0"
@@ -86,7 +86,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2gUSDjwie8ji/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/fc-livyi-bereh-vs-fc-bukovyna-chernivtsi-l5ergph464w4r8k"
@@ -108,8 +108,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQiHJgo3FH1Hk4/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQiHJgo3FH1Hk4/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/chelsea-vs-manchester-united-2y8m4zh5d9n0ql0"
     },
@@ -130,8 +130,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGyDrXG3KxAbLL/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGyDrXG3KxAbLL/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/levante-vs-atletico-madrid-x7lm7phjep99m2w"
     },
@@ -152,7 +152,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARk4AVcQD2tmN/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/real-sociedad-b-vs-girona-fc-8yomo4h1oxxnq0j"
@@ -174,7 +174,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb6hHR9LggAF59fe/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/kocaelispor-vs-caykur-rizespor-3glrw7hn26e8qdy"
@@ -196,7 +196,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2gK9j1iBEcA4/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/veres-vs-chornomorets-odesa-dj2ryohl0l19q1z"
