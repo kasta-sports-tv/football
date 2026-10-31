@@ -823,7 +823,8 @@
     "3glrw7hne56yqdy": 1793439563,
     "3glrw7hn5oz0qdy": 1793439563,
     "jw2r09hkv99yrz8": 1793439563,
-    "ednm9whwyvd1ryo": 1793439563
+    "ednm9whwyvd1ryo": 1793439563,
+    "8yomo4h1lxjjq0j": 1793454936
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -2115,6 +2116,11 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweLB37CdeFXq7PLk/playlist.m3u8",
       "hd": "",
       "slug": "moreirense-vs-cf-estrela-amadora-sad-ednm9whwyvd1ryo"
+    },
+    "8yomo4h1lxjjq0j": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb6hHR99hGoqwZuA/playlist.m3u8",
+      "hd": "",
+      "slug": "fenerbahce-vs-goztepe-8yomo4h1lxjjq0j"
     }
   }
 }
