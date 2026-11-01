@@ -835,7 +835,15 @@
     "dn1m1ghldzozmoe": 1793470844,
     "pxwrxlhyovz1ryk": 1793470844,
     "318q66hxp221qo9": 1793470844,
-    "zp5rzghgvp2kq82": 1793470844
+    "zp5rzghgvp2kq82": 1793470844,
+    "4wyrn4h63z12q86": 1793515506,
+    "ednm9whwn8j6ryo": 1793515506,
+    "jw2r09hkz4d6rz8": 1793515506,
+    "l7oqdehgw2zjr51": 1793515506,
+    "dn1m1ghlzl2pmoe": 1793515506,
+    "jw2r09hkvk25rz8": 1793515506,
+    "l5ergph4jo6or8k": 1793515506,
+    "dj2ryohlov3lq1z": 1793515506
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -2187,6 +2195,26 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweLB37DCcTb2W8eC/playlist.m3u8",
       "hd": "",
       "slug": "fc-porto-vs-estoril-zp5rzghgvp2kq82"
+    },
+    "l7oqdehgw2zjr51": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb6hHR97VnwN7ekG/playlist.m3u8",
+      "hd": "",
+      "slug": "amedspor-vs-eyupspor-l7oqdehgw2zjr51"
+    },
+    "dn1m1ghlzl2pmoe": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2gUxzU8SCxtG/playlist.m3u8",
+      "hd": "",
+      "slug": "kolos-kovalivka-vs-polissya-zhytomyr-dn1m1ghlzl2pmoe"
+    },
+    "jw2r09hkvk25rz8": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2gK5L3yDamrG/playlist.m3u8",
+      "hd": "",
+      "slug": "lnz-cherkasy-vs-metalist-1925-kharkiv-jw2r09hkvk25rz8"
+    },
+    "l5ergph4jo6or8k": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jaVPNpYQPKJPJ/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jaVPNpYQPKJPJ/playlist.m3u8",
+      "slug": "como-vs-venezia-l5ergph4jo6or8k"
     }
   }
 }
