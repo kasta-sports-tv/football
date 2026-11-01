@@ -852,14 +852,14 @@
     "vjxm8gheo4owr6o": 1793533054,
     "dn1m1ghld3wdmoe": 1793533054,
     "zp5rzghg92e1q82": 1793533054,
-    "pxwrxlhyovz2ryk": 1793541078,
+    "pxwrxlhyovz2ryk": 1793551048,
     "l5ergph46yy6r8k": 1793533054,
     "x7lm7phjyw52m2w": 1793533054,
     "pxwrxlhy8ew8ryk": 1793533054,
-    "965mkyhk9e6kr1g": 1793541078,
-    "318q66hxd453qo9": 1793541078,
-    "dj2ryohl3058q1z": 1793541078,
-    "vjxm8ghe62o4r6o": 1793541078
+    "965mkyhk9e6kr1g": 1793551048,
+    "318q66hxd453qo9": 1793551048,
+    "dj2ryohl3058q1z": 1793551048,
+    "vjxm8ghe62o4r6o": 1793551048
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -2296,6 +2296,31 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb79RoXfxNKmUUx8/playlist.m3u8",
       "hd": "",
       "slug": "kulykiv-vs-ucsa-jw2r09hkz4d6rz8"
+    },
+    "pxwrxlhyovz2ryk": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGyDrbf14upRe8/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGyDrbf14upRe8/playlist.m3u8",
+      "slug": "racing-santander-vs-real-madrid-pxwrxlhyovz2ryk"
+    },
+    "965mkyhk9e6kr1g": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdpxgYTfbTzEshq2/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdpxgYTfbTzEshq2/playlist.m3u8",
+      "slug": "lyon-vs-angers-sco-965mkyhk9e6kr1g"
+    },
+    "318q66hxd453qo9": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdpxgYxad74JDws6/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdpxgYxad74JDws6/playlist.m3u8",
+      "slug": "paris-fc-vs-as-monaco-318q66hxd453qo9"
+    },
+    "dj2ryohl3058q1z": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQiHdXAroibkye/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQiHdXAroibkye/playlist.m3u8",
+      "slug": "liverpool-vs-arsenal-dj2ryohl3058q1z"
+    },
+    "vjxm8ghe62o4r6o": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaDgk8nUnLyWAQY/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaDgk8nUnLyWAQY/playlist.m3u8",
+      "slug": "eintracht-frankfurt-vs-hamburger-sv-vjxm8ghe62o4r6o"
     }
   }
 }
