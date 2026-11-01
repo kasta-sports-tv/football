@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-01T16:37:30.094967+00:00",
+  "updated_at": "2026-11-01T17:26:40.391948+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 8,
+  "matches_count": 24,
   "matches": [
     {
       "id": "pxwrxlhyovz2ryk",
@@ -178,6 +178,358 @@
         "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQiHdXAroibkye/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/liverpool-vs-arsenal-dj2ryohl3058q1z"
+    },
+    {
+      "id": "318q66hxdo19qo9",
+      "slug": "lecce-vs-genoa-318q66hxdo19qo9",
+      "competition": "Italian Serie A",
+      "home": "Lecce",
+      "away": "Genoa",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzZiYzM0OTZiZjM0YTZjODAzYjg3NGU2NTJlNmFjZWY1LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzUxNDc0ZmI2OGM3ZGE0NmI5YzIwZWJkZGNjZWM3NzY2LnBuZw==",
+      "home_score": 0,
+      "away_score": 1,
+      "status": "First Half",
+      "time_label": "02 Nov 2026 • 00:00 WIB",
+      "match_time": 1793552400,
+      "match_date": "2026-11-02",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jZjjPTPb9QWiC/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jZjjPTPb9QWiC/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/lecce-vs-genoa-318q66hxdo19qo9"
+    },
+    {
+      "id": "6ypq3nhvo1l0md7",
+      "slug": "elche-cf-vs-valencia-cf-6ypq3nhvo1l0md7",
+      "competition": "Spanish La Liga",
+      "home": "Elche CF",
+      "away": "Valencia CF",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2U1ZWNkMDU1Mzg4NWYxYTNhZjczMTc1OGRkZGNlMmVjLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzNiNTQ1NDNjMWE1ODRlMmU5OTQ4ZDY1NTE0Mjk5NmQzLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "02 Nov 2026 • 00:30 WIB",
+      "match_time": 1793554200,
+      "match_date": "2026-11-02",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGxTXvCEdqQxMe/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGxTXvCEdqQxMe/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/elche-cf-vs-valencia-cf-6ypq3nhvo1l0md7"
+    },
+    {
+      "id": "dn1m1ghlz77gmoe",
+      "slug": "burgos-cf-vs-castellon-dn1m1ghlz77gmoe",
+      "competition": "Spanish Segunda Division",
+      "home": "Burgos CF",
+      "away": "Castellon",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzFlODg4Y2E1NDJkODkyNjAwZDNiMjgxOGQxYzQwZTIyLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZmN2ZjOWIyZmJiNWFkYjU0OGI2MmM4YTFkMzQyZDE2LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "02 Nov 2026 • 00:30 WIB",
+      "match_time": 1793554200,
+      "match_date": "2026-11-02",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARktrr5nhdWsS/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/burgos-cf-vs-castellon-dn1m1ghlz77gmoe"
+    },
+    {
+      "id": "4jwq2ghnyx08m0v",
+      "slug": "maritimo-vs-santa-clara-4jwq2ghnyx08m0v",
+      "competition": "Portuguese Primera Liga",
+      "home": "Maritimo",
+      "away": "Santa Clara",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2E1Y2FhMDRlODk1YjZiMzNiYThlODE2NTIyNzk1YzMwLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzBjNTE2MmU3ZjgzNzFjYjY5NzJjYTY0MTNiZjIyOGU4LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "02 Nov 2026 • 01:00 WIB",
+      "match_time": 1793556000,
+      "match_date": "2026-11-02",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweLB37CfqjQJwJVe/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/maritimo-vs-santa-clara-4jwq2ghnyx08m0v"
+    },
+    {
+      "id": "vjxm8ghed820r6o",
+      "slug": "viseu-vs-rio-ave-vjxm8ghed820r6o",
+      "competition": "Portuguese Primera Liga",
+      "home": "Viseu",
+      "away": "Rio Ave",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2JkNjU5ZmJjZmM4MmFjMjMzY2M4ZTMyOWYzNWYyYjUwLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2U4M2IxNjNjODUwMWY4OTcwMTJiY2MyOWFkZmFlMmI5LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "02 Nov 2026 • 01:00 WIB",
+      "match_time": 1793556000,
+      "match_date": "2026-11-02",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweLB37CwE6VfiiZv/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/viseu-vs-rio-ave-vjxm8ghed820r6o"
+    },
+    {
+      "id": "y39mp1h68y2dmoj",
+      "slug": "marseille-vs-toulouse-fc-y39mp1h68y2dmoj",
+      "competition": "French Ligue 1",
+      "home": "Marseille",
+      "away": "Toulouse FC",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzMwYzE5MTEyYzQyOTMyMzg4MDkzZTA2N2I2YzFmZmE0LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzI5NDdmZTJmNDI1NTFhNWI3ZWNjY2E3ZmM5NDhmODc5LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "02 Nov 2026 • 02:45 WIB",
+      "match_time": 1793562300,
+      "match_date": "2026-11-02",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdpxgYTB2Dg18nqN/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdpxgYTB2Dg18nqN/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/marseille-vs-toulouse-fc-y39mp1h68y2dmoj"
+    },
+    {
+      "id": "l7oqdehgznw4r51",
+      "slug": "juventus-vs-napoli-l7oqdehgznw4r51",
+      "competition": "Italian Serie A",
+      "home": "Juventus",
+      "away": "Napoli",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2RjMGU0M2I5NWM2Njc2YzU0NDE1YmFjMTY4NDcyYWE0LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzM3ZWQxM2QyN2VkY2NkMzBlMDUzMTY3OTYyYzAyYjNhLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "02 Nov 2026 • 02:45 WIB",
+      "match_time": 1793562300,
+      "match_date": "2026-11-02",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jaVYvhdjHWF3E/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jaVYvhdjHWF3E/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/juventus-vs-napoli-l7oqdehgznw4r51"
+    },
+    {
+      "id": "jw2r09hkv1jzrz8",
+      "slug": "athletic-club-vs-real-sociedad-jw2r09hkv1jzrz8",
+      "competition": "Spanish La Liga",
+      "home": "Athletic Club",
+      "away": "Real Sociedad",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2FiYmIzMWQ0MmM1NTYxMjczNzcxM2FhYzY1NjdhMjI2LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzU3OWRiNmU5NTkwNTU0NTk3MzAzNWU2ZWFiOGRmMmNkLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "02 Nov 2026 • 03:00 WIB",
+      "match_time": 1793563200,
+      "match_date": "2026-11-02",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGxTXobo2PwCtx/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGxTXobo2PwCtx/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/athletic-club-vs-real-sociedad-jw2r09hkv1jzrz8"
+    },
+    {
+      "id": "pxwrxlhyoe3gryk",
+      "slug": "tenerife-vs-andorra-cf-pxwrxlhyoe3gryk",
+      "competition": "Spanish Segunda Division",
+      "home": "Tenerife",
+      "away": "Andorra CF",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2M4MTZhN2NjN2FiMWViNmRjY2UzZmI0NDA4YWNkMzIwLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzg3YjA1ZGI5ZjkwZmM0MWUwZmFhNDA5NDc0YWRhNTBjLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "02 Nov 2026 • 03:00 WIB",
+      "match_time": 1793563200,
+      "match_date": "2026-11-02",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARk4Eta9Agj5A/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/tenerife-vs-andorra-cf-pxwrxlhyoe3gryk"
+    },
+    {
+      "id": "n54qllhng8k6qvy",
+      "slug": "sporting-braga-vs-fc-famalicao-n54qllhng8k6qvy",
+      "competition": "Portuguese Primera Liga",
+      "home": "Sporting Braga",
+      "away": "FC Famalicao",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzFmZTc1ZjgyNmRhYjQwZTZlODljYmU5NjFjN2U5MTE2LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2FiZDU5ZjYyZjY5ZWY5ZjU5YTgxMjFjM2JhYWRkODgyLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "02 Nov 2026 • 03:30 WIB",
+      "match_time": 1793565000,
+      "match_date": "2026-11-02",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweLB37D8DVr4rJLQ/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/sporting-braga-vs-fc-famalicao-n54qllhng8k6qvy"
+    },
+    {
+      "id": "l5ergph410j8r8k",
+      "slug": "kolos-kovalivka-ii-vs-metalist-kharkiv-l5ergph410j8r8k",
+      "competition": "Ukrainian First League",
+      "home": "Kolos Kovalivka II",
+      "away": "Metalist Kharkiv",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzIxNjMzZGViMzU2MGIxMWNhZWJhNGYzOGI3NjYzYTFiLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZhNWQ2ZjgxOWY4MGQ4NzYyNDhiYzdiYWY3ZGY5NjRmLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "02 Nov 2026 • 17:00 WIB",
+      "match_time": 1793613600,
+      "match_date": "2026-11-02",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/kolos-kovalivka-ii-vs-metalist-kharkiv-l5ergph410j8r8k"
+    },
+    {
+      "id": "4wyrn4h6n6xxq86",
+      "slug": "kryvbas-vs-dynamo-kyiv-4wyrn4h6n6xxq86",
+      "competition": "Ukrainian Premier League",
+      "home": "Kryvbas",
+      "away": "Dynamo Kyiv",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzdlNmNiYzVjMmExZjViNTA3ZWFiNWFjOTVlZWU0NTRiLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzc1NjdiOTkzYTNmY2E1NDNjZjkyZTYwNzUzMDhhNjFmLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "02 Nov 2026 • 18:00 WIB",
+      "match_time": 1793617200,
+      "match_date": "2026-11-02",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/kryvbas-vs-dynamo-kyiv-4wyrn4h6n6xxq86"
+    },
+    {
+      "id": "k82rekhg4gw6rep",
+      "slug": "zorya-vs-fk-epitsentr-dunayivtsi-k82rekhg4gw6rep",
+      "competition": "Ukrainian Premier League",
+      "home": "Zorya",
+      "away": "FK Epitsentr Dunayivtsi",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZiZmRkYWU5ZDkxZWFlYzNkMjJkZDU2Yzk1ZjQwNjdmLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzlkODg2MjBmMzk3OTUyOTU4M2QwN2Y1NzkwYWMyZGFjLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "02 Nov 2026 • 18:00 WIB",
+      "match_time": 1793617200,
+      "match_date": "2026-11-02",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/zorya-vs-fk-epitsentr-dunayivtsi-k82rekhg4gw6rep"
+    },
+    {
+      "id": "8yomo4h1pej8q0j",
+      "slug": "polissya-zhytomyr-b-vs-fk-oleksandria-8yomo4h1pej8q0j",
+      "competition": "Ukrainian First League",
+      "home": "Polissya Zhytomyr B",
+      "away": "FK Oleksandria",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzRhMjg5NWUyNTE4MDM5NzYzNTY2NGUwZDRlMWRjZWFkLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzcxYzFhZjQ5MDEwNTkzYjI5ZjlmYTQxYWEwZTIxYjQ5LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "02 Nov 2026 • 18:30 WIB",
+      "match_time": 1793619000,
+      "match_date": "2026-11-02",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/polissya-zhytomyr-b-vs-fk-oleksandria-8yomo4h1pej8q0j"
+    },
+    {
+      "id": "2y8m4zh59xx2ql0",
+      "slug": "real-oviedo-vs-ud-las-palmas-2y8m4zh59xx2ql0",
+      "competition": "Spanish Segunda Division",
+      "home": "Real Oviedo",
+      "away": "UD Las Palmas",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzIxNTUxOTk2NTY3YmNkMjA2ZWU1NzQwNDNkNTA5YTg0LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2VmZjliYjE3YWU1NGE4NDA2OGRmYzNiOWYxZjYyOGNiLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "02 Nov 2026 • 22:15 WIB",
+      "match_time": 1793632500,
+      "match_date": "2026-11-02",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/real-oviedo-vs-ud-las-palmas-2y8m4zh59xx2ql0"
+    },
+    {
+      "id": "318q66hxpxwgqo9",
+      "slug": "fc-karpaty-lviv-vs-kudrivka-318q66hxpxwgqo9",
+      "competition": "Ukrainian Premier League",
+      "home": "FC Karpaty Lviv",
+      "away": "Kudrivka",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzYyOTYxYmJjNGY5ZDU4YWRkNGQ2ZjE2NThiYmZlMDljLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzkzYTI4NGFmYmU4M2FiYjZjZTNjZmIyODQ3OTk4OGNkLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "02 Nov 2026 • 23:00 WIB",
+      "match_time": 1793635200,
+      "match_date": "2026-11-02",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/fc-karpaty-lviv-vs-kudrivka-318q66hxpxwgqo9"
     }
   ]
 }
