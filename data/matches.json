@@ -1,8 +1,52 @@
 {
-  "updated_at": "2026-11-01T06:45:14.072217+00:00",
+  "updated_at": "2026-11-01T11:37:46.177797+00:00",
   "source": "https://kickofftv.id",
   "matches_count": 26,
   "matches": [
+    {
+      "id": "l7oqdehgw2zjr51",
+      "slug": "amedspor-vs-eyupspor-l7oqdehgw2zjr51",
+      "competition": "Turkish Super League",
+      "home": "Amedspor",
+      "away": "Eyupspor",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzUyYThjMDFjNDlkNzZmMWY3NGFkMTQ4YjA3ZWY4M2Y5LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzVhMTVmYmVhZmJhY2U2NjUzY2Y3ODliMmEyNTI2MTVmLnBuZw==",
+      "home_score": 3,
+      "away_score": 0,
+      "status": "Half Time",
+      "time_label": "01 Nov 2026 • 17:30 WIB",
+      "match_time": 1793529000,
+      "match_date": "2026-11-01",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb6hHR97VnwN7ekG/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/amedspor-vs-eyupspor-l7oqdehgw2zjr51"
+    },
+    {
+      "id": "l5ergph4jo6or8k",
+      "slug": "como-vs-venezia-l5ergph4jo6or8k",
+      "competition": "Italian Serie A",
+      "home": "Como",
+      "away": "Venezia",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzVmNzA1OWY0MDk2NWU1YTJjYzAwOTg3ZTZiYWMyZjMyLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzNlNzI0ZGMwZTZmZmZkMDFhNjMwYjY1YWYzNDhmYWI2LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "First Half",
+      "time_label": "01 Nov 2026 • 18:30 WIB",
+      "match_time": 1793532600,
+      "match_date": "2026-11-01",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jaVPNpYQPKJPJ/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jaVPNpYQPKJPJ/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/como-vs-venezia-l5ergph4jo6or8k"
+    },
     {
       "id": "4wyrn4h63z12q86",
       "slug": "fc-chernigiv-vs-fenix-mariupol-4wyrn4h63z12q86",
@@ -33,9 +77,9 @@
       "away": "FC Chernigiv",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2U2NjFjYmY4NmZkNmEyN2RjOWJlODY4ZDkyMDczOTlkLnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzk5YmE3ZmM4Njc4ZDhlZTQwYWIxYzU2NDQzZjRiMWEzLnBuZw==",
-      "home_score": 0,
+      "home_score": 1,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "Interrupted",
       "time_label": "01 Nov 2026 • 16:00 WIB",
       "match_time": 1793523600,
       "match_date": "2026-11-01",
@@ -55,9 +99,9 @@
       "away": "SC Poltava",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2EyMzI0YzM3N2ExNDJkODJkZTliNzEwMzA4Y2NhNjAyLnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzg5ZjhlMDU1NzBiZTcwMzljNmFiZDY4Yjg3ZWE3MWQzLnBuZw==",
-      "home_score": 1,
+      "home_score": 2,
       "away_score": 1,
-      "status": "Interrupted",
+      "status": "TBD",
       "time_label": "01 Nov 2026 • 16:30 WIB",
       "match_time": 1793525400,
       "match_date": "2026-11-01",
@@ -79,7 +123,7 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzc5NjQ3MTRkN2NmNWFkNzBlZmVhMzg0NzU4MzIwYTM5LnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "TBD",
       "time_label": "01 Nov 2026 • 17:00 WIB",
       "match_time": 1793527200,
       "match_date": "2026-11-01",
@@ -114,28 +158,6 @@
       "match_url": "https://kickofftv.id/match/fc-livyi-bereh-vs-fc-bukovyna-chernivtsi-l5ergph464w4r8k"
     },
     {
-      "id": "l7oqdehgw2zjr51",
-      "slug": "amedspor-vs-eyupspor-l7oqdehgw2zjr51",
-      "competition": "Turkish Super League",
-      "home": "Amedspor",
-      "away": "Eyupspor",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzUyYThjMDFjNDlkNzZmMWY3NGFkMTQ4YjA3ZWY4M2Y5LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzVhMTVmYmVhZmJhY2U2NjUzY2Y3ODliMmEyNTI2MTVmLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "01 Nov 2026 • 17:30 WIB",
-      "match_time": 1793529000,
-      "match_date": "2026-11-01",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb6hHR97VnwN7ekG/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/amedspor-vs-eyupspor-l7oqdehgw2zjr51"
-    },
-    {
       "id": "dn1m1ghlzl2pmoe",
       "slug": "kolos-kovalivka-vs-polissya-zhytomyr-dn1m1ghlzl2pmoe",
       "competition": "Ukrainian Premier League",
@@ -145,7 +167,7 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzhmMjUzMjg0YzlkOTE4NjdhNDIxNzQ1ZDAwYThlZjZmLnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "Delayed",
       "time_label": "01 Nov 2026 • 18:00 WIB",
       "match_time": 1793530800,
       "match_date": "2026-11-01",
@@ -167,7 +189,7 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Q3NzVhMzVmMWEzYTc1OTU1OGY2OWU0NmE1ZTBjYTM2LnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "Delayed",
       "time_label": "01 Nov 2026 • 18:00 WIB",
       "match_time": 1793530800,
       "match_date": "2026-11-01",
@@ -178,28 +200,6 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/lnz-cherkasy-vs-metalist-1925-kharkiv-jw2r09hkvk25rz8"
-    },
-    {
-      "id": "l5ergph4jo6or8k",
-      "slug": "como-vs-venezia-l5ergph4jo6or8k",
-      "competition": "Italian Serie A",
-      "home": "Como",
-      "away": "Venezia",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzVmNzA1OWY0MDk2NWU1YTJjYzAwOTg3ZTZiYWMyZjMyLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzNlNzI0ZGMwZTZmZmZkMDFhNjMwYjY1YWYzNDhmYWI2LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "01 Nov 2026 • 18:30 WIB",
-      "match_time": 1793532600,
-      "match_date": "2026-11-01",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jaVPNpYQPKJPJ/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jaVPNpYQPKJPJ/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/como-vs-venezia-l5ergph4jo6or8k"
     },
     {
       "id": "dj2ryohlov3lq1z",
@@ -218,7 +218,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb79RoX9Be93ueoa/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/probiy-horodenka-vs-nyva-ternopil-dj2ryohlov3lq1z"
@@ -240,8 +240,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGyDrZTXCRzWVE/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGyDrZTXCRzWVE/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/getafe-vs-sevilla-fc-vjxm8ghe6xp8r6o"
     },
@@ -262,7 +262,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARk48J8XjCycU/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/eldense-vs-granada-cf-l7oqdehgk22pr51"
@@ -284,7 +284,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb6hHR95JK4tHjbN/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/ba-ak-ehir-futbol-kul-b-vs-samsunspor-dj2ryohl643pq1z"
@@ -306,7 +306,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb6hHR8ouwyXWKX6/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/trabzonspor-vs-gaziantep-futbol-kul-b-x7lm7phjy8dlm2w"
@@ -328,8 +328,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdpxgYxYRdBpQ2iC/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdpxgYxYRdBpQ2iC/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/rc-strasbourg-alsace-vs-aj-auxerre-dn1m1ghld3wdmoe"
     },
@@ -350,8 +350,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jZj4RyQsx8R2Y/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jZj4RyQsx8R2Y/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/frosinone-vs-torino-vjxm8gheo4owr6o"
     },
@@ -372,8 +372,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jZjjTrML74M1z/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jZjjTrML74M1z/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/lazio-vs-cagliari-4wyrn4h6185zq86"
     },
@@ -394,8 +394,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaDgk93s9SLHaUp/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaDgk93s9SLHaUp/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/1-fc-union-berlin-vs-fc-k-ln-zp5rzghg92e1q82"
     },
@@ -438,7 +438,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARktL5Mbz4git/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/ad-ceuta-vs-sporting-gijon-l5ergph46yy6r8k"
@@ -460,7 +460,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweLB37D3pY77CU2c/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/fc-arouca-vs-nacional-da-madeira-x7lm7phjyw52m2w"
@@ -482,7 +482,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb6hHR9E6EYobQCx/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/kasimpasa-vs-besiktas-jk-pxwrxlhy8ew8ryk"
