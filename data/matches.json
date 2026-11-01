@@ -1,118 +1,8 @@
 {
-  "updated_at": "2026-10-31T21:46:23.499093+00:00",
+  "updated_at": "2026-11-01T00:28:34.260634+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 29,
+  "matches_count": 25,
   "matches": [
-    {
-      "id": "x7lm7phjdky3m2w",
-      "slug": "ac-milan-vs-inter-milan-x7lm7phjdky3m2w",
-      "competition": "Italian Serie A",
-      "home": "AC Milan",
-      "away": "Inter Milan",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzY0M2VmNDEwMWIwMTdkYzE0OTVkYmQ5ZTlkNWNjZTI4LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2FhMjI0NTcwMmM0MGY3Nzc5OWE1YWQ0YjExOTU4MWE4LnBuZw==",
-      "home_score": 3,
-      "away_score": 1,
-      "status": "Second Half",
-      "time_label": "01 Nov 2026 • 02:45 WIB",
-      "match_time": 1793475900,
-      "match_date": "2026-11-01",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jaVYd7nmStup4/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jaVYd7nmStup4/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/ac-milan-vs-inter-milan-x7lm7phjdky3m2w"
-    },
-    {
-      "id": "dn1m1ghldzozmoe",
-      "slug": "aston-villa-vs-fulham-dn1m1ghldzozmoe",
-      "competition": "English Premier League",
-      "home": "Aston Villa",
-      "away": "Fulham",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2EzYzMyZDZhOTA2MDgzMTE4Y2FjMmNiNzk2ZWRhYWIzLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzI5OTgyNTExZjFlYTg2MTk2N2MzZTY0NzhkNmE4YTY4LnBuZw==",
-      "home_score": 1,
-      "away_score": 1,
-      "status": "Second Half",
-      "time_label": "01 Nov 2026 • 03:00 WIB",
-      "match_time": 1793476800,
-      "match_date": "2026-11-01",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQiHJTcA2Q3npg/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQiHJTcA2Q3npg/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/aston-villa-vs-fulham-dn1m1ghldzozmoe"
-    },
-    {
-      "id": "pxwrxlhyovz1ryk",
-      "slug": "fc-barcelona-vs-deportivo-alav-s-pxwrxlhyovz1ryk",
-      "competition": "Spanish La Liga",
-      "home": "FC Barcelona",
-      "away": "Deportivo Alavés",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2YzNzhlYjFlYTA0ZTUzOTk5Yjg5MDUxYWEzMjQ0ZGU2LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZmZmJlYmFhN2EwYzNjMmRiN2U4ZDYzN2EzZGUxODExLnBuZw==",
-      "home_score": 5,
-      "away_score": 0,
-      "status": "Second Half",
-      "time_label": "01 Nov 2026 • 03:00 WIB",
-      "match_time": 1793476800,
-      "match_date": "2026-11-01",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGxTXRczKbg3Mz/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGxTXRczKbg3Mz/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/fc-barcelona-vs-deportivo-alav-s-pxwrxlhyovz1ryk"
-    },
-    {
-      "id": "318q66hxp221qo9",
-      "slug": "albacete-balompi-sad-vs-sabadell-318q66hxp221qo9",
-      "competition": "Spanish Segunda Division",
-      "home": "Albacete Balompié SAD",
-      "away": "Sabadell",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2EyZjczMWU5MTQ3ZjY0MDgyZjIyYjlhNTYxNDI1MzA4LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2RiZWJhYzhkNWQ3YWNjMDgwYmZkZGY2MjBhNTZlMjEzLnBuZw==",
-      "home_score": 2,
-      "away_score": 0,
-      "status": "Second Half",
-      "time_label": "01 Nov 2026 • 03:00 WIB",
-      "match_time": 1793476800,
-      "match_date": "2026-11-01",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARktkFeBG9mQk/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/albacete-balompi-sad-vs-sabadell-318q66hxp221qo9"
-    },
-    {
-      "id": "zp5rzghgvp2kq82",
-      "slug": "fc-porto-vs-estoril-zp5rzghgvp2kq82",
-      "competition": "Portuguese Primera Liga",
-      "home": "FC Porto",
-      "away": "Estoril",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzgzYWE4MjZlM2M0NWQ1MDQ3YThjOTE3ZmIwYjQxYTVlLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZhZWNlYWNmZmJmMzVlMjhiN2U3MWE1ZjkwYjZlZmRjLnBuZw==",
-      "home_score": 1,
-      "away_score": 0,
-      "status": "Second Half",
-      "time_label": "01 Nov 2026 • 03:30 WIB",
-      "match_time": 1793478600,
-      "match_date": "2026-11-01",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweLB37DCcTb2W8eC/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/fc-porto-vs-estoril-zp5rzghgvp2kq82"
-    },
     {
       "id": "4wyrn4h63z12q86",
       "slug": "fc-chernigiv-vs-fenix-mariupol-4wyrn4h63z12q86",
@@ -123,7 +13,7 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2U2NjFjYmY4NmZkNmEyN2RjOWJlODY4ZDkyMDczOTlkLnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "Delayed",
       "time_label": "01 Nov 2026 • 16:00 WIB",
       "match_time": 1793523600,
       "match_date": "2026-11-01",
@@ -178,6 +68,28 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/kulykiv-vs-ucsa-jw2r09hkz4d6rz8"
+    },
+    {
+      "id": "l5ergph464w4r8k",
+      "slug": "fc-livyi-bereh-vs-fc-bukovyna-chernivtsi-l5ergph464w4r8k",
+      "competition": "Ukrainian Premier League",
+      "home": "FC Livyi Bereh",
+      "away": "FC Bukovyna Chernivtsi",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzBlMDUzN2I0YTEwMWRlNDg3ZmNlN2VjZjE4NDc3MmE1LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Y0ZTFmMjRiMTkyNmE1NjQ2YzUyMmNkOTllNGM5MzU4LnBuZw==",
+      "home_score": 0,
+      "away_score": 1,
+      "status": "Interrupted",
+      "time_label": "01 Nov 2026 • 17:00 WIB",
+      "match_time": 1793527200,
+      "match_date": "2026-11-01",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2gUSDjwie8ji/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/fc-livyi-bereh-vs-fc-bukovyna-chernivtsi-l5ergph464w4r8k"
     },
     {
       "id": "l7oqdehgw2zjr51",
