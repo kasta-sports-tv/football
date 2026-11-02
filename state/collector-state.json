@@ -873,7 +873,17 @@
     "l5ergph410j8r8k": 1793607857,
     "k82rekhg4gw6rep": 1793607857,
     "4wyrn4h6n6xxq86": 1793607857,
-    "8yomo4h1pej8q0j": 1793607857
+    "8yomo4h1pej8q0j": 1793607857,
+    "6ypq3nhvyedomd7": 1793639215,
+    "dn1m1ghld4j3moe": 1793639215,
+    "6ypq3nhvoen6md7": 1793639215,
+    "zp5rzghgejeoq82": 1793639215,
+    "ednm9whwlv37ryo": 1793639215,
+    "n54qllhny619qvy": 1793639215,
+    "8yomo4h1oz0eq0j": 1793639215,
+    "dj2ryohl044zq1z": 1793639215,
+    "y0or5jh8y30dqwz": 1793639215,
+    "1l4rjnh9ox3wm7v": 1793639215
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -2385,6 +2395,56 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweLB37D8DVr4rJLQ/playlist.m3u8",
       "hd": "",
       "slug": "sporting-braga-vs-fc-famalicao-n54qllhng8k6qvy"
+    },
+    "6ypq3nhvyedomd7": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb6hHR9GHiRHRKMr/playlist.m3u8",
+      "hd": "",
+      "slug": "genclerbirligi-vs-alanyaspor-6ypq3nhvyedomd7"
+    },
+    "dn1m1ghld4j3moe": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jaUYz3uyjL1WQ/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jaUYz3uyjL1WQ/playlist.m3u8",
+      "slug": "sassuolo-vs-fiorentina-dn1m1ghld4j3moe"
+    },
+    "6ypq3nhvoen6md7": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARk4H641eWeE4/playlist.m3u8",
+      "hd": "",
+      "slug": "real-valladolid-cf-vs-cd-leganes-6ypq3nhvoen6md7"
+    },
+    "zp5rzghgejeoq82": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jZj4YZrVPcAVE/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jZj4YZrVPcAVE/playlist.m3u8",
+      "slug": "atalanta-vs-parma-zp5rzghgejeoq82"
+    },
+    "ednm9whwlv37ryo": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdpxgYThnwrihcyv/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdpxgYThnwrihcyv/playlist.m3u8",
+      "slug": "lorient-vs-stade-brestois-29-ednm9whwlv37ryo"
+    },
+    "n54qllhny619qvy": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQiGo41Ge6xdnx/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQiGo41Ge6xdnx/playlist.m3u8",
+      "slug": "newcastle-united-vs-everton-n54qllhny619qvy"
+    },
+    "8yomo4h1oz0eq0j": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGxTXxPiWKEsWY/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGxTXxPiWKEsWY/playlist.m3u8",
+      "slug": "rc-deportivo-vs-ca-osasuna-8yomo4h1oz0eq0j"
+    },
+    "dj2ryohl044zq1z": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARk466efFP4Ta/playlist.m3u8",
+      "hd": "",
+      "slug": "rcd-mallorca-vs-cadiz-cf-dj2ryohl044zq1z"
+    },
+    "y0or5jh8y30dqwz": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweLB37D1d4EdNYsi/playlist.m3u8",
+      "hd": "",
+      "slug": "benfica-vs-alverca-y0or5jh8y30dqwz"
+    },
+    "1l4rjnh9ox3wm7v": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweLB37DAQyiYgDVJ/playlist.m3u8",
+      "hd": "",
+      "slug": "gil-vicente-vs-vitoria-guimaraes-1l4rjnh9ox3wm7v"
     }
   }
 }
