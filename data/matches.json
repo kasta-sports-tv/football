@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T17:07:05.335665+00:00",
+  "updated_at": "2026-11-02T18:41:13.263207+00:00",
   "source": "https://kickofftv.id",
   "matches_count": 12,
   "matches": [
@@ -11,9 +11,9 @@
       "away": "Alanyaspor",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2VjMTExZTg4OTk3ZGNlNWE1Zjc2YzI2YjhlODVkN2YzLnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzA2ODhlZDEzM2RhZGY1ZjA5YmI5NGM4NDE0ZWM1NTY1LnBuZw==",
-      "home_score": 1,
+      "home_score": 5,
       "away_score": 0,
-      "status": "First Half",
+      "status": "Second Half",
       "time_label": "03 Nov 2026 • 00:00 WIB",
       "match_time": 1793638800,
       "match_date": "2026-11-03",
@@ -24,6 +24,50 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/genclerbirligi-vs-alanyaspor-6ypq3nhvyedomd7"
+    },
+    {
+      "id": "dn1m1ghld4j3moe",
+      "slug": "sassuolo-vs-fiorentina-dn1m1ghld4j3moe",
+      "competition": "Italian Serie A",
+      "home": "Sassuolo",
+      "away": "Fiorentina",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzYxNmJmMjQyYTUzMmY3MmU5NzA2NDhmMmVhZDQyM2NmLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzg1OGQ4N2RlZDBjY2UwMTRiYWUwYzk2ODFhZjQ4NTI0LnBuZw==",
+      "home_score": 1,
+      "away_score": 1,
+      "status": "Second Half",
+      "time_label": "03 Nov 2026 • 00:30 WIB",
+      "match_time": 1793640600,
+      "match_date": "2026-11-03",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jaUYz3uyjL1WQ/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jaUYz3uyjL1WQ/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/sassuolo-vs-fiorentina-dn1m1ghld4j3moe"
+    },
+    {
+      "id": "6ypq3nhvoen6md7",
+      "slug": "real-valladolid-cf-vs-cd-leganes-6ypq3nhvoen6md7",
+      "competition": "Spanish Segunda Division",
+      "home": "Real Valladolid CF",
+      "away": "CD Leganes",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZkZjYzNDYxYzAwNjY4NTk3MzE5YTRmMGRiMTRkY2VlLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2I2NzI4ODMyZjE1MDQ5ODllNTdmOGE0MzQ3OTQyOWVjLnBuZw==",
+      "home_score": 3,
+      "away_score": 1,
+      "status": "Half Time",
+      "time_label": "03 Nov 2026 • 00:30 WIB",
+      "match_time": 1793640600,
+      "match_date": "2026-11-03",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARk4H641eWeE4/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/real-valladolid-cf-vs-cd-leganes-6ypq3nhvoen6md7"
     },
     {
       "id": "2y8m4zh59xx2ql0",
@@ -68,50 +112,6 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/fc-karpaty-lviv-vs-kudrivka-318q66hxpxwgqo9"
-    },
-    {
-      "id": "dn1m1ghld4j3moe",
-      "slug": "sassuolo-vs-fiorentina-dn1m1ghld4j3moe",
-      "competition": "Italian Serie A",
-      "home": "Sassuolo",
-      "away": "Fiorentina",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzYxNmJmMjQyYTUzMmY3MmU5NzA2NDhmMmVhZDQyM2NmLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzg1OGQ4N2RlZDBjY2UwMTRiYWUwYzk2ODFhZjQ4NTI0LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "03 Nov 2026 • 00:30 WIB",
-      "match_time": 1793640600,
-      "match_date": "2026-11-03",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jaUYz3uyjL1WQ/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jaUYz3uyjL1WQ/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/sassuolo-vs-fiorentina-dn1m1ghld4j3moe"
-    },
-    {
-      "id": "6ypq3nhvoen6md7",
-      "slug": "real-valladolid-cf-vs-cd-leganes-6ypq3nhvoen6md7",
-      "competition": "Spanish Segunda Division",
-      "home": "Real Valladolid CF",
-      "away": "CD Leganes",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZkZjYzNDYxYzAwNjY4NTk3MzE5YTRmMGRiMTRkY2VlLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2I2NzI4ODMyZjE1MDQ5ODllNTdmOGE0MzQ3OTQyOWVjLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "03 Nov 2026 • 00:30 WIB",
-      "match_time": 1793640600,
-      "match_date": "2026-11-03",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARk4H641eWeE4/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/real-valladolid-cf-vs-cd-leganes-6ypq3nhvoen6md7"
     },
     {
       "id": "ednm9whwlv37ryo",
