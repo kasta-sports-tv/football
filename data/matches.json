@@ -1,6 +1,271 @@
 {
-  "updated_at": "2026-11-03T16:07:14.515273+00:00",
+  "updated_at": "2026-11-03T17:19:12.166303+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 0,
-  "matches": []
+  "matches_count": 12,
+  "matches": [
+    {
+      "id": "8yomo4h1wlyeq0j",
+      "slug": "fc-shakhtar-donetsk-vs-sporting-cp-8yomo4h1wlyeq0j",
+      "competition": "UEFA Champions League",
+      "home": "FC Shakhtar Donetsk",
+      "away": "Sporting CP",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzE0MWJjZjZhYjZkMGJjN2I4YzY3ZGM1ZWViOWYzNDdkLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzY0Njc2NGU2ZTJmZTRjYTc5NzBiOWViODdjOGI2NWFmLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "04 Nov 2026 • 00:45 WIB",
+      "match_time": 1793727900,
+      "match_date": "2026-11-04",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXQqUYJTNoJV6/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXQqUYJTNoJV6/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/fc-shakhtar-donetsk-vs-sporting-cp-8yomo4h1wlyeq0j"
+    },
+    {
+      "id": "4jwq2ghn8yzzm0v",
+      "slug": "galatasaray-vs-vfb-stuttgart-4jwq2ghn8yzzm0v",
+      "competition": "UEFA Champions League",
+      "home": "Galatasaray",
+      "away": "VfB Stuttgart",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZiY2YwMDJjOGQ2ZGQzNDgxM2ZhMmIzYTRjYzliMDRjLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2JmZGQ1MDA0ODQzMzBkNjNhNzIzY2JjMzk2ZGY3NjJjLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "04 Nov 2026 • 00:45 WIB",
+      "match_time": 1793727900,
+      "match_date": "2026-11-04",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXSWNfzv8Fdha/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXSWNfzv8Fdha/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/galatasaray-vs-vfb-stuttgart-4jwq2ghn8yzzm0v"
+    },
+    {
+      "id": "965mkyh8lp6vr1g",
+      "slug": "cd-anaitasuna-ft-vs-deportivo-alav-s-965mkyh8lp6vr1g",
+      "competition": "Copa del Rey",
+      "home": "CD Anaitasuna FT",
+      "away": "Deportivo Alavés",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzAwMGMxZjNjYjZiNmZiODI4ZjBmYThmODkzZjdjMGMxLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZmZmJlYmFhN2EwYzNjMmRiN2U4ZDYzN2EzZGUxODExLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Delayed",
+      "time_label": "04 Nov 2026 • 01:00 WIB",
+      "match_time": 1793728800,
+      "match_date": "2026-11-04",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjKLjoEixMsV5dmS/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/cd-anaitasuna-ft-vs-deportivo-alav-s-965mkyh8lp6vr1g"
+    },
+    {
+      "id": "ednm9wh5813yryo",
+      "slug": "mra-navarra-vs-eibar-ednm9wh5813yryo",
+      "competition": "Copa del Rey",
+      "home": "MRA Navarra",
+      "away": "Eibar",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzQ3ZWI0NDczZGE4ZDc5ZTk3NWRiOWU3NDQxNmMxYmJkLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzIzMGJlN2Y0ZjIzZGUxY2IwODg3N2E3MmNkMDhmNjE5LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Delayed",
+      "time_label": "04 Nov 2026 • 01:00 WIB",
+      "match_time": 1793728800,
+      "match_date": "2026-11-04",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjKLjoEcMvG3btJk/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/mra-navarra-vs-eibar-ednm9wh5813yryo"
+    },
+    {
+      "id": "dn1m1ghl5y72moe",
+      "slug": "atletico-madrid-vs-fc-bayern-munich-dn1m1ghl5y72moe",
+      "competition": "UEFA Champions League",
+      "home": "Atletico Madrid",
+      "away": "FC Bayern Munich",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzM5MDk3N2IwNDIxYmNlMTM2YzU2MjA1N2VhMTcxZWNmLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2VmMTlhODRhNjc0NWZlNTdhYTc4Njg3M2QyYjE4ZThhLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "04 Nov 2026 • 03:00 WIB",
+      "match_time": 1793736000,
+      "match_date": "2026-11-04",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xWgB8F2RrTR7e/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xWgB8F2RrTR7e/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/atletico-madrid-vs-fc-bayern-munich-dn1m1ghl5y72moe"
+    },
+    {
+      "id": "dj2ryohlw643q1z",
+      "slug": "fc-barcelona-vs-aston-villa-dj2ryohlw643q1z",
+      "competition": "UEFA Champions League",
+      "home": "FC Barcelona",
+      "away": "Aston Villa",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2YzNzhlYjFlYTA0ZTUzOTk5Yjg5MDUxYWEzMjQ0ZGU2LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2EzYzMyZDZhOTA2MDgzMTE4Y2FjMmNiNzk2ZWRhYWIzLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "04 Nov 2026 • 03:00 WIB",
+      "match_time": 1793736000,
+      "match_date": "2026-11-04",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xWg1mMLTMQ4EC/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xWg1mMLTMQ4EC/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/fc-barcelona-vs-aston-villa-dj2ryohlw643q1z"
+    },
+    {
+      "id": "4jwq2ghn8y91m0v",
+      "slug": "fk-bodo-glimt-vs-losc-lille-4jwq2ghn8y91m0v",
+      "competition": "UEFA Champions League",
+      "home": "FK Bodo/Glimt",
+      "away": "LOSC Lille",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzk4ODU0YWI5N2VhZGYzZDJjN2M2ZDY1N2FkOTlkZjk2LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzI4ZTk0OTI1ZmRjYzg0OGY4NmE1NDRhMWNlZGNjZWVkLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "04 Nov 2026 • 03:00 WIB",
+      "match_time": 1793736000,
+      "match_date": "2026-11-04",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXSLnbRikEmtk/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXSLnbRikEmtk/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/fk-bodo-glimt-vs-losc-lille-4jwq2ghn8y91m0v"
+    },
+    {
+      "id": "vjxm8ghend58r6o",
+      "slug": "feyenoord-vs-inter-milan-vjxm8ghend58r6o",
+      "competition": "UEFA Champions League",
+      "home": "Feyenoord",
+      "away": "Inter Milan",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzQ0MDczZjJkMmM5NzlhOTM4OGY5ODUwNWFjM2I3NTRkLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2FhMjI0NTcwMmM0MGY3Nzc5OWE1YWQ0YjExOTU4MWE4LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "04 Nov 2026 • 03:00 WIB",
+      "match_time": 1793736000,
+      "match_date": "2026-11-04",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXSffAj9ffAHE/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXSffAj9ffAHE/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/feyenoord-vs-inter-milan-vjxm8ghend58r6o"
+    },
+    {
+      "id": "l5ergph4zxlxr8k",
+      "slug": "lask-linz-vs-slovan-bratislava-l5ergph4zxlxr8k",
+      "competition": "UEFA Champions League",
+      "home": "LASK Linz",
+      "away": "Slovan Bratislava",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzVkMzNmODMxZjc3OTQyODg1ODEzOGQyOGM5ZGQ0NDgwLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzhlMjIwYTc0NzkxYmU5ZTBlYjEzNTA3ZjBjZTQ0NGRiLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "04 Nov 2026 • 03:00 WIB",
+      "match_time": 1793736000,
+      "match_date": "2026-11-04",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXRfnuy958m4C/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXRfnuy958m4C/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/lask-linz-vs-slovan-bratislava-l5ergph4zxlxr8k"
+    },
+    {
+      "id": "965mkyhkjdykr1g",
+      "slug": "manchester-united-vs-as-roma-965mkyhkjdykr1g",
+      "competition": "UEFA Champions League",
+      "home": "Manchester United",
+      "away": "AS Roma",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2QzOWNlNTg2ZmQ3Mjc4MzQyZGRlMzNiMzA5MGIzZjc1LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzdhMTkyNjg2ZDMwYzFhZDAzMWQyZmI2MDVlYWYyZjJhLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "04 Nov 2026 • 03:00 WIB",
+      "match_time": 1793736000,
+      "match_date": "2026-11-04",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXS17s31kU9HS/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXS17s31kU9HS/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/manchester-united-vs-as-roma-965mkyhkjdykr1g"
+    },
+    {
+      "id": "pxwrxlhy6802ryk",
+      "slug": "villarreal-cf-vs-paris-saint-germain-pxwrxlhy6802ryk",
+      "competition": "UEFA Champions League",
+      "home": "Villarreal CF",
+      "away": "Paris Saint Germain",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2FlZTYyYWY5NmE5NTY3NTZjYzI5ZmU0ODMxMjg2MzU3LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzNiNzIwZjE4MWNlOTk5M2Y5NDIyZDI3NmFjZjdiMjkyLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "04 Nov 2026 • 03:00 WIB",
+      "match_time": 1793736000,
+      "match_date": "2026-11-04",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xYAKY3ZEvFyyJ/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xYAKY3ZEvFyyJ/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/villarreal-cf-vs-paris-saint-germain-pxwrxlhy6802ryk"
+    },
+    {
+      "id": "3glrw7hnxdleqdy",
+      "slug": "stade-rennais-fc-vs-olympiacos-piraeus-3glrw7hnxdleqdy",
+      "competition": "UEFA Europa League",
+      "home": "Stade Rennais FC",
+      "away": "Olympiacos Piraeus",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2VhYjhmMGU4NDc3NDJmZDMyOGJiNTgxMjk5YmQ5OWNhLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzFkZjk5MmQ5MWViMDg3NzU1OGM4NzJhMThlYTYwNWYwLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "04 Nov 2026 • 22:30 WIB",
+      "match_time": 1793806200,
+      "match_date": "2026-11-04",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/stade-rennais-fc-vs-olympiacos-piraeus-3glrw7hnxdleqdy"
+    }
+  ]
 }
