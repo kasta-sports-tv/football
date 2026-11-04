@@ -1,74 +1,8 @@
 {
-  "updated_at": "2026-11-04T19:15:59.531106+00:00",
+  "updated_at": "2026-11-04T19:56:13.527732+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 17,
+  "matches_count": 14,
   "matches": [
-    {
-      "id": "3glrw7hnxdleqdy",
-      "slug": "stade-rennais-fc-vs-olympiacos-piraeus-3glrw7hnxdleqdy",
-      "competition": "UEFA Europa League",
-      "home": "Stade Rennais FC",
-      "away": "Olympiacos Piraeus",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2VhYjhmMGU4NDc3NDJmZDMyOGJiNTgxMjk5YmQ5OWNhLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzFkZjk5MmQ5MWViMDg3NzU1OGM4NzJhMThlYTYwNWYwLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "First Half",
-      "time_label": "04 Nov 2026 • 22:30 WIB",
-      "match_time": 1793806200,
-      "match_date": "2026-11-04",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxip8J4Eukf89WuaG/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxip8J4Eukf89WuaG/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/stade-rennais-fc-vs-olympiacos-piraeus-3glrw7hnxdleqdy"
-    },
-    {
-      "id": "23xmvkh6e1wdqg8",
-      "slug": "aek-athens-vs-real-madrid-23xmvkh6e1wdqg8",
-      "competition": "UEFA Champions League",
-      "home": "AEK Athens",
-      "away": "Real Madrid",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzEyZGNjNjliZWY2N2FhMmE5MzEwN2U5NDBlZTg5MTQ0LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzdkYWNhYTkzNGZlNGJlMDBmMjNjMWUyMDliNWVmOTQ3LnBuZw==",
-      "home_score": 1,
-      "away_score": 1,
-      "status": "Second Half",
-      "time_label": "05 Nov 2026 • 00:45 WIB",
-      "match_time": 1793814300,
-      "match_date": "2026-11-05",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xWggeSMRb2Kc4/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xWggeSMRb2Kc4/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/aek-athens-vs-real-madrid-23xmvkh6e1wdqg8"
-    },
-    {
-      "id": "x7lm7phjly3gm2w",
-      "slug": "fenerbahce-vs-liverpool-x7lm7phjly3gm2w",
-      "competition": "UEFA Champions League",
-      "home": "Fenerbahce",
-      "away": "Liverpool",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2RmZjAwZjFmZDRhN2RkMmZlYWMwMDBiNDYyNDE2ODY3LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzFjYjNkMDhhZGFjMGUyZGMxYzRmMTA0MjlkMDU1YmZlLnBuZw==",
-      "home_score": 1,
-      "away_score": 1,
-      "status": "Second Half",
-      "time_label": "05 Nov 2026 • 00:45 WIB",
-      "match_time": 1793814300,
-      "match_date": "2026-11-05",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXSg7YVbRaA7z/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXSg7YVbRaA7z/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/fenerbahce-vs-liverpool-x7lm7phjly3gm2w"
-    },
     {
       "id": "318q66h8zl5lqo9",
       "slug": "portugalete-vs-real-union-318q66h8zl5lqo9",
