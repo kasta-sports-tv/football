@@ -1,8 +1,96 @@
 {
-  "updated_at": "2026-11-04T19:56:13.527732+00:00",
+  "updated_at": "2026-11-04T21:57:32.797414+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 14,
+  "matches_count": 11,
   "matches": [
+    {
+      "id": "dj2ryohlw6x3q1z",
+      "slug": "borussia-dortmund-vs-real-betis-dj2ryohlw6x3q1z",
+      "competition": "UEFA Champions League",
+      "home": "Borussia Dortmund",
+      "away": "Real Betis",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2JiZmFjYmRiZTY3NzA1MTcyYzY0MTRkN2U5YzIxYjU4LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzAxOGUyNjBhZDY4YmRhZDc0MWM2MWUzMTcxYzRjNjA4LnBuZw==",
+      "home_score": 2,
+      "away_score": 1,
+      "status": "Second Half",
+      "time_label": "05 Nov 2026 • 03:00 WIB",
+      "match_time": 1793822400,
+      "match_date": "2026-11-05",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXSB3iw3SvFUL/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXSB3iw3SvFUL/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/borussia-dortmund-vs-real-betis-dj2ryohlw6x3q1z"
+    },
+    {
+      "id": "6ypq3nhv2yv0md7",
+      "slug": "psv-eindhoven-vs-club-brugge-6ypq3nhv2yv0md7",
+      "competition": "UEFA Champions League",
+      "home": "PSV Eindhoven",
+      "away": "Club Brugge",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2NhZDVhZjRkMWZmMGU2ZjMxMTlhZjNkMjczZDk1ZDMxLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzJlOWY2NTJkMjhlYzkxZTBiNjZjMGI3MTRiZmY4ZDc4LnBuZw==",
+      "home_score": 1,
+      "away_score": 2,
+      "status": "Second Half",
+      "time_label": "05 Nov 2026 • 03:00 WIB",
+      "match_time": 1793822400,
+      "match_date": "2026-11-05",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXRqVaywtdNKi/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXRqVaywtdNKi/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/psv-eindhoven-vs-club-brugge-6ypq3nhv2yv0md7"
+    },
+    {
+      "id": "vjxm8ghende8r6o",
+      "slug": "rb-leipzig-vs-manchester-city-vjxm8ghende8r6o",
+      "competition": "UEFA Champions League",
+      "home": "RB Leipzig",
+      "away": "Manchester City",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2MxNjZhMjIwYmYyMDk3N2RmMmJkODJmYzA2NzY5NmY1LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2M0YTY1MjhhMmVlMTQ3Yjk5Yzk4ODVlZjI0Mzg1YTRlLnBuZw==",
+      "home_score": 2,
+      "away_score": 3,
+      "status": "Second Half",
+      "time_label": "05 Nov 2026 • 03:00 WIB",
+      "match_time": 1793822400,
+      "match_date": "2026-11-05",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXRqgaPJHkx6C/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXRqgaPJHkx6C/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/rb-leipzig-vs-manchester-city-vjxm8ghende8r6o"
+    },
+    {
+      "id": "2y8m4zh52ywlql0",
+      "slug": "rc-lens-vs-como-2y8m4zh52ywlql0",
+      "competition": "UEFA Champions League",
+      "home": "RC Lens",
+      "away": "Como",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2I4YzUwMzhlYmIwZTIxYjA5YTcyMDA4YjdjYjYyMTlmLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzVmNzA1OWY0MDk2NWU1YTJjYzAwOTg3ZTZiYWMyZjMyLnBuZw==",
+      "home_score": 1,
+      "away_score": 9,
+      "status": "Second Half",
+      "time_label": "05 Nov 2026 • 03:00 WIB",
+      "match_time": 1793822400,
+      "match_date": "2026-11-05",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXRfwhtczSRfn/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXRfwhtczSRfn/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/rc-lens-vs-como-2y8m4zh52ywlql0"
+    },
     {
       "id": "318q66h8zl5lqo9",
       "slug": "portugalete-vs-real-union-318q66h8zl5lqo9",
@@ -156,160 +244,6 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/cd-badajoz-vs-tenerife-8yomo4hyenw5q0j"
-    },
-    {
-      "id": "dj2ryohlw6x3q1z",
-      "slug": "borussia-dortmund-vs-real-betis-dj2ryohlw6x3q1z",
-      "competition": "UEFA Champions League",
-      "home": "Borussia Dortmund",
-      "away": "Real Betis",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2JiZmFjYmRiZTY3NzA1MTcyYzY0MTRkN2U5YzIxYjU4LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzAxOGUyNjBhZDY4YmRhZDc0MWM2MWUzMTcxYzRjNjA4LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "05 Nov 2026 • 03:00 WIB",
-      "match_time": 1793822400,
-      "match_date": "2026-11-05",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXSB3iw3SvFUL/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXSB3iw3SvFUL/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/borussia-dortmund-vs-real-betis-dj2ryohlw6x3q1z"
-    },
-    {
-      "id": "3glrw7hnx2pxqdy",
-      "slug": "fc-porto-vs-napoli-3glrw7hnx2pxqdy",
-      "competition": "UEFA Champions League",
-      "home": "FC Porto",
-      "away": "Napoli",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzgzYWE4MjZlM2M0NWQ1MDQ3YThjOTE3ZmIwYjQxYTVlLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzM3ZWQxM2QyN2VkY2NkMzBlMDUzMTY3OTYyYzAyYjNhLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "05 Nov 2026 • 03:00 WIB",
-      "match_time": 1793822400,
-      "match_date": "2026-11-05",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXSg39XrTvKpC/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXSg39XrTvKpC/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/fc-porto-vs-napoli-3glrw7hnx2pxqdy"
-    },
-    {
-      "id": "6ypq3nhv2yv0md7",
-      "slug": "psv-eindhoven-vs-club-brugge-6ypq3nhv2yv0md7",
-      "competition": "UEFA Champions League",
-      "home": "PSV Eindhoven",
-      "away": "Club Brugge",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2NhZDVhZjRkMWZmMGU2ZjMxMTlhZjNkMjczZDk1ZDMxLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzJlOWY2NTJkMjhlYzkxZTBiNjZjMGI3MTRiZmY4ZDc4LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "05 Nov 2026 • 03:00 WIB",
-      "match_time": 1793822400,
-      "match_date": "2026-11-05",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXRqVaywtdNKi/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXRqVaywtdNKi/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/psv-eindhoven-vs-club-brugge-6ypq3nhv2yv0md7"
-    },
-    {
-      "id": "vjxm8ghende8r6o",
-      "slug": "rb-leipzig-vs-manchester-city-vjxm8ghende8r6o",
-      "competition": "UEFA Champions League",
-      "home": "RB Leipzig",
-      "away": "Manchester City",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2MxNjZhMjIwYmYyMDk3N2RmMmJkODJmYzA2NzY5NmY1LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2M0YTY1MjhhMmVlMTQ3Yjk5Yzk4ODVlZjI0Mzg1YTRlLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "05 Nov 2026 • 03:00 WIB",
-      "match_time": 1793822400,
-      "match_date": "2026-11-05",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXRqgaPJHkx6C/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXRqgaPJHkx6C/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/rb-leipzig-vs-manchester-city-vjxm8ghende8r6o"
-    },
-    {
-      "id": "2y8m4zh52ywlql0",
-      "slug": "rc-lens-vs-como-2y8m4zh52ywlql0",
-      "competition": "UEFA Champions League",
-      "home": "RC Lens",
-      "away": "Como",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2I4YzUwMzhlYmIwZTIxYjA5YTcyMDA4YjdjYjYyMTlmLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzVmNzA1OWY0MDk2NWU1YTJjYzAwOTg3ZTZiYWMyZjMyLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "05 Nov 2026 • 03:00 WIB",
-      "match_time": 1793822400,
-      "match_date": "2026-11-05",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXRfwhtczSRfn/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXRfwhtczSRfn/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/rc-lens-vs-como-2y8m4zh52ywlql0"
-    },
-    {
-      "id": "3glrw7hnx24jqdy",
-      "slug": "sk-slavia-praha-vs-arsenal-3glrw7hnx24jqdy",
-      "competition": "UEFA Champions League",
-      "home": "SK Slavia Praha",
-      "away": "Arsenal",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzIwODBlZGUyYzVkMDk2MzhhNzE4ODkxM2M4MTA3NWVmLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Q2ZjVkZWJjNDU2ZGExMTE5MjU2YWI2NjQ2MmFiNTEwLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "05 Nov 2026 • 03:00 WIB",
-      "match_time": 1793822400,
-      "match_date": "2026-11-05",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXQpua6QBQZBe/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXQpua6QBQZBe/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/sk-slavia-praha-vs-arsenal-3glrw7hnx24jqdy"
-    },
-    {
-      "id": "6ypq3nhv2yp1md7",
-      "slug": "viking-vs-sabah-baku-6ypq3nhv2yp1md7",
-      "competition": "UEFA Champions League",
-      "home": "Viking",
-      "away": "Sabah Baku",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzJmYTA4NDBlMGNiNzdmZDY2ZjEwNGZhOTMyMzAyYTcyLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzMzMzNlN2E0NzZiMmI3ZTA1NTVjMGM3NjA3ZDFhMTBlLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "05 Nov 2026 • 03:00 WIB",
-      "match_time": 1793822400,
-      "match_date": "2026-11-05",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xYAKaF37Q5u8C/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xYAKaF37Q5u8C/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/viking-vs-sabah-baku-6ypq3nhv2yp1md7"
     }
   ]
 }
