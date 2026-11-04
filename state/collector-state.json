@@ -892,7 +892,8 @@
     "vjxm8ghend58r6o": 1793726343,
     "l5ergph4zxlxr8k": 1793726343,
     "965mkyhkjdykr1g": 1793726343,
-    "pxwrxlhy6802ryk": 1793726343
+    "pxwrxlhy6802ryk": 1793726343,
+    "3glrw7hnxdleqdy": 1793808892
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -2499,6 +2500,11 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xYAKY3ZEvFyyJ/playlist.m3u8",
       "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xYAKY3ZEvFyyJ/playlist.m3u8",
       "slug": "villarreal-cf-vs-paris-saint-germain-pxwrxlhy6802ryk"
+    },
+    "3glrw7hnxdleqdy": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxip8J4Eukf89WuaG/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxip8J4Eukf89WuaG/playlist.m3u8",
+      "slug": "stade-rennais-fc-vs-olympiacos-piraeus-3glrw7hnxdleqdy"
     }
   }
 }
