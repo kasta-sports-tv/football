@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-04T16:14:53.770946+00:00",
+  "updated_at": "2026-11-04T17:41:56.925841+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 1,
+  "matches_count": 17,
   "matches": [
     {
       "id": "3glrw7hnxdleqdy",
@@ -24,6 +24,358 @@
         "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxip8J4Eukf89WuaG/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/stade-rennais-fc-vs-olympiacos-piraeus-3glrw7hnxdleqdy"
+    },
+    {
+      "id": "23xmvkh6e1wdqg8",
+      "slug": "aek-athens-vs-real-madrid-23xmvkh6e1wdqg8",
+      "competition": "UEFA Champions League",
+      "home": "AEK Athens",
+      "away": "Real Madrid",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzEyZGNjNjliZWY2N2FhMmE5MzEwN2U5NDBlZTg5MTQ0LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzdkYWNhYTkzNGZlNGJlMDBmMjNjMWUyMDliNWVmOTQ3LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "05 Nov 2026 • 00:45 WIB",
+      "match_time": 1793814300,
+      "match_date": "2026-11-05",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xWggeSMRb2Kc4/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xWggeSMRb2Kc4/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/aek-athens-vs-real-madrid-23xmvkh6e1wdqg8"
+    },
+    {
+      "id": "x7lm7phjly3gm2w",
+      "slug": "fenerbahce-vs-liverpool-x7lm7phjly3gm2w",
+      "competition": "UEFA Champions League",
+      "home": "Fenerbahce",
+      "away": "Liverpool",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2RmZjAwZjFmZDRhN2RkMmZlYWMwMDBiNDYyNDE2ODY3LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzFjYjNkMDhhZGFjMGUyZGMxYzRmMTA0MjlkMDU1YmZlLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "05 Nov 2026 • 00:45 WIB",
+      "match_time": 1793814300,
+      "match_date": "2026-11-05",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXSg7YVbRaA7z/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXSg7YVbRaA7z/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/fenerbahce-vs-liverpool-x7lm7phjly3gm2w"
+    },
+    {
+      "id": "318q66h8zl5lqo9",
+      "slug": "portugalete-vs-real-union-318q66h8zl5lqo9",
+      "competition": "Copa del Rey",
+      "home": "Portugalete",
+      "away": "Real Union",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzlmNWVhZjUwNTg3ZGY0YjgyMDgyOWNhNzU3NTdhYzA3LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzQyN2U1NDEyNzljNzIyN2IzMGE0MWNmMTdkNDg1N2Q2LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Delayed",
+      "time_label": "05 Nov 2026 • 01:00 WIB",
+      "match_time": 1793815200,
+      "match_date": "2026-11-05",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjKLjoE9z9pHgtTz/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/portugalete-vs-real-union-318q66h8zl5lqo9"
+    },
+    {
+      "id": "2y8m4zhv0l21ql0",
+      "slug": "sd-amorebieta-vs-ud-logrones-2y8m4zhv0l21ql0",
+      "competition": "Copa del Rey",
+      "home": "SD Amorebieta",
+      "away": "UD Logrones",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzk4ZjIyMDM0M2UyOTcwYzJiMWU3YzEzYTdlZjM3ZWY3LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzYwYzkxMGRhYTk5ZjYwZWM1MTM1YzdjMGM0NDc1ZjgyLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Delayed",
+      "time_label": "05 Nov 2026 • 02:00 WIB",
+      "match_time": 1793818800,
+      "match_date": "2026-11-05",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjKLjnQDbHqPcbRr/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/sd-amorebieta-vs-ud-logrones-2y8m4zhv0l21ql0"
+    },
+    {
+      "id": "x7lm7phxg4lzm2w",
+      "slug": "deportiva-minera-vs-fc-cartagena-x7lm7phxg4lzm2w",
+      "competition": "Copa del Rey",
+      "home": "Deportiva Minera",
+      "away": "FC Cartagena",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzcxZDg2ZjliMDc4NTRiM2M1MzUyZmY2NTU4Y2QxZTczLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Q1ODA5ZGIwMzIxZDQxZWUzNGJhNWI0ODFmODZlMDFmLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Delayed",
+      "time_label": "05 Nov 2026 • 02:30 WIB",
+      "match_time": 1793820600,
+      "match_date": "2026-11-05",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjKLjnEN8MYepKYk/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/deportiva-minera-vs-fc-cartagena-x7lm7phxg4lzm2w"
+    },
+    {
+      "id": "pxwrxlhlpd6eryk",
+      "slug": "reus-fc-reddis-vs-barakaldo-cf-pxwrxlhlpd6eryk",
+      "competition": "Copa del Rey",
+      "home": "Reus FC Reddis",
+      "away": "Barakaldo CF",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzljYmY5YWNiZmU2ZmVhMDMwMTUyMDdlMmI1ZDk3YTg0LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2YyNTk0MGQyNWFjZDAyOGZiYWU1MmY4ZGYyNDk3NzM0LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Delayed",
+      "time_label": "05 Nov 2026 • 02:30 WIB",
+      "match_time": 1793820600,
+      "match_date": "2026-11-05",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjKLjnPed5nCDr8Q/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/reus-fc-reddis-vs-barakaldo-cf-pxwrxlhlpd6eryk"
+    },
+    {
+      "id": "y39mp1hdv722moj",
+      "slug": "utebo-fc-vs-sabadell-y39mp1hdv722moj",
+      "competition": "Copa del Rey",
+      "home": "Utebo FC",
+      "away": "Sabadell",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2JiODNlMzE3YWE1OGUzMzBhYjdhMzkyMDA1OWI4YTJhLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2RiZWJhYzhkNWQ3YWNjMDgwYmZkZGY2MjBhNTZlMjEzLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Delayed",
+      "time_label": "05 Nov 2026 • 02:30 WIB",
+      "match_time": 1793820600,
+      "match_date": "2026-11-05",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjKLjoEgkt11FicY/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/utebo-fc-vs-sabadell-y39mp1hdv722moj"
+    },
+    {
+      "id": "jw2r09h548exrz8",
+      "slug": "cs-puertollano-vs-albacete-balompi-sad-jw2r09h548exrz8",
+      "competition": "Copa del Rey",
+      "home": "CS Puertollano",
+      "away": "Albacete Balompié SAD",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzVlYzU1YTBlODg5YmI3MjY4ZjJkMDI5ZDJhYTZjNTdmLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2EyZjczMWU5MTQ3ZjY0MDgyZjIyYjlhNTYxNDI1MzA4LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Delayed",
+      "time_label": "05 Nov 2026 • 02:45 WIB",
+      "match_time": 1793821500,
+      "match_date": "2026-11-05",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjKLjnQ2btUzV1fN/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/cs-puertollano-vs-albacete-balompi-sad-jw2r09h548exrz8"
+    },
+    {
+      "id": "8yomo4hyenw5q0j",
+      "slug": "cd-badajoz-vs-tenerife-8yomo4hyenw5q0j",
+      "competition": "Copa del Rey",
+      "home": "CD Badajoz",
+      "away": "Tenerife",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2UzYTExMTNiMThmYjAzYmQ0NmI3MzA5OWEyZWM4ZTAwLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2M4MTZhN2NjN2FiMWViNmRjY2UzZmI0NDA4YWNkMzIwLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Delayed",
+      "time_label": "05 Nov 2026 • 03:00 WIB",
+      "match_time": 1793822400,
+      "match_date": "2026-11-05",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjKLjnQBPoxungGx/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/cd-badajoz-vs-tenerife-8yomo4hyenw5q0j"
+    },
+    {
+      "id": "dj2ryohlw6x3q1z",
+      "slug": "borussia-dortmund-vs-real-betis-dj2ryohlw6x3q1z",
+      "competition": "UEFA Champions League",
+      "home": "Borussia Dortmund",
+      "away": "Real Betis",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2JiZmFjYmRiZTY3NzA1MTcyYzY0MTRkN2U5YzIxYjU4LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzAxOGUyNjBhZDY4YmRhZDc0MWM2MWUzMTcxYzRjNjA4LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "05 Nov 2026 • 03:00 WIB",
+      "match_time": 1793822400,
+      "match_date": "2026-11-05",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXSB3iw3SvFUL/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXSB3iw3SvFUL/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/borussia-dortmund-vs-real-betis-dj2ryohlw6x3q1z"
+    },
+    {
+      "id": "3glrw7hnx2pxqdy",
+      "slug": "fc-porto-vs-napoli-3glrw7hnx2pxqdy",
+      "competition": "UEFA Champions League",
+      "home": "FC Porto",
+      "away": "Napoli",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzgzYWE4MjZlM2M0NWQ1MDQ3YThjOTE3ZmIwYjQxYTVlLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzM3ZWQxM2QyN2VkY2NkMzBlMDUzMTY3OTYyYzAyYjNhLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "05 Nov 2026 • 03:00 WIB",
+      "match_time": 1793822400,
+      "match_date": "2026-11-05",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXSg39XrTvKpC/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXSg39XrTvKpC/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/fc-porto-vs-napoli-3glrw7hnx2pxqdy"
+    },
+    {
+      "id": "6ypq3nhv2yv0md7",
+      "slug": "psv-eindhoven-vs-club-brugge-6ypq3nhv2yv0md7",
+      "competition": "UEFA Champions League",
+      "home": "PSV Eindhoven",
+      "away": "Club Brugge",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2NhZDVhZjRkMWZmMGU2ZjMxMTlhZjNkMjczZDk1ZDMxLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzJlOWY2NTJkMjhlYzkxZTBiNjZjMGI3MTRiZmY4ZDc4LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "05 Nov 2026 • 03:00 WIB",
+      "match_time": 1793822400,
+      "match_date": "2026-11-05",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXRqVaywtdNKi/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXRqVaywtdNKi/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/psv-eindhoven-vs-club-brugge-6ypq3nhv2yv0md7"
+    },
+    {
+      "id": "vjxm8ghende8r6o",
+      "slug": "rb-leipzig-vs-manchester-city-vjxm8ghende8r6o",
+      "competition": "UEFA Champions League",
+      "home": "RB Leipzig",
+      "away": "Manchester City",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2MxNjZhMjIwYmYyMDk3N2RmMmJkODJmYzA2NzY5NmY1LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2M0YTY1MjhhMmVlMTQ3Yjk5Yzk4ODVlZjI0Mzg1YTRlLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "05 Nov 2026 • 03:00 WIB",
+      "match_time": 1793822400,
+      "match_date": "2026-11-05",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXRqgaPJHkx6C/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXRqgaPJHkx6C/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/rb-leipzig-vs-manchester-city-vjxm8ghende8r6o"
+    },
+    {
+      "id": "2y8m4zh52ywlql0",
+      "slug": "rc-lens-vs-como-2y8m4zh52ywlql0",
+      "competition": "UEFA Champions League",
+      "home": "RC Lens",
+      "away": "Como",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2I4YzUwMzhlYmIwZTIxYjA5YTcyMDA4YjdjYjYyMTlmLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzVmNzA1OWY0MDk2NWU1YTJjYzAwOTg3ZTZiYWMyZjMyLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "05 Nov 2026 • 03:00 WIB",
+      "match_time": 1793822400,
+      "match_date": "2026-11-05",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXRfwhtczSRfn/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXRfwhtczSRfn/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/rc-lens-vs-como-2y8m4zh52ywlql0"
+    },
+    {
+      "id": "3glrw7hnx24jqdy",
+      "slug": "sk-slavia-praha-vs-arsenal-3glrw7hnx24jqdy",
+      "competition": "UEFA Champions League",
+      "home": "SK Slavia Praha",
+      "away": "Arsenal",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzIwODBlZGUyYzVkMDk2MzhhNzE4ODkxM2M4MTA3NWVmLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Q2ZjVkZWJjNDU2ZGExMTE5MjU2YWI2NjQ2MmFiNTEwLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "05 Nov 2026 • 03:00 WIB",
+      "match_time": 1793822400,
+      "match_date": "2026-11-05",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXQpua6QBQZBe/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXQpua6QBQZBe/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/sk-slavia-praha-vs-arsenal-3glrw7hnx24jqdy"
+    },
+    {
+      "id": "6ypq3nhv2yp1md7",
+      "slug": "viking-vs-sabah-baku-6ypq3nhv2yp1md7",
+      "competition": "UEFA Champions League",
+      "home": "Viking",
+      "away": "Sabah Baku",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzJmYTA4NDBlMGNiNzdmZDY2ZjEwNGZhOTMyMzAyYTcyLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzMzMzNlN2E0NzZiMmI3ZTA1NTVjMGM3NjA3ZDFhMTBlLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "05 Nov 2026 • 03:00 WIB",
+      "match_time": 1793822400,
+      "match_date": "2026-11-05",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xYAKaF37Q5u8C/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xYAKaF37Q5u8C/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/viking-vs-sabah-baku-6ypq3nhv2yp1md7"
     }
   ]
 }
