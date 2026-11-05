@@ -902,7 +902,42 @@
     "6ypq3nhv2yv0md7": 1793814109,
     "vjxm8ghende8r6o": 1793814109,
     "3glrw7hnx24jqdy": 1793814109,
-    "6ypq3nhv2yp1md7": 1793814109
+    "6ypq3nhv2yp1md7": 1793814109,
+    "vjxm8gheny49r6o": 1793898707,
+    "n54qllhnlv2pqvy": 1793898707,
+    "pxwrxlhy6d9vryk": 1793898707,
+    "965mkyhkjpejr1g": 1793898707,
+    "dn1m1ghl568emoe": 1793898707,
+    "4wyrn4h6jgvdq86": 1793898707,
+    "y0or5jh8v7g5qwz": 1793898707,
+    "y39mp1h6x717moj": 1793898707,
+    "dj2ryohlw82dq1z": 1793898707,
+    "l7oqdehgv7e1r51": 1793898707,
+    "dj2ryohlw8ddq1z": 1793898707,
+    "318q66hx9lnkqo9": 1793898707,
+    "l7oqdehgv728r51": 1793898707,
+    "ednm9whwj109ryo": 1793898707,
+    "y39mp1h6x74ymoj": 1793898707,
+    "l7oqdehgv738r51": 1793898707,
+    "4wyrn4h6jgo0q86": 1793898707,
+    "k82rekhg5lvprep": 1793898707,
+    "l5ergph4zgogr8k": 1793898707,
+    "6ypq3nhv2x5lmd7": 1793898707,
+    "dn1m1ghl56ewmoe": 1793898707,
+    "dj2ryohlw8jyq1z": 1793898707,
+    "23xmvkh6e7dzqg8": 1793898707,
+    "x7lm7phjl4pxm2w": 1793898707,
+    "jw2r09hke8pwrz8": 1793898707,
+    "4wyrn4h6jg00q86": 1793898707,
+    "vjxm8gheny96r6o": 1793898707,
+    "n54qllhnlv9oqvy": 1793898707,
+    "23xmvkh6e7weqg8": 1793898707,
+    "dn1m1ghl567omoe": 1793898707,
+    "6ypq3nhv2xe8md7": 1793898707,
+    "4wyrn4h6jgl0q86": 1793898707,
+    "n54qllhnlvzoqvy": 1793898707,
+    "k82rekhg5l03rep": 1793898707,
+    "dj2ryohlw8e1q1z": 1793898707
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -2559,6 +2594,181 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xYAKaF37Q5u8C/playlist.m3u8",
       "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xYAKaF37Q5u8C/playlist.m3u8",
       "slug": "viking-vs-sabah-baku-6ypq3nhv2yp1md7"
+    },
+    "vjxm8gheny49r6o": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxip8GZmvxfqzuHZJ/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxip8GZmvxfqzuHZJ/playlist.m3u8",
+      "slug": "ac-milan-vs-ferencvarosi-tc-vjxm8gheny49r6o"
+    },
+    "n54qllhnlv2pqvy": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxip8GZmMzTnoWYFr/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxip8GZmMzTnoWYFr/playlist.m3u8",
+      "slug": "anderlecht-vs-red-bull-salzburg-n54qllhnlv2pqvy"
+    },
+    "pxwrxlhy6d9vryk": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxip8HKRojP3oLKmi/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxip8HKRojP3oLKmi/playlist.m3u8",
+      "slug": "crystal-palace-vs-tsg-hoffenheim-pxwrxlhy6d9vryk"
+    },
+    "965mkyhkjpejr1g": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxip8HJm13KpXMthe/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxip8HJm13KpXMthe/playlist.m3u8",
+      "slug": "levski-sofia-vs-jagiellonia-bialystok-965mkyhkjpejr1g"
+    },
+    "dn1m1ghl568emoe": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxip8HJm9qFJSfZKE/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxip8HJm9qFJSfZKE/playlist.m3u8",
+      "slug": "lillestrom-vs-fc-viktoria-plze-dn1m1ghl568emoe"
+    },
+    "4wyrn4h6jgvdq86": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxip8HJm7dmRxqeAL/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxip8HJm7dmRxqeAL/playlist.m3u8",
+      "slug": "trabzonspor-vs-sc-freiburg-4wyrn4h6jgvdq86"
+    },
+    "y0or5jh8v7g5qwz": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxip8HJatC2SRnCkG/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxip8HJatC2SRnCkG/playlist.m3u8",
+      "slug": "midtjylland-vs-afc-ajax-y0or5jh8v7g5qwz"
+    },
+    "y39mp1h6x717moj": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxip8J4vFDSY94Ant/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxip8J4vFDSY94Ant/playlist.m3u8",
+      "slug": "nec-nijmegen-vs-omonia-nicosia-fc-y39mp1h6x717moj"
+    },
+    "dj2ryohlw82dq1z": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxip8J4kU9TzMujDa/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxip8J4kU9TzMujDa/playlist.m3u8",
+      "slug": "atalanta-vs-fc-kairat-almaty-dj2ryohlw82dq1z"
+    },
+    "l7oqdehgv7e1r51": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxip8J55TKD2ios4k/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxip8J55TKD2ios4k/playlist.m3u8",
+      "slug": "aarhus-agf-vs-sporting-braga-l7oqdehgv7e1r51"
+    },
+    "dj2ryohlw8ddq1z": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxip8J55R7jAEywur/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxip8J55R7jAEywur/playlist.m3u8",
+      "slug": "real-sociedad-vs-lyon-dj2ryohlw8ddq1z"
+    },
+    "318q66hx9lnkqo9": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxip8J4ajGyK4bCoA/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxip8J4ajGyK4bCoA/playlist.m3u8",
+      "slug": "ac-sparta-praha-vs-bournemouth-afc-318q66hx9lnkqo9"
+    },
+    "l7oqdehgv728r51": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxip8J3QhyS3tfCTr/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxip8J3QhyS3tfCTr/playlist.m3u8",
+      "slug": "crvena-zvezda-vs-inter-club-d-escaldes-l7oqdehgv728r51"
+    },
+    "ednm9whwj109ryo": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxip8JojocV4F9kSC/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxip8JojocV4F9kSC/playlist.m3u8",
+      "slug": "kups-vs-kaa-gent-ednm9whwj109ryo"
+    },
+    "y39mp1h6x74ymoj": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxip8JojGqksXavHe/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxip8JojGqksXavHe/playlist.m3u8",
+      "slug": "lincoln-red-imps-fc-vs-hajduk-split-y39mp1h6x74ymoj"
+    },
+    "l7oqdehgv738r51": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxip8JoZzM2dzBPhz/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxip8JoZzM2dzBPhz/playlist.m3u8",
+      "slug": "mjallby-aif-vs-borac-banja-luka-l7oqdehgv738r51"
+    },
+    "4wyrn4h6jgo0q86": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxip8JouWHVs4eMhi/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxip8JouWHVs4eMhi/playlist.m3u8",
+      "slug": "thun-vs-heart-of-midlothian-f-c-4wyrn4h6jgo0q86"
+    },
+    "k82rekhg5lvprep": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxip8HL6j1stWnWJU/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxip8HL6j1stWnWJU/playlist.m3u8",
+      "slug": "az-alkmaar-vs-juventus-k82rekhg5lvprep"
+    },
+    "l5ergph4zgogr8k": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxip8HKvo9yrpLQ7a/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxip8HKvo9yrpLQ7a/playlist.m3u8",
+      "slug": "bayer-04-leverkusen-vs-marseille-l5ergph4zgogr8k"
+    },
+    "6ypq3nhv2x5lmd7": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxip8HKw2Ls5hHu2x/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxip8HKw2Ls5hHu2x/playlist.m3u8",
+      "slug": "benfica-vs-lech-poznan-6ypq3nhv2x5lmd7"
+    },
+    "dn1m1ghl56ewmoe": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxip8HLGGtyDQySxQ/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxip8HLGGtyDQySxQ/playlist.m3u8",
+      "slug": "rc-celta-vs-union-saint-gilloise-dn1m1ghl56ewmoe"
+    },
+    "dj2ryohlw8jyq1z": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxip8HLFw7eP6YCaL/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxip8HLFw7eP6YCaL/playlist.m3u8",
+      "slug": "celtic-fc-vs-besiktas-jk-dj2ryohlw8jyq1z"
+    },
+    "23xmvkh6e7dzqg8": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxip8HKG4rtNW1oMJ/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxip8HKG4rtNW1oMJ/playlist.m3u8",
+      "slug": "hapoel-beer-sheva-vs-ofi-crete-fc-23xmvkh6e7dzqg8"
+    },
+    "x7lm7phjl4pxm2w": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxip8J5FXy2YLZdsE/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxip8J5FXy2YLZdsE/playlist.m3u8",
+      "slug": "as-monaco-vs-nordsjaelland-x7lm7phjl4pxm2w"
+    },
+    "jw2r09hke8pwrz8": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxip8J55wtTLxYn4Q/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxip8J55wtTLxYn4Q/playlist.m3u8",
+      "slug": "fc-copenhagen-vs-fc-iberia-1999-tbilisi-jw2r09hke8pwrz8"
+    },
+    "4wyrn4h6jg00q86": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxip8J4aofw42F36x/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxip8J4aofw42F36x/playlist.m3u8",
+      "slug": "sturm-graz-vs-nk-publikum-celje-4wyrn4h6jg00q86"
+    },
+    "vjxm8gheny96r6o": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxip8J4R6zvFCkRqS/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxip8J4R6zvFCkRqS/playlist.m3u8",
+      "slug": "sunderland-vs-dinamo-zagreb-vjxm8gheny96r6o"
+    },
+    "n54qllhnlv9oqvy": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxip8J4R9CQ7gaLzL/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxip8J4R9CQ7gaLzL/playlist.m3u8",
+      "slug": "scu-torreense-vs-ararat-armenia-fc-n54qllhnlv9oqvy"
+    },
+    "23xmvkh6e7weqg8": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxip8J4Qed9oSqRzg/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxip8J4Qed9oSqRzg/playlist.m3u8",
+      "slug": "panathinaikos-vs-cska-sofia-23xmvkh6e7weqg8"
+    },
+    "dn1m1ghl567omoe": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxip8J3adqL5b7Jek/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxip8J3adqL5b7Jek/playlist.m3u8",
+      "slug": "fc-twente-enschede-vs-pafos-fc-dn1m1ghl567omoe"
+    },
+    "6ypq3nhv2xe8md7": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxip8J3QrmMXoxs5S/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxip8J3QrmMXoxs5S/playlist.m3u8",
+      "slug": "getafe-vs-brighton-hove-albion-6ypq3nhv2xe8md7"
+    },
+    "4wyrn4h6jgl0q86": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxip8JoZx9YmWMUZ6/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxip8JoZx9YmWMUZ6/playlist.m3u8",
+      "slug": "lugano-vs-kauno-zalgiris-4wyrn4h6jgl0q86"
+    },
+    "n54qllhnlvzoqvy": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxip8Jp56N54SfDWY/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxip8Jp56N54SfDWY/playlist.m3u8",
+      "slug": "sint-truidense-vs-brann-n54qllhnlvzoqvy"
+    },
+    "k82rekhg5l03rep": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxip8JouKJ6WfWmwE/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxip8JouKJ6WfWmwE/playlist.m3u8",
+      "slug": "cs-universitatea-craiova-vs-egnatia-k82rekhg5l03rep"
+    },
+    "dj2ryohlw8e1q1z": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxip8Jo4mjYc6DpSk/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxip8Jo4mjYc6DpSk/playlist.m3u8",
+      "slug": "riga-fc-vs-fk-jablonec-dj2ryohlw8e1q1z"
     }
   }
 }
