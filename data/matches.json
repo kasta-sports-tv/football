@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T02:59:01.477619+00:00",
+  "updated_at": "2026-11-06T10:41:48.451466+00:00",
   "source": "https://kickofftv.id",
   "matches_count": 3,
   "matches": [
@@ -13,7 +13,7 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2RlMTUzNDVlZTBkMWE2YTMwYWMzNmVhMDA2YTdhNTA5LnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "TBD",
       "time_label": "06 Nov 2026 • 16:30 WIB",
       "match_time": 1793957400,
       "match_date": "2026-11-06",
@@ -42,7 +42,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2gJmkD1NySd6/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/obolon-kyiv-vs-fc-livyi-bereh-vjxm8ghe6elnr6o"
@@ -64,7 +64,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2gJjYj8u9XUC/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/polissya-zhytomyr-vs-veres-x7lm7phjejz4m2w"

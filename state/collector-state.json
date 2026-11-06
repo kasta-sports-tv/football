@@ -937,7 +937,9 @@
     "4wyrn4h6jgl0q86": 1793898707,
     "n54qllhnlvzoqvy": 1793898707,
     "k82rekhg5l03rep": 1793898707,
-    "dj2ryohlw8e1q1z": 1793898707
+    "dj2ryohlw8e1q1z": 1793898707,
+    "vjxm8ghe6elnr6o": 1793961707,
+    "x7lm7phjejz4m2w": 1793961707
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -2769,6 +2771,16 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxip8Jo4mjYc6DpSk/playlist.m3u8",
       "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxip8Jo4mjYc6DpSk/playlist.m3u8",
       "slug": "riga-fc-vs-fk-jablonec-dj2ryohlw8e1q1z"
+    },
+    "vjxm8ghe6elnr6o": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2gJmkD1NySd6/playlist.m3u8",
+      "hd": "",
+      "slug": "obolon-kyiv-vs-fc-livyi-bereh-vjxm8ghe6elnr6o"
+    },
+    "x7lm7phjejz4m2w": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2gJjYj8u9XUC/playlist.m3u8",
+      "hd": "",
+      "slug": "polissya-zhytomyr-vs-veres-x7lm7phjejz4m2w"
     }
   }
 }
