@@ -939,7 +939,15 @@
     "k82rekhg5l03rep": 1793898707,
     "dj2ryohlw8e1q1z": 1793898707,
     "vjxm8ghe6elnr6o": 1793961707,
-    "x7lm7phjejz4m2w": 1793961707
+    "x7lm7phjejz4m2w": 1793961707,
+    "y0or5jh8y6k3qwz": 1793986889,
+    "y39mp1h6nkn0moj": 1793986889,
+    "x7lm7phje87wm2w": 1793986889,
+    "965mkyhk97wdr1g": 1793986889,
+    "pxwrxlhywj61ryk": 1793986889,
+    "3glrw7hne5pyqdy": 1793986889,
+    "pxwrxlhyov72ryk": 1793986889,
+    "318q66hxy4nvqo9": 1793986889
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -2781,6 +2789,36 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2gJjYj8u9XUC/playlist.m3u8",
       "hd": "",
       "slug": "polissya-zhytomyr-vs-veres-x7lm7phjejz4m2w"
+    },
+    "y0or5jh8y6k3qwz": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb6hHReNJkqju9AQ/playlist.m3u8",
+      "hd": "",
+      "slug": "gaziantep-futbol-kul-b-vs-kasimpasa-y0or5jh8y6k3qwz"
+    },
+    "y39mp1h6nkn0moj": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaDgiy2ZcBAMa9W/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaDgiy2ZcBAMa9W/playlist.m3u8",
+      "slug": "hamburger-sv-vs-borussia-monchengladbach-y39mp1h6nkn0moj"
+    },
+    "965mkyhk97wdr1g": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jZjjCTzEkGvwi/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jZjjCTzEkGvwi/playlist.m3u8",
+      "slug": "venezia-vs-udinese-965mkyhk97wdr1g"
+    },
+    "3glrw7hne5pyqdy": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQj2xBawkHBARW/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQj2xBawkHBARW/playlist.m3u8",
+      "slug": "everton-vs-coventry-city-3glrw7hne5pyqdy"
+    },
+    "pxwrxlhyov72ryk": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGyDMa2vPQzS9N/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGyDMa2vPQzS9N/playlist.m3u8",
+      "slug": "sevilla-fc-vs-deportivo-alav-s-pxwrxlhyov72ryk"
+    },
+    "318q66hxy4nvqo9": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweLB36NWFzCXuWY8/playlist.m3u8",
+      "hd": "",
+      "slug": "fc-famalicao-vs-fc-arouca-318q66hxy4nvqo9"
     }
   }
 }
