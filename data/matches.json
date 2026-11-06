@@ -1,51 +1,29 @@
 {
-  "updated_at": "2026-11-06T18:05:57.902906+00:00",
+  "updated_at": "2026-11-06T22:25:06.517827+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 33,
+  "matches_count": 27,
   "matches": [
     {
-      "id": "y0or5jh8y6k3qwz",
-      "slug": "gaziantep-futbol-kul-b-vs-kasimpasa-y0or5jh8y6k3qwz",
-      "competition": "Turkish Super League",
-      "home": "Gaziantep Futbol Kulübü",
-      "away": "Kasimpasa",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzFkNTkwZmJjNjZkYjQ3N2JiNWNiMTQzMDRjZDAwYzg0LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzQ4M2Y2YWRlMTU4ZjQ0ZWIyNDg0OWI2MDc2Mzc3MzU1LnBuZw==",
+      "id": "318q66hxy4nvqo9",
+      "slug": "fc-famalicao-vs-fc-arouca-318q66hxy4nvqo9",
+      "competition": "Portuguese Primera Liga",
+      "home": "FC Famalicao",
+      "away": "FC Arouca",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2FiZDU5ZjYyZjY5ZWY5ZjU5YTgxMjFjM2JhYWRkODgyLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzA0ZGU1OTI0YTQ2YWNjZTNmYjYyOTUzNGM0ZTAzOWJlLnBuZw==",
       "home_score": 0,
-      "away_score": 2,
-      "status": "Half Time",
-      "time_label": "07 Nov 2026 • 00:00 WIB",
-      "match_time": 1793984400,
+      "away_score": 0,
+      "status": "Second Half",
+      "time_label": "07 Nov 2026 • 03:45 WIB",
+      "match_time": 1793997900,
       "match_date": "2026-11-07",
       "is_live": true,
       "is_finished": false,
       "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb6hHReNJkqju9AQ/playlist.m3u8",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweLB36NWFzCXuWY8/playlist.m3u8",
         "hd": ""
       },
-      "match_url": "https://kickofftv.id/match/gaziantep-futbol-kul-b-vs-kasimpasa-y0or5jh8y6k3qwz"
-    },
-    {
-      "id": "y39mp1h6nkn0moj",
-      "slug": "hamburger-sv-vs-borussia-monchengladbach-y39mp1h6nkn0moj",
-      "competition": "Bundesliga",
-      "home": "Hamburger SV",
-      "away": "Borussia Monchengladbach",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzkwZjUyYjMwZmJkZjJhYzU2OGNhMWQ0OGMwN2YyYmMzLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzg5Y2RhZGY2Y2YxZWI2ZjhkMjUwN2RlMWUwMWY4MDZjLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "07 Nov 2026 • 02:30 WIB",
-      "match_time": 1793993400,
-      "match_date": "2026-11-07",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaDgiy2ZcBAMa9W/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaDgiy2ZcBAMa9W/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/hamburger-sv-vs-borussia-monchengladbach-y39mp1h6nkn0moj"
+      "match_url": "https://kickofftv.id/match/fc-famalicao-vs-fc-arouca-318q66hxy4nvqo9"
     },
     {
       "id": "x7lm7phje87wm2w",
@@ -68,116 +46,6 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/castellon-vs-eibar-x7lm7phje87wm2w"
-    },
-    {
-      "id": "pxwrxlhywj61ryk",
-      "slug": "toulouse-fc-vs-rc-strasbourg-alsace-pxwrxlhywj61ryk",
-      "competition": "French Ligue 1",
-      "home": "Toulouse FC",
-      "away": "RC Strasbourg Alsace",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzI5NDdmZTJmNDI1NTFhNWI3ZWNjY2E3ZmM5NDhmODc5LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzk5OGRiNDc4YmY3YzA2ZDU4MTdiZjg0Njk4N2EwZDBhLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "07 Nov 2026 • 02:45 WIB",
-      "match_time": 1793994300,
-      "match_date": "2026-11-07",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/toulouse-fc-vs-rc-strasbourg-alsace-pxwrxlhywj61ryk"
-    },
-    {
-      "id": "965mkyhk97wdr1g",
-      "slug": "venezia-vs-udinese-965mkyhk97wdr1g",
-      "competition": "Italian Serie A",
-      "home": "Venezia",
-      "away": "Udinese",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzNlNzI0ZGMwZTZmZmZkMDFhNjMwYjY1YWYzNDhmYWI2LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2M3MTQwZWZlMDZkOTM2NDJmY2M5ODA1MDc3YzQ5YWE1LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "07 Nov 2026 • 02:45 WIB",
-      "match_time": 1793994300,
-      "match_date": "2026-11-07",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jZjjCTzEkGvwi/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jZjjCTzEkGvwi/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/venezia-vs-udinese-965mkyhk97wdr1g"
-    },
-    {
-      "id": "3glrw7hne5pyqdy",
-      "slug": "everton-vs-coventry-city-3glrw7hne5pyqdy",
-      "competition": "English Premier League",
-      "home": "Everton",
-      "away": "Coventry City",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzk1OTJkMWUwYmU2Mzc1YjllNmM1ZWYxNjliN2FhODY0LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzc1OWYxOWNjYWVjYWRkMzNhNWMwOWI1MzVlNTQzNDEwLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "07 Nov 2026 • 03:00 WIB",
-      "match_time": 1793995200,
-      "match_date": "2026-11-07",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQj2xBawkHBARW/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQj2xBawkHBARW/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/everton-vs-coventry-city-3glrw7hne5pyqdy"
-    },
-    {
-      "id": "pxwrxlhyov72ryk",
-      "slug": "sevilla-fc-vs-deportivo-alav-s-pxwrxlhyov72ryk",
-      "competition": "Spanish La Liga",
-      "home": "Sevilla FC",
-      "away": "Deportivo Alavés",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2QyMGVkMWRhNGYyOTljYzNlZjBlMWU5ZWIwNmVjZWQxLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZmZmJlYmFhN2EwYzNjMmRiN2U4ZDYzN2EzZGUxODExLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "07 Nov 2026 • 03:00 WIB",
-      "match_time": 1793995200,
-      "match_date": "2026-11-07",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGyDMa2vPQzS9N/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGyDMa2vPQzS9N/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/sevilla-fc-vs-deportivo-alav-s-pxwrxlhyov72ryk"
-    },
-    {
-      "id": "318q66hxy4nvqo9",
-      "slug": "fc-famalicao-vs-fc-arouca-318q66hxy4nvqo9",
-      "competition": "Portuguese Primera Liga",
-      "home": "FC Famalicao",
-      "away": "FC Arouca",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2FiZDU5ZjYyZjY5ZWY5ZjU5YTgxMjFjM2JhYWRkODgyLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzA0ZGU1OTI0YTQ2YWNjZTNmYjYyOTUzNGM0ZTAzOWJlLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "07 Nov 2026 • 03:45 WIB",
-      "match_time": 1793997900,
-      "match_date": "2026-11-07",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweLB36NWFzCXuWY8/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/fc-famalicao-vs-fc-arouca-318q66hxy4nvqo9"
     },
     {
       "id": "6ypq3nhv96dpmd7",
