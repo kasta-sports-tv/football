@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-06T10:41:48.451466+00:00",
+  "updated_at": "2026-11-06T14:30:10.826665+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 3,
+  "matches_count": 1,
   "matches": [
     {
       "id": "pxwrxlhy4pwwryk",
@@ -11,11 +11,11 @@
       "away": "Kulykiv",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzBmMTM2YWMwMzAwYTljZDlkMjdmZjBhNWM3YjZmMmE3LnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2RlMTUzNDVlZTBkMWE2YTMwYWMzNmVhMDA2YTdhNTA5LnBuZw==",
-      "home_score": 0,
+      "home_score": 1,
       "away_score": 0,
-      "status": "TBD",
-      "time_label": "06 Nov 2026 • 16:30 WIB",
-      "match_time": 1793957400,
+      "status": "Interrupted",
+      "time_label": "06 Nov 2026 • 20:15 WIB",
+      "match_time": 1793970900,
       "match_date": "2026-11-06",
       "is_live": false,
       "is_finished": false,
@@ -24,50 +24,6 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/fc-inhulets-petrove-vs-kulykiv-pxwrxlhy4pwwryk"
-    },
-    {
-      "id": "vjxm8ghe6elnr6o",
-      "slug": "obolon-kyiv-vs-fc-livyi-bereh-vjxm8ghe6elnr6o",
-      "competition": "Ukrainian Premier League",
-      "home": "Obolon Kyiv",
-      "away": "FC Livyi Bereh",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzI2MGRkODUyMzY3MTBlNWZlODJiZTA0ODBjZTQ3NjRjLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzBlMDUzN2I0YTEwMWRlNDg3ZmNlN2VjZjE4NDc3MmE1LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "06 Nov 2026 • 18:00 WIB",
-      "match_time": 1793962800,
-      "match_date": "2026-11-06",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2gJmkD1NySd6/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/obolon-kyiv-vs-fc-livyi-bereh-vjxm8ghe6elnr6o"
-    },
-    {
-      "id": "x7lm7phjejz4m2w",
-      "slug": "polissya-zhytomyr-vs-veres-x7lm7phjejz4m2w",
-      "competition": "Ukrainian Premier League",
-      "home": "Polissya Zhytomyr",
-      "away": "Veres ",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzhmMjUzMjg0YzlkOTE4NjdhNDIxNzQ1ZDAwYThlZjZmLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2M3NjRkYTIyNjI2NzI0NDA1NWQwOGE0OGUwYTc3M2YyLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "06 Nov 2026 • 18:00 WIB",
-      "match_time": 1793962800,
-      "match_date": "2026-11-06",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2gJjYj8u9XUC/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/polissya-zhytomyr-vs-veres-x7lm7phjejz4m2w"
     }
   ]
 }
