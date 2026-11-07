@@ -1,206 +1,8 @@
 {
-  "updated_at": "2026-11-07T10:30:28.533834+00:00",
+  "updated_at": "2026-11-07T14:39:29.697645+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 25,
+  "matches_count": 17,
   "matches": [
-    {
-      "id": "3glrw7hn8ke5qdy",
-      "slug": "metalist-kharkiv-vs-lokomotiv-kyiv-3glrw7hn8ke5qdy",
-      "competition": "Ukrainian First League",
-      "home": "Metalist Kharkiv",
-      "away": "Lokomotiv Kyiv",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZhNWQ2ZjgxOWY4MGQ4NzYyNDhiYzdiYWY3ZGY5NjRmLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzFiNmE4YjdiYjU4ZmIwYmQ4MTYwNDI0NWMwOWUwN2YzLnBuZw==",
-      "home_score": 1,
-      "away_score": 1,
-      "status": "First Half",
-      "time_label": "07 Nov 2026 • 17:00 WIB",
-      "match_time": 1794045600,
-      "match_date": "2026-11-07",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb79RoMw5seU9xXi/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/metalist-kharkiv-vs-lokomotiv-kyiv-3glrw7hn8ke5qdy"
-    },
-    {
-      "id": "6ypq3nhv96dpmd7",
-      "slug": "fc-chernigiv-vs-kolos-kovalivka-ii-6ypq3nhv96dpmd7",
-      "competition": "Ukrainian First League",
-      "home": "FC Chernigiv",
-      "away": "Kolos Kovalivka II",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzk5YmE3ZmM4Njc4ZDhlZTQwYWIxYzU2NDQzZjRiMWEzLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzIxNjMzZGViMzU2MGIxMWNhZWJhNGYzOGI3NjYzYTFiLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Delayed",
-      "time_label": "07 Nov 2026 • 16:00 WIB",
-      "match_time": 1794042000,
-      "match_date": "2026-11-07",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/fc-chernigiv-vs-kolos-kovalivka-ii-6ypq3nhv96dpmd7"
-    },
-    {
-      "id": "vjxm8ghed36gr6o",
-      "slug": "eyupspor-vs-kocaelispor-vjxm8ghed36gr6o",
-      "competition": "Turkish Super League",
-      "home": "Eyupspor",
-      "away": "Kocaelispor",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzVhMTVmYmVhZmJhY2U2NjUzY2Y3ODliMmEyNTI2MTVmLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2NjMDczMDhlMmY0MzI2YzY5MjlmZDhjZWNlNTY2OGQxLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "07 Nov 2026 • 17:30 WIB",
-      "match_time": 1794047400,
-      "match_date": "2026-11-07",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb6hHReHuo6nFJrc/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/eyupspor-vs-kocaelispor-vjxm8ghed36gr6o"
-    },
-    {
-      "id": "y0or5jh8pxd2qwz",
-      "slug": "prykarpattya-ivano-frankivsk-vs-fenix-mariupol-y0or5jh8pxd2qwz",
-      "competition": "Ukrainian First League",
-      "home": "Prykarpattya Ivano Frankivsk",
-      "away": "Fenix Mariupol",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2UxMDExMWU0NWMzZDkzOWQ0YzU3NzkyNzFkZTkxYTQ5LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2U2NjFjYmY4NmZkNmEyN2RjOWJlODY4ZDkyMDczOTlkLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "07 Nov 2026 • 18:00 WIB",
-      "match_time": 1794049200,
-      "match_date": "2026-11-07",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb79RoMyHMWwysgc/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/prykarpattya-ivano-frankivsk-vs-fenix-mariupol-y0or5jh8pxd2qwz"
-    },
-    {
-      "id": "8yomo4h1o13oq0j",
-      "slug": "fk-epitsentr-dunayivtsi-vs-kryvbas-8yomo4h1o13oq0j",
-      "competition": "Ukrainian Premier League",
-      "home": "FK Epitsentr Dunayivtsi",
-      "away": "Kryvbas",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzlkODg2MjBmMzk3OTUyOTU4M2QwN2Y1NzkwYWMyZGFjLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzdlNmNiYzVjMmExZjViNTA3ZWFiNWFjOTVlZWU0NTRiLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "07 Nov 2026 • 18:00 WIB",
-      "match_time": 1794049200,
-      "match_date": "2026-11-07",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2gKE7yT8tSTr/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/fk-epitsentr-dunayivtsi-vs-kryvbas-8yomo4h1o13oq0j"
-    },
-    {
-      "id": "3glrw7hn5n7vqdy",
-      "slug": "kudrivka-vs-chornomorets-odesa-3glrw7hn5n7vqdy",
-      "competition": "Ukrainian Premier League",
-      "home": "Kudrivka",
-      "away": "Chornomorets Odesa",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzkzYTI4NGFmYmU4M2FiYjZjZTNjZmIyODQ3OTk4OGNkLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzQ3OTc5NjQxOTc3NzNjMDJlNGQ1ZTJkZTkzNTkxYTI4LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "07 Nov 2026 • 18:00 WIB",
-      "match_time": 1794049200,
-      "match_date": "2026-11-07",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2gKGKTKciMck/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/kudrivka-vs-chornomorets-odesa-3glrw7hn5n7vqdy"
-    },
-    {
-      "id": "6ypq3nhvov3ymd7",
-      "slug": "metalist-1925-kharkiv-vs-fc-karpaty-lviv-6ypq3nhvov3ymd7",
-      "competition": "Ukrainian Premier League",
-      "home": "Metalist 1925 Kharkiv",
-      "away": "FC Karpaty Lviv",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Q3NzVhMzVmMWEzYTc1OTU1OGY2OWU0NmE1ZTBjYTM2LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzYyOTYxYmJjNGY5ZDU4YWRkNGQ2ZjE2NThiYmZlMDljLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "07 Nov 2026 • 18:00 WIB",
-      "match_time": 1794049200,
-      "match_date": "2026-11-07",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2gKBvVaf4XJx/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/metalist-1925-kharkiv-vs-fc-karpaty-lviv-6ypq3nhvov3ymd7"
-    },
-    {
-      "id": "vjxm8ghe1vodr6o",
-      "slug": "nyva-ternopil-vs-polissya-zhytomyr-b-vjxm8ghe1vodr6o",
-      "competition": "Ukrainian First League",
-      "home": "Nyva Ternopil",
-      "away": "Polissya Zhytomyr B",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzhmYmMyOTA2YjQwZGI1Yjk0YzkyOTAyMzczNmY5YjE3LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzRhMjg5NWUyNTE4MDM5NzYzNTY2NGUwZDRlMWRjZWFkLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "07 Nov 2026 • 19:00 WIB",
-      "match_time": 1794052800,
-      "match_date": "2026-11-07",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb79RoMttPmzL3Np/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/nyva-ternopil-vs-polissya-zhytomyr-b-vjxm8ghe1vodr6o"
-    },
-    {
-      "id": "965mkyhk9xo8r1g",
-      "slug": "leeds-united-vs-tottenham-hotspur-965mkyhk9xo8r1g",
-      "competition": "English Premier League",
-      "home": "Leeds United",
-      "away": "Tottenham Hotspur",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2NkNDZkMmVkMWQzNjQzMDhkYzIwNmM5N2I0OGNlNTU2LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzhiMjJhYjQwNDFlNjY2Yjk5NmEyZDk2ZjIwZGVhNzA3LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "07 Nov 2026 • 19:30 WIB",
-      "match_time": 1794054600,
-      "match_date": "2026-11-07",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQj2nUuvwTgZ9z/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQj2nUuvwTgZ9z/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/leeds-united-vs-tottenham-hotspur-965mkyhk9xo8r1g"
-    },
     {
       "id": "jw2r09hkv17lrz8",
       "slug": "malaga-vs-racing-santander-jw2r09hkv17lrz8",
@@ -209,13 +11,13 @@
       "away": "Racing Santander",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzljN2M2OGVlMGNhZDQ3YmU2OWE5ZDU3ZTQzMjYxNDg0LnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzhkYjcyNjBhMThiMWJlNjhlODcxMGNmZGJmNmJlM2RmLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
+      "home_score": 1,
+      "away_score": 2,
+      "status": "Second Half",
       "time_label": "07 Nov 2026 • 20:00 WIB",
       "match_time": 1794056400,
       "match_date": "2026-11-07",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
         "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGyDWpLAkUa3a8/playlist.m3u8",
@@ -231,13 +33,13 @@
       "away": "Celta Vigo B",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzFlODg4Y2E1NDJkODkyNjAwZDNiMjgxOGQxYzQwZTIyLnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzMwOTBkMjg2ODkzNmYwZjczZjM2ODQ0YTQzZDVjZThmLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
+      "home_score": 1,
+      "away_score": 1,
+      "status": "Second Half",
       "time_label": "07 Nov 2026 • 20:00 WIB",
       "match_time": 1794056400,
       "match_date": "2026-11-07",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
         "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARk4MV1kcAUXr/playlist.m3u8",
@@ -253,13 +55,13 @@
       "away": "Konyaspor",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Q0YzgxMjFiNWY3MzhjZmFmMjIyNzc5YTQzZTc0OTVkLnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2U3NWY4YjRlMWJhYWIzMDYwZGJlNWJhOTgzYTNiNDljLnBuZw==",
-      "home_score": 0,
+      "home_score": 1,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "Second Half",
       "time_label": "07 Nov 2026 • 20:00 WIB",
       "match_time": 1794056400,
       "match_date": "2026-11-07",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
         "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb6hHReQWEiDj4KJ/playlist.m3u8",
@@ -277,11 +79,11 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzkzYzI3OGQ1ZDhkMWQ1ZTJkMzkwZmY2ODYzNTk5NjNkLnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "First Half",
       "time_label": "07 Nov 2026 • 21:00 WIB",
       "match_time": 1794060000,
       "match_date": "2026-11-07",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
         "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jaVPE2cvU1dmi/playlist.m3u8",
@@ -299,11 +101,11 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzZiYzM0OTZiZjM0YTZjODAzYjg3NGU2NTJlNmFjZWY1LnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "Not Started",
-      "time_label": "07 Nov 2026 • 21:00 WIB",
-      "match_time": 1794060000,
+      "status": "First Half",
+      "time_label": "07 Nov 2026 • 21:15 WIB",
+      "match_time": 1794060900,
       "match_date": "2026-11-07",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
         "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jaV3X6kLzR61W/playlist.m3u8",
@@ -321,11 +123,11 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2VmMTlhODRhNjc0NWZlNTdhYTc4Njg3M2QyYjE4ZThhLnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "First Half",
       "time_label": "07 Nov 2026 • 21:30 WIB",
       "match_time": 1794061800,
       "match_date": "2026-11-07",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
         "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaDgiy4m63eBVJQ/playlist.m3u8",
@@ -343,11 +145,11 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzIwZjkwNWZiMDk3NWU4ODQ4MmNmMTU3YWQ5ZGE0ODc0LnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "First Half",
       "time_label": "07 Nov 2026 • 21:30 WIB",
       "match_time": 1794061800,
       "match_date": "2026-11-07",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
         "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaDgj8jEcyyrBR2/playlist.m3u8",
@@ -364,12 +166,12 @@
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2MxNjZhMjIwYmYyMDk3N2RmMmJkODJmYzA2NzY5NmY1LnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2RiNDQxMWEzYzRjZTFkMGYwOTJmNWI5ZDFkZjA4NjY0LnBuZw==",
       "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
+      "away_score": 1,
+      "status": "First Half",
       "time_label": "07 Nov 2026 • 21:30 WIB",
       "match_time": 1794061800,
       "match_date": "2026-11-07",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
         "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaDgj8qq4bRKvsi/playlist.m3u8",
@@ -387,17 +189,39 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZlNjM2MTg5YTJmM2RiNzhkMDU1NGMzNGYwYmRhYWU2LnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "First Half",
       "time_label": "07 Nov 2026 • 21:30 WIB",
       "match_time": 1794061800,
       "match_date": "2026-11-07",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
         "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaDgiy6xZv81QTJ/playlist.m3u8",
         "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaDgiy6xZv81QTJ/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/sc-paderborn-07-vs-eintracht-frankfurt-318q66hxp7pxqo9"
+    },
+    {
+      "id": "6ypq3nhvov3ymd7",
+      "slug": "metalist-1925-kharkiv-vs-fc-karpaty-lviv-6ypq3nhvov3ymd7",
+      "competition": "Ukrainian Premier League",
+      "home": "Metalist 1925 Kharkiv",
+      "away": "FC Karpaty Lviv",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Q3NzVhMzVmMWEzYTc1OTU1OGY2OWU0NmE1ZTBjYTM2LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzYyOTYxYmJjNGY5ZDU4YWRkNGQ2ZjE2NThiYmZlMDljLnBuZw==",
+      "home_score": 1,
+      "away_score": 2,
+      "status": "Cut In Half",
+      "time_label": "07 Nov 2026 • 18:00 WIB",
+      "match_time": 1794049200,
+      "match_date": "2026-11-07",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2gKBvVaf4XJx/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/metalist-1925-kharkiv-vs-fc-karpaty-lviv-6ypq3nhvov3ymd7"
     },
     {
       "id": "k82rekhgd46jrep",
@@ -416,8 +240,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQiGdt6z212rfz/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQiGdt6z212rfz/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/arsenal-vs-hull-city-k82rekhgd46jrep"
     },
@@ -438,8 +262,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQj2nkJJ2pTyEG/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQj2nkJJ2pTyEG/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/fulham-vs-newcastle-united-y0or5jh8dko0qwz"
     },
@@ -460,8 +284,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGyDWrXecxPxj2/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGyDWrXecxPxj2/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/rcd-espanyol-de-barcelona-vs-rc-deportivo-l5ergph46p20r8k"
     },
@@ -482,7 +306,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARk4KHXt8LZNx/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/cadiz-cf-vs-real-oviedo-vjxm8ghe63wjr6o"
@@ -504,7 +328,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweLB36NcrRoyPFzp/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/nacional-da-madeira-vs-viseu-dn1m1ghly3k3moe"
@@ -526,7 +350,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb6hHReFiKEJRPhi/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/galatasaray-vs-amedspor-x7lm7phjy8e0m2w"
@@ -548,7 +372,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb6hHReL7GyG5E1W/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/goztepe-vs-ba-ak-ehir-futbol-kul-b-n54qllhng16jqvy"

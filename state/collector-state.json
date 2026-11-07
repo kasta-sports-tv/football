@@ -966,13 +966,13 @@
     "x7lm7phje5eom2w": 1794041533,
     "965mkyhkxgxor1g": 1794041533,
     "318q66hxp7pxqo9": 1794041533,
-    "k82rekhgd46jrep": 1794047422,
-    "y0or5jh8dko0qwz": 1794047422,
-    "l5ergph46p20r8k": 1794047422,
-    "vjxm8ghe63wjr6o": 1794047422,
-    "dn1m1ghly3k3moe": 1794047422,
-    "x7lm7phjy8e0m2w": 1794047422,
-    "n54qllhng16jqvy": 1794047422
+    "k82rekhgd46jrep": 1794062366,
+    "y0or5jh8dko0qwz": 1794062366,
+    "l5ergph46p20r8k": 1794062366,
+    "vjxm8ghe63wjr6o": 1794062366,
+    "dn1m1ghly3k3moe": 1794062366,
+    "x7lm7phjy8e0m2w": 1794062366,
+    "n54qllhng16jqvy": 1794062366
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -2929,6 +2929,41 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb79RoMw5seU9xXi/playlist.m3u8",
       "hd": "",
       "slug": "metalist-kharkiv-vs-lokomotiv-kyiv-3glrw7hn8ke5qdy"
+    },
+    "k82rekhgd46jrep": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQiGdt6z212rfz/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQiGdt6z212rfz/playlist.m3u8",
+      "slug": "arsenal-vs-hull-city-k82rekhgd46jrep"
+    },
+    "y0or5jh8dko0qwz": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQj2nkJJ2pTyEG/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQj2nkJJ2pTyEG/playlist.m3u8",
+      "slug": "fulham-vs-newcastle-united-y0or5jh8dko0qwz"
+    },
+    "l5ergph46p20r8k": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGyDWrXecxPxj2/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGyDWrXecxPxj2/playlist.m3u8",
+      "slug": "rcd-espanyol-de-barcelona-vs-rc-deportivo-l5ergph46p20r8k"
+    },
+    "vjxm8ghe63wjr6o": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARk4KHXt8LZNx/playlist.m3u8",
+      "hd": "",
+      "slug": "cadiz-cf-vs-real-oviedo-vjxm8ghe63wjr6o"
+    },
+    "dn1m1ghly3k3moe": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweLB36NcrRoyPFzp/playlist.m3u8",
+      "hd": "",
+      "slug": "nacional-da-madeira-vs-viseu-dn1m1ghly3k3moe"
+    },
+    "x7lm7phjy8e0m2w": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb6hHReFiKEJRPhi/playlist.m3u8",
+      "hd": "",
+      "slug": "galatasaray-vs-amedspor-x7lm7phjy8e0m2w"
+    },
+    "n54qllhng16jqvy": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb6hHReL7GyG5E1W/playlist.m3u8",
+      "hd": "",
+      "slug": "goztepe-vs-ba-ak-ehir-futbol-kul-b-n54qllhng16jqvy"
     }
   }
 }
