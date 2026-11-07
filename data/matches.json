@@ -1,52 +1,8 @@
 {
-  "updated_at": "2026-11-06T22:25:06.517827+00:00",
+  "updated_at": "2026-11-07T02:12:42.267299+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 27,
+  "matches_count": 25,
   "matches": [
-    {
-      "id": "318q66hxy4nvqo9",
-      "slug": "fc-famalicao-vs-fc-arouca-318q66hxy4nvqo9",
-      "competition": "Portuguese Primera Liga",
-      "home": "FC Famalicao",
-      "away": "FC Arouca",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2FiZDU5ZjYyZjY5ZWY5ZjU5YTgxMjFjM2JhYWRkODgyLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzA0ZGU1OTI0YTQ2YWNjZTNmYjYyOTUzNGM0ZTAzOWJlLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Second Half",
-      "time_label": "07 Nov 2026 • 03:45 WIB",
-      "match_time": 1793997900,
-      "match_date": "2026-11-07",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweLB36NWFzCXuWY8/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/fc-famalicao-vs-fc-arouca-318q66hxy4nvqo9"
-    },
-    {
-      "id": "x7lm7phje87wm2w",
-      "slug": "castellon-vs-eibar-x7lm7phje87wm2w",
-      "competition": "Spanish Segunda Division",
-      "home": "Castellon",
-      "away": "Eibar",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZmN2ZjOWIyZmJiNWFkYjU0OGI2MmM4YTFkMzQyZDE2LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzIzMGJlN2Y0ZjIzZGUxY2IwODg3N2E3MmNkMDhmNjE5LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Delayed",
-      "time_label": "07 Nov 2026 • 02:30 WIB",
-      "match_time": 1793993400,
-      "match_date": "2026-11-07",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/castellon-vs-eibar-x7lm7phje87wm2w"
-    },
     {
       "id": "6ypq3nhv96dpmd7",
       "slug": "fc-chernigiv-vs-kolos-kovalivka-ii-6ypq3nhv96dpmd7",
