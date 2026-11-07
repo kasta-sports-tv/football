@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T02:12:42.267299+00:00",
+  "updated_at": "2026-11-07T08:52:28.915927+00:00",
   "source": "https://kickofftv.id",
   "matches_count": 25,
   "matches": [
@@ -64,7 +64,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb6hHReHuo6nFJrc/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/eyupspor-vs-kocaelispor-vjxm8ghed36gr6o"
@@ -86,7 +86,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb79RoMyHMWwysgc/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/prykarpattya-ivano-frankivsk-vs-fenix-mariupol-y0or5jh8pxd2qwz"
@@ -108,7 +108,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2gKE7yT8tSTr/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/fk-epitsentr-dunayivtsi-vs-kryvbas-8yomo4h1o13oq0j"
@@ -130,7 +130,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2gKGKTKciMck/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/kudrivka-vs-chornomorets-odesa-3glrw7hn5n7vqdy"
@@ -152,7 +152,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2gKBvVaf4XJx/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/metalist-1925-kharkiv-vs-fc-karpaty-lviv-6ypq3nhvov3ymd7"
@@ -174,7 +174,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb79RoMttPmzL3Np/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/nyva-ternopil-vs-polissya-zhytomyr-b-vjxm8ghe1vodr6o"
@@ -196,8 +196,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQj2nUuvwTgZ9z/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQj2nUuvwTgZ9z/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/leeds-united-vs-tottenham-hotspur-965mkyhk9xo8r1g"
     },
@@ -218,8 +218,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGyDWpLAkUa3a8/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGyDWpLAkUa3a8/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/malaga-vs-racing-santander-jw2r09hkv17lrz8"
     },
@@ -240,7 +240,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARk4MV1kcAUXr/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/burgos-cf-vs-celta-vigo-b-3glrw7hn56p1qdy"
@@ -262,7 +262,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb6hHReQWEiDj4KJ/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/samsunspor-vs-konyaspor-zp5rzghgv492q82"
@@ -284,8 +284,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jaVPE2cvU1dmi/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jaVPE2cvU1dmi/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/cagliari-vs-frosinone-k82rekhgdvd7rep"
     },
@@ -306,8 +306,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jaV3X6kLzR61W/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jaV3X6kLzR61W/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/torino-vs-lecce-y0or5jh8dlpdqwz"
     },
@@ -328,8 +328,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaDgiy4m63eBVJQ/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaDgiy4m63eBVJQ/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/1-fsv-mainz-05-vs-fc-bayern-munich-965mkyhkxgxor1g"
     },
@@ -350,8 +350,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaDgj8jEcyyrBR2/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaDgj8jEcyyrBR2/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/borussia-dortmund-vs-sv-07-elversberg-vjxm8ghe6264r6o"
     },
@@ -372,8 +372,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaDgj8qq4bRKvsi/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaDgj8qq4bRKvsi/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/rb-leipzig-vs-fc-augsburg-x7lm7phje5eom2w"
     },
@@ -394,8 +394,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaDgiy6xZv81QTJ/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaDgiy6xZv81QTJ/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/sc-paderborn-07-vs-eintracht-frankfurt-318q66hxp7pxqo9"
     },
