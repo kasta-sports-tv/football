@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T02:14:27.803788+00:00",
+  "updated_at": "2026-11-08T09:09:16.292388+00:00",
   "source": "https://kickofftv.id",
   "matches_count": 30,
   "matches": [
@@ -42,7 +42,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb6hHReShiahYyUC/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/caykur-rizespor-vs-erzurumspor-fk-23xmvkh619jxqg8"
@@ -64,7 +64,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb79RoN1UqPRonqW/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/fk-oleksandria-vs-sc-poltava-x7lm7phj6gd6m2w"
@@ -86,7 +86,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2gK7XXqhQh1A/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/fc-bukovyna-chernivtsi-vs-kolos-kovalivka-2y8m4zh5956dql0"
@@ -108,7 +108,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2gKJWwC6YGme/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/zorya-vs-lnz-cherkasy-pxwrxlhyoy54ryk"
@@ -130,8 +130,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jZk4JEAtYepFa/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jZk4JEAtYepFa/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/napoli-vs-lazio-dn1m1ghld4g6moe"
     },
@@ -152,8 +152,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGyDXPJNofxnsa/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGyDXPJNofxnsa/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/elche-cf-vs-real-betis-dn1m1ghlz1o5moe"
     },
@@ -196,7 +196,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb6hHReBKMVLmZPv/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/corum-fk-vs-fenerbahce-3glrw7hn265wqdy"
@@ -218,8 +218,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQj2xVAni7nVeg/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQj2xVAni7nVeg/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/brighton-hove-albion-vs-brentford-l5ergph4j6y1r8k"
     },
@@ -306,8 +306,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdpxgYxEqnDynhV2/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdpxgYxEqnDynhV2/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/stade-rennais-fc-vs-losc-lille-6ypq3nhvdw20md7"
     },
@@ -328,8 +328,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jaUieXSv4zhd2/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jaUieXSv4zhd2/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/genoa-vs-ac-milan-23xmvkh6z311qg8"
     },
@@ -350,8 +350,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jaV43sUXhyvA4/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jaV43sUXhyvA4/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/monza-vs-atalanta-vjxm8gheo410r6o"
     },
@@ -372,7 +372,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaDgiy9A3nbqKcC/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/fc-k-ln-vs-bayer-04-leverkusen-k82rekhg484wrep"
@@ -453,7 +453,7 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2JkNjU5ZmJjZmM4MmFjMjMzY2M4ZTMyOWYzNWYyYjUwLnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "Delayed",
+      "status": "Not Started",
       "time_label": "08 Nov 2026 • 22:30 WIB",
       "match_time": 1794151800,
       "match_date": "2026-11-08",
