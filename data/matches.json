@@ -1,52 +1,8 @@
 {
-  "updated_at": "2026-11-08T09:09:16.292388+00:00",
+  "updated_at": "2026-11-08T13:43:14.812093+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 30,
+  "matches_count": 26,
   "matches": [
-    {
-      "id": "n54qllhn05ylqvy",
-      "slug": "ucsa-vs-probiy-horodenka-n54qllhn05ylqvy",
-      "competition": "Ukrainian First League",
-      "home": "UCSA",
-      "away": "Probiy Horodenka",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzc5NjQ3MTRkN2NmNWFkNzBlZmVhMzg0NzU4MzIwYTM5LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzNkNDQ4OTA2Y2Q3YjBiZTliZDA4NDAxODc0MDdhMWE5LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "08 Nov 2026 • 17:00 WIB",
-      "match_time": 1794132000,
-      "match_date": "2026-11-08",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/ucsa-vs-probiy-horodenka-n54qllhn05ylqvy"
-    },
-    {
-      "id": "23xmvkh619jxqg8",
-      "slug": "caykur-rizespor-vs-erzurumspor-fk-23xmvkh619jxqg8",
-      "competition": "Turkish Super League",
-      "home": "Caykur Rizespor",
-      "away": "Erzurumspor FK",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2JlOWRkNzcxNWI4OGU2NjJkMzY2ZGYxMzJjNjMwZjcyLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzBkNDQ3Y2FjMWMzYjUzMTJlYTY5ZmNjN2U1NWU5YTlkLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "08 Nov 2026 • 17:30 WIB",
-      "match_time": 1794133800,
-      "match_date": "2026-11-08",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb6hHReShiahYyUC/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/caykur-rizespor-vs-erzurumspor-fk-23xmvkh619jxqg8"
-    },
     {
       "id": "x7lm7phj6gd6m2w",
       "slug": "fk-oleksandria-vs-sc-poltava-x7lm7phj6gd6m2w",
@@ -55,85 +11,19 @@
       "away": "SC Poltava",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzcxYzFhZjQ5MDEwNTkzYjI5ZjlmYTQxYWEwZTIxYjQ5LnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzg5ZjhlMDU1NzBiZTcwMzljNmFiZDY4Yjg3ZWE3MWQzLnBuZw==",
-      "home_score": 0,
+      "home_score": 1,
       "away_score": 0,
-      "status": "Not Started",
-      "time_label": "08 Nov 2026 • 18:00 WIB",
-      "match_time": 1794135600,
+      "status": "Half Time",
+      "time_label": "08 Nov 2026 • 19:05 WIB",
+      "match_time": 1794139500,
       "match_date": "2026-11-08",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
         "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb79RoN1UqPRonqW/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/fk-oleksandria-vs-sc-poltava-x7lm7phj6gd6m2w"
-    },
-    {
-      "id": "2y8m4zh5956dql0",
-      "slug": "fc-bukovyna-chernivtsi-vs-kolos-kovalivka-2y8m4zh5956dql0",
-      "competition": "Ukrainian Premier League",
-      "home": "FC Bukovyna Chernivtsi",
-      "away": "Kolos Kovalivka",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Y0ZTFmMjRiMTkyNmE1NjQ2YzUyMmNkOTllNGM5MzU4LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2UzZWRkMDBhM2IxODNjMzIxZjZkN2NjMGEzMzk4ZmIwLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "08 Nov 2026 • 18:00 WIB",
-      "match_time": 1794135600,
-      "match_date": "2026-11-08",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2gK7XXqhQh1A/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/fc-bukovyna-chernivtsi-vs-kolos-kovalivka-2y8m4zh5956dql0"
-    },
-    {
-      "id": "pxwrxlhyoy54ryk",
-      "slug": "zorya-vs-lnz-cherkasy-pxwrxlhyoy54ryk",
-      "competition": "Ukrainian Premier League",
-      "home": "Zorya",
-      "away": "LNZ Cherkasy",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZiZmRkYWU5ZDkxZWFlYzNkMjJkZDU2Yzk1ZjQwNjdmLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzAyNTE5ZDMyNzNkZTcwODE3ZmI4NjJjNjk1NWYxMWVlLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "08 Nov 2026 • 18:00 WIB",
-      "match_time": 1794135600,
-      "match_date": "2026-11-08",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2gKJWwC6YGme/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/zorya-vs-lnz-cherkasy-pxwrxlhyoy54ryk"
-    },
-    {
-      "id": "dn1m1ghld4g6moe",
-      "slug": "napoli-vs-lazio-dn1m1ghld4g6moe",
-      "competition": "Italian Serie A",
-      "home": "Napoli",
-      "away": "Lazio",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzM3ZWQxM2QyN2VkY2NkMzBlMDUzMTY3OTYyYzAyYjNhLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzVhMmZmNDZlZmEzM2FiYzZiMjkwOGViNjI3OWRmYmY4LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "08 Nov 2026 • 18:30 WIB",
-      "match_time": 1794137400,
-      "match_date": "2026-11-08",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jZk4JEAtYepFa/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jZk4JEAtYepFa/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/napoli-vs-lazio-dn1m1ghld4g6moe"
     },
     {
       "id": "dn1m1ghlz1o5moe",
@@ -145,17 +35,61 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzAxOGUyNjBhZDY4YmRhZDc0MWM2MWUzMTcxYzRjNjA4LnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "First Half",
       "time_label": "08 Nov 2026 • 20:00 WIB",
       "match_time": 1794142800,
       "match_date": "2026-11-08",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
         "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGyDXPJNofxnsa/playlist.m3u8",
         "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGyDXPJNofxnsa/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/elche-cf-vs-real-betis-dn1m1ghlz1o5moe"
+    },
+    {
+      "id": "3glrw7hn265wqdy",
+      "slug": "corum-fk-vs-fenerbahce-3glrw7hn265wqdy",
+      "competition": "Turkish Super League",
+      "home": "Corum FK",
+      "away": "Fenerbahce",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzBmMmEzNjlhZjM5ZDhiNWY4ZGUzODljY2EyYTIxN2FkLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2RmZjAwZjFmZDRhN2RkMmZlYWMwMDBiNDYyNDE2ODY3LnBuZw==",
+      "home_score": 0,
+      "away_score": 2,
+      "status": "First Half",
+      "time_label": "08 Nov 2026 • 20:00 WIB",
+      "match_time": 1794142800,
+      "match_date": "2026-11-08",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb6hHReBKMVLmZPv/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/corum-fk-vs-fenerbahce-3glrw7hn265wqdy"
+    },
+    {
+      "id": "n54qllhn05ylqvy",
+      "slug": "ucsa-vs-probiy-horodenka-n54qllhn05ylqvy",
+      "competition": "Ukrainian First League",
+      "home": "UCSA",
+      "away": "Probiy Horodenka",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzc5NjQ3MTRkN2NmNWFkNzBlZmVhMzg0NzU4MzIwYTM5LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzNkNDQ4OTA2Y2Q3YjBiZTliZDA4NDAxODc0MDdhMWE5LnBuZw==",
+      "home_score": 1,
+      "away_score": 1,
+      "status": "TBD",
+      "time_label": "08 Nov 2026 • 17:10 WIB",
+      "match_time": 1794132600,
+      "match_date": "2026-11-08",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/ucsa-vs-probiy-horodenka-n54qllhn05ylqvy"
     },
     {
       "id": "965mkyhkx5oyr1g",
@@ -178,28 +112,6 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/andorra-cf-vs-rcd-mallorca-965mkyhkx5oyr1g"
-    },
-    {
-      "id": "3glrw7hn265wqdy",
-      "slug": "corum-fk-vs-fenerbahce-3glrw7hn265wqdy",
-      "competition": "Turkish Super League",
-      "home": "Corum FK",
-      "away": "Fenerbahce",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzBmMmEzNjlhZjM5ZDhiNWY4ZGUzODljY2EyYTIxN2FkLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2RmZjAwZjFmZDRhN2RkMmZlYWMwMDBiNDYyNDE2ODY3LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "08 Nov 2026 • 20:00 WIB",
-      "match_time": 1794142800,
-      "match_date": "2026-11-08",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb6hHReBKMVLmZPv/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/corum-fk-vs-fenerbahce-3glrw7hn265wqdy"
     },
     {
       "id": "l5ergph4j6y1r8k",
@@ -240,8 +152,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQj2xbmEKZGF7N/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQj2xbmEKZGF7N/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/crystal-palace-vs-liverpool-8yomo4h1jo47q0j"
     },
@@ -262,8 +174,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQj2nphFmn7oY4/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQj2nphFmn7oY4/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/ipswich-town-vs-bournemouth-afc-23xmvkh6zj09qg8"
     },
@@ -284,8 +196,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQj3J7hhYdjD76/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQj3J7hhYdjD76/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/sunderland-vs-chelsea-l7oqdehgzk3vr51"
     },
@@ -394,8 +306,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGyDMVdxeTLbqa/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGyDMVdxeTLbqa/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/real-sociedad-vs-rayo-vallecano-8yomo4h1oz90q0j"
     },
@@ -416,7 +328,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARjtRd7iuiNLx/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/girona-fc-vs-almeria-n54qllhn61zdqvy"
@@ -438,7 +350,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweLB36NRs2TaFgEL/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/estoril-vs-maritimo-y39mp1h6gyp3moj"
@@ -482,7 +394,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweLB36NhFPYw36Jc/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/santa-clara-vs-gil-vicente-l5ergph4xe2pr8k"
@@ -504,7 +416,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb6hHR8miU73gQNC/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/alanyaspor-vs-trabzonspor-y0or5jh8y6d7qwz"
@@ -526,7 +438,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2gpBM6Pg4bep/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/fc-shakhtar-donetsk-vs-dynamo-kyiv-y0or5jh8k88xqwz"
@@ -548,8 +460,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdpxgYxcpavn3s1z/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdpxgYxcpavn3s1z/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/angers-sco-vs-ogc-nice-l5ergph4je9xr8k"
     },
@@ -570,8 +482,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdpxgYxoozHBBSnU/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdpxgYxoozHBBSnU/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/havre-athletic-club-vs-lorient-dj2ryohl3gzwq1z"
     },
@@ -592,8 +504,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdpxgYxmcWQhMXda/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdpxgYxmcWQhMXda/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/le-mans-vs-as-monaco-2y8m4zh5d8klql0"
     },
@@ -614,8 +526,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdpxgYxhDYfjhhKn/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdpxgYxhDYfjhhKn/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/stade-brestois-29-vs-lyon-l7oqdehgz055r51"
     },
@@ -636,8 +548,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaDgixzN8JgXezc/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaDgixzN8JgXezc/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/sc-freiburg-vs-1-fc-union-berlin-4jwq2ghnj0j6m0v"
     },
@@ -658,8 +570,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQj3HrKLTGwo2p/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQj3HrKLTGwo2p/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/manchester-united-vs-aston-villa-318q66hxdpgdqo9"
     }
