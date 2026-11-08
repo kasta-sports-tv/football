@@ -1,30 +1,8 @@
 {
-  "updated_at": "2026-11-07T22:56:44.711351+00:00",
+  "updated_at": "2026-11-08T02:14:27.803788+00:00",
   "source": "https://kickofftv.id",
   "matches_count": 30,
   "matches": [
-    {
-      "id": "23xmvkh6j90gqg8",
-      "slug": "granada-cf-vs-tenerife-23xmvkh6j90gqg8",
-      "competition": "Spanish Segunda Division",
-      "home": "Granada CF",
-      "away": "Tenerife",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Y4YWMxNzU1OWYyMDRkMTM5NTYzOTI5ZGM3ZWVlZGViLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2M4MTZhN2NjN2FiMWViNmRjY2UzZmI0NDA4YWNkMzIwLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Delayed",
-      "time_label": "08 Nov 2026 • 03:00 WIB",
-      "match_time": 1794081600,
-      "match_date": "2026-11-08",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/granada-cf-vs-tenerife-23xmvkh6j90gqg8"
-    },
     {
       "id": "n54qllhn05ylqvy",
       "slug": "ucsa-vs-probiy-horodenka-n54qllhn05ylqvy",
@@ -464,6 +442,28 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/estoril-vs-maritimo-y39mp1h6gyp3moj"
+    },
+    {
+      "id": "dn1m1ghly3k3moe",
+      "slug": "nacional-da-madeira-vs-viseu-dn1m1ghly3k3moe",
+      "competition": "Portuguese Primera Liga",
+      "home": "Nacional da Madeira",
+      "away": "Viseu",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzc4M2NlMzQzMzZmMjQ0MjRhMjczYzVjMjQwM2EzY2IxLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2JkNjU5ZmJjZmM4MmFjMjMzY2M4ZTMyOWYzNWYyYjUwLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Delayed",
+      "time_label": "08 Nov 2026 • 22:30 WIB",
+      "match_time": 1794151800,
+      "match_date": "2026-11-08",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweLB36NcrRoyPFzp/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/nacional-da-madeira-vs-viseu-dn1m1ghly3k3moe"
     },
     {
       "id": "l5ergph4xe2pr8k",
