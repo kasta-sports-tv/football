@@ -1,6 +1,73 @@
 {
-  "updated_at": "2026-11-09T12:45:50.153494+00:00",
+  "updated_at": "2026-11-09T19:59:57.279213+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 0,
-  "matches": []
+  "matches_count": 3,
+  "matches": [
+    {
+      "id": "4jwq2ghnjp99m0v",
+      "slug": "sabadell-vs-real-sociedad-b-4jwq2ghnjp99m0v",
+      "competition": "Spanish Segunda Division",
+      "home": "Sabadell",
+      "away": "Real Sociedad B",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2RiZWJhYzhkNWQ3YWNjMDgwYmZkZGY2MjBhNTZlMjEzLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2QyOTE2NGM4YTkwYzU5N2U1MzMzZjFiZjE0ZjI4OWYyLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "First Half",
+      "time_label": "10 Nov 2026 • 02:30 WIB",
+      "match_time": 1794252600,
+      "match_date": "2026-11-10",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARjtaR3Cq22xY/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/sabadell-vs-real-sociedad-b-4jwq2ghnjp99m0v"
+    },
+    {
+      "id": "1l4rjnh905l5m7v",
+      "slug": "ud-las-palmas-vs-eldense-1l4rjnh905l5m7v",
+      "competition": "Spanish Segunda Division",
+      "home": "UD Las Palmas",
+      "away": "Eldense",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2VmZjliYjE3YWU1NGE4NDA2OGRmYzNiOWYxZjYyOGNiLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzFkNmU0NjFkZjAxNTU2MmFiNDlkNWI2YWY3ODBkMjU2LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "First Half",
+      "time_label": "10 Nov 2026 • 02:30 WIB",
+      "match_time": 1794252600,
+      "match_date": "2026-11-10",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARjtTpbbPYHVr/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/ud-las-palmas-vs-eldense-1l4rjnh905l5m7v"
+    },
+    {
+      "id": "x7lm7phxkx98m2w",
+      "slug": "obolon-kyiv-vs-fc-shakhtar-donetsk-x7lm7phxkx98m2w",
+      "competition": "Ukrainian Premier League",
+      "home": "Obolon Kyiv",
+      "away": "FC Shakhtar Donetsk",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzI2MGRkODUyMzY3MTBlNWZlODJiZTA0ODBjZTQ3NjRjLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzE0MWJjZjZhYjZkMGJjN2I4YzY3ZGM1ZWViOWYzNDdkLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "10 Nov 2026 • 23:00 WIB",
+      "match_time": 1794326400,
+      "match_date": "2026-11-10",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/obolon-kyiv-vs-fc-shakhtar-donetsk-x7lm7phxkx98m2w"
+    }
+  ]
 }
