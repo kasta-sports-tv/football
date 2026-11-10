@@ -1030,7 +1030,10 @@
     "23xmvkh65vz7qg8": 1794210726,
     "1l4rjnh905l5m7v": 1794254396,
     "4jwq2ghnjp99m0v": 1794254396,
-    "x7lm7phxkx98m2w": 1794325396
+    "x7lm7phxkx98m2w": 1794325396,
+    "n54qllh45eo4qvy": 1794342951,
+    "23xmvkhyvon2qg8": 1794342951,
+    "zp5rzgh3y7ldq82": 1794342951
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -3287,6 +3290,21 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARjtaR3Cq22xY/playlist.m3u8",
       "hd": "",
       "slug": "sabadell-vs-real-sociedad-b-4jwq2ghnjp99m0v"
+    },
+    "n54qllh45eo4qvy": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjZPMy2ZS1739k7z/playlist.m3u8",
+      "hd": "",
+      "slug": "as-roma-women-vs-servette-women-n54qllh45eo4qvy"
+    },
+    "23xmvkhyvon2qg8": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjZPMy2XEXEZKpy6/playlist.m3u8",
+      "hd": "",
+      "slug": "inter-milan-women-vs-manchester-city-women-23xmvkhyvon2qg8"
+    },
+    "zp5rzgh3y7ldq82": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjZPMy2dpxqzoaRn/playlist.m3u8",
+      "hd": "",
+      "slug": "paris-saint-germain-women-vs-bayern-munchen-women-zp5rzgh3y7ldq82"
     }
   }
 }

@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-10T20:09:45.823407+00:00",
+  "updated_at": "2026-11-10T20:35:53.431701+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 5,
+  "matches_count": 8,
   "matches": [
     {
       "id": "6ypq3nhk6x2gmd7",
@@ -34,7 +34,7 @@
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2I1ODBjMDc3Yzk1MTkzNGFjN2YwN2QzZGM5MGU1YzdmLnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2RkNDg4MzZlZmY0NWYxNDdjNzVlZTAyNmNkNzE1MWE4LnBuZw==",
       "home_score": 0,
-      "away_score": 1,
+      "away_score": 2,
       "status": "Second Half",
       "time_label": "11 Nov 2026 • 02:00 WIB",
       "match_time": 1794337200,
@@ -78,7 +78,7 @@
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2JkOWYzMzYzMDczZjFiZDgyMjJkM2ZmNDFmZWM2MjQ2LnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzNiNTQ1NDNjMWE1ODRlMmU5OTQ4ZDY1NTE0Mjk5NmQzLnBuZw==",
       "home_score": 0,
-      "away_score": 1,
+      "away_score": 4,
       "status": "First Half",
       "time_label": "11 Nov 2026 • 03:00 WIB",
       "match_time": 1794340800,
@@ -90,6 +90,72 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/ue-tavernes-vs-valencia-cf-n54qllh45vl4qvy"
+    },
+    {
+      "id": "n54qllh45eo4qvy",
+      "slug": "as-roma-women-vs-servette-women-n54qllh45eo4qvy",
+      "competition": "UEFA Women's Champions League",
+      "home": "AS Roma Women",
+      "away": "Servette Women",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzA5Yzk0MzNjZmExYzMwNmU2Yjc3NGEyNzJkYTdmNWE5LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2JlNWM2NmU1MGE0OGQ5YWUzYzQxMzJhYTFhM2IzYTMyLnBuZw==",
+      "home_score": 1,
+      "away_score": 0,
+      "status": "First Half",
+      "time_label": "11 Nov 2026 • 03:00 WIB",
+      "match_time": 1794340800,
+      "match_date": "2026-11-11",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjZPMy2ZS1739k7z/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/as-roma-women-vs-servette-women-n54qllh45eo4qvy"
+    },
+    {
+      "id": "23xmvkhyvon2qg8",
+      "slug": "inter-milan-women-vs-manchester-city-women-23xmvkhyvon2qg8",
+      "competition": "UEFA Women's Champions League",
+      "home": "Inter Milan Women",
+      "away": "Manchester City Women",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2VjZTQzMjIzZGQ1Y2E5NWMwNjE5MGQ0OTFhODIzOGUxLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2M0YTY1MjhhMmVlMTQ3Yjk5Yzk4ODVlZjI0Mzg1YTRlLnBuZw==",
+      "home_score": 1,
+      "away_score": 0,
+      "status": "First Half",
+      "time_label": "11 Nov 2026 • 03:00 WIB",
+      "match_time": 1794340800,
+      "match_date": "2026-11-11",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjZPMy2XEXEZKpy6/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/inter-milan-women-vs-manchester-city-women-23xmvkhyvon2qg8"
+    },
+    {
+      "id": "zp5rzgh3y7ldq82",
+      "slug": "paris-saint-germain-women-vs-bayern-munchen-women-zp5rzgh3y7ldq82",
+      "competition": "UEFA Women's Champions League",
+      "home": "Paris Saint Germain Women",
+      "away": "Bayern Munchen Women",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzliNTMxYmUxMWNiNDFkNGY3OTk5ZmM5MWE5NDNjNzVmLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2MzZDVlNWEyZTVhNzdkOWRkMDQxOTQ4ZTE4YzE3YWM5LnBuZw==",
+      "home_score": 0,
+      "away_score": 1,
+      "status": "First Half",
+      "time_label": "11 Nov 2026 • 03:00 WIB",
+      "match_time": 1794340800,
+      "match_date": "2026-11-11",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjZPMy2dpxqzoaRn/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/paris-saint-germain-women-vs-bayern-munchen-women-zp5rzgh3y7ldq82"
     },
     {
       "id": "2y8m4zh5o07xql0",
