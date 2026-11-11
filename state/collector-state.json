@@ -1034,7 +1034,9 @@
     "n54qllh45eo4qvy": 1794342951,
     "23xmvkhyvon2qg8": 1794342951,
     "zp5rzgh3y7ldq82": 1794342951,
-    "2y8m4zh5o07xql0": 1794381081
+    "2y8m4zh5o07xql0": 1794381081,
+    "4jwq2ghgok3jm0v": 1794424322,
+    "ednm9wh5893yryo": 1794424322
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -3306,6 +3308,16 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjZPMy2dpxqzoaRn/playlist.m3u8",
       "hd": "",
       "slug": "paris-saint-germain-women-vs-bayern-munchen-women-zp5rzgh3y7ldq82"
+    },
+    "4jwq2ghgok3jm0v": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjZPMy274EfHEkHE/playlist.m3u8",
+      "hd": "",
+      "slug": "oud-heverlee-leuven-women-vs-hb-koge-s-women-4jwq2ghgok3jm0v"
+    },
+    "ednm9wh5893yryo": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjZPMy24rknoQq8L/playlist.m3u8",
+      "hd": "",
+      "slug": "juventus-women-vs-ol-lyonnes-women-ednm9wh5893yryo"
     }
   }
 }

@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-11-11T15:40:37.113346+00:00",
+  "updated_at": "2026-11-11T19:12:02.947954+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 0,
-  "matches": []
+  "matches_count": 2,
+  "matches": [
+    {
+      "id": "4jwq2ghgok3jm0v",
+      "slug": "oud-heverlee-leuven-women-vs-hb-koge-s-women-4jwq2ghgok3jm0v",
+      "competition": "UEFA Women's Champions League",
+      "home": "Oud Heverlee Leuven Women",
+      "away": "HB Koge 's Women",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzRhNmYwZGVjMjA4OWIyNzVhNmM2ZGRkODU0MDcyZmJmLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzMxZGM1Yzc2N2JmZWViYTg3NDVmODE3MGU3YzI3OGU0LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Second Half",
+      "time_label": "12 Nov 2026 • 00:45 WIB",
+      "match_time": 1794419100,
+      "match_date": "2026-11-12",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjZPMy274EfHEkHE/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/oud-heverlee-leuven-women-vs-hb-koge-s-women-4jwq2ghgok3jm0v"
+    },
+    {
+      "id": "ednm9wh5893yryo",
+      "slug": "juventus-women-vs-ol-lyonnes-women-ednm9wh5893yryo",
+      "competition": "UEFA Women's Champions League",
+      "home": "Juventus Women",
+      "away": "OL Lyonnes Women",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Q3ZTBkZDJjMzA0MTY0NTIxMTU5NTgzMzJiYTdjNGVlLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzJhYTVhM2I3MmNlYmEzZWQ0MTg2MjBlNzg2YTAwNjY5LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "12 Nov 2026 • 03:00 WIB",
+      "match_time": 1794427200,
+      "match_date": "2026-11-12",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjZPMy24rknoQq8L/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/juventus-women-vs-ol-lyonnes-women-ednm9wh5893yryo"
+    }
+  ]
 }
