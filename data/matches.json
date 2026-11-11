@@ -1,29 +1,6 @@
 {
-  "updated_at": "2026-11-11T07:11:22.935467+00:00",
+  "updated_at": "2026-11-11T15:16:43.588722+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 1,
-  "matches": [
-    {
-      "id": "2y8m4zh5o07xql0",
-      "slug": "fc-chernigiv-vs-fc-inhulets-petrove-2y8m4zh5o07xql0",
-      "competition": "Ukrainian First League",
-      "home": "FC Chernigiv",
-      "away": "FC Inhulets Petrove",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzk5YmE3ZmM4Njc4ZDhlZTQwYWIxYzU2NDQzZjRiMWEzLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzBmMTM2YWMwMzAwYTljZDlkMjdmZjBhNWM3YjZmMmE3LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "11 Nov 2026 • 16:30 WIB",
-      "match_time": 1794389400,
-      "match_date": "2026-11-11",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/fc-chernigiv-vs-fc-inhulets-petrove-2y8m4zh5o07xql0"
-    }
-  ]
+  "matches_count": 0,
+  "matches": []
 }
