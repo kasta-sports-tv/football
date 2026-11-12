@@ -36,6 +36,7 @@ ALLOWED_COMPETITIONS = {
     "Copa del Rey",
     "English Football League Cup",
     "UEFA Women's Champions League",
+    "UEFA Nations League",
 }
 
 session = requests.Session()
