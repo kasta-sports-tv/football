@@ -38,7 +38,6 @@ ALLOWED_COMPETITIONS = {
     "UEFA Women's Champions League",
     "UEFA Nations League",
     "International Friendly",
-    "International Club Friendly",
 }
 
 session = requests.Session()
