@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-12T09:12:58.155539+00:00",
+  "updated_at": "2026-11-12T09:18:19.894962+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 31,
+  "matches_count": 12,
   "matches": [
     {
       "id": "4jwq2ghg401em0v",
@@ -48,94 +48,6 @@
       "match_url": "https://kickofftv.id/match/kazakhstan-u21-vs-belarus-u21-pxwrxlhlgno9ryk"
     },
     {
-      "id": "ednm9wh5kovjryo",
-      "slug": "anorthosis-famagusta-fc-vs-ethnikos-achnas-fc-ednm9wh5kovjryo",
-      "competition": "International Club Friendly",
-      "home": "Anorthosis Famagusta FC",
-      "away": "Ethnikos Achnas FC",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzkwZDhiMDVjZGI3YmRiM2VlMWI1MGJlNTJmY2ZjNDY3LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2JkMTg2OThkOTJjZDAwYjM0ODNmZjIwMTFlMjk1MmM4LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "TBD",
-      "time_label": "12 Nov 2026 • 15:00 WIB",
-      "match_time": 1794470400,
-      "match_date": "2026-11-12",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/anorthosis-famagusta-fc-vs-ethnikos-achnas-fc-ednm9wh5kovjryo"
-    },
-    {
-      "id": "jw2r09h5l3j1rz8",
-      "slug": "gornik-zabrze-vs-polonia-bytom-jw2r09h5l3j1rz8",
-      "competition": "International Club Friendly",
-      "home": "Gornik Zabrze",
-      "away": "Polonia Bytom",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzBmNjZhYWZkZTA3ZDhjZTlhMmFkODgyYWJmYmU0YWFjLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzBmNzI5Nzk5OTZjZTEwYmE3YWFlMzc1MWQzMDQwMThkLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "12 Nov 2026 • 16:30 WIB",
-      "match_time": 1794475800,
-      "match_date": "2026-11-12",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/gornik-zabrze-vs-polonia-bytom-jw2r09h5l3j1rz8"
-    },
-    {
-      "id": "dj2ryoh7kpg5q1z",
-      "slug": "fk-iskra-danilovgrad-vs-fk-mladost-dg-dj2ryoh7kpg5q1z",
-      "competition": "International Club Friendly",
-      "home": "FK Iskra Danilovgrad",
-      "away": "FK Mladost DG",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzQxZGYzNmY0OTExOTA4MGFhMDNkODQwNTlmZGFkOTJlLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzk3OTg2ZTc1NGRjYWY3YjQ2ZjdiMmFhZmU5MTdlNGI2LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "12 Nov 2026 • 17:00 WIB",
-      "match_time": 1794477600,
-      "match_date": "2026-11-12",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/fk-iskra-danilovgrad-vs-fk-mladost-dg-dj2ryoh7kpg5q1z"
-    },
-    {
-      "id": "l7oqdehjnx0er51",
-      "slug": "rb-leipzig-vs-fk-mlad-boleslav-l7oqdehjnx0er51",
-      "competition": "International Club Friendly",
-      "home": "RB Leipzig",
-      "away": "FK Mladá Boleslav",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2MxNjZhMjIwYmYyMDk3N2RmMmJkODJmYzA2NzY5NmY1LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzZlNzcwNjM5ZTMxNmFmZDBhMGRiNzMzYTk3Yzk0MDBlLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "12 Nov 2026 • 17:00 WIB",
-      "match_time": 1794477600,
-      "match_date": "2026-11-12",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/rb-leipzig-vs-fk-mlad-boleslav-l7oqdehjnx0er51"
-    },
-    {
       "id": "y0or5jh9l5k0qwz",
       "slug": "uzbekistan-u17-vs-ecuador-u17-y0or5jh9l5k0qwz",
       "competition": "International Friendly",
@@ -158,94 +70,6 @@
       "match_url": "https://kickofftv.id/match/uzbekistan-u17-vs-ecuador-u17-y0or5jh9l5k0qwz"
     },
     {
-      "id": "pxwrxlhlgn92ryk",
-      "slug": "hannover-96-vs-havelse-pxwrxlhlgn92ryk",
-      "competition": "International Club Friendly",
-      "home": "Hannover 96",
-      "away": "Havelse",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzE4MDBiZTYwMjA0OTY2MTE0ZDYzOTcwYjVkMDg3M2RhLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzExYjBiNTM0OGFlZjkyM2NmNjQ2Y2VkZDI2NDhiZmFhLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "12 Nov 2026 • 18:00 WIB",
-      "match_time": 1794481200,
-      "match_date": "2026-11-12",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/hannover-96-vs-havelse-pxwrxlhlgn92ryk"
-    },
-    {
-      "id": "3glrw7h4w9j0qdy",
-      "slug": "arminia-bielefeld-vs-sv-meppen-3glrw7h4w9j0qdy",
-      "competition": "International Club Friendly",
-      "home": "Arminia Bielefeld",
-      "away": "SV Meppen",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzg3MzlkOWVmOWE2N2Q3NTdjYzhlZjY3ZDEyYzU4ZjYyLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzIyYmM4YTU2ZTU2NjI3YjNhY2M4NjkxMjZiYWZiYTVkLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "12 Nov 2026 • 19:00 WIB",
-      "match_time": 1794484800,
-      "match_date": "2026-11-12",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/arminia-bielefeld-vs-sv-meppen-3glrw7h4w9j0qdy"
-    },
-    {
-      "id": "2y8m4zhv378xql0",
-      "slug": "fc-karpaty-lviv-vs-veres-2y8m4zhv378xql0",
-      "competition": "International Club Friendly",
-      "home": "FC Karpaty Lviv",
-      "away": "Veres ",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzYyOTYxYmJjNGY5ZDU4YWRkNGQ2ZjE2NThiYmZlMDljLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2M3NjRkYTIyNjI2NzI0NDA1NWQwOGE0OGUwYTc3M2YyLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "12 Nov 2026 • 19:00 WIB",
-      "match_time": 1794484800,
-      "match_date": "2026-11-12",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/fc-karpaty-lviv-vs-veres-2y8m4zhv378xql0"
-    },
-    {
-      "id": "318q66h8o13dqo9",
-      "slug": "pogon-szczecin-vs-warta-poznan-318q66h8o13dqo9",
-      "competition": "International Club Friendly",
-      "home": "Pogon Szczecin",
-      "away": "Warta Poznan",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzdiN2QyYjY1YzFlZTYzYWVlOWU3OWViYWZiMmYwYmM3LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzM0NDE3Y2FlOTJmZmViZGYxZmM4ZmYyNzJiOTFkMjZiLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "12 Nov 2026 • 19:00 WIB",
-      "match_time": 1794484800,
-      "match_date": "2026-11-12",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/pogon-szczecin-vs-warta-poznan-318q66h8o13dqo9"
-    },
-    {
       "id": "ednm9wh5kdewryo",
       "slug": "singapore-u23-vs-vietnam-u23-ednm9wh5kdewryo",
       "competition": "International Friendly",
@@ -266,160 +90,6 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/singapore-u23-vs-vietnam-u23-ednm9wh5kdewryo"
-    },
-    {
-      "id": "dn1m1gh94xgzmoe",
-      "slug": "borussia-monchengladbach-vs-standard-liege-dn1m1gh94xgzmoe",
-      "competition": "International Club Friendly",
-      "home": "Borussia Monchengladbach",
-      "away": "Standard Liege",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzg5Y2RhZGY2Y2YxZWI2ZjhkMjUwN2RlMWUwMWY4MDZjLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2RjZmQ2YTI2NzFjNWM1ZTA5ZGQ4M2RhZWI4NWZlZmY5LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "12 Nov 2026 • 20:00 WIB",
-      "match_time": 1794488400,
-      "match_date": "2026-11-12",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/borussia-monchengladbach-vs-standard-liege-dn1m1gh94xgzmoe"
-    },
-    {
-      "id": "8yomo4hy78v4q0j",
-      "slug": "fc-ingolstadt-vs-fc-wacker-innsbruck-8yomo4hy78v4q0j",
-      "competition": "International Club Friendly",
-      "home": "FC Ingolstadt",
-      "away": "FC Wacker Innsbruck",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Q0NjAxZDA1ZDg5MzU0NTNhZWQ2MDE3NDg3NzQyNWNlLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzhhZTgyMzU0OTM0YjAyMTgzNDEyZWNiNDFiY2U0NGM4LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "12 Nov 2026 • 20:00 WIB",
-      "match_time": 1794488400,
-      "match_date": "2026-11-12",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/fc-ingolstadt-vs-fc-wacker-innsbruck-8yomo4hy78v4q0j"
-    },
-    {
-      "id": "zp5rzgh3jopvq82",
-      "slug": "fc-zurich-vs-sc-austria-lustenau-zp5rzgh3jopvq82",
-      "competition": "International Club Friendly",
-      "home": "FC Zurich",
-      "away": "SC Austria Lustenau",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzNmY2Q2MTliMzg0ZGJiZDhiNGMzYWYxOWY2MjJmYzdmLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzEyYzE4MGJhZjYzMmIzOTM2YzE4N2Y2Y2VlZTVmMmIwLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "12 Nov 2026 • 20:00 WIB",
-      "match_time": 1794488400,
-      "match_date": "2026-11-12",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/fc-zurich-vs-sc-austria-lustenau-zp5rzgh3jopvq82"
-    },
-    {
-      "id": "pxwrxlhlgnj5ryk",
-      "slug": "holstein-kiel-vs-odense-bk-pxwrxlhlgnj5ryk",
-      "competition": "International Club Friendly",
-      "home": "Holstein Kiel",
-      "away": "Odense BK",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2EyODVjYjI5ZDM2ZThkMGU2ZmIzNWRlZjFmYmY0NDJjLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2RlNDQyMjE2MGU5ZWM0ZThlOWUxZjk1MTdjYTBlNTFhLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "12 Nov 2026 • 20:00 WIB",
-      "match_time": 1794488400,
-      "match_date": "2026-11-12",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/holstein-kiel-vs-odense-bk-pxwrxlhlgnj5ryk"
-    },
-    {
-      "id": "6ypq3nhk08w7md7",
-      "slug": "sk-rapid-wien-vs-dunajska-streda-6ypq3nhk08w7md7",
-      "competition": "International Club Friendly",
-      "home": "SK Rapid Wien",
-      "away": "Dunajska Streda",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzY0OWY3ODViZDBhMTg4MjRjNTM4NjdiZDA1Njk5MGU0LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzQ0MDk0YzExMmIzZmQ3ZjQ4ZGRiNzdiMGRmZGMyYjYyLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "12 Nov 2026 • 20:00 WIB",
-      "match_time": 1794488400,
-      "match_date": "2026-11-12",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/sk-rapid-wien-vs-dunajska-streda-6ypq3nhk08w7md7"
-    },
-    {
-      "id": "3glrw7h4w9ynqdy",
-      "slug": "spvgg-greuther-f-rth-vs-w-rzburger-kickers-3glrw7h4w9ynqdy",
-      "competition": "International Club Friendly",
-      "home": "SpVgg Greuther Fürth",
-      "away": "Würzburger Kickers",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZiNmE1YTgzNTVmNzY2OTlkNDljZTdiNjQ0Njg4NWVmLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ViY2JjYThjZWJlYWRhZWRjYTM4NzFkN2NhZWMxMGM1LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "12 Nov 2026 • 20:00 WIB",
-      "match_time": 1794488400,
-      "match_date": "2026-11-12",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/spvgg-greuther-f-rth-vs-w-rzburger-kickers-3glrw7h4w9ynqdy"
-    },
-    {
-      "id": "vjxm8ghk408kr6o",
-      "slug": "st-gallen-vs-fc-wil-1900-vjxm8ghk408kr6o",
-      "competition": "International Club Friendly",
-      "home": "St. Gallen",
-      "away": "FC Wil 1900",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzdmZTNjNjgzZTUwNTFhNTMxMTI1YWI4YjlhNDdiMDBlLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzg0ZDRmNzVkMmIxM2FkMWVhNmQ0ZjRjN2Q5ZjYwZTY1LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "12 Nov 2026 • 20:00 WIB",
-      "match_time": 1794488400,
-      "match_date": "2026-11-12",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/st-gallen-vs-fc-wil-1900-vjxm8ghk408kr6o"
     },
     {
       "id": "4wyrn4hy8oypq86",
@@ -466,50 +136,6 @@
       "match_url": "https://kickofftv.id/match/serbia-u21-vs-north-macedonia-u21-dn1m1gh94xdzmoe"
     },
     {
-      "id": "1l4rjnhn6gx7m7v",
-      "slug": "vfl-wolfsburg-vs-1-fc-union-berlin-1l4rjnhn6gx7m7v",
-      "competition": "International Club Friendly",
-      "home": "VfL Wolfsburg",
-      "away": "1. FC Union Berlin",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2FlMjg2Y2VjNjIwYjE5ZTYxZTkwYTBiYzU1YjRjZGFhLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzQ1YWI0Yzg0NmIwZDRkZjViMDAyYzU3MWIxNjExMmRjLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "12 Nov 2026 • 20:30 WIB",
-      "match_time": 1794490200,
-      "match_date": "2026-11-12",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/vfl-wolfsburg-vs-1-fc-union-berlin-1l4rjnhn6gx7m7v"
-    },
-    {
-      "id": "23xmvkhy32kjqg8",
-      "slug": "young-boys-vs-stade-ouchy-23xmvkhy32kjqg8",
-      "competition": "International Club Friendly",
-      "home": "Young Boys",
-      "away": "Stade Ouchy",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzVlZTcxNDliNjRkYzY1NGM3ZmEyZTQzYzdhMGNmMTJlLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzJlODhiYTNjZDg1ZjZhZjQ4OWM3Y2M0YzBiYzQ0NzFiLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "12 Nov 2026 • 20:30 WIB",
-      "match_time": 1794490200,
-      "match_date": "2026-11-12",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/young-boys-vs-stade-ouchy-23xmvkhy32kjqg8"
-    },
-    {
       "id": "3glrw7h4w95yqdy",
       "slug": "saudi-arabia-u17-vs-costa-rica-u17-3glrw7h4w95yqdy",
       "competition": "International Friendly",
@@ -530,28 +156,6 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/saudi-arabia-u17-vs-costa-rica-u17-3glrw7h4w95yqdy"
-    },
-    {
-      "id": "4jwq2ghg4wx3m0v",
-      "slug": "hacken-vs-fredrikstad-4jwq2ghg4wx3m0v",
-      "competition": "International Club Friendly",
-      "home": "Hacken",
-      "away": "Fredrikstad",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzkzOTIwZWZkZjcyMGE2ZTk0ZDNhYjVlNDNhZTNiNTA0LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2NmYmUwNTNiYmQ5NTAyNzY5ZjYxYjg4OTc4NmFjZTJjLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "12 Nov 2026 • 22:00 WIB",
-      "match_time": 1794495600,
-      "match_date": "2026-11-12",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/hacken-vs-fredrikstad-4jwq2ghg4wx3m0v"
     },
     {
       "id": "4wyrn4hy8w1pq86",
@@ -640,28 +244,6 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/uzbekistan-vs-russia-jw2r09h5lpknrz8"
-    },
-    {
-      "id": "dj2ryoh7kdg0q1z",
-      "slug": "usfas-bamako-women-vs-edo-queens-fc-women-dj2ryoh7kdg0q1z",
-      "competition": "International Club Friendly",
-      "home": "USFAS Bamako Women",
-      "away": "Edo Queens FC Women",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2NmODg5YzMxMTE3MDk3MTIxNTc5ZTM3NWUwMmRjYTFhLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzY0NmU3MTJhZWFlMjU2MGVjOWIxNmVkNDFiYWU5YmU5LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "12 Nov 2026 • 23:00 WIB",
-      "match_time": 1794499200,
-      "match_date": "2026-11-12",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/usfas-bamako-women-vs-edo-queens-fc-women-dj2ryoh7kdg0q1z"
     },
     {
       "id": "23xmvkhy3yzdqg8",
