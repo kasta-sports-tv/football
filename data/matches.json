@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-12T16:01:16.784896+00:00",
+  "updated_at": "2026-11-12T17:01:16.352429+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 6,
+  "matches_count": 5,
   "matches": [
     {
       "id": "4wyrn4hy8w1pq86",
@@ -11,9 +11,9 @@
       "away": "Tanzania U20",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzI2NDdjMWRiYTIzYmMwZTBmOWNkZjc1MzM5ZTEyMGQyLmpwZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzY2ZTE3MjE4NGUxYmFjMWI1MWM2ZTYzMzA2YjNjZTY1LnBuZw==",
-      "home_score": 0,
+      "home_score": 2,
       "away_score": 0,
-      "status": "Half Time",
+      "status": "Second Half",
       "time_label": "12 Nov 2026 • 22:00 WIB",
       "match_time": 1794495600,
       "match_date": "2026-11-12",
@@ -33,9 +33,9 @@
       "away": "Norway U18",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Q1ZWJhYTgyZWIxOWE2NTUxMDdiMGU0ZWJlNjVmMTkzLnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2VkZmM4MTA2Mzc4ZDZhZjE5OWYzMWY2NDk4ZTcxNjcyLnBuZw==",
-      "home_score": 0,
+      "home_score": 1,
       "away_score": 0,
-      "status": "Half Time",
+      "status": "Second Half",
       "time_label": "12 Nov 2026 • 22:00 WIB",
       "match_time": 1794495600,
       "match_date": "2026-11-12",
@@ -55,9 +55,9 @@
       "away": "Russia",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzg1YzE1ODY0YzhkYzQ1ZDMzNWJjMzcyMGM2M2NmMmExLnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZlMzA2OGJiZTk0ZGQ1ZjQyM2U5YjlhNjEzNWQ4YzQwLnBuZw==",
-      "home_score": 1,
-      "away_score": 0,
-      "status": "Half Time",
+      "home_score": 2,
+      "away_score": 3,
+      "status": "Second Half",
       "time_label": "12 Nov 2026 • 22:00 WIB",
       "match_time": 1794495600,
       "match_date": "2026-11-12",
@@ -79,7 +79,7 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2QyNzMxOTRlMzE4ODJkZWQ4OWJmNTUzZDljOTQ3ZWJiLnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "First Half",
+      "status": "Second Half",
       "time_label": "12 Nov 2026 • 22:30 WIB",
       "match_time": 1794497400,
       "match_date": "2026-11-12",
@@ -100,8 +100,8 @@
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2EwNTkyYTU2OTRlOGM5NjFiYmVmZjQyZWQ5MmJjNmI0LnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2FmYmIyMmIyNDZjOTJmOWYzZjg1ZmQyM2RlMGYwYjFhLnBuZw==",
       "home_score": 0,
-      "away_score": 0,
-      "status": "First Half",
+      "away_score": 1,
+      "status": "Half Time",
       "time_label": "12 Nov 2026 • 23:00 WIB",
       "match_time": 1794499200,
       "match_date": "2026-11-12",
@@ -112,28 +112,6 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/france-u20-vs-denmark-u20-23xmvkhy3yzdqg8"
-    },
-    {
-      "id": "3glrw7h4w95yqdy",
-      "slug": "saudi-arabia-u17-vs-costa-rica-u17-3glrw7h4w95yqdy",
-      "competition": "International Friendly",
-      "home": "Saudi Arabia U17",
-      "away": "Costa Rica U17",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzA4MTM3MmRkODJmNTkxN2RlYjJkMmZhNjRlMDUyMTczLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzk3YmRkNzI1N2IxNTM3ZmNjNTM5ZTY5MTIwZTBkYTY5LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "TBD",
-      "time_label": "12 Nov 2026 • 21:00 WIB",
-      "match_time": 1794492000,
-      "match_date": "2026-11-12",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/saudi-arabia-u17-vs-costa-rica-u17-3glrw7h4w95yqdy"
     }
   ]
 }
