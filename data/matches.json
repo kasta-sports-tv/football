@@ -1,30 +1,8 @@
 {
-  "updated_at": "2026-11-12T09:18:19.894962+00:00",
+  "updated_at": "2026-11-12T10:28:21.364663+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 12,
+  "matches_count": 11,
   "matches": [
-    {
-      "id": "4jwq2ghg401em0v",
-      "slug": "thailand-u23-vs-qatar-u23-4jwq2ghg401em0v",
-      "competition": "International Friendly",
-      "home": "Thailand U23",
-      "away": "Qatar U23",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2U5ODk1NTYyZjY1ZjA3MDE1NWQ3NTdjMjUwZTZiZTczLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2UxMmMwZmU5NTdkNmFkNjc1ZGIwMjdkYmJjNGYwMjRjLnBuZw==",
-      "home_score": 0,
-      "away_score": 2,
-      "status": "Second Half",
-      "time_label": "12 Nov 2026 • 15:00 WIB",
-      "match_time": 1794470400,
-      "match_date": "2026-11-12",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk3vjx1cAmNaiSRv/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/thailand-u23-vs-qatar-u23-4jwq2ghg401em0v"
-    },
     {
       "id": "pxwrxlhlgno9ryk",
       "slug": "kazakhstan-u21-vs-belarus-u21-pxwrxlhlgno9ryk",
@@ -35,7 +13,7 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2E0N2Q5MTAwMDA2YTJhYjY2MWZhMmRmMTNhOTk4N2Y5LnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "First Half",
+      "status": "Second Half",
       "time_label": "12 Nov 2026 • 16:00 WIB",
       "match_time": 1794474000,
       "match_date": "2026-11-12",
@@ -57,7 +35,7 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ExMzE5Mzc5ZTg2N2IyZGEyODJhY2ZlM2M1MTMxNTY0LnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "TBD",
       "time_label": "12 Nov 2026 • 17:00 WIB",
       "match_time": 1794477600,
       "match_date": "2026-11-12",
@@ -108,7 +86,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk4CyEduPGRheok4/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/scotland-u21-vs-ukraine-u21-4wyrn4hy8oypq86"
@@ -130,7 +108,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk46WC6VLXadDPLU/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/serbia-u21-vs-north-macedonia-u21-dn1m1gh94xdzmoe"
