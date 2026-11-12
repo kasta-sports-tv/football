@@ -1062,9 +1062,9 @@
     "3glrw7h4w95yqdy": 1794492277,
     "jw2r09h5lpknrz8": 1794492277,
     "4jwq2ghg4wx3m0v": 1794474757,
-    "4wyrn4hy8w1pq86": 1794506470,
-    "vjxm8ghk406pr6o": 1794506470,
-    "x7lm7phxkvepm2w": 1794506470,
+    "4wyrn4hy8w1pq86": 1794508650,
+    "vjxm8ghk406pr6o": 1794508650,
+    "x7lm7phxkvepm2w": 1794508650,
     "23xmvkhy3yzdqg8": 1794495885,
     "dj2ryohl76znq1z": 1794503177,
     "vjxm8ghekdz5r6o": 1794503177,
@@ -1072,14 +1072,14 @@
     "l7oqdehjneg4r51": 1794503177,
     "1l4rjnhny1wpm7v": 1794503177,
     "l7oqdehjnxv4r51": 1794506470,
-    "2y8m4zh5vyk1ql0": 1794506470,
+    "2y8m4zh5vyk1ql0": 1794508650,
     "8yomo4h1yld5q0j": 1794503177,
     "6ypq3nhvkyjgmd7": 1794503177,
     "pxwrxlhyl8keryk": 1794503177,
     "3glrw7hn42vpqdy": 1794503177,
     "x7lm7phjxy1zm2w": 1794503177,
-    "965mkyh8l46vr1g": 1794506470,
-    "jw2r09h5lg4nrz8": 1794506470
+    "965mkyh8l46vr1g": 1794508650,
+    "jw2r09h5lg4nrz8": 1794508650
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -3441,6 +3441,16 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwcqstKXc2V1S1xBr/playlist.m3u8",
       "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwcqstKXc2V1S1xBr/playlist.m3u8",
       "slug": "montenegro-vs-latvia-x7lm7phjxy1zm2w"
+    },
+    "2y8m4zh5vyk1ql0": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwcqstLMf1nbmZzgg/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwcqstLMf1nbmZzgg/playlist.m3u8",
+      "slug": "italy-vs-france-2y8m4zh5vyk1ql0"
+    },
+    "965mkyh8l46vr1g": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjZPMxBuH1b2P3Ap/playlist.m3u8",
+      "hd": "",
+      "slug": "sl-benfica-women-vs-austria-wien-women-965mkyh8l46vr1g"
     }
   }
 }
