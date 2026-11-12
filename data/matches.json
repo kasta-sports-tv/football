@@ -1,52 +1,8 @@
 {
-  "updated_at": "2026-11-12T12:31:46.897132+00:00",
+  "updated_at": "2026-11-12T14:04:41.942991+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 10,
+  "matches_count": 8,
   "matches": [
-    {
-      "id": "ednm9wh5kdewryo",
-      "slug": "singapore-u23-vs-vietnam-u23-ednm9wh5kdewryo",
-      "competition": "International Friendly",
-      "home": "Singapore U23",
-      "away": "Vietnam U23",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzFiYWRkMjU3OGNkYmE2Yzc1ZTQzOTJlMDAxYmNlODc2LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2I2MzAzZmU2MGMwMDk0NzAyMTc5ZTA4ZDZkMjdhNzk4LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "First Half",
-      "time_label": "12 Nov 2026 • 19:00 WIB",
-      "match_time": 1794484800,
-      "match_date": "2026-11-12",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk3vjx1ZyHW6tXH2/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/singapore-u23-vs-vietnam-u23-ednm9wh5kdewryo"
-    },
-    {
-      "id": "y0or5jh9l5k0qwz",
-      "slug": "uzbekistan-u17-vs-ecuador-u17-y0or5jh9l5k0qwz",
-      "competition": "International Friendly",
-      "home": "Uzbekistan U17",
-      "away": "Ecuador U17",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzlhMzUxZDY3YzdkNzc4Yzk2MmZjZmQ3MzRhMjU5MTNkLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ExMzE5Mzc5ZTg2N2IyZGEyODJhY2ZlM2M1MTMxNTY0LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "TBD",
-      "time_label": "12 Nov 2026 • 17:00 WIB",
-      "match_time": 1794477600,
-      "match_date": "2026-11-12",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/uzbekistan-u17-vs-ecuador-u17-y0or5jh9l5k0qwz"
-    },
     {
       "id": "4wyrn4hy8oypq86",
       "slug": "scotland-u21-vs-ukraine-u21-4wyrn4hy8oypq86",
@@ -55,13 +11,13 @@
       "away": "Ukraine U21",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzFkNTBiZTU4OTdmY2E0NGY5Njk3ZDI2ZjJjZTk5NDA4LmNyZG93bmxvYWQ=",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2MwZDFmMzk2NTM1ZTc4YWQyMTQ4YWQ2ZGQ4ZDRlYTExLnBuZw==",
-      "home_score": 0,
+      "home_score": 2,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "Half Time",
       "time_label": "12 Nov 2026 • 20:00 WIB",
       "match_time": 1794488400,
       "match_date": "2026-11-12",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
         "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk4CyEduPGRheok4/playlist.m3u8",
@@ -77,13 +33,13 @@
       "away": "North Macedonia U21",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzExNjg3ZWVkNDNkNDg0ZmZmNWU2NDE5OGRkZTZjMzU4LnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2JhMzQwOGZiYTQ2NmE0ODhmZTIwNzk3ZDU2OTg0NDRkLnBuZw==",
-      "home_score": 0,
+      "home_score": 1,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "Half Time",
       "time_label": "12 Nov 2026 • 20:00 WIB",
       "match_time": 1794488400,
       "match_date": "2026-11-12",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
         "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk46WC6VLXadDPLU/playlist.m3u8",
@@ -196,7 +152,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk3sP4NsqFbojqrx/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/uzbekistan-vs-russia-jw2r09h5lpknrz8"

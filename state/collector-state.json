@@ -1059,13 +1059,13 @@
     "dn1m1gh94xdzmoe": 1794479293,
     "23xmvkhy32kjqg8": 1794474757,
     "1l4rjnhn6gx7m7v": 1794474757,
-    "3glrw7h4w95yqdy": 1794486701,
-    "jw2r09h5lpknrz8": 1794486701,
+    "3glrw7h4w95yqdy": 1794492277,
+    "jw2r09h5lpknrz8": 1794492277,
     "4jwq2ghg4wx3m0v": 1794474757,
-    "4wyrn4hy8w1pq86": 1794486701,
-    "vjxm8ghk406pr6o": 1794486701,
-    "x7lm7phxkvepm2w": 1794486701,
-    "23xmvkhy3yzdqg8": 1794486701
+    "4wyrn4hy8w1pq86": 1794492277,
+    "vjxm8ghk406pr6o": 1794492277,
+    "x7lm7phxkvepm2w": 1794492277,
+    "23xmvkhy3yzdqg8": 1794492277
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -3367,6 +3367,11 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk3vjx1ZyHW6tXH2/playlist.m3u8",
       "hd": "",
       "slug": "singapore-u23-vs-vietnam-u23-ednm9wh5kdewryo"
+    },
+    "jw2r09h5lpknrz8": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk3sP4NsqFbojqrx/playlist.m3u8",
+      "hd": "",
+      "slug": "uzbekistan-vs-russia-jw2r09h5lpknrz8"
     }
   }
 }
