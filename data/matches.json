@@ -1,51 +1,29 @@
 {
-  "updated_at": "2026-11-12T14:04:41.942991+00:00",
+  "updated_at": "2026-11-12T15:04:48.638771+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 8,
+  "matches_count": 6,
   "matches": [
     {
-      "id": "4wyrn4hy8oypq86",
-      "slug": "scotland-u21-vs-ukraine-u21-4wyrn4hy8oypq86",
+      "id": "4wyrn4hy8w1pq86",
+      "slug": "egypt-u20-vs-tanzania-u20-4wyrn4hy8w1pq86",
       "competition": "International Friendly",
-      "home": "Scotland U21",
-      "away": "Ukraine U21",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzFkNTBiZTU4OTdmY2E0NGY5Njk3ZDI2ZjJjZTk5NDA4LmNyZG93bmxvYWQ=",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2MwZDFmMzk2NTM1ZTc4YWQyMTQ4YWQ2ZGQ4ZDRlYTExLnBuZw==",
-      "home_score": 2,
+      "home": "Egypt U20",
+      "away": "Tanzania U20",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzI2NDdjMWRiYTIzYmMwZTBmOWNkZjc1MzM5ZTEyMGQyLmpwZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzY2ZTE3MjE4NGUxYmFjMWI1MWM2ZTYzMzA2YjNjZTY1LnBuZw==",
+      "home_score": 0,
       "away_score": 0,
-      "status": "Half Time",
-      "time_label": "12 Nov 2026 • 20:00 WIB",
-      "match_time": 1794488400,
+      "status": "First Half",
+      "time_label": "12 Nov 2026 • 22:00 WIB",
+      "match_time": 1794495600,
       "match_date": "2026-11-12",
       "is_live": true,
       "is_finished": false,
       "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk4CyEduPGRheok4/playlist.m3u8",
+        "sd": "",
         "hd": ""
       },
-      "match_url": "https://kickofftv.id/match/scotland-u21-vs-ukraine-u21-4wyrn4hy8oypq86"
-    },
-    {
-      "id": "dn1m1gh94xdzmoe",
-      "slug": "serbia-u21-vs-north-macedonia-u21-dn1m1gh94xdzmoe",
-      "competition": "International Friendly",
-      "home": "Serbia U21",
-      "away": "North Macedonia U21",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzExNjg3ZWVkNDNkNDg0ZmZmNWU2NDE5OGRkZTZjMzU4LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2JhMzQwOGZiYTQ2NmE0ODhmZTIwNzk3ZDU2OTg0NDRkLnBuZw==",
-      "home_score": 1,
-      "away_score": 0,
-      "status": "Half Time",
-      "time_label": "12 Nov 2026 • 20:00 WIB",
-      "match_time": 1794488400,
-      "match_date": "2026-11-12",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk46WC6VLXadDPLU/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/serbia-u21-vs-north-macedonia-u21-dn1m1gh94xdzmoe"
+      "match_url": "https://kickofftv.id/match/egypt-u20-vs-tanzania-u20-4wyrn4hy8w1pq86"
     },
     {
       "id": "3glrw7h4w95yqdy",
@@ -57,7 +35,7 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzk3YmRkNzI1N2IxNTM3ZmNjNTM5ZTY5MTIwZTBkYTY5LnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "TBD",
       "time_label": "12 Nov 2026 • 21:00 WIB",
       "match_time": 1794492000,
       "match_date": "2026-11-12",
@@ -68,28 +46,6 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/saudi-arabia-u17-vs-costa-rica-u17-3glrw7h4w95yqdy"
-    },
-    {
-      "id": "4wyrn4hy8w1pq86",
-      "slug": "egypt-u20-vs-tanzania-u20-4wyrn4hy8w1pq86",
-      "competition": "International Friendly",
-      "home": "Egypt U20",
-      "away": "Tanzania U20",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzI2NDdjMWRiYTIzYmMwZTBmOWNkZjc1MzM5ZTEyMGQyLmpwZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzY2ZTE3MjE4NGUxYmFjMWI1MWM2ZTYzMzA2YjNjZTY1LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "12 Nov 2026 • 22:00 WIB",
-      "match_time": 1794495600,
-      "match_date": "2026-11-12",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/egypt-u20-vs-tanzania-u20-4wyrn4hy8w1pq86"
     },
     {
       "id": "x7lm7phxkvepm2w",
@@ -174,7 +130,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk46RmgMZkVtbUjr/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/france-u20-vs-denmark-u20-23xmvkhy3yzdqg8"
