@@ -1044,7 +1044,7 @@
     "dj2ryoh7kpg5q1z": 1794474757,
     "y0or5jh9l5k0qwz": 1794479293,
     "pxwrxlhlgn92ryk": 1794474757,
-    "ednm9wh5kdewryo": 1794480244,
+    "ednm9wh5kdewryo": 1794486701,
     "3glrw7h4w9j0qdy": 1794474757,
     "2y8m4zhv378xql0": 1794474757,
     "318q66h8o13dqo9": 1794474757,
@@ -1059,13 +1059,13 @@
     "dn1m1gh94xdzmoe": 1794479293,
     "23xmvkhy32kjqg8": 1794474757,
     "1l4rjnhn6gx7m7v": 1794474757,
-    "3glrw7h4w95yqdy": 1794480244,
-    "jw2r09h5lpknrz8": 1794480244,
+    "3glrw7h4w95yqdy": 1794486701,
+    "jw2r09h5lpknrz8": 1794486701,
     "4jwq2ghg4wx3m0v": 1794474757,
-    "4wyrn4hy8w1pq86": 1794480244,
-    "vjxm8ghk406pr6o": 1794480244,
-    "x7lm7phxkvepm2w": 1794480244,
-    "23xmvkhy3yzdqg8": 1794480244
+    "4wyrn4hy8w1pq86": 1794486701,
+    "vjxm8ghk406pr6o": 1794486701,
+    "x7lm7phxkvepm2w": 1794486701,
+    "23xmvkhy3yzdqg8": 1794486701
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -3362,6 +3362,11 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk46WC6VLXadDPLU/playlist.m3u8",
       "hd": "",
       "slug": "serbia-u21-vs-north-macedonia-u21-dn1m1gh94xdzmoe"
+    },
+    "ednm9wh5kdewryo": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk3vjx1ZyHW6tXH2/playlist.m3u8",
+      "hd": "",
+      "slug": "singapore-u23-vs-vietnam-u23-ednm9wh5kdewryo"
     }
   }
 }
