@@ -1098,9 +1098,31 @@
     "y39mp1hd3o2lmoj": 1794559795,
     "jw2r09h549x0rz8": 1794586019,
     "8yomo4hy76ezq0j": 1794559795,
-    "ednm9wh5ko34ryo": 1794589278,
+    "ednm9wh5ko34ryo": 1794592047,
     "4jwq2ghg4gd1m0v": 1794589278,
-    "ednm9wh5k5ldryo": 1794586019
+    "ednm9wh5k5ldryo": 1794586019,
+    "ednm9whw5y3yryo": 1794592047,
+    "l5ergphkolk1r8k": 1794592047,
+    "6ypq3nhk04v4md7": 1794592047,
+    "y39mp1hd3d8wmoj": 1794592047,
+    "l7oqdehjy248r51": 1794592047,
+    "jw2r09h5l65orz8": 1794592047,
+    "965mkyh87891r1g": 1794592047,
+    "4wyrn4h6n2l1q86": 1794592047,
+    "pxwrxlhlg2y7ryk": 1794592047,
+    "y0or5jh89y28qwz": 1794592047,
+    "n54qllhn4go4qvy": 1794592047,
+    "23xmvkh6y1n2qg8": 1794592047,
+    "zp5rzghg3vldq82": 1794592047,
+    "4jwq2ghngy3jm0v": 1794592047,
+    "965mkyhk8d6vr1g": 1794592047,
+    "y39mp1h6dg22moj": 1794592047,
+    "k82rekhg2p75rep": 1794592047,
+    "318q66hx8y5lqo9": 1794592047,
+    "dj2ryoh7kpwgq1z": 1794592047,
+    "2y8m4zhv372zql0": 1794592047,
+    "3glrw7h4wln6qdy": 1794592047,
+    "k82rekh2v2dxrep": 1794592047
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -3522,6 +3544,86 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk46RmgYZ9rHj4WL/playlist.m3u8",
       "hd": "",
       "slug": "kuwait-vs-syria-4jwq2ghg4gd1m0v"
+    },
+    "ednm9whw5y3yryo": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwcqstKMiN4rDPm9r/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwcqstKMiN4rDPm9r/playlist.m3u8",
+      "slug": "moldova-vs-kazakhstan-ednm9whw5y3yryo"
+    },
+    "l5ergphkolk1r8k": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk4CyDojoXDvd1nY/playlist.m3u8",
+      "hd": "",
+      "slug": "germany-u21-vs-belgium-u21-l5ergphkolk1r8k"
+    },
+    "6ypq3nhk04v4md7": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk3sP4NPG1HZzvsJ/playlist.m3u8",
+      "hd": "",
+      "slug": "france-u21-vs-italy-u21-6ypq3nhk04v4md7"
+    },
+    "jw2r09h5l65orz8": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk4CyDohc3MSo6de/playlist.m3u8",
+      "hd": "",
+      "slug": "albania-u21-vs-luxembourg-u21-jw2r09h5l65orz8"
+    },
+    "4wyrn4h6n2l1q86": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARkPVSgGtNGzc/playlist.m3u8",
+      "hd": "",
+      "slug": "cd-leganes-vs-burgos-cf-4wyrn4h6n2l1q86"
+    },
+    "y0or5jh89y28qwz": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwcqstKXZq18xC32x/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwcqstKXZq18xC32x/playlist.m3u8",
+      "slug": "netherlands-vs-greece-y0or5jh89y28qwz"
+    },
+    "n54qllhn4go4qvy": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwcqstKXgRSkPfnVe/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwcqstKXgRSkPfnVe/playlist.m3u8",
+      "slug": "serbia-vs-germany-n54qllhn4go4qvy"
+    },
+    "23xmvkh6y1n2qg8": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwcqstKXeDxsuqsLk/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwcqstKXeDxsuqsLk/playlist.m3u8",
+      "slug": "scotland-vs-north-macedonia-23xmvkh6y1n2qg8"
+    },
+    "zp5rzghg3vldq82": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwcqstKX9eiZg6xM6/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwcqstKX9eiZg6xM6/playlist.m3u8",
+      "slug": "slovenia-vs-switzerland-zp5rzghg3vldq82"
+    },
+    "4jwq2ghngy3jm0v": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwcqstKMkZYihDgJk/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwcqstKMkZYihDgJk/playlist.m3u8",
+      "slug": "slovakia-vs-faroe-islands-4jwq2ghngy3jm0v"
+    },
+    "965mkyhk8d6vr1g": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwcqstKMpxWTesWcY/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwcqstKMpxWTesWcY/playlist.m3u8",
+      "slug": "luxembourg-vs-estonia-965mkyhk8d6vr1g"
+    },
+    "y39mp1h6dg22moj": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwcqstKMnm2bB3bTe/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwcqstKMnm2bB3bTe/playlist.m3u8",
+      "slug": "bulgaria-vs-iceland-y39mp1h6dg22moj"
+    },
+    "k82rekhg2p75rep": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwcqstKMuMUCcXLvL/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwcqstKMuMUCcXLvL/playlist.m3u8",
+      "slug": "andorra-vs-gibraltar-k82rekhg2p75rep"
+    },
+    "318q66hx8y5lqo9": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwcqstKMs9zL8hRmS/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwcqstKMs9zL8hRmS/playlist.m3u8",
+      "slug": "liechtenstein-vs-azerbaijan-318q66hx8y5lqo9"
+    },
+    "dj2ryoh7kpwgq1z": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk46WwQxmDAnfD1r/playlist.m3u8",
+      "hd": "",
+      "slug": "panama-u19-women-vs-el-salvador-u19-women-dj2ryoh7kpwgq1z"
+    },
+    "2y8m4zhv372zql0": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk46WwQvZjJJqHrx/playlist.m3u8",
+      "hd": "",
+      "slug": "costa-rica-u19-women-vs-guatemala-u19-women-2y8m4zhv372zql0"
     }
   }
 }
