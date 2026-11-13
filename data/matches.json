@@ -1,30 +1,8 @@
 {
-  "updated_at": "2026-11-13T18:01:16.417359+00:00",
+  "updated_at": "2026-11-13T19:01:30.271294+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 54,
+  "matches_count": 51,
   "matches": [
-    {
-      "id": "ednm9wh5ko34ryo",
-      "slug": "iraq-vs-lebanon-ednm9wh5ko34ryo",
-      "competition": "International Friendly",
-      "home": "Iraq",
-      "away": "Lebanon",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzg1ZWJhNjkwNTE4OWRiYTNiOWRlNjM0MmVkZTUzMTUwLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzRhMDAzZTk5NDI2ZDdiM2IyY2FiZDg5NzQ5YTVjZGZkLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Second Half",
-      "time_label": "13 Nov 2026 • 22:00 WIB",
-      "match_time": 1794582000,
-      "match_date": "2026-11-13",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/iraq-vs-lebanon-ednm9wh5ko34ryo"
-    },
     {
       "id": "4jwq2ghg4gd1m0v",
       "slug": "kuwait-vs-syria-4jwq2ghg4gd1m0v",
@@ -70,50 +48,6 @@
       "match_url": "https://kickofftv.id/match/poland-u21-vs-norway-u21-ednm9wh5k5ldryo"
     },
     {
-      "id": "l5ergphkolk1r8k",
-      "slug": "germany-u21-vs-belgium-u21-l5ergphkolk1r8k",
-      "competition": "International Friendly",
-      "home": "Germany U21",
-      "away": "Belgium U21",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2E3OWVlMTJjNTQ4MTczOTcxNDI1NGMzMzgxNDk3N2Q5LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2JmYTFjMTQ2NzY0OWNiODljNzM1OTU5YjJkNzhkMmFiLnBuZw==",
-      "home_score": 1,
-      "away_score": 1,
-      "status": "Half Time",
-      "time_label": "14 Nov 2026 • 00:00 WIB",
-      "match_time": 1794589200,
-      "match_date": "2026-11-14",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk4CyDojoXDvd1nY/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/germany-u21-vs-belgium-u21-l5ergphkolk1r8k"
-    },
-    {
-      "id": "ednm9whw5y3yryo",
-      "slug": "moldova-vs-kazakhstan-ednm9whw5y3yryo",
-      "competition": "UEFA Nations League",
-      "home": "Moldova",
-      "away": "Kazakhstan",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzBhYTk4NDczNzI2NWFiMWViMDk5ODE1MzM3OTNiMWVkLmNyZG93bmxvYWQ=",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2FiNjUzMjhmMzc2ZmNlN2VhMmI3OThhMDRhOTZhMGNjLnBuZw==",
-      "home_score": 1,
-      "away_score": 0,
-      "status": "Half Time",
-      "time_label": "14 Nov 2026 • 00:00 WIB",
-      "match_time": 1794589200,
-      "match_date": "2026-11-14",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwcqstKMiN4rDPm9r/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwcqstKMiN4rDPm9r/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/moldova-vs-kazakhstan-ednm9whw5y3yryo"
-    },
-    {
       "id": "6ypq3nhk04v4md7",
       "slug": "france-u21-vs-italy-u21-6ypq3nhk04v4md7",
       "competition": "International Friendly",
@@ -121,9 +55,9 @@
       "away": "Italy U21",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2U1NTk2MzMyNDYyYzE4ZDAzZWFiMjMxNDMxNTI3ZWU0LnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzVjNmY0MDE0NzQzMTM2NmM0MDE3YjEzOTZlYjMyNzg2LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "First Half",
+      "home_score": 1,
+      "away_score": 2,
+      "status": "Second Half",
       "time_label": "14 Nov 2026 • 00:30 WIB",
       "match_time": 1794591000,
       "match_date": "2026-11-14",
@@ -134,6 +68,50 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/france-u21-vs-italy-u21-6ypq3nhk04v4md7"
+    },
+    {
+      "id": "jw2r09h5l65orz8",
+      "slug": "albania-u21-vs-luxembourg-u21-jw2r09h5l65orz8",
+      "competition": "International Friendly",
+      "home": "Albania U21",
+      "away": "Luxembourg U21",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzY3Y2E5ZTUyNzYxMGVkZWJmZmU2OGVlNmI3NTBmNTQ4LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzc1NGIxNTNkMTljMWQyNDYyYzY4ZjBhODY1ODUwNmIxLnBuZw==",
+      "home_score": 2,
+      "away_score": 1,
+      "status": "Half Time",
+      "time_label": "14 Nov 2026 • 01:00 WIB",
+      "match_time": 1794592800,
+      "match_date": "2026-11-14",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk4CyDohc3MSo6de/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/albania-u21-vs-luxembourg-u21-jw2r09h5l65orz8"
+    },
+    {
+      "id": "965mkyh87891r1g",
+      "slug": "spain-u21-vs-japan-u21-965mkyh87891r1g",
+      "competition": "International Friendly",
+      "home": "Spain U21",
+      "away": "Japan U21",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzE4ZTI4MDdkMTFkNzRiYWI5NjQwODUyNjI3MDE3ZTUwLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzMwM2ZjYzFhM2JmMjAwODA5YjdiODZkNjc1NzNjMDNhLnBuZw==",
+      "home_score": 1,
+      "away_score": 0,
+      "status": "Half Time",
+      "time_label": "14 Nov 2026 • 01:00 WIB",
+      "match_time": 1794592800,
+      "match_date": "2026-11-14",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk46Rmg1nRfaAEMn/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/spain-u21-vs-japan-u21-965mkyh87891r1g"
     },
     {
       "id": "3glrw7h4wgpkqdy",
@@ -202,28 +180,6 @@
       "match_url": "https://kickofftv.id/match/chile-u20-vs-mexico-u20-y39mp1hd3d8wmoj"
     },
     {
-      "id": "jw2r09h5l65orz8",
-      "slug": "albania-u21-vs-luxembourg-u21-jw2r09h5l65orz8",
-      "competition": "International Friendly",
-      "home": "Albania U21",
-      "away": "Luxembourg U21",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzY3Y2E5ZTUyNzYxMGVkZWJmZmU2OGVlNmI3NTBmNTQ4LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzc1NGIxNTNkMTljMWQyNDYyYzY4ZjBhODY1ODUwNmIxLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "14 Nov 2026 • 01:00 WIB",
-      "match_time": 1794592800,
-      "match_date": "2026-11-14",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk4CyDohc3MSo6de/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/albania-u21-vs-luxembourg-u21-jw2r09h5l65orz8"
-    },
-    {
       "id": "l7oqdehjy248r51",
       "slug": "jordan-vs-indonesia-l7oqdehjy248r51",
       "competition": "International Friendly",
@@ -244,28 +200,6 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/jordan-vs-indonesia-l7oqdehjy248r51"
-    },
-    {
-      "id": "965mkyh87891r1g",
-      "slug": "spain-u21-vs-japan-u21-965mkyh87891r1g",
-      "competition": "International Friendly",
-      "home": "Spain U21",
-      "away": "Japan U21",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzE4ZTI4MDdkMTFkNzRiYWI5NjQwODUyNjI3MDE3ZTUwLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzMwM2ZjYzFhM2JmMjAwODA5YjdiODZkNjc1NzNjMDNhLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "14 Nov 2026 • 01:00 WIB",
-      "match_time": 1794592800,
-      "match_date": "2026-11-14",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/spain-u21-vs-japan-u21-965mkyh87891r1g"
     },
     {
       "id": "pxwrxlhlg2y7ryk",
