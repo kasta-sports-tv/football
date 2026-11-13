@@ -1098,8 +1098,8 @@
     "y39mp1hd3o2lmoj": 1794559795,
     "jw2r09h549x0rz8": 1794586019,
     "8yomo4hy76ezq0j": 1794559795,
-    "ednm9wh5ko34ryo": 1794586019,
-    "4jwq2ghg4gd1m0v": 1794586019,
+    "ednm9wh5ko34ryo": 1794589278,
+    "4jwq2ghg4gd1m0v": 1794589278,
     "ednm9wh5k5ldryo": 1794586019
   },
   "streams": {
@@ -3517,6 +3517,11 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk46RmgWMfyou9MS/playlist.m3u8",
       "hd": "",
       "slug": "poland-u21-vs-norway-u21-ednm9wh5k5ldryo"
+    },
+    "4jwq2ghg4gd1m0v": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk46RmgYZ9rHj4WL/playlist.m3u8",
+      "hd": "",
+      "slug": "kuwait-vs-syria-4jwq2ghg4gd1m0v"
     }
   }
 }

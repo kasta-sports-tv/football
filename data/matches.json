@@ -1,118 +1,8 @@
 {
-  "updated_at": "2026-11-13T16:07:03.272188+00:00",
+  "updated_at": "2026-11-13T17:01:19.112623+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 9,
+  "matches_count": 4,
   "matches": [
-    {
-      "id": "2y8m4zhv345zql0",
-      "slug": "united-arab-emirates-vs-honduras-2y8m4zhv345zql0",
-      "competition": "International Friendly",
-      "home": "United Arab Emirates",
-      "away": "Honduras",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzBkYjNiODE2N2Q5MWY2NWU1ZDdkMDhlM2ZjNmRlMjBkLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzE1MmUyZWE1NmUyNmE1MjY4MmMzOTY2NDI3NTM3ZmU4LnBuZw==",
-      "home_score": 3,
-      "away_score": 1,
-      "status": "Second Half",
-      "time_label": "13 Nov 2026 • 21:10 WIB",
-      "match_time": 1794579000,
-      "match_date": "2026-11-13",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk3sP4Nv2jUHZm1r/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/united-arab-emirates-vs-honduras-2y8m4zhv345zql0"
-    },
-    {
-      "id": "y39mp1hd3o2lmoj",
-      "slug": "belize-w-u19-vs-honduras-w-u19-y39mp1hd3o2lmoj",
-      "competition": "International Friendly",
-      "home": "Belize (W) U19",
-      "away": "Honduras (W) U19",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzg4YWYwZmE1NTgwNzYwMmZkMzk1MzA0ZjRmYTY5Nzk3LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzhlODNmZTIyYTBkZDFkZjQyODQ2NmY0YWUxYjM4NjA3LnBuZw==",
-      "home_score": 0,
-      "away_score": 4,
-      "status": "Second Half",
-      "time_label": "13 Nov 2026 • 21:30 WIB",
-      "match_time": 1794580200,
-      "match_date": "2026-11-13",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk46Wvuw98VHqDX6/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/belize-w-u19-vs-honduras-w-u19-y39mp1hd3o2lmoj"
-    },
-    {
-      "id": "965mkyh87w6dr1g",
-      "slug": "nicaragua-w-u19-vs-cuba-w-u19-965mkyh87w6dr1g",
-      "competition": "International Friendly",
-      "home": "Nicaragua (W) U19",
-      "away": "Cuba (W) U19",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzAwODhjYmM5YjI0MWUyOTY5ZmE5ODg2YWQzNDBkYjY1LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2VlMTY1YjgyYTlkMjIyYTE0ZWVmYzU4OGJiNDVmMzUxLnBuZw==",
-      "home_score": 5,
-      "away_score": 0,
-      "status": "Second Half",
-      "time_label": "13 Nov 2026 • 21:30 WIB",
-      "match_time": 1794580200,
-      "match_date": "2026-11-13",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk46WvupYgsrMU4Q/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/nicaragua-w-u19-vs-cuba-w-u19-965mkyh87w6dr1g"
-    },
-    {
-      "id": "8yomo4hy751zq0j",
-      "slug": "saudi-arabia-vs-south-korea-8yomo4hy751zq0j",
-      "competition": "International Friendly",
-      "home": "Saudi Arabia",
-      "away": "South Korea",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzM4NzRkY2QxMDllNjQ2Y2JlN2M1ZThmYjJiZDQxNTQ4LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2EyNWMyZjc2ZWNmOWFhNTY2ZDk0M2FhNGIwNzM2MjdlLnBuZw==",
-      "home_score": 3,
-      "away_score": 2,
-      "status": "Second Half",
-      "time_label": "13 Nov 2026 • 21:30 WIB",
-      "match_time": 1794580200,
-      "match_date": "2026-11-13",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk3sP4NRTVA3pr2C/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/saudi-arabia-vs-south-korea-8yomo4hy751zq0j"
-    },
-    {
-      "id": "jw2r09h549x0rz8",
-      "slug": "qatar-vs-australia-jw2r09h549x0rz8",
-      "competition": "International Friendly",
-      "home": "Qatar",
-      "away": "Australia",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2E2MWQzZjQxZDc4YTZkZjhiZjNhMzY3ZWQ4ZTZmNWExLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzZmMjg5YmRmZmUwM2EyNDgwYWQ1MjFkYzJjMTE0ZDU2LnBuZw==",
-      "home_score": 0,
-      "away_score": 3,
-      "status": "Second Half",
-      "time_label": "13 Nov 2026 • 21:45 WIB",
-      "match_time": 1794581100,
-      "match_date": "2026-11-13",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjJtc9AYUpqmgj6Y/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/qatar-vs-australia-jw2r09h549x0rz8"
-    },
     {
       "id": "ednm9wh5ko34ryo",
       "slug": "iraq-vs-lebanon-ednm9wh5ko34ryo",
@@ -123,7 +13,7 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzRhMDAzZTk5NDI2ZDdiM2IyY2FiZDg5NzQ5YTVjZGZkLnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "Half Time",
+      "status": "Second Half",
       "time_label": "13 Nov 2026 • 22:00 WIB",
       "match_time": 1794582000,
       "match_date": "2026-11-13",
@@ -134,6 +24,50 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/iraq-vs-lebanon-ednm9wh5ko34ryo"
+    },
+    {
+      "id": "4jwq2ghg4gd1m0v",
+      "slug": "kuwait-vs-syria-4jwq2ghg4gd1m0v",
+      "competition": "International Friendly",
+      "home": "Kuwait",
+      "away": "Syria",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzUwMTQwMmViYmFhODU1NTMyOWMyNWI1MmZlNzllY2IyLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Y5ZWJkYWI0YjQ1MzQ0N2ExY2Q5ODBjYmY5NWUzNDVlLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "First Half",
+      "time_label": "13 Nov 2026 • 23:30 WIB",
+      "match_time": 1794587400,
+      "match_date": "2026-11-13",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk46RmgYZ9rHj4WL/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/kuwait-vs-syria-4jwq2ghg4gd1m0v"
+    },
+    {
+      "id": "ednm9wh5k5ldryo",
+      "slug": "poland-u21-vs-norway-u21-ednm9wh5k5ldryo",
+      "competition": "International Friendly",
+      "home": "Poland U21",
+      "away": "Norway U21",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzJlMTE5NDdjMjYyODhiZWM1ZDdmZjMwNGYxMGE5OGMzLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzI5NjhjNGFlODlkM2RjZDk4YTc0YzZmNWMxNTljNzE0LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "First Half",
+      "time_label": "13 Nov 2026 • 23:30 WIB",
+      "match_time": 1794587400,
+      "match_date": "2026-11-13",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk46RmgWMfyou9MS/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/poland-u21-vs-norway-u21-ednm9wh5k5ldryo"
     },
     {
       "id": "3glrw7h4wgpkqdy",
@@ -156,50 +90,6 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/cote-d-ivoire-u23-vs-morocco-u20-3glrw7h4wgpkqdy"
-    },
-    {
-      "id": "4jwq2ghg4gd1m0v",
-      "slug": "kuwait-vs-syria-4jwq2ghg4gd1m0v",
-      "competition": "International Friendly",
-      "home": "Kuwait",
-      "away": "Syria",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzUwMTQwMmViYmFhODU1NTMyOWMyNWI1MmZlNzllY2IyLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Y5ZWJkYWI0YjQ1MzQ0N2ExY2Q5ODBjYmY5NWUzNDVlLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "13 Nov 2026 • 23:30 WIB",
-      "match_time": 1794587400,
-      "match_date": "2026-11-13",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/kuwait-vs-syria-4jwq2ghg4gd1m0v"
-    },
-    {
-      "id": "ednm9wh5k5ldryo",
-      "slug": "poland-u21-vs-norway-u21-ednm9wh5k5ldryo",
-      "competition": "International Friendly",
-      "home": "Poland U21",
-      "away": "Norway U21",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzJlMTE5NDdjMjYyODhiZWM1ZDdmZjMwNGYxMGE5OGMzLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzI5NjhjNGFlODlkM2RjZDk4YTc0YzZmNWMxNTljNzE0LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "13 Nov 2026 • 23:30 WIB",
-      "match_time": 1794587400,
-      "match_date": "2026-11-13",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk46RmgWMfyou9MS/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/poland-u21-vs-norway-u21-ednm9wh5k5ldryo"
     }
   ]
 }
