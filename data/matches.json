@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-13T20:01:15.768537+00:00",
+  "updated_at": "2026-11-13T20:12:02.571282+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 47,
+  "matches_count": 45,
   "matches": [
     {
       "id": "4jwq2ghg4gd1m0v",
@@ -48,28 +48,6 @@
       "match_url": "https://kickofftv.id/match/poland-u21-vs-norway-u21-ednm9wh5k5ldryo"
     },
     {
-      "id": "y39mp1hd3d8wmoj",
-      "slug": "chile-u20-vs-mexico-u20-y39mp1hd3d8wmoj",
-      "competition": "International Friendly",
-      "home": "Chile U20",
-      "away": "Mexico U20",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2FkOTdhYjczYWYyZjNjNDc4ZjRlOGNkMWVmYTA0YTFmLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzYzMzBhODNjNjRjZDZiY2Q4MjAxMTY5MWQ4ODE1MWQyLnBuZw==",
-      "home_score": 1,
-      "away_score": 1,
-      "status": "Second Half",
-      "time_label": "14 Nov 2026 • 01:10 WIB",
-      "match_time": 1794593400,
-      "match_date": "2026-11-14",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/chile-u20-vs-mexico-u20-y39mp1hd3d8wmoj"
-    },
-    {
       "id": "pxwrxlhlg2y7ryk",
       "slug": "england-u21-vs-portugal-u21-pxwrxlhlg2y7ryk",
       "competition": "International Friendly",
@@ -78,7 +56,7 @@
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzU1OTk1Y2ViY2FhZDdjZTQzZWY1M2FkY2RkZGE1NmJiLnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2UwN2E1ZWY1MmU3Y2JkYWYzMjM2MzNjNDQzYzI0YWNhLnBuZw==",
       "home_score": 0,
-      "away_score": 0,
+      "away_score": 1,
       "status": "First Half",
       "time_label": "14 Nov 2026 • 02:30 WIB",
       "match_time": 1794598200,
@@ -99,7 +77,7 @@
       "away": "Burgos CF",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2I2NzI4ODMyZjE1MDQ5ODllNTdmOGE0MzQ3OTQyOWVjLnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzFlODg4Y2E1NDJkODkyNjAwZDNiMjgxOGQxYzQwZTIyLnBuZw==",
-      "home_score": 1,
+      "home_score": 3,
       "away_score": 0,
       "status": "First Half",
       "time_label": "14 Nov 2026 • 02:30 WIB",
@@ -144,7 +122,7 @@
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzMzNzA2ODFkMTkyYzA5MjkwYjkzMjNiZjFiYjU2ZDRjLnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzZjZmY0NDNjZGY3MmI2ZGJlNDQwYTc4MTRmZjljMTcxLnBuZw==",
       "home_score": 0,
-      "away_score": 0,
+      "away_score": 1,
       "status": "First Half",
       "time_label": "14 Nov 2026 • 02:45 WIB",
       "match_time": 1794599100,
@@ -166,7 +144,7 @@
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzM5ZDQxYWZiMjU2OGRmZWMxNTZkZWFjYWMzNTg5OWRjLnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzZkYjk3MWE0OTIzZWRiYWI0MGZhMTQ5ZDliMWVhZjk4LnBuZw==",
       "home_score": 0,
-      "away_score": 0,
+      "away_score": 1,
       "status": "First Half",
       "time_label": "14 Nov 2026 • 02:45 WIB",
       "match_time": 1794599100,
@@ -209,7 +187,7 @@
       "away": "Greece",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzI5OWU1MTM1ZjljZjM0MjA1NTYzZmYyYTVhMjlmZjJhLnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzYxMGYyYzdkNWRhNjgzYmExZDdjYzI1ODc4Y2RhYjlkLnBuZw==",
-      "home_score": 1,
+      "home_score": 3,
       "away_score": 0,
       "status": "First Half",
       "time_label": "14 Nov 2026 • 02:45 WIB",
@@ -254,7 +232,7 @@
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzkxZjEzNjkwOWE1NTNlYjM0MjdhMjgwY2IyMWYxN2NhLnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2MzZWIwZmJkMzVlNjA4NWExZjFlODExM2Y1ZTU3ZmUxLnBuZw==",
       "home_score": 0,
-      "away_score": 1,
+      "away_score": 2,
       "status": "First Half",
       "time_label": "14 Nov 2026 • 02:45 WIB",
       "match_time": 1794599100,
@@ -275,7 +253,7 @@
       "away": "Faroe Islands",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzNkZDUyZDBmNGQ5ZGU1OGNjZGQwZTU0ZTcwNjAwODg0LnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzE5ZWVlZmRjMDcyZTY3NWUxYmUyYTk3ODZjZmJhMDE2LnBuZw==",
-      "home_score": 0,
+      "home_score": 1,
       "away_score": 0,
       "status": "First Half",
       "time_label": "14 Nov 2026 • 02:45 WIB",
@@ -312,26 +290,48 @@
       "match_url": "https://kickofftv.id/match/slovenia-vs-switzerland-zp5rzghg3vldq82"
     },
     {
-      "id": "y39mp1hd3ew0moj",
-      "slug": "saudi-arabia-u23-vs-kuwait-u23-y39mp1hd3ew0moj",
-      "competition": "International Friendly",
-      "home": "Saudi Arabia U23",
-      "away": "Kuwait U23",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzgwYTY2MGIzM2IyZmQwZjc0OWYwZWYwNTg4ZWUzYzJjLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzQ3MWQyNGUxMmQyMzNmYzVkMzA1ZmM1ODZjOTIwNWQ1LnBuZw==",
-      "home_score": 1,
+      "id": "y0or5jh9x7v8qwz",
+      "slug": "salmantino-vs-rc-celta-y0or5jh9x7v8qwz",
+      "competition": "Copa del Rey",
+      "home": "Salmantino",
+      "away": "RC Celta",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzlkNzRmNGEzODY1ZDk0NTQzYzRlNTVkMzc3MjRhN2VkLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZkOTU0ZDA4M2VlODVhNmYxYTNmMjQ3MWRjNzU2MjQyLnBuZw==",
+      "home_score": 0,
       "away_score": 0,
-      "status": "Delayed",
-      "time_label": "14 Nov 2026 • 00:00 WIB",
-      "match_time": 1794589200,
+      "status": "First Half",
+      "time_label": "14 Nov 2026 • 03:00 WIB",
+      "match_time": 1794600000,
       "match_date": "2026-11-14",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjKLjnEKvsgAzQPr/playlist.m3u8",
         "hd": ""
       },
-      "match_url": "https://kickofftv.id/match/saudi-arabia-u23-vs-kuwait-u23-y39mp1hd3ew0moj"
+      "match_url": "https://kickofftv.id/match/salmantino-vs-rc-celta-y0or5jh9x7v8qwz"
+    },
+    {
+      "id": "dj2ryoh7kpwgq1z",
+      "slug": "panama-u19-women-vs-el-salvador-u19-women-dj2ryoh7kpwgq1z",
+      "competition": "International Friendly",
+      "home": "Panama U19 Women",
+      "away": "El Salvador U19 Women",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZhNWU5OWRmMDQ1NjliZjdkYjlhYzA2ZDg3YmFmYjNjLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2M4YzQ1NWE0MzNmOTAxNTliYjVlYzlmYjQzN2RmOGE2LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "First Half",
+      "time_label": "14 Nov 2026 • 03:00 WIB",
+      "match_time": 1794600000,
+      "match_date": "2026-11-14",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk46WwQxmDAnfD1r/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/panama-u19-women-vs-el-salvador-u19-women-dj2ryoh7kpwgq1z"
     },
     {
       "id": "l7oqdehjy248r51",
@@ -356,28 +356,6 @@
       "match_url": "https://kickofftv.id/match/jordan-vs-indonesia-l7oqdehjy248r51"
     },
     {
-      "id": "y0or5jh9x7v8qwz",
-      "slug": "salmantino-vs-rc-celta-y0or5jh9x7v8qwz",
-      "competition": "Copa del Rey",
-      "home": "Salmantino",
-      "away": "RC Celta",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzlkNzRmNGEzODY1ZDk0NTQzYzRlNTVkMzc3MjRhN2VkLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZkOTU0ZDA4M2VlODVhNmYxYTNmMjQ3MWRjNzU2MjQyLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "14 Nov 2026 • 03:00 WIB",
-      "match_time": 1794600000,
-      "match_date": "2026-11-14",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjKLjnEKvsgAzQPr/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/salmantino-vs-rc-celta-y0or5jh9x7v8qwz"
-    },
-    {
       "id": "2y8m4zhv372zql0",
       "slug": "costa-rica-u19-women-vs-guatemala-u19-women-2y8m4zhv372zql0",
       "competition": "International Friendly",
@@ -398,28 +376,6 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/costa-rica-u19-women-vs-guatemala-u19-women-2y8m4zhv372zql0"
-    },
-    {
-      "id": "dj2ryoh7kpwgq1z",
-      "slug": "panama-u19-women-vs-el-salvador-u19-women-dj2ryoh7kpwgq1z",
-      "competition": "International Friendly",
-      "home": "Panama U19 Women",
-      "away": "El Salvador U19 Women",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZhNWU5OWRmMDQ1NjliZjdkYjlhYzA2ZDg3YmFmYjNjLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2M4YzQ1NWE0MzNmOTAxNTliYjVlYzlmYjQzN2RmOGE2LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "14 Nov 2026 • 03:00 WIB",
-      "match_time": 1794600000,
-      "match_date": "2026-11-14",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk46WwQxmDAnfD1r/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/panama-u19-women-vs-el-salvador-u19-women-dj2ryoh7kpwgq1z"
     },
     {
       "id": "3glrw7h4wln6qdy",
