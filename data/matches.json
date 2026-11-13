@@ -1,52 +1,8 @@
 {
-  "updated_at": "2026-11-12T23:53:03.211133+00:00",
+  "updated_at": "2026-11-13T04:53:25.124396+00:00",
   "source": "https://kickofftv.id",
   "matches_count": 20,
   "matches": [
-    {
-      "id": "jw2r09h5lg4nrz8",
-      "slug": "uruguay-u17-women-vs-peru-u17-women-jw2r09h5lg4nrz8",
-      "competition": "International Friendly",
-      "home": "Uruguay U17 Women",
-      "away": "Peru U17 Women",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzY4MDE4MDI4ZGExYTQ5MDFjYjE0NWJkZWVhZThhNWJjLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzkxMWQ4OTZkNzcxZDE1NTk5NzY0ZTdhMjc0NjM0YjVmLnBuZw==",
-      "home_score": 1,
-      "away_score": 0,
-      "status": "Second Half",
-      "time_label": "13 Nov 2026 • 05:00 WIB",
-      "match_time": 1794520800,
-      "match_date": "2026-11-13",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/uruguay-u17-women-vs-peru-u17-women-jw2r09h5lg4nrz8"
-    },
-    {
-      "id": "1l4rjnhn6dzwm7v",
-      "slug": "usa-u20-vs-japan-u19-1l4rjnhn6dzwm7v",
-      "competition": "International Friendly",
-      "home": "USA U20",
-      "away": "Japan U19",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2MzZWJkODIwMGFlM2M1ZTEyMDg3NGIwZTg2YWY1ZDNlLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzhiYTBmM2U3NWRmMjI2ZDZiZGVlM2ZkOWYxNTE3Mzg5LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "13 Nov 2026 • 08:00 WIB",
-      "match_time": 1794531600,
-      "match_date": "2026-11-13",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/usa-u20-vs-japan-u19-1l4rjnhn6dzwm7v"
-    },
     {
       "id": "4jwq2ghg45v8m0v",
       "slug": "mangere-united-vs-tonga-4jwq2ghg45v8m0v",
@@ -86,7 +42,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwarNKLBJoQXvQL1n/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/prykarpattya-ivano-frankivsk-vs-kolos-kovalivka-ii-965mkyhkvlxer1g"
@@ -200,6 +156,50 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/chinese-taipei-vs-kyrgyzstan-dj2ryoh7kdlgq1z"
+    },
+    {
+      "id": "8yomo4hy76ezq0j",
+      "slug": "chinese-taipei-vs-kyrgyzstan-8yomo4hy76ezq0j",
+      "competition": "International Friendly",
+      "home": "Chinese Taipei",
+      "away": "Kyrgyzstan",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzBiZTFmYTZiMTFmYjYyZTA0MWE3NmRiZmViZTc0YWMwLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZkNzIxZTFkZWE0YzU3ZWNiYTdkMzVjZDAxMjEyM2VkLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "13 Nov 2026 • 19:00 WIB",
+      "match_time": 1794571200,
+      "match_date": "2026-11-13",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/chinese-taipei-vs-kyrgyzstan-8yomo4hy76ezq0j"
+    },
+    {
+      "id": "3glrw7h4wgpkqdy",
+      "slug": "cote-d-ivoire-u23-vs-morocco-u20-3glrw7h4wgpkqdy",
+      "competition": "International Friendly",
+      "home": "Cote d'Ivoire U23",
+      "away": "Morocco U20",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2RjODhlMDA1YTc5Zjk2NTZlODJmMzAwZGY3MzEwNGIwLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzdjYmM1Y2I1OWRlOWM1OWNlNDQ2ZjAxZWQ4MmM2YTJlLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "13 Nov 2026 • 19:00 WIB",
+      "match_time": 1794571200,
+      "match_date": "2026-11-13",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/cote-d-ivoire-u23-vs-morocco-u20-3glrw7h4wgpkqdy"
     },
     {
       "id": "l5ergphk0yvyr8k",
