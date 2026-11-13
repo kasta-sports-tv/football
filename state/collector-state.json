@@ -1089,18 +1089,18 @@
     "dn1m1gh94xw6moe": 1794574287,
     "l5ergphk0yvyr8k": 1794574287,
     "dj2ryoh7kdlgq1z": 1794559795,
-    "3glrw7h4wgpkqdy": 1794574287,
+    "3glrw7h4wgpkqdy": 1794586019,
     "k82rekh2ve77rep": 1794574287,
     "318q66h8o159qo9": 1794574287,
-    "2y8m4zhv345zql0": 1794574287,
-    "8yomo4hy751zq0j": 1794574287,
+    "2y8m4zhv345zql0": 1794586019,
+    "8yomo4hy751zq0j": 1794586019,
     "965mkyh87w6dr1g": 1794559795,
     "y39mp1hd3o2lmoj": 1794559795,
-    "jw2r09h549x0rz8": 1794574287,
+    "jw2r09h549x0rz8": 1794586019,
     "8yomo4hy76ezq0j": 1794559795,
-    "ednm9wh5ko34ryo": 1794574287,
-    "4jwq2ghg4gd1m0v": 1794574287,
-    "ednm9wh5k5ldryo": 1794574287
+    "ednm9wh5ko34ryo": 1794586019,
+    "4jwq2ghg4gd1m0v": 1794586019,
+    "ednm9wh5k5ldryo": 1794586019
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -3497,6 +3497,26 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjJtc9KuNWpGk5yz/playlist.m3u8",
       "hd": "",
       "slug": "singapore-vs-paraguay-l5ergphk0yvyr8k"
+    },
+    "2y8m4zhv345zql0": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk3sP4Nv2jUHZm1r/playlist.m3u8",
+      "hd": "",
+      "slug": "united-arab-emirates-vs-honduras-2y8m4zhv345zql0"
+    },
+    "8yomo4hy751zq0j": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk3sP4NRTVA3pr2C/playlist.m3u8",
+      "hd": "",
+      "slug": "saudi-arabia-vs-south-korea-8yomo4hy751zq0j"
+    },
+    "jw2r09h549x0rz8": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjJtc9AYUpqmgj6Y/playlist.m3u8",
+      "hd": "",
+      "slug": "qatar-vs-australia-jw2r09h549x0rz8"
+    },
+    "ednm9wh5k5ldryo": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk46RmgWMfyou9MS/playlist.m3u8",
+      "hd": "",
+      "slug": "poland-u21-vs-norway-u21-ednm9wh5k5ldryo"
     }
   }
 }
