@@ -1082,7 +1082,22 @@
     "jw2r09h5lg4nrz8": 1794527581,
     "1l4rjnhn6dzwm7v": 1794527581,
     "4jwq2ghg45v8m0v": 1794545603,
-    "965mkyhkvlxer1g": 1794545603
+    "965mkyhkvlxer1g": 1794545603,
+    "1l4rjnhn6npkm7v": 1794559795,
+    "4wyrn4hy8wjzq86": 1794559795,
+    "l5ergphkodzor8k": 1794559795,
+    "dn1m1gh94xw6moe": 1794559795,
+    "l5ergphk0yvyr8k": 1794559795,
+    "dj2ryoh7kdlgq1z": 1794559795,
+    "3glrw7h4wgpkqdy": 1794559795,
+    "k82rekh2ve77rep": 1794559795,
+    "318q66h8o159qo9": 1794559795,
+    "2y8m4zhv345zql0": 1794559795,
+    "8yomo4hy751zq0j": 1794559795,
+    "965mkyh87w6dr1g": 1794559795,
+    "y39mp1hd3o2lmoj": 1794559795,
+    "jw2r09h549x0rz8": 1794559795,
+    "8yomo4hy76ezq0j": 1794559795
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -3459,6 +3474,21 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwarNKLBJoQXvQL1n/playlist.m3u8",
       "hd": "",
       "slug": "prykarpattya-ivano-frankivsk-vs-kolos-kovalivka-ii-965mkyhkvlxer1g"
+    },
+    "l5ergphkodzor8k": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk46Wvv3ja6jJxyn/playlist.m3u8",
+      "hd": "",
+      "slug": "uzbekistan-u20-vs-venezuela-u20-l5ergphkodzor8k"
+    },
+    "965mkyh87w6dr1g": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk46WvupYgsrMU4Q/playlist.m3u8",
+      "hd": "",
+      "slug": "nicaragua-w-u19-vs-cuba-w-u19-965mkyh87w6dr1g"
+    },
+    "y39mp1hd3o2lmoj": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk46Wvuw98VHqDX6/playlist.m3u8",
+      "hd": "",
+      "slug": "belize-w-u19-vs-honduras-w-u19-y39mp1hd3o2lmoj"
     }
   }
 }
