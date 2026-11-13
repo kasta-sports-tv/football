@@ -1,30 +1,8 @@
 {
-  "updated_at": "2026-11-13T22:01:29.160165+00:00",
+  "updated_at": "2026-11-13T23:01:21.562495+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 29,
+  "matches_count": 28,
   "matches": [
-    {
-      "id": "2y8m4zhv372zql0",
-      "slug": "costa-rica-u19-women-vs-guatemala-u19-women-2y8m4zhv372zql0",
-      "competition": "International Friendly",
-      "home": "Costa Rica U19 Women",
-      "away": "Guatemala U19 Women",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2IwYTgwYjI5YzQxMTFmZjllYmFiODZlNDljMGY5OTU3LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2JiZThlM2NhNjY5ZWIyYmJjMjU5OTcyYTI3ZTRiM2ZiLnBuZw==",
-      "home_score": 0,
-      "away_score": 2,
-      "status": "Second Half",
-      "time_label": "14 Nov 2026 • 03:10 WIB",
-      "match_time": 1794600600,
-      "match_date": "2026-11-14",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk46WwQvZjJJqHrx/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/costa-rica-u19-women-vs-guatemala-u19-women-2y8m4zhv372zql0"
-    },
     {
       "id": "3glrw7h4wln6qdy",
       "slug": "argentina-vs-uruguay-3glrw7h4wln6qdy",
@@ -42,7 +20,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk3sP3YBUnDK9Dkt/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/argentina-vs-uruguay-3glrw7h4wln6qdy"
@@ -86,7 +64,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjJtc9AcsnajLZQL/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/colombia-vs-chile-dj2ryoh7v4j1q1z"
@@ -108,7 +86,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk3sP3YJ5DpkcyDa/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/ecuador-vs-costa-rica-vjxm8ghk42ewr6o"

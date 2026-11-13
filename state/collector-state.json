@@ -1121,11 +1121,11 @@
     "318q66hx8y5lqo9": 1794592047,
     "dj2ryoh7kpwgq1z": 1794592047,
     "2y8m4zhv372zql0": 1794592047,
-    "3glrw7h4wln6qdy": 1794607285,
-    "k82rekh2v2dxrep": 1794607285,
-    "dj2ryoh7v4j1q1z": 1794607285,
-    "vjxm8ghk42ewr6o": 1794607285,
-    "x7lm7phxk5j3m2w": 1794607285
+    "3glrw7h4wln6qdy": 1794610877,
+    "k82rekh2v2dxrep": 1794610877,
+    "dj2ryoh7v4j1q1z": 1794610877,
+    "vjxm8ghk42ewr6o": 1794610877,
+    "x7lm7phxk5j3m2w": 1794610877
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -3632,6 +3632,21 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk46Rmg1nRfaAEMn/playlist.m3u8",
       "hd": "",
       "slug": "spain-u21-vs-japan-u21-965mkyh87891r1g"
+    },
+    "3glrw7h4wln6qdy": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk3sP3YBUnDK9Dkt/playlist.m3u8",
+      "hd": "",
+      "slug": "argentina-vs-uruguay-3glrw7h4wln6qdy"
+    },
+    "dj2ryoh7v4j1q1z": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjJtc9AcsnajLZQL/playlist.m3u8",
+      "hd": "",
+      "slug": "colombia-vs-chile-dj2ryoh7v4j1q1z"
+    },
+    "vjxm8ghk42ewr6o": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk3sP3YJ5DpkcyDa/playlist.m3u8",
+      "hd": "",
+      "slug": "ecuador-vs-costa-rica-vjxm8ghk42ewr6o"
     }
   }
 }
