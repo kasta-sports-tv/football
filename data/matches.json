@@ -1,52 +1,8 @@
 {
-  "updated_at": "2026-11-13T08:50:07.638730+00:00",
+  "updated_at": "2026-11-13T12:51:34.100798+00:00",
   "source": "https://kickofftv.id",
   "matches_count": 19,
   "matches": [
-    {
-      "id": "965mkyhkvlxer1g",
-      "slug": "prykarpattya-ivano-frankivsk-vs-kolos-kovalivka-ii-965mkyhkvlxer1g",
-      "competition": "Ukrainian First League",
-      "home": "Prykarpattya Ivano Frankivsk",
-      "away": "Kolos Kovalivka II",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2UxMDExMWU0NWMzZDkzOWQ0YzU3NzkyNzFkZTkxYTQ5LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzIxNjMzZGViMzU2MGIxMWNhZWJhNGYzOGI3NjYzYTFiLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "13 Nov 2026 • 17:00 WIB",
-      "match_time": 1794564000,
-      "match_date": "2026-11-13",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwarNKLBJoQXvQL1n/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/prykarpattya-ivano-frankivsk-vs-kolos-kovalivka-ii-965mkyhkvlxer1g"
-    },
-    {
-      "id": "4wyrn4hy8wjzq86",
-      "slug": "belgium-women-u16-vs-scotland-u16-women-4wyrn4hy8wjzq86",
-      "competition": "International Friendly",
-      "home": "Belgium Women U16",
-      "away": "Scotland U16 Women",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzdhNTczODVkYjA2NGVkZWIxMmMzMzJlNDVmMmEzZTUyLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2FjYjQzYzRkYTFjZjVjMDgxZTYyMTljMDI1NTJhZTU5LndlYnA=",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "13 Nov 2026 • 18:00 WIB",
-      "match_time": 1794567600,
-      "match_date": "2026-11-13",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/belgium-women-u16-vs-scotland-u16-women-4wyrn4hy8wjzq86"
-    },
     {
       "id": "1l4rjnhn6npkm7v",
       "slug": "czechia-republic-u18-vs-poland-u18-1l4rjnhn6npkm7v",
@@ -56,12 +12,12 @@
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzZjYzU1MjQ4NjQ5NGNjNGE1MDg3NWZlNTU3NzZlZmFlLnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzkyZmVhMjk4ZGFhZGEzZGJhZmJiMTNlYmQxZDlhMDRmLnBuZw==",
       "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
+      "away_score": 2,
+      "status": "Second Half",
       "time_label": "13 Nov 2026 • 18:00 WIB",
       "match_time": 1794567600,
       "match_date": "2026-11-13",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
         "sd": "",
@@ -77,13 +33,13 @@
       "away": "Venezuela U20",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzhmOGJlNjgzMDM4OWYyY2ZiNjQyYzY2MTg3YjBkYjU0LnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzdjZmM5OTQxMjE2ODRkODA4NWI1NjkyMzFjZTAxYWJlLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "13 Nov 2026 • 18:00 WIB",
-      "match_time": 1794567600,
+      "home_score": 2,
+      "away_score": 2,
+      "status": "Second Half",
+      "time_label": "13 Nov 2026 • 18:10 WIB",
+      "match_time": 1794568200,
       "match_date": "2026-11-13",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
         "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk46Wvv3ja6jJxyn/playlist.m3u8",
@@ -99,11 +55,77 @@
       "away": "Ireland U16 Women",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2NiMWU5ODQ0YzlmMTNjYTVhMDI2MjZmNjZlNjBiNzQ4LnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2MxYzllYzA2NmY1MGRiYWJmOGY1ZTU3NTJiOGI5Njk4LnBuZw==",
-      "home_score": 0,
+      "home_score": 2,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "Second Half",
       "time_label": "13 Nov 2026 • 18:30 WIB",
       "match_time": 1794569400,
+      "match_date": "2026-11-13",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/portugal-u16-women-vs-ireland-u16-women-dn1m1gh94xw6moe"
+    },
+    {
+      "id": "318q66h8o159qo9",
+      "slug": "russia-u21-vs-kyrgyzstan-u23-318q66h8o159qo9",
+      "competition": "International Friendly",
+      "home": "Russia U21",
+      "away": "Kyrgyzstan U23",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzNkMGJlMmUxNTZlZDM1NTVjYjBkZTkxOWI0NjlmOTc1LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzIxZDZjNjNlNmVjOWIwMGM1YTQ1OWE3MDllMmY2MThkLnBuZw==",
+      "home_score": 2,
+      "away_score": 0,
+      "status": "First Half",
+      "time_label": "13 Nov 2026 • 19:00 WIB",
+      "match_time": 1794571200,
+      "match_date": "2026-11-13",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/russia-u21-vs-kyrgyzstan-u23-318q66h8o159qo9"
+    },
+    {
+      "id": "l5ergphk0yvyr8k",
+      "slug": "singapore-vs-paraguay-l5ergphk0yvyr8k",
+      "competition": "International Friendly",
+      "home": "Singapore",
+      "away": "Paraguay",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2U3OTU1M2JmZGQ3MDI1NjFkYmI3MDg5NzFjOGIwN2ViLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2E2NWNjYzZiYjUwZTQ2Y2VmOTlkZDcxYjlhZDkyYzlmLnBuZw==",
+      "home_score": 1,
+      "away_score": 2,
+      "status": "First Half",
+      "time_label": "13 Nov 2026 • 19:00 WIB",
+      "match_time": 1794571200,
+      "match_date": "2026-11-13",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjJtc9KuNWpGk5yz/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/singapore-vs-paraguay-l5ergphk0yvyr8k"
+    },
+    {
+      "id": "4wyrn4hy8wjzq86",
+      "slug": "belgium-women-u16-vs-scotland-u16-women-4wyrn4hy8wjzq86",
+      "competition": "International Friendly",
+      "home": "Belgium Women U16",
+      "away": "Scotland U16 Women",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzdhNTczODVkYjA2NGVkZWIxMmMzMzJlNDVmMmEzZTUyLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2FjYjQzYzRkYTFjZjVjMDgxZTYyMTljMDI1NTJhZTU5LndlYnA=",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "TBD",
+      "time_label": "13 Nov 2026 • 18:00 WIB",
+      "match_time": 1794567600,
       "match_date": "2026-11-13",
       "is_live": false,
       "is_finished": false,
@@ -111,7 +133,29 @@
         "sd": "",
         "hd": ""
       },
-      "match_url": "https://kickofftv.id/match/portugal-u16-women-vs-ireland-u16-women-dn1m1gh94xw6moe"
+      "match_url": "https://kickofftv.id/match/belgium-women-u16-vs-scotland-u16-women-4wyrn4hy8wjzq86"
+    },
+    {
+      "id": "l5ergphko779r8k",
+      "slug": "australia-u17-vs-tanzania-u17-l5ergphko779r8k",
+      "competition": "International Friendly",
+      "home": "Australia U17",
+      "away": "Tanzania U17",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzdkZjQwNTBmMTAzZDc4ZjZkNmExOTg4OTYxOTdlZTMwLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2UzMzhhZTA2MjkwYmMwZTE0N2FhY2M1YjlhNTYyMTllLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "TBD",
+      "time_label": "13 Nov 2026 • 19:00 WIB",
+      "match_time": 1794571200,
+      "match_date": "2026-11-13",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/australia-u17-vs-tanzania-u17-l5ergphko779r8k"
     },
     {
       "id": "dj2ryoh7kdlgq1z",
@@ -158,50 +202,6 @@
       "match_url": "https://kickofftv.id/match/chinese-taipei-vs-kyrgyzstan-8yomo4hy76ezq0j"
     },
     {
-      "id": "3glrw7h4wgpkqdy",
-      "slug": "cote-d-ivoire-u23-vs-morocco-u20-3glrw7h4wgpkqdy",
-      "competition": "International Friendly",
-      "home": "Cote d'Ivoire U23",
-      "away": "Morocco U20",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2RjODhlMDA1YTc5Zjk2NTZlODJmMzAwZGY3MzEwNGIwLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzdjYmM1Y2I1OWRlOWM1OWNlNDQ2ZjAxZWQ4MmM2YTJlLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "13 Nov 2026 • 19:00 WIB",
-      "match_time": 1794571200,
-      "match_date": "2026-11-13",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/cote-d-ivoire-u23-vs-morocco-u20-3glrw7h4wgpkqdy"
-    },
-    {
-      "id": "l5ergphk0yvyr8k",
-      "slug": "singapore-vs-paraguay-l5ergphk0yvyr8k",
-      "competition": "International Friendly",
-      "home": "Singapore",
-      "away": "Paraguay",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2U3OTU1M2JmZGQ3MDI1NjFkYmI3MDg5NzFjOGIwN2ViLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2E2NWNjYzZiYjUwZTQ2Y2VmOTlkZDcxYjlhZDkyYzlmLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "13 Nov 2026 • 19:00 WIB",
-      "match_time": 1794571200,
-      "match_date": "2026-11-13",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/singapore-vs-paraguay-l5ergphk0yvyr8k"
-    },
-    {
       "id": "k82rekh2ve77rep",
       "slug": "montenegro-u21-vs-bosnia-and-herzegovina-u21-k82rekh2ve77rep",
       "competition": "International Friendly",
@@ -224,28 +224,6 @@
       "match_url": "https://kickofftv.id/match/montenegro-u21-vs-bosnia-and-herzegovina-u21-k82rekh2ve77rep"
     },
     {
-      "id": "318q66h8o159qo9",
-      "slug": "russia-u21-vs-kyrgyzstan-u23-318q66h8o159qo9",
-      "competition": "International Friendly",
-      "home": "Russia U21",
-      "away": "Kyrgyzstan U23",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzNkMGJlMmUxNTZlZDM1NTVjYjBkZTkxOWI0NjlmOTc1LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzIxZDZjNjNlNmVjOWIwMGM1YTQ1OWE3MDllMmY2MThkLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "13 Nov 2026 • 20:00 WIB",
-      "match_time": 1794574800,
-      "match_date": "2026-11-13",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/russia-u21-vs-kyrgyzstan-u23-318q66h8o159qo9"
-    },
-    {
       "id": "2y8m4zhv345zql0",
       "slug": "united-arab-emirates-vs-honduras-2y8m4zhv345zql0",
       "competition": "International Friendly",
@@ -256,8 +234,8 @@
       "home_score": 0,
       "away_score": 0,
       "status": "Not Started",
-      "time_label": "13 Nov 2026 • 21:10 WIB",
-      "match_time": 1794579000,
+      "time_label": "13 Nov 2026 • 21:15 WIB",
+      "match_time": 1794579300,
       "match_date": "2026-11-13",
       "is_live": false,
       "is_finished": false,
@@ -376,6 +354,28 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/iraq-vs-lebanon-ednm9wh5ko34ryo"
+    },
+    {
+      "id": "3glrw7h4wgpkqdy",
+      "slug": "cote-d-ivoire-u23-vs-morocco-u20-3glrw7h4wgpkqdy",
+      "competition": "International Friendly",
+      "home": "Cote d'Ivoire U23",
+      "away": "Morocco U20",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2RjODhlMDA1YTc5Zjk2NTZlODJmMzAwZGY3MzEwNGIwLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzdjYmM1Y2I1OWRlOWM1OWNlNDQ2ZjAxZWQ4MmM2YTJlLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "TBD",
+      "time_label": "13 Nov 2026 • 23:00 WIB",
+      "match_time": 1794585600,
+      "match_date": "2026-11-13",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/cote-d-ivoire-u23-vs-morocco-u20-3glrw7h4wgpkqdy"
     },
     {
       "id": "4jwq2ghg4gd1m0v",
