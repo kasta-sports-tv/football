@@ -1,30 +1,8 @@
 {
-  "updated_at": "2026-11-14T14:24:07.147342+00:00",
+  "updated_at": "2026-11-14T15:01:18.528451+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 14,
+  "matches_count": 12,
   "matches": [
-    {
-      "id": "pxwrxlhlg0p7ryk",
-      "slug": "united-arab-emirates-u23-vs-jordan-u23-pxwrxlhlg0p7ryk",
-      "competition": "International Friendly",
-      "home": "United Arab Emirates U23",
-      "away": "Jordan U23",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzE5ZDVhNjhmYWU2Zjk5OTNmOGQwM2ZhNTFlOTc5MDQ5LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzhiNDc0MWE3M2FhZmY1OWY2YjM2MTBmNDIwZWM0Y2QwLnBuZw==",
-      "home_score": 2,
-      "away_score": 2,
-      "status": "Second Half",
-      "time_label": "14 Nov 2026 • 20:00 WIB",
-      "match_time": 1794661200,
-      "match_date": "2026-11-14",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/united-arab-emirates-u23-vs-jordan-u23-pxwrxlhlg0p7ryk"
-    },
     {
       "id": "3glrw7h4wgk6qdy",
       "slug": "uruguay-u17-women-vs-peru-u17-women-3glrw7h4wgk6qdy",
@@ -33,7 +11,7 @@
       "away": "Peru U17 Women",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzY4MDE4MDI4ZGExYTQ5MDFjYjE0NWJkZWVhZThhNWJjLnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzkxMWQ4OTZkNzcxZDE1NTk5NzY0ZTdhMjc0NjM0YjVmLnBuZw==",
-      "home_score": 3,
+      "home_score": 4,
       "away_score": 0,
       "status": "Second Half",
       "time_label": "14 Nov 2026 • 20:00 WIB",
@@ -56,7 +34,7 @@
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZkZjYzNDYxYzAwNjY4NTk3MzE5YTRmMGRiMTRkY2VlLnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZmN2ZjOWIyZmJiNWFkYjU0OGI2MmM4YTFkMzQyZDE2LnBuZw==",
       "home_score": 0,
-      "away_score": 0,
+      "away_score": 1,
       "status": "Second Half",
       "time_label": "14 Nov 2026 • 20:00 WIB",
       "match_time": 1794661200,
@@ -79,7 +57,7 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2IwZGMxZWZmY2Q4ODMyOTljYThlYzk2ZGQ3MjBkMzBjLnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "First Half",
+      "status": "Half Time",
       "time_label": "14 Nov 2026 • 21:00 WIB",
       "match_time": 1794664800,
       "match_date": "2026-11-14",
@@ -90,28 +68,6 @@
         "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwcqstKX7TEhCH3CC/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/kosovo-vs-israel-1l4rjnh9nowpm7v"
-    },
-    {
-      "id": "n54qllh42knnqvy",
-      "slug": "netherlands-u18-vs-switzerland-u18-n54qllh42knnqvy",
-      "competition": "International Friendly",
-      "home": "Netherlands U18",
-      "away": "Switzerland U18",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZmZDhkYWNlN2Y1ZjdmMmI0YmE0OWM3MDRjOTcwODI1LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzU0Y2YwMjczY2JhMThhMmE4ZmI5YzNlZGYwOGYzODVmLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Delayed",
-      "time_label": "14 Nov 2026 • 18:00 WIB",
-      "match_time": 1794654000,
-      "match_date": "2026-11-14",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/netherlands-u18-vs-switzerland-u18-n54qllh42knnqvy"
     },
     {
       "id": "y39mp1h6lvn1moj",
