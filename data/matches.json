@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-11-14T22:01:15.668720+00:00",
+  "updated_at": "2026-11-14T23:01:20.137881+00:00",
   "source": "https://kickofftv.id",
   "matches_count": 16,
   "matches": [
     {
       "id": "ednm9wh5kpz1ryo",
-      "slug": "paraguay-u20-vs-japan-u19-ednm9wh5kpz1ryo",
+      "slug": "paraguay-u19-vs-japan-u19-ednm9wh5kpz1ryo",
       "competition": "International Friendly",
-      "home": "Paraguay U20",
+      "home": "Paraguay U19",
       "away": "Japan U19",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2M4MGRlMTAxN2YyMGEzMTZhMjQ2YTRlNTllZWU2Nzk2LnBuZw==",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2M4YjIyNTg0OWZlZGViOGM2MmM4NzE0MzgzZmIyNjU0LnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzhiYTBmM2U3NWRmMjI2ZDZiZGVlM2ZkOWYxNTE3Mzg5LnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "TBD",
+      "status": "Delayed",
       "time_label": "15 Nov 2026 • 03:00 WIB",
       "match_time": 1794686400,
       "match_date": "2026-11-15",
@@ -23,7 +23,7 @@
         "sd": "",
         "hd": ""
       },
-      "match_url": "https://kickofftv.id/match/paraguay-u20-vs-japan-u19-ednm9wh5kpz1ryo"
+      "match_url": "https://kickofftv.id/match/paraguay-u19-vs-japan-u19-ednm9wh5kpz1ryo"
     },
     {
       "id": "3glrw7h4wgk4qdy",
@@ -159,12 +159,12 @@
     },
     {
       "id": "x7lm7phxk2g2m2w",
-      "slug": "scotland-u21-vs-usa-u23-x7lm7phxk2g2m2w",
+      "slug": "scotland-u21-vs-usa-u21-x7lm7phxk2g2m2w",
       "competition": "International Friendly",
       "home": "Scotland U21",
-      "away": "USA U23",
+      "away": "USA U21",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzFkNTBiZTU4OTdmY2E0NGY5Njk3ZDI2ZjJjZTk5NDA4LmNyZG93bmxvYWQ=",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzAxYjQ0NTM2ZmIzY2U2ODk3YjJkNjI1OWU1MWJlNzZhLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzk0MjU5ZDYzMGQwMWE3YTNmMTNjZjczMTllNTliMmZkLnBuZw==",
       "home_score": 0,
       "away_score": 0,
       "status": "Not Started",
@@ -177,7 +177,7 @@
         "sd": "",
         "hd": ""
       },
-      "match_url": "https://kickofftv.id/match/scotland-u21-vs-usa-u23-x7lm7phxk2g2m2w"
+      "match_url": "https://kickofftv.id/match/scotland-u21-vs-usa-u21-x7lm7phxk2g2m2w"
     },
     {
       "id": "y0or5jh9lwxdqwz",
