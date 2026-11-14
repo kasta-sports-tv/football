@@ -1,52 +1,8 @@
 {
-  "updated_at": "2026-11-14T19:01:10.196092+00:00",
+  "updated_at": "2026-11-14T19:22:45.540358+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 29,
+  "matches_count": 27,
   "matches": [
-    {
-      "id": "l7oqdehgk23pr51",
-      "slug": "real-sociedad-b-vs-sporting-gijon-l7oqdehgk23pr51",
-      "competition": "Spanish Segunda Division",
-      "home": "Real Sociedad B",
-      "away": "Sporting Gijon",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2QyOTE2NGM4YTkwYzU5N2U1MzMzZjFiZjE0ZjI4OWYyLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZjNzQ5YjUwNjVkYjM2MzQ5N2I3ZDkzYzk2NmIwYTUxLnBuZw==",
-      "home_score": 0,
-      "away_score": 1,
-      "status": "First Half",
-      "time_label": "14 Nov 2026 • 22:15 WIB",
-      "match_time": 1794669300,
-      "match_date": "2026-11-14",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARkPgS5dHVrm6/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/real-sociedad-b-vs-sporting-gijon-l7oqdehgk23pr51"
-    },
-    {
-      "id": "dn1m1ghl9y5vmoe",
-      "slug": "norway-vs-wales-dn1m1ghl9y5vmoe",
-      "competition": "UEFA Nations League",
-      "home": "Norway",
-      "away": "Wales",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzk0Nzc2ZDVjOThkZjYwNjEyNzI0ZjZmMDNiYTM2YzBhLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzA4ZmY3NDQxYTAwODlhMDM0MTkxZDZmNGFiOTNhMTQ1LnBuZw==",
-      "home_score": 3,
-      "away_score": 1,
-      "status": "Second Half",
-      "time_label": "15 Nov 2026 • 00:00 WIB",
-      "match_time": 1794675600,
-      "match_date": "2026-11-15",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwcqstKMykRwaBBE8/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwcqstKMykRwaBBE8/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/norway-vs-wales-dn1m1ghl9y5vmoe"
-    },
     {
       "id": "8yomo4h1ox4nq0j",
       "slug": "almeria-vs-andorra-cf-8yomo4h1ox4nq0j",
@@ -56,7 +12,7 @@
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2QwMTk5NDNmYTM5Zjk3ZjcwY2Y0OTYwMWNjY2JmYTRiLnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzg3YjA1ZGI5ZjkwZmM0MWUwZmFhNDA5NDc0YWRhNTBjLnBuZw==",
       "home_score": 2,
-      "away_score": 0,
+      "away_score": 1,
       "status": "Second Half",
       "time_label": "15 Nov 2026 • 00:30 WIB",
       "match_time": 1794677400,
@@ -77,8 +33,8 @@
       "away": "Cordoba",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZkZWY5MDQ1NmQyYTJlZWUwOTk3NmM1NTg0NTdhZWM3LnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2NkNmZkMTFmZDljYTA3YzQ2NzQ3Y2IwM2I4N2Y0ZGJiLnBuZw==",
-      "home_score": 1,
-      "away_score": 2,
+      "home_score": 2,
+      "away_score": 3,
       "status": "Second Half",
       "time_label": "15 Nov 2026 • 00:30 WIB",
       "match_time": 1794677400,
@@ -90,6 +46,28 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/rcd-mallorca-vs-cordoba-l5ergph46y86r8k"
+    },
+    {
+      "id": "23xmvkhy3g6yqg8",
+      "slug": "basque-country-vs-venezuela-23xmvkhy3g6yqg8",
+      "competition": "International Friendly",
+      "home": "Basque Country",
+      "away": "Venezuela",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzg5OTNmNjlmZjEwZTJhZDhkNzJiZDQyMzVjM2I3Mzc0LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzIxOGM4MTg5N2I3M2JkZmNkNjJlYTJhY2U3ODllNWQzLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "First Half",
+      "time_label": "15 Nov 2026 • 02:00 WIB",
+      "match_time": 1794682800,
+      "match_date": "2026-11-15",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/basque-country-vs-venezuela-23xmvkhy3g6yqg8"
     },
     {
       "id": "y0or5jh9lwxnqwz",
@@ -156,28 +134,6 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/canada-u17-vs-usa-u17-2y8m4zhv3d3wql0"
-    },
-    {
-      "id": "23xmvkhy3g6yqg8",
-      "slug": "basque-country-vs-venezuela-23xmvkhy3g6yqg8",
-      "competition": "International Friendly",
-      "home": "Basque Country",
-      "away": "Venezuela",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzg5OTNmNjlmZjEwZTJhZDhkNzJiZDQyMzVjM2I3Mzc0LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzIxOGM4MTg5N2I3M2JkZmNkNjJlYTJhY2U3ODllNWQzLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "15 Nov 2026 • 02:00 WIB",
-      "match_time": 1794682800,
-      "match_date": "2026-11-15",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/basque-country-vs-venezuela-23xmvkhy3g6yqg8"
     },
     {
       "id": "8yomo4h1ylw5q0j",
