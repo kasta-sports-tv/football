@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T17:25:00.294777+00:00",
+  "updated_at": "2026-11-14T18:01:13.952333+00:00",
   "source": "https://kickofftv.id",
   "matches_count": 32,
   "matches": [
@@ -79,7 +79,7 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2RkMWEwY2UzYmZkZDRiMzJjYzRjZGRlZTA0NDVjOTEyLnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "First Half",
+      "status": "Half Time",
       "time_label": "15 Nov 2026 • 00:00 WIB",
       "match_time": 1794675600,
       "match_date": "2026-11-15",
@@ -101,7 +101,7 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzA4ZmY3NDQxYTAwODlhMDM0MTkxZDZmNGFiOTNhMTQ1LnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "First Half",
+      "status": "Half Time",
       "time_label": "15 Nov 2026 • 00:00 WIB",
       "match_time": 1794675600,
       "match_date": "2026-11-15",
@@ -112,6 +112,50 @@
         "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwcqstKMykRwaBBE8/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/norway-vs-wales-dn1m1ghl9y5vmoe"
+    },
+    {
+      "id": "8yomo4h1ox4nq0j",
+      "slug": "almeria-vs-andorra-cf-8yomo4h1ox4nq0j",
+      "competition": "Spanish Segunda Division",
+      "home": "Almeria",
+      "away": "Andorra CF",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2QwMTk5NDNmYTM5Zjk3ZjcwY2Y0OTYwMWNjY2JmYTRiLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzg3YjA1ZGI5ZjkwZmM0MWUwZmFhNDA5NDc0YWRhNTBjLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "First Half",
+      "time_label": "15 Nov 2026 • 00:30 WIB",
+      "match_time": 1794677400,
+      "match_date": "2026-11-15",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARkPidZVmKmuz/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/almeria-vs-andorra-cf-8yomo4h1ox4nq0j"
+    },
+    {
+      "id": "l5ergph46y86r8k",
+      "slug": "rcd-mallorca-vs-cordoba-l5ergph46y86r8k",
+      "competition": "Spanish Segunda Division",
+      "home": "RCD Mallorca",
+      "away": "Cordoba",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZkZWY5MDQ1NmQyYTJlZWUwOTk3NmM1NTg0NTdhZWM3LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2NkNmZkMTFmZDljYTA3YzQ2NzQ3Y2IwM2I4N2Y0ZGJiLnBuZw==",
+      "home_score": 0,
+      "away_score": 1,
+      "status": "First Half",
+      "time_label": "15 Nov 2026 • 00:30 WIB",
+      "match_time": 1794677400,
+      "match_date": "2026-11-15",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARkPc37tKr2TJ/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/rcd-mallorca-vs-cordoba-l5ergph46y86r8k"
     },
     {
       "id": "y0or5jh9lwxnqwz",
@@ -178,50 +222,6 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/canada-u17-vs-usa-u17-2y8m4zhv3d3wql0"
-    },
-    {
-      "id": "8yomo4h1ox4nq0j",
-      "slug": "almeria-vs-andorra-cf-8yomo4h1ox4nq0j",
-      "competition": "Spanish Segunda Division",
-      "home": "Almeria",
-      "away": "Andorra CF",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2QwMTk5NDNmYTM5Zjk3ZjcwY2Y0OTYwMWNjY2JmYTRiLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzg3YjA1ZGI5ZjkwZmM0MWUwZmFhNDA5NDc0YWRhNTBjLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "15 Nov 2026 • 00:30 WIB",
-      "match_time": 1794677400,
-      "match_date": "2026-11-15",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARkPidZVmKmuz/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/almeria-vs-andorra-cf-8yomo4h1ox4nq0j"
-    },
-    {
-      "id": "l5ergph46y86r8k",
-      "slug": "rcd-mallorca-vs-cordoba-l5ergph46y86r8k",
-      "competition": "Spanish Segunda Division",
-      "home": "RCD Mallorca",
-      "away": "Cordoba",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZkZWY5MDQ1NmQyYTJlZWUwOTk3NmM1NTg0NTdhZWM3LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2NkNmZkMTFmZDljYTA3YzQ2NzQ3Y2IwM2I4N2Y0ZGJiLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "15 Nov 2026 • 00:30 WIB",
-      "match_time": 1794677400,
-      "match_date": "2026-11-15",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARkPc37tKr2TJ/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/rcd-mallorca-vs-cordoba-l5ergph46y86r8k"
     },
     {
       "id": "23xmvkhy3g6yqg8",
