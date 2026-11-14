@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-13T23:01:21.562495+00:00",
+  "updated_at": "2026-11-14T00:54:29.493860+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 28,
+  "matches_count": 29,
   "matches": [
     {
       "id": "3glrw7h4wln6qdy",
@@ -11,13 +11,13 @@
       "away": "Uruguay",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2U1ZTVlMGY2NzQ4MTMyNGViZGJkNjVkNjU4OTBiMmI4LnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzA4NzczMWIwZDVkZjM5Njk5MjNjZTk3NGY4NzRiNDUzLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
+      "home_score": 1,
+      "away_score": 2,
+      "status": "Second Half",
       "time_label": "14 Nov 2026 • 06:00 WIB",
       "match_time": 1794610800,
       "match_date": "2026-11-14",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
         "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk3sP3YBUnDK9Dkt/playlist.m3u8",
@@ -33,13 +33,13 @@
       "away": "Peru U20",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2RlOGUzOGQwYTdhOWFhYWQwN2VhZjQ5ODcwM2Q0NmQ0LnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2EzMTAzNDFhM2MwNDVhNzI5MjIyY2E1MDhjYzFiODY2LnBuZw==",
-      "home_score": 0,
+      "home_score": 2,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "Second Half",
       "time_label": "14 Nov 2026 • 06:00 WIB",
       "match_time": 1794610800,
       "match_date": "2026-11-14",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
         "sd": "",
@@ -55,13 +55,13 @@
       "away": "Chile",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2U3NWNjMTFlZjE2ZWI0YjAxNTc0YTkyYjE0ODdhZGRiLnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzY0Y2UyN2NmZGZiYjI5NTczODJjNGM3YzYyYmFlNTdhLnBuZw==",
-      "home_score": 0,
+      "home_score": 1,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "First Half",
       "time_label": "14 Nov 2026 • 07:00 WIB",
       "match_time": 1794614400,
       "match_date": "2026-11-14",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
         "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjJtc9AcsnajLZQL/playlist.m3u8",
@@ -77,13 +77,13 @@
       "away": "Costa Rica",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2M3NDkyMDBmMjAzYmU4NGJkMTFlNmNlNWVhYzJjNjdmLnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzM1MzNmMzllOTIzMzE5YjNhZmE0ZjJkNGQzODhjODg2LnBuZw==",
-      "home_score": 0,
+      "home_score": 1,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "First Half",
       "time_label": "14 Nov 2026 • 07:00 WIB",
       "match_time": 1794614400,
       "match_date": "2026-11-14",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
         "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk3sP3YJ5DpkcyDa/playlist.m3u8",
@@ -618,6 +618,28 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/canada-u17-vs-usa-u17-x7lm7phxk2g3m2w"
+    },
+    {
+      "id": "2y8m4zhv3d3wql0",
+      "slug": "canada-u17-vs-usa-u17-2y8m4zhv3d3wql0",
+      "competition": "International Friendly",
+      "home": "Canada U17",
+      "away": "USA U17",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzZiNDk0MmU0OTgxMzA2OTliNmNhNTFjMGY3MjM3ZGQyLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2RkODRmOTljYmMxZTFjNjkyMTVkMzU1ZTdjZDAzODlhLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "14 Nov 2026 • 23:00 WIB",
+      "match_time": 1794672000,
+      "match_date": "2026-11-14",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/canada-u17-vs-usa-u17-2y8m4zhv3d3wql0"
     }
   ]
 }
