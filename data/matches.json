@@ -1,73 +1,73 @@
 {
-  "updated_at": "2026-11-14T07:23:32.275705+00:00",
+  "updated_at": "2026-11-14T11:25:47.307272+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 25,
+  "matches_count": 22,
   "matches": [
     {
-      "id": "l7oqdehjn9y4r51",
-      "slug": "tahiti-vs-cook-islands-l7oqdehjn9y4r51",
+      "id": "2y8m4zhv0xg5ql0",
+      "slug": "japan-vs-brazil-2y8m4zhv0xg5ql0",
       "competition": "International Friendly",
-      "home": "Tahiti",
-      "away": "Cook Islands",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzIwMDIzZDEwZDVkYWUwMzJkOTQwMDIyMzc5OTk5MDc1LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2VhZmVkNTM2MWM3MGJmZmQ4NWJlZGQxNmQwNDQ0ZjdhLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Interrupted",
-      "time_label": "14 Nov 2026 • 12:30 WIB",
-      "match_time": 1794634200,
+      "home": "Japan",
+      "away": "Brazil",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzcyODk0YzJmMTM0OGNiMDBiNTBkYmI3OTQwZjM0MGE1LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzliOGM2ZTg1MTU3ZjJjMDg1YTRmMmUyMzc0YjMxMzhjLnBuZw==",
+      "home_score": 2,
+      "away_score": 1,
+      "status": "Half Time",
+      "time_label": "14 Nov 2026 • 17:15 WIB",
+      "match_time": 1794651300,
       "match_date": "2026-11-14",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjJtc9AagJiFWeFS/playlist.m3u8",
         "hd": ""
       },
-      "match_url": "https://kickofftv.id/match/tahiti-vs-cook-islands-l7oqdehjn9y4r51"
+      "match_url": "https://kickofftv.id/match/japan-vs-brazil-2y8m4zhv0xg5ql0"
     },
     {
-      "id": "318q66h8o8d6qo9",
-      "slug": "south-korea-u21-vs-mexico-u23-318q66h8o8d6qo9",
+      "id": "2y8m4zhv3e0zql0",
+      "slug": "austria-u16-vs-czechia-republic-u16-2y8m4zhv3e0zql0",
       "competition": "International Friendly",
-      "home": "South Korea U21",
-      "away": "Mexico U23",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzFjZGMyNmI1ZTQxNmE2NWEyMDc3ZGM5YmMyY2I3OWNlLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2E3YTk2ZmI2MzU2OWVjMTUzYTExZGRiMDBjMzg1MmExLnBuZw==",
-      "home_score": 0,
+      "home": "Austria U16",
+      "away": "Czechia Republic U16",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2RmNWU3YmU3MWEwNTRiYjc4MTA1ZmQ1OGNiNDkxYTc2LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Y4NzI4NGE5NGQ4NTdiMTYxNzU2YzJkOTQ3OTdiZjQ0LnBuZw==",
+      "home_score": 1,
       "away_score": 0,
-      "status": "TBD",
-      "time_label": "14 Nov 2026 • 14:00 WIB",
-      "match_time": 1794639600,
+      "status": "First Half",
+      "time_label": "14 Nov 2026 • 18:00 WIB",
+      "match_time": 1794654000,
       "match_date": "2026-11-14",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
         "sd": "",
         "hd": ""
       },
-      "match_url": "https://kickofftv.id/match/south-korea-u21-vs-mexico-u23-318q66h8o8d6qo9"
+      "match_url": "https://kickofftv.id/match/austria-u16-vs-czechia-republic-u16-2y8m4zhv3e0zql0"
     },
     {
-      "id": "965mkyh87gz8r1g",
-      "slug": "thailand-u23-vs-singapore-u23-965mkyh87gz8r1g",
+      "id": "y0or5jh9l08nqwz",
+      "slug": "england-u18-vs-sweden-u18-y0or5jh9l08nqwz",
       "competition": "International Friendly",
-      "home": "Thailand U23",
-      "away": "Singapore U23",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2U5ODk1NTYyZjY1ZjA3MDE1NWQ3NTdjMjUwZTZiZTczLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzFiYWRkMjU3OGNkYmE2Yzc1ZTQzOTJlMDAxYmNlODc2LnBuZw==",
+      "home": "England U18",
+      "away": "Sweden U18",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzg4YzU2NTBjNWJhYTU2YTY1OWQyMDZjZDgyZDJmMjVjLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Y3M2YyNDQ0MGJiYzM0NTNiMDc4MjI4MzgwODVkZWZlLnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "Not Started",
-      "time_label": "14 Nov 2026 • 15:00 WIB",
-      "match_time": 1794643200,
+      "status": "First Half",
+      "time_label": "14 Nov 2026 • 18:00 WIB",
+      "match_time": 1794654000,
       "match_date": "2026-11-14",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
         "sd": "",
         "hd": ""
       },
-      "match_url": "https://kickofftv.id/match/thailand-u23-vs-singapore-u23-965mkyh87gz8r1g"
+      "match_url": "https://kickofftv.id/match/england-u18-vs-sweden-u18-y0or5jh9l08nqwz"
     },
     {
       "id": "dj2ryoh7k9vgq1z",
@@ -79,7 +79,7 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2IyOWMwOGIyZWEzNGI2ZTM3MjdkNDY0NGEyYjU4NGIwLnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "TBD",
       "time_label": "14 Nov 2026 • 16:00 WIB",
       "match_time": 1794646800,
       "match_date": "2026-11-14",
@@ -101,9 +101,9 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2U2NjFjYmY4NmZkNmEyN2RjOWJlODY4ZDkyMDczOTlkLnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "Not Started",
-      "time_label": "14 Nov 2026 • 16:00 WIB",
-      "match_time": 1794646800,
+      "status": "Interrupted",
+      "time_label": "14 Nov 2026 • 16:40 WIB",
+      "match_time": 1794649200,
       "match_date": "2026-11-14",
       "is_live": false,
       "is_finished": false,
@@ -121,9 +121,9 @@
       "away": "Ahrobiznes Volochysk",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzg5ZjhlMDU1NzBiZTcwMzljNmFiZDY4Yjg3ZWE3MWQzLnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2FmMjJkNGRiYzU4ZDBlZGU4NDU3ODQ1NDcyMjA3ODA3LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
+      "home_score": 1,
+      "away_score": 1,
+      "status": "TBD",
       "time_label": "14 Nov 2026 • 17:00 WIB",
       "match_time": 1794650400,
       "match_date": "2026-11-14",
@@ -144,8 +144,8 @@
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzBlMDUzN2I0YTEwMWRlNDg3ZmNlN2VjZjE4NDc3MmE1LnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Y0ZTFmMjRiMTkyNmE1NjQ2YzUyMmNkOTllNGM5MzU4LnBuZw==",
       "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
+      "away_score": 1,
+      "status": "TBD",
       "time_label": "14 Nov 2026 • 17:00 WIB",
       "match_time": 1794650400,
       "match_date": "2026-11-14",
@@ -158,72 +158,6 @@
       "match_url": "https://kickofftv.id/match/fc-livyi-bereh-vs-fc-bukovyna-chernivtsi-l5ergph464w4r8k"
     },
     {
-      "id": "2y8m4zhv0xg5ql0",
-      "slug": "japan-vs-brazil-2y8m4zhv0xg5ql0",
-      "competition": "International Friendly",
-      "home": "Japan",
-      "away": "Brazil",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzcyODk0YzJmMTM0OGNiMDBiNTBkYmI3OTQwZjM0MGE1LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzliOGM2ZTg1MTU3ZjJjMDg1YTRmMmUyMzc0YjMxMzhjLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "14 Nov 2026 • 17:15 WIB",
-      "match_time": 1794651300,
-      "match_date": "2026-11-14",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjJtc9AagJiFWeFS/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/japan-vs-brazil-2y8m4zhv0xg5ql0"
-    },
-    {
-      "id": "2y8m4zhv3e0zql0",
-      "slug": "austria-u16-vs-czechia-republic-u16-2y8m4zhv3e0zql0",
-      "competition": "International Friendly",
-      "home": "Austria U16",
-      "away": "Czechia Republic U16",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2RmNWU3YmU3MWEwNTRiYjc4MTA1ZmQ1OGNiNDkxYTc2LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Y4NzI4NGE5NGQ4NTdiMTYxNzU2YzJkOTQ3OTdiZjQ0LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "14 Nov 2026 • 18:00 WIB",
-      "match_time": 1794654000,
-      "match_date": "2026-11-14",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/austria-u16-vs-czechia-republic-u16-2y8m4zhv3e0zql0"
-    },
-    {
-      "id": "y0or5jh9l08nqwz",
-      "slug": "england-u18-vs-sweden-u18-y0or5jh9l08nqwz",
-      "competition": "International Friendly",
-      "home": "England U18",
-      "away": "Sweden U18",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzg4YzU2NTBjNWJhYTU2YTY1OWQyMDZjZDgyZDJmMjVjLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Y3M2YyNDQ0MGJiYzM0NTNiMDc4MjI4MzgwODVkZWZlLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "14 Nov 2026 • 18:00 WIB",
-      "match_time": 1794654000,
-      "match_date": "2026-11-14",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/england-u18-vs-sweden-u18-y0or5jh9l08nqwz"
-    },
-    {
       "id": "n54qllh42knnqvy",
       "slug": "netherlands-u18-vs-switzerland-u18-n54qllh42knnqvy",
       "competition": "International Friendly",
@@ -233,7 +167,7 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzU0Y2YwMjczY2JhMThhMmE4ZmI5YzNlZGYwOGYzODVmLnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "TBD",
       "time_label": "14 Nov 2026 • 18:00 WIB",
       "match_time": 1794654000,
       "match_date": "2026-11-14",
@@ -262,7 +196,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk3sP4NxEDLmPgAk/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/chinese-taipei-vs-kyrgyzstan-dj2ryoh7kdlgq1z"
@@ -284,7 +218,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk3vjx13CZKPKh8U/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/vietnam-u23-vs-qatar-u23-y39mp1hd3k9omoj"
@@ -310,6 +244,50 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/jordan-u20-vs-usa-u19-6ypq3nhk0p64md7"
+    },
+    {
+      "id": "l7oqdehjn8jvr51",
+      "slug": "palestine-vs-ir-iran-l7oqdehjn8jvr51",
+      "competition": "International Friendly",
+      "home": "Palestine",
+      "away": "IR Iran",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2FjOTZlODNjZTFmYWU0YTEyNTE4NjNiZWEzNDI0OGRiLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzU4YjVkNWYzNTJmYWZiODQ1YjRmNjc1NWMyZDViNzI0LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "14 Nov 2026 • 20:00 WIB",
+      "match_time": 1794661200,
+      "match_date": "2026-11-14",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/palestine-vs-ir-iran-l7oqdehjn8jvr51"
+    },
+    {
+      "id": "dn1m1gh949d2moe",
+      "slug": "turkiye-u18-vs-germany-u18-dn1m1gh949d2moe",
+      "competition": "International Friendly",
+      "home": "Turkiye U18",
+      "away": "Germany U18",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzE1MzM0ZjA0NDIyYjE4NDJiOThmZjM1NGVkY2U4NDE1LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Y4MWIyMGRlOWM2OWJhYjAwNWFlNWNjYThkOGVhNjg0LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "14 Nov 2026 • 20:00 WIB",
+      "match_time": 1794661200,
+      "match_date": "2026-11-14",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/turkiye-u18-vs-germany-u18-dn1m1gh949d2moe"
     },
     {
       "id": "pxwrxlhlg0p7ryk",
@@ -394,8 +372,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwcqstKX7TEhCH3CC/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwcqstKX7TEhCH3CC/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/kosovo-vs-israel-1l4rjnh9nowpm7v"
     },
@@ -422,50 +400,6 @@
       "match_url": "https://kickofftv.id/match/iraq-u23-vs-lebanon-u23-vjxm8ghk47vwr6o"
     },
     {
-      "id": "l7oqdehjn8jvr51",
-      "slug": "palestine-vs-ir-iran-l7oqdehjn8jvr51",
-      "competition": "International Friendly",
-      "home": "Palestine",
-      "away": "IR Iran",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2FjOTZlODNjZTFmYWU0YTEyNTE4NjNiZWEzNDI0OGRiLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzU4YjVkNWYzNTJmYWZiODQ1YjRmNjc1NWMyZDViNzI0LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "14 Nov 2026 • 22:00 WIB",
-      "match_time": 1794668400,
-      "match_date": "2026-11-14",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/palestine-vs-ir-iran-l7oqdehjn8jvr51"
-    },
-    {
-      "id": "dn1m1gh949d2moe",
-      "slug": "turkiye-u18-vs-germany-u18-dn1m1gh949d2moe",
-      "competition": "International Friendly",
-      "home": "Turkiye U18",
-      "away": "Germany U18",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzE1MzM0ZjA0NDIyYjE4NDJiOThmZjM1NGVkY2U4NDE1LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Y4MWIyMGRlOWM2OWJhYjAwNWFlNWNjYThkOGVhNjg0LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "14 Nov 2026 • 22:00 WIB",
-      "match_time": 1794668400,
-      "match_date": "2026-11-14",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/turkiye-u18-vs-germany-u18-dn1m1gh949d2moe"
-    },
-    {
       "id": "l7oqdehgk23pr51",
       "slug": "real-sociedad-b-vs-sporting-gijon-l7oqdehgk23pr51",
       "competition": "Spanish Segunda Division",
@@ -482,7 +416,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARkPgS5dHVrm6/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/real-sociedad-b-vs-sporting-gijon-l7oqdehgk23pr51"

@@ -1088,7 +1088,7 @@
     "l5ergphkodzor8k": 1794559795,
     "dn1m1gh94xw6moe": 1794574287,
     "l5ergphk0yvyr8k": 1794574287,
-    "dj2ryoh7kdlgq1z": 1794641000,
+    "dj2ryoh7kdlgq1z": 1794655537,
     "3glrw7h4wgpkqdy": 1794586019,
     "k82rekh2ve77rep": 1794574287,
     "318q66h8o159qo9": 1794574287,
@@ -1133,14 +1133,22 @@
     "dj2ryoh7k9vgq1z": 1794641000,
     "y39mp1h6lvn1moj": 1794641000,
     "2y8m4zhv0xg5ql0": 1794641000,
-    "y0or5jh9l08nqwz": 1794641000,
-    "n54qllh42knnqvy": 1794641000,
-    "2y8m4zhv3e0zql0": 1794641000,
-    "y39mp1hd3k9omoj": 1794641000,
+    "y0or5jh9l08nqwz": 1794655537,
+    "n54qllh42knnqvy": 1794655537,
+    "2y8m4zhv3e0zql0": 1794655537,
+    "y39mp1hd3k9omoj": 1794655537,
     "2y8m4zh59xp2ql0": 1794641000,
-    "6ypq3nhk0p64md7": 1794641000,
-    "pxwrxlhlg0p7ryk": 1794641000,
-    "3glrw7h4wgk6qdy": 1794641000
+    "6ypq3nhk0p64md7": 1794655537,
+    "pxwrxlhlg0p7ryk": 1794655537,
+    "3glrw7h4wgk6qdy": 1794655537,
+    "l7oqdehjn8jvr51": 1794655537,
+    "dn1m1gh949d2moe": 1794655537,
+    "1l4rjnh9nowpm7v": 1794655537,
+    "vjxm8ghk47vwr6o": 1794655537,
+    "l7oqdehgk23pr51": 1794655537,
+    "x7lm7phxk2g3m2w": 1794655537,
+    "y0or5jh9lwxnqwz": 1794655537,
+    "2y8m4zhv3d3wql0": 1794655537
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -3672,6 +3680,26 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARkPkq3NF9h4t/playlist.m3u8",
       "hd": "",
       "slug": "real-valladolid-cf-vs-castellon-2y8m4zh59xp2ql0"
+    },
+    "y39mp1hd3k9omoj": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk3vjx13CZKPKh8U/playlist.m3u8",
+      "hd": "",
+      "slug": "vietnam-u23-vs-qatar-u23-y39mp1hd3k9omoj"
+    },
+    "dj2ryoh7kdlgq1z": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk3sP4NxEDLmPgAk/playlist.m3u8",
+      "hd": "",
+      "slug": "chinese-taipei-vs-kyrgyzstan-dj2ryoh7kdlgq1z"
+    },
+    "1l4rjnh9nowpm7v": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwcqstKX7TEhCH3CC/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwcqstKX7TEhCH3CC/playlist.m3u8",
+      "slug": "kosovo-vs-israel-1l4rjnh9nowpm7v"
+    },
+    "l7oqdehgk23pr51": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARkPgS5dHVrm6/playlist.m3u8",
+      "hd": "",
+      "slug": "real-sociedad-b-vs-sporting-gijon-l7oqdehgk23pr51"
     }
   }
 }
