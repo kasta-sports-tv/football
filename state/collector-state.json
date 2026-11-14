@@ -1088,7 +1088,7 @@
     "l5ergphkodzor8k": 1794559795,
     "dn1m1gh94xw6moe": 1794574287,
     "l5ergphk0yvyr8k": 1794574287,
-    "dj2ryoh7kdlgq1z": 1794559795,
+    "dj2ryoh7kdlgq1z": 1794641000,
     "3glrw7h4wgpkqdy": 1794586019,
     "k82rekh2ve77rep": 1794574287,
     "318q66h8o159qo9": 1794574287,
@@ -1126,7 +1126,21 @@
     "dj2ryoh7v4j1q1z": 1794610877,
     "vjxm8ghk42ewr6o": 1794610877,
     "x7lm7phxk5j3m2w": 1794617667,
-    "l7oqdehjn9y4r51": 1794617667
+    "l7oqdehjn9y4r51": 1794617667,
+    "318q66h8o8d6qo9": 1794641000,
+    "965mkyh87gz8r1g": 1794641000,
+    "318q66hxezp7qo9": 1794641000,
+    "dj2ryoh7k9vgq1z": 1794641000,
+    "y39mp1h6lvn1moj": 1794641000,
+    "2y8m4zhv0xg5ql0": 1794641000,
+    "y0or5jh9l08nqwz": 1794641000,
+    "n54qllh42knnqvy": 1794641000,
+    "2y8m4zhv3e0zql0": 1794641000,
+    "y39mp1hd3k9omoj": 1794641000,
+    "2y8m4zh59xp2ql0": 1794641000,
+    "6ypq3nhk0p64md7": 1794641000,
+    "pxwrxlhlg0p7ryk": 1794641000,
+    "3glrw7h4wgk6qdy": 1794641000
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -3648,6 +3662,16 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk3sP3YJ5DpkcyDa/playlist.m3u8",
       "hd": "",
       "slug": "ecuador-vs-costa-rica-vjxm8ghk42ewr6o"
+    },
+    "2y8m4zhv0xg5ql0": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjJtc9AagJiFWeFS/playlist.m3u8",
+      "hd": "",
+      "slug": "japan-vs-brazil-2y8m4zhv0xg5ql0"
+    },
+    "2y8m4zh59xp2ql0": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARkPkq3NF9h4t/playlist.m3u8",
+      "hd": "",
+      "slug": "real-valladolid-cf-vs-castellon-2y8m4zh59xp2ql0"
     }
   }
 }

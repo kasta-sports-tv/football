@@ -1,118 +1,8 @@
 {
-  "updated_at": "2026-11-14T00:54:29.493860+00:00",
+  "updated_at": "2026-11-14T07:23:32.275705+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 29,
+  "matches_count": 25,
   "matches": [
-    {
-      "id": "3glrw7h4wln6qdy",
-      "slug": "argentina-vs-uruguay-3glrw7h4wln6qdy",
-      "competition": "International Friendly",
-      "home": "Argentina",
-      "away": "Uruguay",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2U1ZTVlMGY2NzQ4MTMyNGViZGJkNjVkNjU4OTBiMmI4LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzA4NzczMWIwZDVkZjM5Njk5MjNjZTk3NGY4NzRiNDUzLnBuZw==",
-      "home_score": 1,
-      "away_score": 2,
-      "status": "Second Half",
-      "time_label": "14 Nov 2026 • 06:00 WIB",
-      "match_time": 1794610800,
-      "match_date": "2026-11-14",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk3sP3YBUnDK9Dkt/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/argentina-vs-uruguay-3glrw7h4wln6qdy"
-    },
-    {
-      "id": "k82rekh2v2dxrep",
-      "slug": "brazil-u20-vs-peru-u20-k82rekh2v2dxrep",
-      "competition": "International Friendly",
-      "home": "Brazil U20",
-      "away": "Peru U20",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2RlOGUzOGQwYTdhOWFhYWQwN2VhZjQ5ODcwM2Q0NmQ0LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2EzMTAzNDFhM2MwNDVhNzI5MjIyY2E1MDhjYzFiODY2LnBuZw==",
-      "home_score": 2,
-      "away_score": 0,
-      "status": "Second Half",
-      "time_label": "14 Nov 2026 • 06:00 WIB",
-      "match_time": 1794610800,
-      "match_date": "2026-11-14",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/brazil-u20-vs-peru-u20-k82rekh2v2dxrep"
-    },
-    {
-      "id": "dj2ryoh7v4j1q1z",
-      "slug": "colombia-vs-chile-dj2ryoh7v4j1q1z",
-      "competition": "International Friendly",
-      "home": "Colombia",
-      "away": "Chile",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2U3NWNjMTFlZjE2ZWI0YjAxNTc0YTkyYjE0ODdhZGRiLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzY0Y2UyN2NmZGZiYjI5NTczODJjNGM3YzYyYmFlNTdhLnBuZw==",
-      "home_score": 1,
-      "away_score": 0,
-      "status": "First Half",
-      "time_label": "14 Nov 2026 • 07:00 WIB",
-      "match_time": 1794614400,
-      "match_date": "2026-11-14",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjJtc9AcsnajLZQL/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/colombia-vs-chile-dj2ryoh7v4j1q1z"
-    },
-    {
-      "id": "vjxm8ghk42ewr6o",
-      "slug": "ecuador-vs-costa-rica-vjxm8ghk42ewr6o",
-      "competition": "International Friendly",
-      "home": "Ecuador",
-      "away": "Costa Rica",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2M3NDkyMDBmMjAzYmU4NGJkMTFlNmNlNWVhYzJjNjdmLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzM1MzNmMzllOTIzMzE5YjNhZmE0ZjJkNGQzODhjODg2LnBuZw==",
-      "home_score": 1,
-      "away_score": 0,
-      "status": "First Half",
-      "time_label": "14 Nov 2026 • 07:00 WIB",
-      "match_time": 1794614400,
-      "match_date": "2026-11-14",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk3sP3YJ5DpkcyDa/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/ecuador-vs-costa-rica-vjxm8ghk42ewr6o"
-    },
-    {
-      "id": "x7lm7phxk5j3m2w",
-      "slug": "peru-vs-bolivia-x7lm7phxk5j3m2w",
-      "competition": "International Friendly",
-      "home": "Peru",
-      "away": "Bolivia",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzEwOGI5OWZiNzEwNWQzYjRhZmYxMjc1NjgxNzgyNWQxLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzM0N2E5NDhmNDE3MTQ5MTEwOWUyNTFkN2IyMzY4NWViLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "14 Nov 2026 • 08:00 WIB",
-      "match_time": 1794618000,
-      "match_date": "2026-11-14",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/peru-vs-bolivia-x7lm7phxk5j3m2w"
-    },
     {
       "id": "l7oqdehjn9y4r51",
       "slug": "tahiti-vs-cook-islands-l7oqdehjn9y4r51",
@@ -123,7 +13,7 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2VhZmVkNTM2MWM3MGJmZmQ4NWJlZGQxNmQwNDQ0ZjdhLnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "Interrupted",
       "time_label": "14 Nov 2026 • 12:30 WIB",
       "match_time": 1794634200,
       "match_date": "2026-11-14",
@@ -145,7 +35,7 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2E3YTk2ZmI2MzU2OWVjMTUzYTExZGRiMDBjMzg1MmExLnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "TBD",
       "time_label": "14 Nov 2026 • 14:00 WIB",
       "match_time": 1794639600,
       "match_date": "2026-11-14",
@@ -246,6 +136,28 @@
       "match_url": "https://kickofftv.id/match/sc-poltava-vs-ahrobiznes-volochysk-y39mp1h6lvn1moj"
     },
     {
+      "id": "l5ergph464w4r8k",
+      "slug": "fc-livyi-bereh-vs-fc-bukovyna-chernivtsi-l5ergph464w4r8k",
+      "competition": "Ukrainian Premier League",
+      "home": "FC Livyi Bereh",
+      "away": "FC Bukovyna Chernivtsi",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzBlMDUzN2I0YTEwMWRlNDg3ZmNlN2VjZjE4NDc3MmE1LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Y0ZTFmMjRiMTkyNmE1NjQ2YzUyMmNkOTllNGM5MzU4LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "14 Nov 2026 • 17:00 WIB",
+      "match_time": 1794650400,
+      "match_date": "2026-11-14",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2gUSDjwie8ji/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/fc-livyi-bereh-vs-fc-bukovyna-chernivtsi-l5ergph464w4r8k"
+    },
+    {
       "id": "2y8m4zhv0xg5ql0",
       "slug": "japan-vs-brazil-2y8m4zhv0xg5ql0",
       "competition": "International Friendly",
@@ -262,7 +174,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjJtc9AagJiFWeFS/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/japan-vs-brazil-2y8m4zhv0xg5ql0"
@@ -460,7 +372,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARkPkq3NF9h4t/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/real-valladolid-cf-vs-castellon-2y8m4zh59xp2ql0"
