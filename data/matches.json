@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-14T20:01:18.401359+00:00",
+  "updated_at": "2026-11-14T21:01:09.244152+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 22,
+  "matches_count": 23,
   "matches": [
     {
       "id": "23xmvkhy3g6yqg8",
@@ -13,7 +13,7 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzIxOGM4MTg5N2I3M2JkZmNkNjJlYTJhY2U3ODllNWQzLnBuZw==",
       "home_score": 1,
       "away_score": 0,
-      "status": "Half Time",
+      "status": "Second Half",
       "time_label": "15 Nov 2026 • 02:00 WIB",
       "match_time": 1794682800,
       "match_date": "2026-11-15",
@@ -35,7 +35,7 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2M5OTQ5YWU1ZDUzNGZlOTMwZWFlNjY2NDEzZDMyMjM5LnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "First Half",
+      "status": "Second Half",
       "time_label": "15 Nov 2026 • 02:45 WIB",
       "match_time": 1794685500,
       "match_date": "2026-11-15",
@@ -57,7 +57,7 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzE5YWQzYThkZjc0MTEyNDZmOTJkYWExMDg3NzgyMjYzLnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "First Half",
+      "status": "Second Half",
       "time_label": "15 Nov 2026 • 02:45 WIB",
       "match_time": 1794685500,
       "match_date": "2026-11-15",
@@ -78,8 +78,8 @@
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzg4NjNiOWUxODZlMzU4MGFhNmRlYzI5ZjE5MTU1ZDNhLnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzYwMmI1YzI0MWM4ZTJmN2Y2ZDI5ZTAzMGRmZDc4YjZkLnBuZw==",
       "home_score": 0,
-      "away_score": 0,
-      "status": "First Half",
+      "away_score": 2,
+      "status": "Second Half",
       "time_label": "15 Nov 2026 • 02:45 WIB",
       "match_time": 1794685500,
       "match_date": "2026-11-15",
@@ -100,8 +100,8 @@
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzBkNjIyMTAxZGU5ZmY3ZTdiYzVjNGFiZTQ1Nzk2Y2ZhLnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzQ1ZGM1NGRkNGNhNWFmZGE1OWUwMjBmNDA5MjBjZjg0LnBuZw==",
       "home_score": 0,
-      "away_score": 1,
-      "status": "First Half",
+      "away_score": 0,
+      "status": "Second Half",
       "time_label": "15 Nov 2026 • 02:45 WIB",
       "match_time": 1794685500,
       "match_date": "2026-11-15",
@@ -121,9 +121,9 @@
       "away": "Bosnia and Herzegovina",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzM2OWU4NGFlY2RmNjQ4MTU4Yjc3ODVhYTVhYWVmMDdhLnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzdlMjcxNWNiMWE3OWEyOTQ3NjE3Yzg2ZTZiMTdmOGUwLnBuZw==",
-      "home_score": 1,
-      "away_score": 0,
-      "status": "First Half",
+      "home_score": 3,
+      "away_score": 1,
+      "status": "Second Half",
       "time_label": "15 Nov 2026 • 02:45 WIB",
       "match_time": 1794685500,
       "match_date": "2026-11-15",
@@ -136,6 +136,28 @@
       "match_url": "https://kickofftv.id/match/sweden-vs-bosnia-and-herzegovina-l7oqdehgjwv0r51"
     },
     {
+      "id": "jw2r09hkv90yrz8",
+      "slug": "real-oviedo-vs-girona-fc-jw2r09hkv90yrz8",
+      "competition": "Spanish Segunda Division",
+      "home": "Real Oviedo",
+      "away": "Girona FC",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzIxNTUxOTk2NTY3YmNkMjA2ZWU1NzQwNDNkNTA5YTg0LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzAwNmNlMjU5YjMzZWY3MmRkNTU3MGNmYThkYzM5ZjM4LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Half Time",
+      "time_label": "15 Nov 2026 • 03:00 WIB",
+      "match_time": 1794686400,
+      "match_date": "2026-11-15",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARkPZqe1r27JQ/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/real-oviedo-vs-girona-fc-jw2r09hkv90yrz8"
+    },
+    {
       "id": "ednm9wh5kpz1ryo",
       "slug": "paraguay-u20-vs-japan-u19-ednm9wh5kpz1ryo",
       "competition": "International Friendly",
@@ -145,7 +167,7 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzhiYTBmM2U3NWRmMjI2ZDZiZGVlM2ZkOWYxNTE3Mzg5LnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "TBD",
       "time_label": "15 Nov 2026 • 03:00 WIB",
       "match_time": 1794686400,
       "match_date": "2026-11-15",
@@ -156,28 +178,6 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/paraguay-u20-vs-japan-u19-ednm9wh5kpz1ryo"
-    },
-    {
-      "id": "jw2r09hkv90yrz8",
-      "slug": "real-oviedo-vs-girona-fc-jw2r09hkv90yrz8",
-      "competition": "Spanish Segunda Division",
-      "home": "Real Oviedo",
-      "away": "Girona FC",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzIxNTUxOTk2NTY3YmNkMjA2ZWU1NzQwNDNkNTA5YTg0LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzAwNmNlMjU5YjMzZWY3MmRkNTU3MGNmYThkYzM5ZjM4LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "15 Nov 2026 • 03:00 WIB",
-      "match_time": 1794686400,
-      "match_date": "2026-11-15",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARkPZqe1r27JQ/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/real-oviedo-vs-girona-fc-jw2r09hkv90yrz8"
     },
     {
       "id": "3glrw7h4wgk4qdy",
@@ -244,6 +244,28 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/kazakhstan-u21-vs-belarus-u21-vjxm8ghk47v0r6o"
+    },
+    {
+      "id": "y39mp1h6lvn1moj",
+      "slug": "sc-poltava-vs-ahrobiznes-volochysk-y39mp1h6lvn1moj",
+      "competition": "Ukrainian First League",
+      "home": "SC Poltava",
+      "away": "Ahrobiznes Volochysk",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzg5ZjhlMDU1NzBiZTcwMzljNmFiZDY4Yjg3ZWE3MWQzLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2FmMjJkNGRiYzU4ZDBlZGU4NDU3ODQ1NDcyMjA3ODA3LnBuZw==",
+      "home_score": 1,
+      "away_score": 2,
+      "status": "Interrupted",
+      "time_label": "15 Nov 2026 • 16:00 WIB",
+      "match_time": 1794733200,
+      "match_date": "2026-11-15",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/sc-poltava-vs-ahrobiznes-volochysk-y39mp1h6lvn1moj"
     },
     {
       "id": "ednm9whwn84zryo",
