@@ -1,30 +1,8 @@
 {
-  "updated_at": "2026-11-15T10:01:04.230206+00:00",
+  "updated_at": "2026-11-15T11:01:16.435426+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 17,
+  "matches_count": 16,
   "matches": [
-    {
-      "id": "vjxm8ghk47v0r6o",
-      "slug": "kazakhstan-u21-vs-belarus-u21-vjxm8ghk47v0r6o",
-      "competition": "International Friendly",
-      "home": "Kazakhstan U21",
-      "away": "Belarus U21",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzk4ZGJhMTkzMTg2ODE1NTA4ZTdmNzRlM2Q2N2ZkNzE0LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2E0N2Q5MTAwMDA2YTJhYjY2MWZhMmRmMTNhOTk4N2Y5LnBuZw==",
-      "home_score": 1,
-      "away_score": 1,
-      "status": "Half Time",
-      "time_label": "15 Nov 2026 • 16:00 WIB",
-      "match_time": 1794733200,
-      "match_date": "2026-11-15",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk46XgPqrTnuzEPi/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/kazakhstan-u21-vs-belarus-u21-vjxm8ghk47v0r6o"
-    },
     {
       "id": "y39mp1h6lvn1moj",
       "slug": "sc-poltava-vs-ahrobiznes-volochysk-y39mp1h6lvn1moj",
@@ -108,7 +86,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk46RmWetjh56sUL/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/france-u20-vs-denmark-u20-4wyrn4hy8y16q86"
@@ -218,7 +196,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk4VK9pQNjnJrrGY/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/scotland-u21-vs-usa-u23-y39mp1hd38z8moj"
