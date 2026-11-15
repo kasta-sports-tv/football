@@ -1,118 +1,8 @@
 {
-  "updated_at": "2026-11-15T15:01:14.704423+00:00",
+  "updated_at": "2026-11-15T16:01:11.945882+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 12,
+  "matches_count": 7,
   "matches": [
-    {
-      "id": "dj2ryohl04xzq1z",
-      "slug": "tenerife-vs-ad-ceuta-dj2ryohl04xzq1z",
-      "competition": "Spanish Segunda Division",
-      "home": "Tenerife",
-      "away": "AD Ceuta",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2M4MTZhN2NjN2FiMWViNmRjY2UzZmI0NDA4YWNkMzIwLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2NiNzZjOGZmYWM5NWU3ZTU0MjlhY2E1NzRhYWI1ZGViLnBuZw==",
-      "home_score": 2,
-      "away_score": 0,
-      "status": "Second Half",
-      "time_label": "15 Nov 2026 • 20:00 WIB",
-      "match_time": 1794747600,
-      "match_date": "2026-11-15",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARkPeEbkofwcC/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/tenerife-vs-ad-ceuta-dj2ryohl04xzq1z"
-    },
-    {
-      "id": "x7lm7phxk2g2m2w",
-      "slug": "scotland-u21-vs-usa-u21-x7lm7phxk2g2m2w",
-      "competition": "International Friendly",
-      "home": "Scotland U21",
-      "away": "USA U21",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzFkNTBiZTU4OTdmY2E0NGY5Njk3ZDI2ZjJjZTk5NDA4LmNyZG93bmxvYWQ=",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzk0MjU5ZDYzMGQwMWE3YTNmMTNjZjczMTllNTliMmZkLnBuZw==",
-      "home_score": 0,
-      "away_score": 1,
-      "status": "Half Time",
-      "time_label": "15 Nov 2026 • 21:00 WIB",
-      "match_time": 1794751200,
-      "match_date": "2026-11-15",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/scotland-u21-vs-usa-u21-x7lm7phxk2g2m2w"
-    },
-    {
-      "id": "y39mp1hd38z8moj",
-      "slug": "scotland-u21-vs-usa-u23-y39mp1hd38z8moj",
-      "competition": "International Friendly",
-      "home": "Scotland U21",
-      "away": "USA U23",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzFkNTBiZTU4OTdmY2E0NGY5Njk3ZDI2ZjJjZTk5NDA4LmNyZG93bmxvYWQ=",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzAxYjQ0NTM2ZmIzY2U2ODk3YjJkNjI1OWU1MWJlNzZhLnBuZw==",
-      "home_score": 0,
-      "away_score": 1,
-      "status": "Half Time",
-      "time_label": "15 Nov 2026 • 21:00 WIB",
-      "match_time": 1794751200,
-      "match_date": "2026-11-15",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk4VK9pQNjnJrrGY/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/scotland-u21-vs-usa-u23-y39mp1hd38z8moj"
-    },
-    {
-      "id": "x7lm7phjxylzm2w",
-      "slug": "cyprus-vs-montenegro-x7lm7phjxylzm2w",
-      "competition": "UEFA Nations League",
-      "home": "Cyprus",
-      "away": "Montenegro",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzg5Yjk3ZTU3Y2JkYWM1MGNhZDJjMDRlMTc0NjNlMjY3LmNyZG93bmxvYWQ=",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2VkOTI2YTg4ODIyODYzZmFiZGFiNWIxYTJkN2ZmZDk3LnBuZw==",
-      "home_score": 0,
-      "away_score": 1,
-      "status": "Half Time",
-      "time_label": "15 Nov 2026 • 21:00 WIB",
-      "match_time": 1794751200,
-      "match_date": "2026-11-15",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwcqsu5gHEPfrKUye/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwcqsu5gHEPfrKUye/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/cyprus-vs-montenegro-x7lm7phjxylzm2w"
-    },
-    {
-      "id": "vjxm8ghekdn5r6o",
-      "slug": "latvia-vs-armenia-vjxm8ghekdn5r6o",
-      "competition": "UEFA Nations League",
-      "home": "Latvia",
-      "away": "Armenia",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzA3ODcwZjFjN2FmZjQzZWFlZTBiYjQyNmMyODVhNTliLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Y4ZWIwZWIxMzY3ODkyYjIzMjdiNjU4NGY1N2ExNTE2LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Half Time",
-      "time_label": "15 Nov 2026 • 21:00 WIB",
-      "match_time": 1794751200,
-      "match_date": "2026-11-15",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwcqsu5gmodz64PyJ/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwcqsu5gmodz64PyJ/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/latvia-vs-armenia-vjxm8ghekdn5r6o"
-    },
     {
       "id": "pxwrxlhlgoyxryk",
       "slug": "belize-w-u19-vs-cuba-w-u19-pxwrxlhlgoyxryk",
@@ -144,8 +34,8 @@
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZhNWU5OWRmMDQ1NjliZjdkYjlhYzA2ZDg3YmFmYjNjLnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2JiZThlM2NhNjY5ZWIyYmJjMjU5OTcyYTI3ZTRiM2ZiLnBuZw==",
       "home_score": 0,
-      "away_score": 0,
-      "status": "First Half",
+      "away_score": 2,
+      "status": "Second Half",
       "time_label": "15 Nov 2026 • 21:30 WIB",
       "match_time": 1794753000,
       "match_date": "2026-11-15",
@@ -156,6 +46,50 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/panama-u19-women-vs-guatemala-u19-women-6ypq3nhk0ovnmd7"
+    },
+    {
+      "id": "n54qllh42w56qvy",
+      "slug": "norway-u18-vs-usa-u18-n54qllh42w56qvy",
+      "competition": "International Friendly",
+      "home": "Norway U18",
+      "away": "USA U18",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2VkZmM4MTA2Mzc4ZDZhZjE5OWYzMWY2NDk4ZTcxNjcyLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzczZTAwZTAwOGQ3MWQ4NDA1Nzk1YTE1Y2U2Nzg4YzI0LnBuZw==",
+      "home_score": 2,
+      "away_score": 1,
+      "status": "Half Time",
+      "time_label": "15 Nov 2026 • 22:00 WIB",
+      "match_time": 1794754800,
+      "match_date": "2026-11-15",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/norway-u18-vs-usa-u18-n54qllh42w56qvy"
+    },
+    {
+      "id": "dn1m1ghlz70gmoe",
+      "slug": "granada-cf-vs-ud-las-palmas-dn1m1ghlz70gmoe",
+      "competition": "Spanish Segunda Division",
+      "home": "Granada CF",
+      "away": "UD Las Palmas",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Y4YWMxNzU1OWYyMDRkMTM5NTYzOTI5ZGM3ZWVlZGViLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2VmZjliYjE3YWU1NGE4NDA2OGRmYzNiOWYxZjYyOGNiLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "First Half",
+      "time_label": "15 Nov 2026 • 22:15 WIB",
+      "match_time": 1794755700,
+      "match_date": "2026-11-15",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARkPXeA9NCC9W/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/granada-cf-vs-ud-las-palmas-dn1m1ghlz70gmoe"
     },
     {
       "id": "dj2ryoh7k3kxq1z",
@@ -211,7 +145,7 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzk3YmRkNzI1N2IxNTM3ZmNjNTM5ZTY5MTIwZTBkYTY5LnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "TBD",
       "time_label": "15 Nov 2026 • 22:00 WIB",
       "match_time": 1794754800,
       "match_date": "2026-11-15",
@@ -222,50 +156,6 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/new-zealand-u17-vs-costa-rica-u17-3glrw7h4w5n7qdy"
-    },
-    {
-      "id": "n54qllh42w56qvy",
-      "slug": "norway-u18-vs-usa-u18-n54qllh42w56qvy",
-      "competition": "International Friendly",
-      "home": "Norway U18",
-      "away": "USA U18",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2VkZmM4MTA2Mzc4ZDZhZjE5OWYzMWY2NDk4ZTcxNjcyLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzczZTAwZTAwOGQ3MWQ4NDA1Nzk1YTE1Y2U2Nzg4YzI0LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "15 Nov 2026 • 22:00 WIB",
-      "match_time": 1794754800,
-      "match_date": "2026-11-15",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/norway-u18-vs-usa-u18-n54qllh42w56qvy"
-    },
-    {
-      "id": "dn1m1ghlz70gmoe",
-      "slug": "granada-cf-vs-ud-las-palmas-dn1m1ghlz70gmoe",
-      "competition": "Spanish Segunda Division",
-      "home": "Granada CF",
-      "away": "UD Las Palmas",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Y4YWMxNzU1OWYyMDRkMTM5NTYzOTI5ZGM3ZWVlZGViLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2VmZjliYjE3YWU1NGE4NDA2OGRmYzNiOWYxZjYyOGNiLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "15 Nov 2026 • 22:15 WIB",
-      "match_time": 1794755700,
-      "match_date": "2026-11-15",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARkPXeA9NCC9W/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/granada-cf-vs-ud-las-palmas-dn1m1ghlz70gmoe"
     }
   ]
 }
