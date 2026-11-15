@@ -1164,21 +1164,21 @@
     "3glrw7h4wgk4qdy": 1794708073,
     "8yomo4hyex2yq0j": 1794711673,
     "vjxm8ghk47v0r6o": 1794711673,
-    "ednm9whwn84zryo": 1794744066,
+    "ednm9whwn84zryo": 1794747678,
     "dj2ryoh7k3kxq1z": 1794744066,
     "dj2ryohl04xzq1z": 1794726068,
     "4wyrn4hy8y16q86": 1794740467,
-    "y0or5jh9lwxdqwz": 1794744066,
+    "y0or5jh9lwxdqwz": 1794747678,
     "y39mp1hd38z8moj": 1794740467,
     "vjxm8ghekdn5r6o": 1794729673,
     "x7lm7phjxylzm2w": 1794729673,
     "dj2ryoh7ke78q1z": 1794729673,
-    "x7lm7phxk2g2m2w": 1794744066,
-    "6ypq3nhk0ovnmd7": 1794744066,
-    "pxwrxlhlgoyxryk": 1794744066,
-    "n54qllh42w56qvy": 1794744066,
-    "3glrw7h4w5n7qdy": 1794744066,
-    "dn1m1ghlz70gmoe": 1794744066
+    "x7lm7phxk2g2m2w": 1794747678,
+    "6ypq3nhk0ovnmd7": 1794747678,
+    "pxwrxlhlgoyxryk": 1794747678,
+    "n54qllh42w56qvy": 1794747678,
+    "3glrw7h4w5n7qdy": 1794747678,
+    "dn1m1ghlz70gmoe": 1794747678
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -3830,6 +3830,11 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk4VK9pQNjnJrrGY/playlist.m3u8",
       "hd": "",
       "slug": "scotland-u21-vs-usa-u23-y39mp1hd38z8moj"
+    },
+    "ednm9whwn84zryo": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwarNKLBCCxvUvaZ6/playlist.m3u8",
+      "hd": "",
+      "slug": "nyva-ternopil-vs-fk-oleksandria-ednm9whwn84zryo"
     }
   }
 }
