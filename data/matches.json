@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-15T04:01:12.546040+00:00",
+  "updated_at": "2026-11-15T05:01:17.002483+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 15,
+  "matches_count": 18,
   "matches": [
     {
       "id": "8yomo4hyex2yq0j",
@@ -13,7 +13,7 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzk5NWZlYjc0MTdhNGRiMTE1NjEzMzg2NzgxNjllMDQ1LnBuZw==",
       "home_score": 3,
       "away_score": 0,
-      "status": "First Half",
+      "status": "Second Half",
       "time_label": "15 Nov 2026 • 10:10 WIB",
       "match_time": 1794712200,
       "match_date": "2026-11-15",
@@ -288,6 +288,72 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/latvia-vs-armenia-vjxm8ghekdn5r6o"
+    },
+    {
+      "id": "pxwrxlhlgoyxryk",
+      "slug": "belize-w-u19-vs-cuba-w-u19-pxwrxlhlgoyxryk",
+      "competition": "International Friendly",
+      "home": "Belize (W) U19",
+      "away": "Cuba (W) U19",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzg4YWYwZmE1NTgwNzYwMmZkMzk1MzA0ZjRmYTY5Nzk3LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2VlMTY1YjgyYTlkMjIyYTE0ZWVmYzU4OGJiNDVmMzUxLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "15 Nov 2026 • 21:30 WIB",
+      "match_time": 1794753000,
+      "match_date": "2026-11-15",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/belize-w-u19-vs-cuba-w-u19-pxwrxlhlgoyxryk"
+    },
+    {
+      "id": "6ypq3nhk0ovnmd7",
+      "slug": "panama-u19-women-vs-guatemala-u19-women-6ypq3nhk0ovnmd7",
+      "competition": "International Friendly",
+      "home": "Panama U19 Women",
+      "away": "Guatemala U19 Women",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZhNWU5OWRmMDQ1NjliZjdkYjlhYzA2ZDg3YmFmYjNjLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2JiZThlM2NhNjY5ZWIyYmJjMjU5OTcyYTI3ZTRiM2ZiLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "15 Nov 2026 • 21:30 WIB",
+      "match_time": 1794753000,
+      "match_date": "2026-11-15",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/panama-u19-women-vs-guatemala-u19-women-6ypq3nhk0ovnmd7"
+    },
+    {
+      "id": "3glrw7h4w5n7qdy",
+      "slug": "new-zealand-u17-vs-costa-rica-u17-3glrw7h4w5n7qdy",
+      "competition": "International Friendly",
+      "home": "New Zealand U17",
+      "away": "Costa Rica U17",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2I1ZTY3NzA4MWMwYzUwOGJmNTdmNGU5N2FiMWNmZWQwLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzk3YmRkNzI1N2IxNTM3ZmNjNTM5ZTY5MTIwZTBkYTY5LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "15 Nov 2026 • 22:00 WIB",
+      "match_time": 1794754800,
+      "match_date": "2026-11-15",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/new-zealand-u17-vs-costa-rica-u17-3glrw7h4w5n7qdy"
     },
     {
       "id": "n54qllh42w56qvy",
