@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-15T01:01:10.495000+00:00",
+  "updated_at": "2026-11-15T02:01:15.174568+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 15,
+  "matches_count": 16,
   "matches": [
     {
       "id": "3glrw7h4wgk4qdy",
@@ -11,9 +11,9 @@
       "away": "Colombia U19",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2MzZWJkODIwMGFlM2M1ZTEyMDg3NGIwZTg2YWY1ZDNlLnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZjNDNjM2RhNzI3NTg0ODdjMzJlNGQ5OTdhN2QwNTEwLnBuZw==",
-      "home_score": 1,
+      "home_score": 3,
       "away_score": 0,
-      "status": "Half Time",
+      "status": "Second Half",
       "time_label": "15 Nov 2026 • 07:00 WIB",
       "match_time": 1794700800,
       "match_date": "2026-11-15",
@@ -92,6 +92,28 @@
       "match_url": "https://kickofftv.id/match/sc-poltava-vs-ahrobiznes-volochysk-y39mp1h6lvn1moj"
     },
     {
+      "id": "dj2ryoh7k3kxq1z",
+      "slug": "china-u17-vs-honduras-u17-dj2ryoh7k3kxq1z",
+      "competition": "International Friendly",
+      "home": "China U17",
+      "away": "Honduras U17",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzU2YjQ2ZGNkM2U4MDFhNDk2Y2E3ODNhYjBiZDBmNDRkLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2QyNzMxOTRlMzE4ODJkZWQ4OWJmNTUzZDljOTQ3ZWJiLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "15 Nov 2026 • 19:00 WIB",
+      "match_time": 1794744000,
+      "match_date": "2026-11-15",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/china-u17-vs-honduras-u17-dj2ryoh7k3kxq1z"
+    },
+    {
       "id": "ednm9whwn84zryo",
       "slug": "nyva-ternopil-vs-fk-oleksandria-ednm9whwn84zryo",
       "competition": "Ukrainian First League",
@@ -156,6 +178,28 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/scotland-u21-vs-usa-u21-x7lm7phxk2g2m2w"
+    },
+    {
+      "id": "y39mp1hd38z8moj",
+      "slug": "scotland-u21-vs-usa-u23-y39mp1hd38z8moj",
+      "competition": "International Friendly",
+      "home": "Scotland U21",
+      "away": "USA U23",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzFkNTBiZTU4OTdmY2E0NGY5Njk3ZDI2ZjJjZTk5NDA4LmNyZG93bmxvYWQ=",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzAxYjQ0NTM2ZmIzY2U2ODk3YjJkNjI1OWU1MWJlNzZhLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "15 Nov 2026 • 20:00 WIB",
+      "match_time": 1794747600,
+      "match_date": "2026-11-15",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/scotland-u21-vs-usa-u23-y39mp1hd38z8moj"
     },
     {
       "id": "y0or5jh9lwxdqwz",
@@ -266,28 +310,6 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/latvia-vs-armenia-vjxm8ghekdn5r6o"
-    },
-    {
-      "id": "dj2ryoh7k3kxq1z",
-      "slug": "china-u17-vs-honduras-u17-dj2ryoh7k3kxq1z",
-      "competition": "International Friendly",
-      "home": "China U17",
-      "away": "Honduras U17",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzU2YjQ2ZGNkM2U4MDFhNDk2Y2E3ODNhYjBiZDBmNDRkLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2QyNzMxOTRlMzE4ODJkZWQ4OWJmNTUzZDljOTQ3ZWJiLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "15 Nov 2026 • 22:00 WIB",
-      "match_time": 1794754800,
-      "match_date": "2026-11-15",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/china-u17-vs-honduras-u17-dj2ryoh7k3kxq1z"
     },
     {
       "id": "n54qllh42w56qvy",
