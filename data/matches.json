@@ -1,52 +1,8 @@
 {
-  "updated_at": "2026-11-15T22:01:13.183899+00:00",
+  "updated_at": "2026-11-15T23:01:19.897963+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 16,
+  "matches_count": 14,
   "matches": [
-    {
-      "id": "8yomo4hy7o1xq0j",
-      "slug": "costa-rica-u19-women-vs-honduras-w-u19-8yomo4hy7o1xq0j",
-      "competition": "International Friendly",
-      "home": "Costa Rica U19 Women",
-      "away": "Honduras (W) U19",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2IwYTgwYjI5YzQxMTFmZjllYmFiODZlNDljMGY5OTU3LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzhlODNmZTIyYTBkZDFkZjQyODQ2NmY0YWUxYjM4NjA3LnBuZw==",
-      "home_score": 2,
-      "away_score": 0,
-      "status": "Second Half",
-      "time_label": "16 Nov 2026 • 03:00 WIB",
-      "match_time": 1794772800,
-      "match_date": "2026-11-16",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/costa-rica-u19-women-vs-honduras-w-u19-8yomo4hy7o1xq0j"
-    },
-    {
-      "id": "2y8m4zhv395nql0",
-      "slug": "el-salvador-u19-women-vs-nicaragua-w-u19-2y8m4zhv395nql0",
-      "competition": "International Friendly",
-      "home": "El Salvador U19 Women",
-      "away": "Nicaragua (W) U19",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2M4YzQ1NWE0MzNmOTAxNTliYjVlYzlmYjQzN2RmOGE2LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzAwODhjYmM5YjI0MWUyOTY5ZmE5ODg2YWQzNDBkYjY1LnBuZw==",
-      "home_score": 3,
-      "away_score": 0,
-      "status": "Second Half",
-      "time_label": "16 Nov 2026 • 03:00 WIB",
-      "match_time": 1794772800,
-      "match_date": "2026-11-16",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/el-salvador-u19-women-vs-nicaragua-w-u19-2y8m4zhv395nql0"
-    },
     {
       "id": "1l4rjnh97y06m7v",
       "slug": "fc-inhulets-petrove-vs-probiy-horodenka-1l4rjnh97y06m7v",
