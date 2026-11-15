@@ -1,30 +1,8 @@
 {
-  "updated_at": "2026-11-15T18:01:06.526070+00:00",
+  "updated_at": "2026-11-15T19:01:20.976182+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 28,
+  "matches_count": 23,
   "matches": [
-    {
-      "id": "n54qllh42w56qvy",
-      "slug": "norway-u18-vs-usa-u18-n54qllh42w56qvy",
-      "competition": "International Friendly",
-      "home": "Norway U18",
-      "away": "USA U18",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2VkZmM4MTA2Mzc4ZDZhZjE5OWYzMWY2NDk4ZTcxNjcyLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzczZTAwZTAwOGQ3MWQ4NDA1Nzk1YTE1Y2U2Nzg4YzI0LnBuZw==",
-      "home_score": 3,
-      "away_score": 2,
-      "status": "Second Half",
-      "time_label": "15 Nov 2026 • 22:00 WIB",
-      "match_time": 1794754800,
-      "match_date": "2026-11-15",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/norway-u18-vs-usa-u18-n54qllh42w56qvy"
-    },
     {
       "id": "dn1m1ghlz70gmoe",
       "slug": "granada-cf-vs-ud-las-palmas-dn1m1ghlz70gmoe",
@@ -48,72 +26,6 @@
       "match_url": "https://kickofftv.id/match/granada-cf-vs-ud-las-palmas-dn1m1ghlz70gmoe"
     },
     {
-      "id": "965mkyh870elr1g",
-      "slug": "suriname-vs-eswatini-965mkyh870elr1g",
-      "competition": "International Friendly",
-      "home": "Suriname",
-      "away": "Eswatini‌",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzEwMzZlYzA5MDM5ZDlhNWQ2MzkyNGNjZmY2YWRjMmZlLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2MwYTNiNGNlYzBjY2NmNzA0M2JlNTYxYmVkODRkNmVjLnBuZw==",
-      "home_score": 1,
-      "away_score": 0,
-      "status": "Half Time",
-      "time_label": "16 Nov 2026 • 00:00 WIB",
-      "match_time": 1794762000,
-      "match_date": "2026-11-16",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/suriname-vs-eswatini-965mkyh870elr1g"
-    },
-    {
-      "id": "4jwq2ghngy8jm0v",
-      "slug": "belarus-vs-albania-4jwq2ghngy8jm0v",
-      "competition": "UEFA Nations League",
-      "home": "Belarus",
-      "away": "Albania",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Q5OTExMzY4MGNhMjI5YzU0OWZhNDgxOGE5MDE0Mjg4LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzk2OTcwNTg2N2QxNjRjY2NkMTNlMzVjMjc2MTA1NzZjLnBuZw==",
-      "home_score": 0,
-      "away_score": 1,
-      "status": "Half Time",
-      "time_label": "16 Nov 2026 • 00:00 WIB",
-      "match_time": 1794762000,
-      "match_date": "2026-11-16",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwcqsu5X2w9JnjsYt/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwcqsu5X2w9JnjsYt/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/belarus-vs-albania-4jwq2ghngy8jm0v"
-    },
-    {
-      "id": "1l4rjnh9no8pm7v",
-      "slug": "finland-vs-san-marino-1l4rjnh9no8pm7v",
-      "competition": "UEFA Nations League",
-      "home": "Finland",
-      "away": "San Marino",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2U2YjMwNGFiNDgwMDVjMDdjNzA0N2Q2YmQwZjJhNGFhLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzYxZTljY2QwYzQ1YjYwODM5YzQ3ZDc5MmQ2YWUyNmY0LmNyZG93bmxvYWQ=",
-      "home_score": 5,
-      "away_score": 1,
-      "status": "Half Time",
-      "time_label": "16 Nov 2026 • 00:00 WIB",
-      "match_time": 1794762000,
-      "match_date": "2026-11-16",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwcqsu5WvLhhMG86C/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwcqsu5WvLhhMG86C/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/finland-vs-san-marino-1l4rjnh9no8pm7v"
-    },
-    {
       "id": "k82rekhg46x2rep",
       "slug": "eibar-vs-cadiz-cf-k82rekhg46x2rep",
       "competition": "Spanish Segunda Division",
@@ -121,9 +33,9 @@
       "away": "Cadiz CF",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzIzMGJlN2Y0ZjIzZGUxY2IwODg3N2E3MmNkMDhmNjE5LnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzEzYWQxMTdkZGIzMTAwNTI4NDEyNDRmMGQxZWQzYzFlLnBuZw==",
-      "home_score": 0,
+      "home_score": 1,
       "away_score": 0,
-      "status": "First Half",
+      "status": "Second Half",
       "time_label": "16 Nov 2026 • 00:30 WIB",
       "match_time": 1794763800,
       "match_date": "2026-11-16",
@@ -143,9 +55,9 @@
       "away": "Sabadell",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzFkNmU0NjFkZjAxNTU2MmFiNDlkNWI2YWY3ODBkMjU2LnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2RiZWJhYzhkNWQ3YWNjMDgwYmZkZGY2MjBhNTZlMjEzLnBuZw==",
-      "home_score": 1,
+      "home_score": 2,
       "away_score": 0,
-      "status": "First Half",
+      "status": "Second Half",
       "time_label": "16 Nov 2026 • 00:30 WIB",
       "match_time": 1794763800,
       "match_date": "2026-11-16",
@@ -156,28 +68,6 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/eldense-vs-sabadell-318q66hxp2g1qo9"
-    },
-    {
-      "id": "3glrw7h4w5n7qdy",
-      "slug": "new-zealand-u17-vs-costa-rica-u17-3glrw7h4w5n7qdy",
-      "competition": "International Friendly",
-      "home": "New Zealand U17",
-      "away": "Costa Rica U17",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2I1ZTY3NzA4MWMwYzUwOGJmNTdmNGU5N2FiMWNmZWQwLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzk3YmRkNzI1N2IxNTM3ZmNjNTM5ZTY5MTIwZTBkYTY5LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "TBD",
-      "time_label": "15 Nov 2026 • 22:00 WIB",
-      "match_time": 1794754800,
-      "match_date": "2026-11-15",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/new-zealand-u17-vs-costa-rica-u17-3glrw7h4w5n7qdy"
     },
     {
       "id": "2y8m4zhv395nql0",
