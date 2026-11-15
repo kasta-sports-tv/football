@@ -1164,12 +1164,16 @@
     "3glrw7h4wgk4qdy": 1794708073,
     "8yomo4hyex2yq0j": 1794711673,
     "vjxm8ghk47v0r6o": 1794711673,
-    "ednm9whwn84zryo": 1794726068,
-    "dj2ryoh7k3kxq1z": 1794726068,
+    "ednm9whwn84zryo": 1794729673,
+    "dj2ryoh7k3kxq1z": 1794729673,
     "dj2ryohl04xzq1z": 1794726068,
-    "4wyrn4hy8y16q86": 1794726068,
-    "y0or5jh9lwxdqwz": 1794726068,
-    "y39mp1hd38z8moj": 1794726068
+    "4wyrn4hy8y16q86": 1794729673,
+    "y0or5jh9lwxdqwz": 1794729673,
+    "y39mp1hd38z8moj": 1794729673,
+    "vjxm8ghekdn5r6o": 1794729673,
+    "x7lm7phjxylzm2w": 1794729673,
+    "dj2ryoh7ke78q1z": 1794729673,
+    "x7lm7phxk2g2m2w": 1794729673
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -3796,6 +3800,21 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARkPeEbkofwcC/playlist.m3u8",
       "hd": "",
       "slug": "tenerife-vs-ad-ceuta-dj2ryohl04xzq1z"
+    },
+    "vjxm8ghekdn5r6o": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwcqsu5gmodz64PyJ/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwcqsu5gmodz64PyJ/playlist.m3u8",
+      "slug": "latvia-vs-armenia-vjxm8ghekdn5r6o"
+    },
+    "x7lm7phjxylzm2w": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwcqsu5gHEPfrKUye/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwcqsu5gHEPfrKUye/playlist.m3u8",
+      "slug": "cyprus-vs-montenegro-x7lm7phjxylzm2w"
+    },
+    "dj2ryoh7ke78q1z": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk4CyDon116QSvwS/playlist.m3u8",
+      "hd": "",
+      "slug": "scotland-u21-vs-usa-u21-dj2ryoh7ke78q1z"
     }
   }
 }

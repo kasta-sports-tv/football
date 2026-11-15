@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T07:01:14.052571+00:00",
+  "updated_at": "2026-11-15T08:01:19.928610+00:00",
   "source": "https://kickofftv.id",
   "matches_count": 17,
   "matches": [
@@ -196,7 +196,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk4CyDon116QSvwS/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/scotland-u21-vs-usa-u21-dj2ryoh7ke78q1z"
@@ -240,8 +240,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwcqsu5gHEPfrKUye/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwcqsu5gHEPfrKUye/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/cyprus-vs-montenegro-x7lm7phjxylzm2w"
     },
@@ -262,8 +262,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwcqsu5gmodz64PyJ/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwcqsu5gmodz64PyJ/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/latvia-vs-armenia-vjxm8ghekdn5r6o"
     },
