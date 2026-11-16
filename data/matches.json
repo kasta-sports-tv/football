@@ -1,51 +1,29 @@
 {
-  "updated_at": "2026-11-16T12:01:17.496690+00:00",
+  "updated_at": "2026-11-16T13:01:25.824496+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 15,
+  "matches_count": 13,
   "matches": [
     {
-      "id": "l5ergphkokjkr8k",
-      "slug": "poland-u18-vs-czechia-republic-u18-l5ergphkokjkr8k",
+      "id": "vjxm8ghk47w4r6o",
+      "slug": "russia-u21-vs-kyrgyzstan-u23-vjxm8ghk47w4r6o",
       "competition": "International Friendly",
-      "home": "Poland U18",
-      "away": "Czechia Republic U18",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzkyZmVhMjk4ZGFhZGEzZGJhZmJiMTNlYmQxZDlhMDRmLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzZjYzU1MjQ4NjQ5NGNjNGE1MDg3NWZlNTU3NzZlZmFlLnBuZw==",
-      "home_score": 1,
+      "home": "Russia U21",
+      "away": "Kyrgyzstan U23",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzNkMGJlMmUxNTZlZDM1NTVjYjBkZTkxOWI0NjlmOTc1LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzIxZDZjNjNlNmVjOWIwMGM1YTQ1OWE3MDllMmY2MThkLnBuZw==",
+      "home_score": 0,
       "away_score": 0,
       "status": "Half Time",
-      "time_label": "16 Nov 2026 • 18:00 WIB",
-      "match_time": 1794826800,
+      "time_label": "16 Nov 2026 • 19:00 WIB",
+      "match_time": 1794830400,
       "match_date": "2026-11-16",
       "is_live": true,
       "is_finished": false,
       "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk46RmWmVBJWacw2/playlist.m3u8",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk4VEja5sR7qDJQ8/playlist.m3u8",
         "hd": ""
       },
-      "match_url": "https://kickofftv.id/match/poland-u18-vs-czechia-republic-u18-l5ergphkokjkr8k"
-    },
-    {
-      "id": "1l4rjnhn6dywm7v",
-      "slug": "uzbekistan-u20-vs-venezuela-u20-1l4rjnhn6dywm7v",
-      "competition": "International Friendly",
-      "home": "Uzbekistan U20",
-      "away": "Venezuela U20",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzhmOGJlNjgzMDM4OWYyY2ZiNjQyYzY2MTg3YjBkYjU0LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzdjZmM5OTQxMjE2ODRkODA4NWI1NjkyMzFjZTAxYWJlLnBuZw==",
-      "home_score": 3,
-      "away_score": 1,
-      "status": "Half Time",
-      "time_label": "16 Nov 2026 • 18:00 WIB",
-      "match_time": 1794826800,
-      "match_date": "2026-11-16",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk46XguQFGf8P432/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/uzbekistan-u20-vs-venezuela-u20-1l4rjnhn6dywm7v"
+      "match_url": "https://kickofftv.id/match/russia-u21-vs-kyrgyzstan-u23-vjxm8ghk47w4r6o"
     },
     {
       "id": "1l4rjnh97y06m7v",
@@ -56,8 +34,8 @@
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzBmMTM2YWMwMzAwYTljZDlkMjdmZjBhNWM3YjZmMmE3LnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzNkNDQ4OTA2Y2Q3YjBiZTliZDA4NDAxODc0MDdhMWE5LnBuZw==",
       "home_score": 1,
-      "away_score": 0,
-      "status": "Interrupted",
+      "away_score": 1,
+      "status": "TBD",
       "time_label": "16 Nov 2026 • 16:30 WIB",
       "match_time": 1794821400,
       "match_date": "2026-11-16",
@@ -134,28 +112,6 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/fc-chernigiv-vs-lokomotiv-kyiv-zp5rzghgky9yq82"
-    },
-    {
-      "id": "vjxm8ghk47w4r6o",
-      "slug": "russia-u21-vs-kyrgyzstan-u23-vjxm8ghk47w4r6o",
-      "competition": "International Friendly",
-      "home": "Russia U21",
-      "away": "Kyrgyzstan U23",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzNkMGJlMmUxNTZlZDM1NTVjYjBkZTkxOWI0NjlmOTc1LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzIxZDZjNjNlNmVjOWIwMGM1YTQ1OWE3MDllMmY2MThkLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "16 Nov 2026 • 19:00 WIB",
-      "match_time": 1794830400,
-      "match_date": "2026-11-16",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk4VEja5sR7qDJQ8/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/russia-u21-vs-kyrgyzstan-u23-vjxm8ghk47w4r6o"
     },
     {
       "id": "965mkyh8707lr1g",
