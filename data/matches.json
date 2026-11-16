@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-11-16T02:01:19.524619+00:00",
+  "updated_at": "2026-11-16T03:01:15.735847+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 15,
+  "matches_count": 16,
   "matches": [
+    {
+      "id": "8yomo4hy7ooyq0j",
+      "slug": "auckland-city-u23-vs-tonga-8yomo4hy7ooyq0j",
+      "competition": "International Friendly",
+      "home": "Auckland City U23",
+      "away": "Tonga",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2MwYzJkZmU2ZGZmYmNiZmZiNTA1MTA2MjU3MWYxYWQ3LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2MyN2Y1NTIzN2YyOGJhYmE1ZGU5NTM0ODFjYWY0YzNiLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "16 Nov 2026 • 13:30 WIB",
+      "match_time": 1794810600,
+      "match_date": "2026-11-16",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/auckland-city-u23-vs-tonga-8yomo4hy7ooyq0j"
+    },
     {
       "id": "1l4rjnh97y06m7v",
       "slug": "fc-inhulets-petrove-vs-probiy-horodenka-1l4rjnh97y06m7v",
@@ -20,7 +42,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwarNKLB7p1BXGkFJ/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/fc-inhulets-petrove-vs-probiy-horodenka-1l4rjnh97y06m7v"

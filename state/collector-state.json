@@ -1189,7 +1189,9 @@
     "n54qllhn4gl4qvy": 1794762071,
     "23xmvkh6y1e2qg8": 1794762071,
     "zp5rzghg3vndq82": 1794762071,
-    "8yomo4hy7o1xq0j": 1794780072
+    "8yomo4hy7o1xq0j": 1794780072,
+    "8yomo4hy7ooyq0j": 1794798073,
+    "1l4rjnh97y06m7v": 1794798073
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -3891,6 +3893,11 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwcqsu5WxYBZq63F6/playlist.m3u8",
       "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwcqsu5WxYBZq63F6/playlist.m3u8",
       "slug": "spain-vs-england-zp5rzghg3vndq82"
+    },
+    "1l4rjnh97y06m7v": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwarNKLB7p1BXGkFJ/playlist.m3u8",
+      "hd": "",
+      "slug": "fc-inhulets-petrove-vs-probiy-horodenka-1l4rjnh97y06m7v"
     }
   }
 }
