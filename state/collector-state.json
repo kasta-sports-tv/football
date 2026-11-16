@@ -1205,23 +1205,23 @@
     "965mkyhk8djvr1g": 1794841275,
     "1l4rjnhn639dm7v": 1794841275,
     "jw2r09h5l5d3rz8": 1794844889,
-    "y39mp1hd3ey3moj": 1794852093,
+    "y39mp1hd3ey3moj": 1794854460,
     "23xmvkhy3jleqg8": 1794844889,
     "l5ergph4kxg3r8k": 1794852093,
     "jw2r09hk5y8xrz8": 1794852093,
     "l7oqdehgjw70r51": 1794852093,
     "l7oqdehjnjz9r51": 1794852093,
-    "6ypq3nhk6ez8md7": 1794852093,
+    "6ypq3nhk6ez8md7": 1794854460,
     "y39mp1hd3e33moj": 1794852093,
     "k82rekh2vjo9rep": 1794852093,
     "y39mp1h6nw46moj": 1794852093,
-    "4jwq2ghg40ndm0v": 1794852093,
+    "4jwq2ghg40ndm0v": 1794854460,
     "y39mp1h6dgx2moj": 1794852093,
     "k82rekhg2p55rep": 1794852093,
     "318q66hx8y9lqo9": 1794852093,
     "dn1m1ghl9y6vmoe": 1794852093,
     "4wyrn4h6ypg8q86": 1794852093,
-    "2y8m4zhv3vd9ql0": 1794852093
+    "2y8m4zhv3vd9ql0": 1794854460
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -4018,6 +4018,11 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwcqsu61wxnNr67ax/playlist.m3u8",
       "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwcqsu61wxnNr67ax/playlist.m3u8",
       "slug": "north-macedonia-vs-slovenia-4wyrn4h6ypg8q86"
+    },
+    "6ypq3nhk6ez8md7": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjJtc9Af5GTDAUZE/playlist.m3u8",
+      "hd": "",
+      "slug": "andorra-vs-azerbaijan-6ypq3nhk6ez8md7"
     }
   }
 }
