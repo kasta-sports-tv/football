@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T06:01:21.193086+00:00",
+  "updated_at": "2026-11-16T07:01:21.476392+00:00",
   "source": "https://kickofftv.id",
   "matches_count": 16,
   "matches": [
@@ -11,13 +11,13 @@
       "away": "Tonga",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2MwYzJkZmU2ZGZmYmNiZmZiNTA1MTA2MjU3MWYxYWQ3LnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2MyN2Y1NTIzN2YyOGJhYmE1ZGU5NTM0ODFjYWY0YzNiLnBuZw==",
-      "home_score": 0,
+      "home_score": 1,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "First Half",
       "time_label": "16 Nov 2026 • 13:30 WIB",
       "match_time": 1794810600,
       "match_date": "2026-11-16",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
         "sd": "",
