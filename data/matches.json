@@ -1,96 +1,8 @@
 {
-  "updated_at": "2026-11-16T18:41:03.474117+00:00",
+  "updated_at": "2026-11-16T19:01:13.274200+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 43,
+  "matches_count": 38,
   "matches": [
-    {
-      "id": "y39mp1hd3ey3moj",
-      "slug": "egypt-u20-vs-tanzania-u20-y39mp1hd3ey3moj",
-      "competition": "International Friendly",
-      "home": "Egypt U20",
-      "away": "Tanzania U20",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzI2NDdjMWRiYTIzYmMwZTBmOWNkZjc1MzM5ZTEyMGQyLmpwZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzY2ZTE3MjE4NGUxYmFjMWI1MWM2ZTYzMzA2YjNjZTY1LnBuZw==",
-      "home_score": 2,
-      "away_score": 0,
-      "status": "Second Half",
-      "time_label": "16 Nov 2026 • 22:00 WIB",
-      "match_time": 1794841200,
-      "match_date": "2026-11-16",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/egypt-u20-vs-tanzania-u20-y39mp1hd3ey3moj"
-    },
-    {
-      "id": "965mkyhk8djvr1g",
-      "slug": "kazakhstan-vs-slovakia-965mkyhk8djvr1g",
-      "competition": "UEFA Nations League",
-      "home": "Kazakhstan",
-      "away": "Slovakia",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2FiNjUzMjhmMzc2ZmNlN2VhMmI3OThhMDRhOTZhMGNjLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzNkZDUyZDBmNGQ5ZGU1OGNjZGQwZTU0ZTcwNjAwODg0LnBuZw==",
-      "home_score": 2,
-      "away_score": 2,
-      "status": "Second Half",
-      "time_label": "16 Nov 2026 • 22:00 WIB",
-      "match_time": 1794841200,
-      "match_date": "2026-11-16",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwcqsu5X7L73kPhrg/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwcqsu5X7L73kPhrg/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/kazakhstan-vs-slovakia-965mkyhk8djvr1g"
-    },
-    {
-      "id": "jw2r09hk5y8xrz8",
-      "slug": "estonia-vs-bulgaria-jw2r09hk5y8xrz8",
-      "competition": "UEFA Nations League",
-      "home": "Estonia",
-      "away": "Bulgaria",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzVkNGFjY2MzMjdhNTllNTVlODEzOGE0N2VmNzI2ZTFmLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzMzNzA2ODFkMTkyYzA5MjkwYjkzMjNiZjFiYjU2ZDRjLnBuZw==",
-      "home_score": 2,
-      "away_score": 1,
-      "status": "Second Half",
-      "time_label": "17 Nov 2026 • 00:00 WIB",
-      "match_time": 1794848400,
-      "match_date": "2026-11-17",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwcqsu622Mk7ojwtk/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwcqsu622Mk7ojwtk/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/estonia-vs-bulgaria-jw2r09hk5y8xrz8"
-    },
-    {
-      "id": "l5ergph4kxg3r8k",
-      "slug": "iceland-vs-luxembourg-l5ergph4kxg3r8k",
-      "competition": "UEFA Nations League",
-      "home": "Iceland",
-      "away": "Luxembourg",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzZjZmY0NDNjZGY3MmI2ZGJlNDQwYTc4MTRmZjljMTcxLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2FiNmVlN2U5YmM5NzlhNDNmNTdhZGIyODdhNDgxNjFmLnBuZw==",
-      "home_score": 3,
-      "away_score": 0,
-      "status": "Second Half",
-      "time_label": "17 Nov 2026 • 00:00 WIB",
-      "match_time": 1794848400,
-      "match_date": "2026-11-17",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwcqsu624ZDzHZs3e/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwcqsu624ZDzHZs3e/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/iceland-vs-luxembourg-l5ergph4kxg3r8k"
-    },
     {
       "id": "l7oqdehgjw70r51",
       "slug": "lithuania-vs-liechtenstein-l7oqdehgjw70r51",
@@ -145,7 +57,7 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzZkYjk3MWE0OTIzZWRiYWI0MGZhMTQ5ZDliMWVhZjk4LnBuZw==",
       "home_score": 0,
       "away_score": 1,
-      "status": "First Half",
+      "status": "Half Time",
       "time_label": "17 Nov 2026 • 01:00 WIB",
       "match_time": 1794852000,
       "match_date": "2026-11-17",
@@ -165,9 +77,9 @@
       "away": "Cyprus U21",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZhYjAyYmU1MjVjMTU3OTkxODQxMmY3M2E1ZjJjMjQ1LnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzA4NWZkMmExNWIwMTgxMTY3Zjc1MzYxNmI1ODFlYTU4LmNyZG93bmxvYWQ=",
-      "home_score": 0,
+      "home_score": 2,
       "away_score": 0,
-      "status": "First Half",
+      "status": "Half Time",
       "time_label": "17 Nov 2026 • 01:00 WIB",
       "match_time": 1794852000,
       "match_date": "2026-11-17",
@@ -178,28 +90,6 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/hungary-u21-vs-cyprus-u21-k82rekh2vjo9rep"
-    },
-    {
-      "id": "1l4rjnhn639dm7v",
-      "slug": "switzerland-u18-vs-england-u18-1l4rjnhn639dm7v",
-      "competition": "International Friendly",
-      "home": "Switzerland U18",
-      "away": "England U18",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzU0Y2YwMjczY2JhMThhMmE4ZmI5YzNlZGYwOGYzODVmLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzg4YzU2NTBjNWJhYTU2YTY1OWQyMDZjZDgyZDJmMjVjLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "TBD",
-      "time_label": "16 Nov 2026 • 22:00 WIB",
-      "match_time": 1794841200,
-      "match_date": "2026-11-16",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/switzerland-u18-vs-england-u18-1l4rjnhn639dm7v"
     },
     {
       "id": "23xmvkhy3jleqg8",
