@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T08:01:17.802427+00:00",
+  "updated_at": "2026-11-16T08:16:14.640417+00:00",
   "source": "https://kickofftv.id",
   "matches_count": 17,
   "matches": [
@@ -152,7 +152,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk46RmWmVBJWacw2/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/poland-u18-vs-czechia-republic-u18-l5ergphkokjkr8k"

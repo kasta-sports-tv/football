@@ -1190,17 +1190,17 @@
     "23xmvkh6y1e2qg8": 1794762071,
     "zp5rzghg3vndq82": 1794762071,
     "8yomo4hy7o1xq0j": 1794780072,
-    "8yomo4hy7ooyq0j": 1794816071,
+    "8yomo4hy7ooyq0j": 1794816969,
     "1l4rjnh97y06m7v": 1794798073,
-    "zp5rzghgky9yq82": 1794816071,
-    "k82rekhgkz41rep": 1794816071,
-    "zp5rzgh3jdykq82": 1794816071,
-    "l5ergphkokjkr8k": 1794816071,
+    "zp5rzghgky9yq82": 1794816969,
+    "k82rekhgkz41rep": 1794816969,
+    "zp5rzgh3jdykq82": 1794816969,
+    "l5ergphkokjkr8k": 1794816969,
     "1l4rjnhn6dywm7v": 1794805269,
-    "4jwq2ghg45o8m0v": 1794816071,
+    "4jwq2ghg45o8m0v": 1794816969,
     "vjxm8ghk47w4r6o": 1794808875,
-    "965mkyh8707lr1g": 1794816071,
-    "dj2ryoh7k733q1z": 1794816071
+    "965mkyh8707lr1g": 1794816969,
+    "dj2ryoh7k733q1z": 1794816969
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -3917,6 +3917,11 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk4VEja5sR7qDJQ8/playlist.m3u8",
       "hd": "",
       "slug": "russia-u21-vs-kyrgyzstan-u23-vjxm8ghk47w4r6o"
+    },
+    "l5ergphkokjkr8k": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk46RmWmVBJWacw2/playlist.m3u8",
+      "hd": "",
+      "slug": "poland-u18-vs-czechia-republic-u18-l5ergphkokjkr8k"
     }
   }
 }
