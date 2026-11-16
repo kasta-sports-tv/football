@@ -1190,14 +1190,15 @@
     "23xmvkh6y1e2qg8": 1794762071,
     "zp5rzghg3vndq82": 1794762071,
     "8yomo4hy7o1xq0j": 1794780072,
-    "8yomo4hy7ooyq0j": 1794805269,
+    "8yomo4hy7ooyq0j": 1794808875,
     "1l4rjnh97y06m7v": 1794798073,
-    "zp5rzghgky9yq82": 1794805269,
-    "k82rekhgkz41rep": 1794805269,
-    "zp5rzgh3jdykq82": 1794805269,
-    "l5ergphkokjkr8k": 1794805269,
+    "zp5rzghgky9yq82": 1794808875,
+    "k82rekhgkz41rep": 1794808875,
+    "zp5rzgh3jdykq82": 1794808875,
+    "l5ergphkokjkr8k": 1794808875,
     "1l4rjnhn6dywm7v": 1794805269,
-    "4jwq2ghg45o8m0v": 1794805269
+    "4jwq2ghg45o8m0v": 1794808875,
+    "vjxm8ghk47w4r6o": 1794808875
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -3909,6 +3910,11 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk46XguQFGf8P432/playlist.m3u8",
       "hd": "",
       "slug": "uzbekistan-u20-vs-venezuela-u20-1l4rjnhn6dywm7v"
+    },
+    "vjxm8ghk47w4r6o": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk4VEja5sR7qDJQ8/playlist.m3u8",
+      "hd": "",
+      "slug": "russia-u21-vs-kyrgyzstan-u23-vjxm8ghk47w4r6o"
     }
   }
 }
