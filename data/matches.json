@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-16T22:01:09.492327+00:00",
+  "updated_at": "2026-11-16T23:01:27.905062+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 25,
+  "matches_count": 26,
   "matches": [
     {
       "id": "2y8m4zhv3vd9ql0",
@@ -112,6 +112,28 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/south-korea-u21-vs-mexico-u23-6ypq3nhk0kd9md7"
+    },
+    {
+      "id": "k82rekhgkz41rep",
+      "slug": "ucsa-vs-polissya-zhytomyr-b-k82rekhgkz41rep",
+      "competition": "Ukrainian First League",
+      "home": "UCSA",
+      "away": "Polissya Zhytomyr B",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzc5NjQ3MTRkN2NmNWFkNzBlZmVhMzg0NzU4MzIwYTM5LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzRhMjg5NWUyNTE4MDM5NzYzNTY2NGUwZDRlMWRjZWFkLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Delayed",
+      "time_label": "17 Nov 2026 • 17:00 WIB",
+      "match_time": 1794909600,
+      "match_date": "2026-11-17",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwarNKLBPCNGt4AKa/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/ucsa-vs-polissya-zhytomyr-b-k82rekhgkz41rep"
     },
     {
       "id": "zp5rzgh3jdykq82",
