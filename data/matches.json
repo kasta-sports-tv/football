@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T15:01:21.274365+00:00",
+  "updated_at": "2026-11-16T16:01:30.912080+00:00",
   "source": "https://kickofftv.id",
   "matches_count": 8,
   "matches": [
@@ -11,9 +11,9 @@
       "away": "Mexico U20",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2FkOTdhYjczYWYyZjNjNDc4ZjRlOGNkMWVmYTA0YTFmLnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzYzMzBhODNjNjRjZDZiY2Q4MjAxMTY5MWQ4ODE1MWQyLnBuZw==",
-      "home_score": 1,
-      "away_score": 0,
-      "status": "First Half",
+      "home_score": 2,
+      "away_score": 2,
+      "status": "Second Half",
       "time_label": "16 Nov 2026 • 21:30 WIB",
       "match_time": 1794839400,
       "match_date": "2026-11-16",
@@ -24,6 +24,94 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/chile-u20-vs-mexico-u20-dj2ryoh7k733q1z"
+    },
+    {
+      "id": "y39mp1hd3ey3moj",
+      "slug": "egypt-u20-vs-tanzania-u20-y39mp1hd3ey3moj",
+      "competition": "International Friendly",
+      "home": "Egypt U20",
+      "away": "Tanzania U20",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzI2NDdjMWRiYTIzYmMwZTBmOWNkZjc1MzM5ZTEyMGQyLmpwZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzY2ZTE3MjE4NGUxYmFjMWI1MWM2ZTYzMzA2YjNjZTY1LnBuZw==",
+      "home_score": 1,
+      "away_score": 0,
+      "status": "Half Time",
+      "time_label": "16 Nov 2026 • 22:00 WIB",
+      "match_time": 1794841200,
+      "match_date": "2026-11-16",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/egypt-u20-vs-tanzania-u20-y39mp1hd3ey3moj"
+    },
+    {
+      "id": "jw2r09h5l5d3rz8",
+      "slug": "kosovo-u21-vs-luxembourg-u21-jw2r09h5l5d3rz8",
+      "competition": "International Friendly",
+      "home": "Kosovo U21",
+      "away": "Luxembourg U21",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2VmNzVkMzU1YTU2YmFkNWNiY2VjNmYzMzBhYzk4MjdjLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzc1NGIxNTNkMTljMWQyNDYyYzY4ZjBhODY1ODUwNmIxLnBuZw==",
+      "home_score": 0,
+      "away_score": 1,
+      "status": "Half Time",
+      "time_label": "16 Nov 2026 • 22:00 WIB",
+      "match_time": 1794841200,
+      "match_date": "2026-11-16",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/kosovo-u21-vs-luxembourg-u21-jw2r09h5l5d3rz8"
+    },
+    {
+      "id": "ednm9whw5yjyryo",
+      "slug": "faroe-islands-vs-moldova-ednm9whw5yjyryo",
+      "competition": "UEFA Nations League",
+      "home": "Faroe Islands",
+      "away": "Moldova",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzE5ZWVlZmRjMDcyZTY3NWUxYmUyYTk3ODZjZmJhMDE2LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzBhYTk4NDczNzI2NWFiMWViMDk5ODE1MzM3OTNiMWVkLmNyZG93bmxvYWQ=",
+      "home_score": 1,
+      "away_score": 0,
+      "status": "Half Time",
+      "time_label": "16 Nov 2026 • 22:00 WIB",
+      "match_time": 1794841200,
+      "match_date": "2026-11-16",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwcqsu5WzjfSJuxPz/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwcqsu5WzjfSJuxPz/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/faroe-islands-vs-moldova-ednm9whw5yjyryo"
+    },
+    {
+      "id": "965mkyhk8djvr1g",
+      "slug": "kazakhstan-vs-slovakia-965mkyhk8djvr1g",
+      "competition": "UEFA Nations League",
+      "home": "Kazakhstan",
+      "away": "Slovakia",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2FiNjUzMjhmMzc2ZmNlN2VhMmI3OThhMDRhOTZhMGNjLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzNkZDUyZDBmNGQ5ZGU1OGNjZGQwZTU0ZTcwNjAwODg0LnBuZw==",
+      "home_score": 1,
+      "away_score": 0,
+      "status": "Half Time",
+      "time_label": "16 Nov 2026 • 22:00 WIB",
+      "match_time": 1794841200,
+      "match_date": "2026-11-16",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwcqsu5X7L73kPhrg/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwcqsu5X7L73kPhrg/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/kazakhstan-vs-slovakia-965mkyhk8djvr1g"
     },
     {
       "id": "965mkyh8707lr1g",
@@ -48,50 +136,6 @@
       "match_url": "https://kickofftv.id/match/indonesia-u20-vs-usa-u19-965mkyh8707lr1g"
     },
     {
-      "id": "y39mp1hd3ey3moj",
-      "slug": "egypt-u20-vs-tanzania-u20-y39mp1hd3ey3moj",
-      "competition": "International Friendly",
-      "home": "Egypt U20",
-      "away": "Tanzania U20",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzI2NDdjMWRiYTIzYmMwZTBmOWNkZjc1MzM5ZTEyMGQyLmpwZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzY2ZTE3MjE4NGUxYmFjMWI1MWM2ZTYzMzA2YjNjZTY1LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "16 Nov 2026 • 22:00 WIB",
-      "match_time": 1794841200,
-      "match_date": "2026-11-16",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/egypt-u20-vs-tanzania-u20-y39mp1hd3ey3moj"
-    },
-    {
-      "id": "jw2r09h5l5d3rz8",
-      "slug": "kosovo-u21-vs-luxembourg-u21-jw2r09h5l5d3rz8",
-      "competition": "International Friendly",
-      "home": "Kosovo U21",
-      "away": "Luxembourg U21",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2VmNzVkMzU1YTU2YmFkNWNiY2VjNmYzMzBhYzk4MjdjLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzc1NGIxNTNkMTljMWQyNDYyYzY4ZjBhODY1ODUwNmIxLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "16 Nov 2026 • 22:00 WIB",
-      "match_time": 1794841200,
-      "match_date": "2026-11-16",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/kosovo-u21-vs-luxembourg-u21-jw2r09h5l5d3rz8"
-    },
-    {
       "id": "1l4rjnhn639dm7v",
       "slug": "switzerland-u18-vs-england-u18-1l4rjnhn639dm7v",
       "competition": "International Friendly",
@@ -101,7 +145,7 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzg4YzU2NTBjNWJhYTU2YTY1OWQyMDZjZDgyZDJmMjVjLnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "TBD",
       "time_label": "16 Nov 2026 • 22:00 WIB",
       "match_time": 1794841200,
       "match_date": "2026-11-16",
@@ -112,50 +156,6 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/switzerland-u18-vs-england-u18-1l4rjnhn639dm7v"
-    },
-    {
-      "id": "ednm9whw5yjyryo",
-      "slug": "faroe-islands-vs-moldova-ednm9whw5yjyryo",
-      "competition": "UEFA Nations League",
-      "home": "Faroe Islands",
-      "away": "Moldova",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzE5ZWVlZmRjMDcyZTY3NWUxYmUyYTk3ODZjZmJhMDE2LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzBhYTk4NDczNzI2NWFiMWViMDk5ODE1MzM3OTNiMWVkLmNyZG93bmxvYWQ=",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "16 Nov 2026 • 22:00 WIB",
-      "match_time": 1794841200,
-      "match_date": "2026-11-16",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwcqsu5WzjfSJuxPz/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwcqsu5WzjfSJuxPz/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/faroe-islands-vs-moldova-ednm9whw5yjyryo"
-    },
-    {
-      "id": "965mkyhk8djvr1g",
-      "slug": "kazakhstan-vs-slovakia-965mkyhk8djvr1g",
-      "competition": "UEFA Nations League",
-      "home": "Kazakhstan",
-      "away": "Slovakia",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2FiNjUzMjhmMzc2ZmNlN2VhMmI3OThhMDRhOTZhMGNjLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzNkZDUyZDBmNGQ5ZGU1OGNjZGQwZTU0ZTcwNjAwODg0LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "16 Nov 2026 • 22:00 WIB",
-      "match_time": 1794841200,
-      "match_date": "2026-11-16",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwcqsu5X7L73kPhrg/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwcqsu5X7L73kPhrg/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/kazakhstan-vs-slovakia-965mkyhk8djvr1g"
     },
     {
       "id": "23xmvkhy3jleqg8",
