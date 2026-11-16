@@ -1205,8 +1205,23 @@
     "965mkyhk8djvr1g": 1794841275,
     "1l4rjnhn639dm7v": 1794841275,
     "jw2r09h5l5d3rz8": 1794844889,
-    "y39mp1hd3ey3moj": 1794848490,
-    "23xmvkhy3jleqg8": 1794844889
+    "y39mp1hd3ey3moj": 1794852093,
+    "23xmvkhy3jleqg8": 1794844889,
+    "l5ergph4kxg3r8k": 1794852093,
+    "jw2r09hk5y8xrz8": 1794852093,
+    "l7oqdehgjw70r51": 1794852093,
+    "l7oqdehjnjz9r51": 1794852093,
+    "6ypq3nhk6ez8md7": 1794852093,
+    "y39mp1hd3e33moj": 1794852093,
+    "k82rekh2vjo9rep": 1794852093,
+    "y39mp1h6nw46moj": 1794852093,
+    "4jwq2ghg40ndm0v": 1794852093,
+    "y39mp1h6dgx2moj": 1794852093,
+    "k82rekhg2p55rep": 1794852093,
+    "318q66hx8y9lqo9": 1794852093,
+    "dn1m1ghl9y6vmoe": 1794852093,
+    "4wyrn4h6ypg8q86": 1794852093,
+    "2y8m4zhv3vd9ql0": 1794852093
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -3948,6 +3963,61 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwcqsu5X7L73kPhrg/playlist.m3u8",
       "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwcqsu5X7L73kPhrg/playlist.m3u8",
       "slug": "kazakhstan-vs-slovakia-965mkyhk8djvr1g"
+    },
+    "l5ergph4kxg3r8k": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwcqsu624ZDzHZs3e/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwcqsu624ZDzHZs3e/playlist.m3u8",
+      "slug": "iceland-vs-luxembourg-l5ergph4kxg3r8k"
+    },
+    "jw2r09hk5y8xrz8": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwcqsu622Mk7ojwtk/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwcqsu622Mk7ojwtk/playlist.m3u8",
+      "slug": "estonia-vs-bulgaria-jw2r09hk5y8xrz8"
+    },
+    "l7oqdehgjw70r51": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwcqsu628xBjFDhMS/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwcqsu628xBjFDhMS/playlist.m3u8",
+      "slug": "lithuania-vs-liechtenstein-l7oqdehgjw70r51"
+    },
+    "l7oqdehjnjz9r51": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk46RmWqt93UETEp/playlist.m3u8",
+      "hd": "",
+      "slug": "italy-u21-vs-belgium-u21-l7oqdehjnjz9r51"
+    },
+    "k82rekh2vjo9rep": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk4VE1RLARq169pt/playlist.m3u8",
+      "hd": "",
+      "slug": "hungary-u21-vs-cyprus-u21-k82rekh2vjo9rep"
+    },
+    "y39mp1h6nw46moj": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARjtccX5Jqx7S/playlist.m3u8",
+      "hd": "",
+      "slug": "albacete-balompi-sad-vs-celta-vigo-b-y39mp1h6nw46moj"
+    },
+    "y39mp1h6dgx2moj": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwcqsu5X58dBGZnhn/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwcqsu5X58dBGZnhn/playlist.m3u8",
+      "slug": "gibraltar-vs-malta-y39mp1h6dgx2moj"
+    },
+    "k82rekhg2p55rep": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwcqsu5WaZNs2psi8/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwcqsu5WaZNs2psi8/playlist.m3u8",
+      "slug": "germany-vs-netherlands-k82rekhg2p55rep"
+    },
+    "318q66hx8y9lqo9": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwcqsu5WYMtzYzxZE/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwcqsu5WYMtzYzxZE/playlist.m3u8",
+      "slug": "greece-vs-serbia-318q66hx8y9lqo9"
+    },
+    "dn1m1ghl9y6vmoe": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwcqsu61zAGFKv2jr/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwcqsu61zAGFKv2jr/playlist.m3u8",
+      "slug": "switzerland-vs-scotland-dn1m1ghl9y6vmoe"
+    },
+    "4wyrn4h6ypg8q86": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwcqsu61wxnNr67ax/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwcqsu61wxnNr67ax/playlist.m3u8",
+      "slug": "north-macedonia-vs-slovenia-4wyrn4h6ypg8q86"
     }
   }
 }
