@@ -1,51 +1,29 @@
 {
-  "updated_at": "2026-11-16T14:01:40.967265+00:00",
+  "updated_at": "2026-11-16T15:01:21.274365+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 10,
+  "matches_count": 8,
   "matches": [
     {
-      "id": "zp5rzgh3jdykq82",
-      "slug": "netherlands-u18-vs-sweden-u18-zp5rzgh3jdykq82",
+      "id": "dj2ryoh7k733q1z",
+      "slug": "chile-u20-vs-mexico-u20-dj2ryoh7k733q1z",
       "competition": "International Friendly",
-      "home": "Netherlands U18",
-      "away": "Sweden U18",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZmZDhkYWNlN2Y1ZjdmMmI0YmE0OWM3MDRjOTcwODI1LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Y3M2YyNDQ0MGJiYzM0NTNiMDc4MjI4MzgwODVkZWZlLnBuZw==",
-      "home_score": 0,
+      "home": "Chile U20",
+      "away": "Mexico U20",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2FkOTdhYjczYWYyZjNjNDc4ZjRlOGNkMWVmYTA0YTFmLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzYzMzBhODNjNjRjZDZiY2Q4MjAxMTY5MWQ4ODE1MWQyLnBuZw==",
+      "home_score": 1,
       "away_score": 0,
-      "status": "TBD",
-      "time_label": "16 Nov 2026 • 17:30 WIB",
-      "match_time": 1794825000,
+      "status": "First Half",
+      "time_label": "16 Nov 2026 • 21:30 WIB",
+      "match_time": 1794839400,
       "match_date": "2026-11-16",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
         "sd": "",
         "hd": ""
       },
-      "match_url": "https://kickofftv.id/match/netherlands-u18-vs-sweden-u18-zp5rzgh3jdykq82"
-    },
-    {
-      "id": "zp5rzghgky9yq82",
-      "slug": "fc-chernigiv-vs-lokomotiv-kyiv-zp5rzghgky9yq82",
-      "competition": "Ukrainian First League",
-      "home": "FC Chernigiv",
-      "away": "Lokomotiv Kyiv",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzk5YmE3ZmM4Njc4ZDhlZTQwYWIxYzU2NDQzZjRiMWEzLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzg1OTczY2QxM2NhNWY4NmZmMDhmNGI0MTQ5MmNkZTM5LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Delayed",
-      "time_label": "16 Nov 2026 • 17:30 WIB",
-      "match_time": 1794825000,
-      "match_date": "2026-11-16",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwarNKLBA1V416fQC/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/fc-chernigiv-vs-lokomotiv-kyiv-zp5rzghgky9yq82"
+      "match_url": "https://kickofftv.id/match/chile-u20-vs-mexico-u20-dj2ryoh7k733q1z"
     },
     {
       "id": "965mkyh8707lr1g",
@@ -68,28 +46,6 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/indonesia-u20-vs-usa-u19-965mkyh8707lr1g"
-    },
-    {
-      "id": "dj2ryoh7k733q1z",
-      "slug": "chile-u20-vs-mexico-u20-dj2ryoh7k733q1z",
-      "competition": "International Friendly",
-      "home": "Chile U20",
-      "away": "Mexico U20",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2FkOTdhYjczYWYyZjNjNDc4ZjRlOGNkMWVmYTA0YTFmLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzYzMzBhODNjNjRjZDZiY2Q4MjAxMTY5MWQ4ODE1MWQyLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "16 Nov 2026 • 21:00 WIB",
-      "match_time": 1794837600,
-      "match_date": "2026-11-16",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/chile-u20-vs-mexico-u20-dj2ryoh7k733q1z"
     },
     {
       "id": "y39mp1hd3ey3moj",
@@ -174,8 +130,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwcqsu5WzjfSJuxPz/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwcqsu5WzjfSJuxPz/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/faroe-islands-vs-moldova-ednm9whw5yjyryo"
     },
@@ -196,8 +152,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwcqsu5X7L73kPhrg/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwcqsu5X7L73kPhrg/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/kazakhstan-vs-slovakia-965mkyhk8djvr1g"
     },
