@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-17T18:01:29.574437+00:00",
+  "updated_at": "2026-11-17T19:01:24.476282+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 28,
+  "matches_count": 22,
   "matches": [
     {
       "id": "k82rekh2v8g7rep",
@@ -136,94 +136,6 @@
       "match_url": "https://kickofftv.id/match/kuwait-vs-honduras-965mkyh87gkdr1g"
     },
     {
-      "id": "dn1m1gh94ol6moe",
-      "slug": "croatia-u21-vs-germany-u21-dn1m1gh94ol6moe",
-      "competition": "International Friendly",
-      "home": "Croatia U21",
-      "away": "Germany U21",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzU4YTZlMDQ0N2UzNzIwMGJkYzIyYjc3ZTRjZTk3NjRiLmNyZG93bmxvYWQ=",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2E3OWVlMTJjNTQ4MTczOTcxNDI1NGMzMzgxNDk3N2Q5LnBuZw==",
-      "home_score": 1,
-      "away_score": 0,
-      "status": "Half Time",
-      "time_label": "18 Nov 2026 • 00:00 WIB",
-      "match_time": 1794934800,
-      "match_date": "2026-11-18",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk3sP3NdbgtQxH6x/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/croatia-u21-vs-germany-u21-dn1m1gh94ol6moe"
-    },
-    {
-      "id": "x7lm7phxkxegm2w",
-      "slug": "poland-u21-vs-serbia-u21-x7lm7phxkxegm2w",
-      "competition": "International Friendly",
-      "home": "Poland U21",
-      "away": "Serbia U21",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzJlMTE5NDdjMjYyODhiZWM1ZDdmZjMwNGYxMGE5OGMzLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzExNjg3ZWVkNDNkNDg0ZmZmNWU2NDE5OGRkZTZjMzU4LnBuZw==",
-      "home_score": 1,
-      "away_score": 0,
-      "status": "Half Time",
-      "time_label": "18 Nov 2026 • 00:00 WIB",
-      "match_time": 1794934800,
-      "match_date": "2026-11-18",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk46RkgG87GR7abS/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/poland-u21-vs-serbia-u21-x7lm7phxkxegm2w"
-    },
-    {
-      "id": "2y8m4zhv3w70ql0",
-      "slug": "switzerland-u17-vs-czechia-republic-u17-2y8m4zhv3w70ql0",
-      "competition": "International Friendly",
-      "home": "Switzerland U17",
-      "away": "Czechia Republic U17",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzBjYjk0YTJlOTllZWIxNDYxYmYxZmIzMjY4YTZkOWJkLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2EwNzRjZTZlYzM0OGQ1ODg3NDJhYmY4ZjllM2NkMTRkLnBuZw==",
-      "home_score": 2,
-      "away_score": 1,
-      "status": "Half Time",
-      "time_label": "18 Nov 2026 • 00:00 WIB",
-      "match_time": 1794934800,
-      "match_date": "2026-11-18",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/switzerland-u17-vs-czechia-republic-u17-2y8m4zhv3w70ql0"
-    },
-    {
-      "id": "6ypq3nhk0p03md7",
-      "slug": "usa-u20-vs-paraguay-u20-6ypq3nhk0p03md7",
-      "competition": "International Friendly",
-      "home": "USA U20",
-      "away": "Paraguay U20",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2MzZWJkODIwMGFlM2M1ZTEyMDg3NGIwZTg2YWY1ZDNlLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2M4MGRlMTAxN2YyMGEzMTZhMjQ2YTRlNTllZWU2Nzk2LnBuZw==",
-      "home_score": 0,
-      "away_score": 1,
-      "status": "Half Time",
-      "time_label": "18 Nov 2026 • 00:00 WIB",
-      "match_time": 1794934800,
-      "match_date": "2026-11-18",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/usa-u20-vs-paraguay-u20-6ypq3nhk0p03md7"
-    },
-    {
       "id": "n54qllh4246eqvy",
       "slug": "portugal-u21-vs-norway-u21-n54qllh4246eqvy",
       "competition": "International Friendly",
@@ -233,7 +145,7 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzI5NjhjNGFlODlkM2RjZDk4YTc0YzZmNWMxNTljNzE0LnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "First Half",
+      "status": "Second Half",
       "time_label": "18 Nov 2026 • 00:30 WIB",
       "match_time": 1794936600,
       "match_date": "2026-11-18",
@@ -246,26 +158,26 @@
       "match_url": "https://kickofftv.id/match/portugal-u21-vs-norway-u21-n54qllh4246eqvy"
     },
     {
-      "id": "2y8m4zhv3e3pql0",
-      "slug": "turkiye-u16-vs-germany-u16-2y8m4zhv3e3pql0",
+      "id": "8yomo4hy7g87q0j",
+      "slug": "albania-u21-vs-spain-u21-8yomo4hy7g87q0j",
       "competition": "International Friendly",
-      "home": "Turkiye U16",
-      "away": "Germany U16",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2FjOTJiMjI0YWRkYTUzY2I2ZDJkMmE3ZDgyODI2YTVjLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2IyOWMwOGIyZWEzNGI2ZTM3MjdkNDY0NGEyYjU4NGIwLnBuZw==",
+      "home": "Albania U21",
+      "away": "Spain U21",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzY3Y2E5ZTUyNzYxMGVkZWJmZmU2OGVlNmI3NTBmNTQ4LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzE4ZTI4MDdkMTFkNzRiYWI5NjQwODUyNjI3MDE3ZTUwLnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "TBD",
-      "time_label": "17 Nov 2026 • 22:00 WIB",
-      "match_time": 1794927600,
-      "match_date": "2026-11-17",
-      "is_live": false,
+      "status": "Half Time",
+      "time_label": "18 Nov 2026 • 01:00 WIB",
+      "match_time": 1794938400,
+      "match_date": "2026-11-18",
+      "is_live": true,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk4CyDorPxqN6mFE/playlist.m3u8",
         "hd": ""
       },
-      "match_url": "https://kickofftv.id/match/turkiye-u16-vs-germany-u16-2y8m4zhv3e3pql0"
+      "match_url": "https://kickofftv.id/match/albania-u21-vs-spain-u21-8yomo4hy7g87q0j"
     },
     {
       "id": "8yomo4hy767gq0j",
@@ -288,50 +200,6 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/costa-rica-u17-vs-usa-u17-8yomo4hy767gq0j"
-    },
-    {
-      "id": "x7lm7phxk27om2w",
-      "slug": "saudi-arabia-u23-vs-kuwait-u23-x7lm7phxk27om2w",
-      "competition": "International Friendly",
-      "home": "Saudi Arabia U23",
-      "away": "Kuwait U23",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzgwYTY2MGIzM2IyZmQwZjc0OWYwZWYwNTg4ZWUzYzJjLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzQ3MWQyNGUxMmQyMzNmYzVkMzA1ZmM1ODZjOTIwNWQ1LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "TBD",
-      "time_label": "18 Nov 2026 • 00:00 WIB",
-      "match_time": 1794934800,
-      "match_date": "2026-11-18",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/saudi-arabia-u23-vs-kuwait-u23-x7lm7phxk27om2w"
-    },
-    {
-      "id": "8yomo4hy7g87q0j",
-      "slug": "albania-u21-vs-spain-u21-8yomo4hy7g87q0j",
-      "competition": "International Friendly",
-      "home": "Albania U21",
-      "away": "Spain U21",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzY3Y2E5ZTUyNzYxMGVkZWJmZmU2OGVlNmI3NTBmNTQ4LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzE4ZTI4MDdkMTFkNzRiYWI5NjQwODUyNjI3MDE3ZTUwLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "18 Nov 2026 • 01:00 WIB",
-      "match_time": 1794938400,
-      "match_date": "2026-11-18",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk4CyDorPxqN6mFE/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/albania-u21-vs-spain-u21-8yomo4hy7g87q0j"
     },
     {
       "id": "vjxm8ghekdy5r6o",
