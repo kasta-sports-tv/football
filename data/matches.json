@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-17T17:01:56.601794+00:00",
+  "updated_at": "2026-11-17T18:01:29.574437+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 8,
+  "matches_count": 28,
   "matches": [
     {
       "id": "k82rekh2v8g7rep",
@@ -136,6 +136,116 @@
       "match_url": "https://kickofftv.id/match/kuwait-vs-honduras-965mkyh87gkdr1g"
     },
     {
+      "id": "dn1m1gh94ol6moe",
+      "slug": "croatia-u21-vs-germany-u21-dn1m1gh94ol6moe",
+      "competition": "International Friendly",
+      "home": "Croatia U21",
+      "away": "Germany U21",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzU4YTZlMDQ0N2UzNzIwMGJkYzIyYjc3ZTRjZTk3NjRiLmNyZG93bmxvYWQ=",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2E3OWVlMTJjNTQ4MTczOTcxNDI1NGMzMzgxNDk3N2Q5LnBuZw==",
+      "home_score": 1,
+      "away_score": 0,
+      "status": "Half Time",
+      "time_label": "18 Nov 2026 • 00:00 WIB",
+      "match_time": 1794934800,
+      "match_date": "2026-11-18",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk3sP3NdbgtQxH6x/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/croatia-u21-vs-germany-u21-dn1m1gh94ol6moe"
+    },
+    {
+      "id": "x7lm7phxkxegm2w",
+      "slug": "poland-u21-vs-serbia-u21-x7lm7phxkxegm2w",
+      "competition": "International Friendly",
+      "home": "Poland U21",
+      "away": "Serbia U21",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzJlMTE5NDdjMjYyODhiZWM1ZDdmZjMwNGYxMGE5OGMzLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzExNjg3ZWVkNDNkNDg0ZmZmNWU2NDE5OGRkZTZjMzU4LnBuZw==",
+      "home_score": 1,
+      "away_score": 0,
+      "status": "Half Time",
+      "time_label": "18 Nov 2026 • 00:00 WIB",
+      "match_time": 1794934800,
+      "match_date": "2026-11-18",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk46RkgG87GR7abS/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/poland-u21-vs-serbia-u21-x7lm7phxkxegm2w"
+    },
+    {
+      "id": "2y8m4zhv3w70ql0",
+      "slug": "switzerland-u17-vs-czechia-republic-u17-2y8m4zhv3w70ql0",
+      "competition": "International Friendly",
+      "home": "Switzerland U17",
+      "away": "Czechia Republic U17",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzBjYjk0YTJlOTllZWIxNDYxYmYxZmIzMjY4YTZkOWJkLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2EwNzRjZTZlYzM0OGQ1ODg3NDJhYmY4ZjllM2NkMTRkLnBuZw==",
+      "home_score": 2,
+      "away_score": 1,
+      "status": "Half Time",
+      "time_label": "18 Nov 2026 • 00:00 WIB",
+      "match_time": 1794934800,
+      "match_date": "2026-11-18",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/switzerland-u17-vs-czechia-republic-u17-2y8m4zhv3w70ql0"
+    },
+    {
+      "id": "6ypq3nhk0p03md7",
+      "slug": "usa-u20-vs-paraguay-u20-6ypq3nhk0p03md7",
+      "competition": "International Friendly",
+      "home": "USA U20",
+      "away": "Paraguay U20",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2MzZWJkODIwMGFlM2M1ZTEyMDg3NGIwZTg2YWY1ZDNlLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2M4MGRlMTAxN2YyMGEzMTZhMjQ2YTRlNTllZWU2Nzk2LnBuZw==",
+      "home_score": 0,
+      "away_score": 1,
+      "status": "Half Time",
+      "time_label": "18 Nov 2026 • 00:00 WIB",
+      "match_time": 1794934800,
+      "match_date": "2026-11-18",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/usa-u20-vs-paraguay-u20-6ypq3nhk0p03md7"
+    },
+    {
+      "id": "n54qllh4246eqvy",
+      "slug": "portugal-u21-vs-norway-u21-n54qllh4246eqvy",
+      "competition": "International Friendly",
+      "home": "Portugal U21",
+      "away": "Norway U21",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2UwN2E1ZWY1MmU3Y2JkYWYzMjM2MzNjNDQzYzI0YWNhLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzI5NjhjNGFlODlkM2RjZDk4YTc0YzZmNWMxNTljNzE0LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "First Half",
+      "time_label": "18 Nov 2026 • 00:30 WIB",
+      "match_time": 1794936600,
+      "match_date": "2026-11-18",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk46RkgLX51NmQuE/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/portugal-u21-vs-norway-u21-n54qllh4246eqvy"
+    },
+    {
       "id": "2y8m4zhv3e3pql0",
       "slug": "turkiye-u16-vs-germany-u16-2y8m4zhv3e3pql0",
       "competition": "International Friendly",
@@ -178,6 +288,336 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/costa-rica-u17-vs-usa-u17-8yomo4hy767gq0j"
+    },
+    {
+      "id": "x7lm7phxk27om2w",
+      "slug": "saudi-arabia-u23-vs-kuwait-u23-x7lm7phxk27om2w",
+      "competition": "International Friendly",
+      "home": "Saudi Arabia U23",
+      "away": "Kuwait U23",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzgwYTY2MGIzM2IyZmQwZjc0OWYwZWYwNTg4ZWUzYzJjLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzQ3MWQyNGUxMmQyMzNmYzVkMzA1ZmM1ODZjOTIwNWQ1LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "TBD",
+      "time_label": "18 Nov 2026 • 00:00 WIB",
+      "match_time": 1794934800,
+      "match_date": "2026-11-18",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/saudi-arabia-u23-vs-kuwait-u23-x7lm7phxk27om2w"
+    },
+    {
+      "id": "8yomo4hy7g87q0j",
+      "slug": "albania-u21-vs-spain-u21-8yomo4hy7g87q0j",
+      "competition": "International Friendly",
+      "home": "Albania U21",
+      "away": "Spain U21",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzY3Y2E5ZTUyNzYxMGVkZWJmZmU2OGVlNmI3NTBmNTQ4LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzE4ZTI4MDdkMTFkNzRiYWI5NjQwODUyNjI3MDE3ZTUwLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "18 Nov 2026 • 01:00 WIB",
+      "match_time": 1794938400,
+      "match_date": "2026-11-18",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk4CyDorPxqN6mFE/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/albania-u21-vs-spain-u21-8yomo4hy7g87q0j"
+    },
+    {
+      "id": "vjxm8ghekdy5r6o",
+      "slug": "bosnia-and-herzegovina-vs-romania-vjxm8ghekdy5r6o",
+      "competition": "UEFA Nations League",
+      "home": "Bosnia and Herzegovina",
+      "away": "Romania",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzdlMjcxNWNiMWE3OWEyOTQ3NjE3Yzg2ZTZiMTdmOGUwLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzBkNjIyMTAxZGU5ZmY3ZTdiYzVjNGFiZTQ1Nzk2Y2ZhLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "18 Nov 2026 • 02:45 WIB",
+      "match_time": 1794944700,
+      "match_date": "2026-11-18",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwcqsu5rFHma2bWKS/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwcqsu5rFHma2bWKS/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/bosnia-and-herzegovina-vs-romania-vjxm8ghekdy5r6o"
+    },
+    {
+      "id": "dj2ryohl768nq1z",
+      "slug": "denmark-vs-norway-dj2ryohl768nq1z",
+      "competition": "UEFA Nations League",
+      "home": "Denmark",
+      "away": "Norway",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzYwMmI1YzI0MWM4ZTJmN2Y2ZDI5ZTAzMGRmZDc4YjZkLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzk0Nzc2ZDVjOThkZjYwNjEyNzI0ZjZmMDNiYTM2YzBhLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "18 Nov 2026 • 02:45 WIB",
+      "match_time": 1794944700,
+      "match_date": "2026-11-18",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwcqsu626khrmPnCY/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwcqsu626khrmPnCY/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/denmark-vs-norway-dj2ryohl768nq1z"
+    },
+    {
+      "id": "6ypq3nhvkyxgmd7",
+      "slug": "hungary-vs-northern-ireland-6ypq3nhvkyxgmd7",
+      "competition": "UEFA Nations League",
+      "home": "Hungary",
+      "away": "Northern Ireland",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2RkMWEwY2UzYmZkZDRiMzJjYzRjZGRlZTA0NDVjOTEyLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzU1ZTU3NjhkNTk2MTc2MTdkZDI0ODAzZWY5ZDFjYjZkLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "18 Nov 2026 • 02:45 WIB",
+      "match_time": 1794944700,
+      "match_date": "2026-11-18",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwcqsu61gaRHVJhWg/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwcqsu61gaRHVJhWg/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/hungary-vs-northern-ireland-6ypq3nhvkyxgmd7"
+    },
+    {
+      "id": "3glrw7hn42dpqdy",
+      "slug": "ireland-vs-kosovo-3glrw7hn42dpqdy",
+      "competition": "UEFA Nations League",
+      "home": "Ireland",
+      "away": "Kosovo",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2M5OTQ5YWU1ZDUzNGZlOTMwZWFlNjY2NDEzZDMyMjM5LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2JiZWEwMTJkNTNmMjFkNzg0ZjM4MGYzZjMzODkyZjA5LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "18 Nov 2026 • 02:45 WIB",
+      "match_time": 1794944700,
+      "match_date": "2026-11-18",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwcqsu5rHVFSWRRUL/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwcqsu5rHVFSWRRUL/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/ireland-vs-kosovo-3glrw7hn42dpqdy"
+    },
+    {
+      "id": "pxwrxlhyl8deryk",
+      "slug": "israel-vs-austria-pxwrxlhyl8deryk",
+      "competition": "UEFA Nations League",
+      "home": "Israel",
+      "away": "Austria",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2IwZGMxZWZmY2Q4ODMyOTljYThlYzk2ZGQ3MjBkMzBjLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzcwZjMxOWY4ZmFkZjQ0N2Y5ZDkzOWYwODk5NjViYjYzLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "18 Nov 2026 • 02:45 WIB",
+      "match_time": 1794944700,
+      "match_date": "2026-11-18",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwcqsu61eNwR1UnMn/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwcqsu61eNwR1UnMn/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/israel-vs-austria-pxwrxlhyl8deryk"
+    },
+    {
+      "id": "x7lm7phjxy4zm2w",
+      "slug": "poland-vs-sweden-x7lm7phjxy4zm2w",
+      "competition": "UEFA Nations League",
+      "home": "Poland",
+      "away": "Sweden",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzQ1ZGM1NGRkNGNhNWFmZGE1OWUwMjBmNDA5MjBjZjg0LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzM2OWU4NGFlY2RmNjQ4MTU4Yjc3ODVhYTVhYWVmMDdhLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "18 Nov 2026 • 02:45 WIB",
+      "match_time": 1794944700,
+      "match_date": "2026-11-18",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwcqsu5rMtDBU5Fn8/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwcqsu5rMtDBU5Fn8/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/poland-vs-sweden-x7lm7phjxy4zm2w"
+    },
+    {
+      "id": "8yomo4h1yln5q0j",
+      "slug": "ukraine-vs-georgia-8yomo4h1yln5q0j",
+      "competition": "UEFA Nations League",
+      "home": "Ukraine",
+      "away": "Georgia",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzE5YWQzYThkZjc0MTEyNDZmOTJkYWExMDg3NzgyMjYzLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzRjMTQ5NWUyMmQ1NDczMjMzNDAxMWQzZWExNWExZWIxLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "18 Nov 2026 • 02:45 WIB",
+      "match_time": 1794944700,
+      "match_date": "2026-11-18",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwcqsu62B9fbj3cWL/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwcqsu62B9fbj3cWL/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/ukraine-vs-georgia-8yomo4h1yln5q0j"
+    },
+    {
+      "id": "2y8m4zh5vyl1ql0",
+      "slug": "wales-vs-portugal-2y8m4zh5vyl1ql0",
+      "competition": "UEFA Nations League",
+      "home": "Wales",
+      "away": "Portugal",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzA4ZmY3NDQxYTAwODlhMDM0MTkxZDZmNGFiOTNhMTQ1LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzg4NjNiOWUxODZlMzU4MGFhNmRlYzI5ZjE5MTU1ZDNhLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "18 Nov 2026 • 02:45 WIB",
+      "match_time": 1794944700,
+      "match_date": "2026-11-18",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwcqsu62DM9UCsXfE/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwcqsu62DM9UCsXfE/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/wales-vs-portugal-2y8m4zh5vyl1ql0"
+    },
+    {
+      "id": "4wyrn4hy87yzq86",
+      "slug": "argentina-vs-costa-rica-4wyrn4hy87yzq86",
+      "competition": "International Friendly",
+      "home": "Argentina",
+      "away": "Costa Rica",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2U1ZTVlMGY2NzQ4MTMyNGViZGJkNjVkNjU4OTBiMmI4LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzM1MzNmMzllOTIzMzE5YjNhZmE0ZjJkNGQzODhjODg2LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "18 Nov 2026 • 06:00 WIB",
+      "match_time": 1794956400,
+      "match_date": "2026-11-18",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/argentina-vs-costa-rica-4wyrn4hy87yzq86"
+    },
+    {
+      "id": "x7lm7phxg80ym2w",
+      "slug": "chile-vs-colombia-x7lm7phxg80ym2w",
+      "competition": "International Friendly",
+      "home": "Chile",
+      "away": "Colombia",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzY0Y2UyN2NmZGZiYjI5NTczODJjNGM3YzYyYmFlNTdhLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2U3NWNjMTFlZjE2ZWI0YjAxNTc0YTkyYjE0ODdhZGRiLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "18 Nov 2026 • 06:00 WIB",
+      "match_time": 1794956400,
+      "match_date": "2026-11-18",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/chile-vs-colombia-x7lm7phxg80ym2w"
+    },
+    {
+      "id": "l5ergphko5kor8k",
+      "slug": "ecuador-vs-bolivia-l5ergphko5kor8k",
+      "competition": "International Friendly",
+      "home": "Ecuador",
+      "away": "Bolivia",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2M3NDkyMDBmMjAzYmU4NGJkMTFlNmNlNWVhYzJjNjdmLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzM0N2E5NDhmNDE3MTQ5MTEwOWUyNTFkN2IyMzY4NWViLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "18 Nov 2026 • 06:30 WIB",
+      "match_time": 1794958200,
+      "match_date": "2026-11-18",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/ecuador-vs-bolivia-l5ergphko5kor8k"
+    },
+    {
+      "id": "l5ergphko223r8k",
+      "slug": "uruguay-vs-dominican-republic-l5ergphko223r8k",
+      "competition": "International Friendly",
+      "home": "Uruguay",
+      "away": "Dominican Republic",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzA4NzczMWIwZDVkZjM5Njk5MjNjZTk3NGY4NzRiNDUzLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2M4ODU5NGY5NTFhMjQxNGViMDIzODMxNWUxNDNkZThkLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "18 Nov 2026 • 06:30 WIB",
+      "match_time": 1794958200,
+      "match_date": "2026-11-18",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/uruguay-vs-dominican-republic-l5ergphko223r8k"
+    },
+    {
+      "id": "4wyrn4hy854vq86",
+      "slug": "western-springs-afc-vs-tonga-4wyrn4hy854vq86",
+      "competition": "International Friendly",
+      "home": "Western Springs AFC",
+      "away": "Tonga",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2RjOTA3ZjExOGE5OTQ2Njc5YzllNjcxNDNkOTM4OGIzLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2MyN2Y1NTIzN2YyOGJhYmE1ZGU5NTM0ODFjYWY0YzNiLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "18 Nov 2026 • 13:00 WIB",
+      "match_time": 1794981600,
+      "match_date": "2026-11-18",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/western-springs-afc-vs-tonga-4wyrn4hy854vq86"
     }
   ]
 }
