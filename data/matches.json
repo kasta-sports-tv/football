@@ -1,52 +1,8 @@
 {
-  "updated_at": "2026-11-17T16:01:24.734270+00:00",
+  "updated_at": "2026-11-17T17:01:56.601794+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 11,
+  "matches_count": 8,
   "matches": [
-    {
-      "id": "dn1m1gh94y2nmoe",
-      "slug": "georgia-u18-vs-kazakhstan-u18-dn1m1gh94y2nmoe",
-      "competition": "International Friendly",
-      "home": "Georgia U18",
-      "away": "Kazakhstan U18",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2YwNGFlMzkwMTQ3YWIyMDE4NGRjOWMxNTA4MTYwM2I4LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2FjNDM3NTA4YjcxYTM5MjczYTYwZWM0NGZhMjhmYjdiLnBuZw==",
-      "home_score": 1,
-      "away_score": 3,
-      "status": "Second Half",
-      "time_label": "17 Nov 2026 • 21:00 WIB",
-      "match_time": 1794924000,
-      "match_date": "2026-11-17",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/georgia-u18-vs-kazakhstan-u18-dn1m1gh94y2nmoe"
-    },
-    {
-      "id": "dj2ryoh7k9k4q1z",
-      "slug": "united-arab-emirates-vs-syria-dj2ryoh7k9k4q1z",
-      "competition": "International Friendly",
-      "home": "United Arab Emirates",
-      "away": "Syria",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzBkYjNiODE2N2Q5MWY2NWU1ZDdkMDhlM2ZjNmRlMjBkLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Y5ZWJkYWI0YjQ1MzQ0N2ExY2Q5ODBjYmY5NWUzNDVlLnBuZw==",
-      "home_score": 4,
-      "away_score": 1,
-      "status": "Second Half",
-      "time_label": "17 Nov 2026 • 21:10 WIB",
-      "match_time": 1794924600,
-      "match_date": "2026-11-17",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk46XgjmyDbGYH5J/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/united-arab-emirates-vs-syria-dj2ryoh7k9k4q1z"
-    },
     {
       "id": "k82rekh2v8g7rep",
       "slug": "saudi-arabia-vs-uzbekistan-k82rekh2v8g7rep",
@@ -55,9 +11,9 @@
       "away": "Uzbekistan",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzM4NzRkY2QxMDllNjQ2Y2JlN2M1ZThmYjJiZDQxNTQ4LnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzg1YzE1ODY0YzhkYzQ1ZDMzNWJjMzcyMGM2M2NmMmExLnBuZw==",
-      "home_score": 0,
-      "away_score": 1,
-      "status": "First Half",
+      "home_score": 1,
+      "away_score": 2,
+      "status": "Second Half",
       "time_label": "17 Nov 2026 • 22:30 WIB",
       "match_time": 1794929400,
       "match_date": "2026-11-17",
@@ -70,26 +26,114 @@
       "match_url": "https://kickofftv.id/match/saudi-arabia-vs-uzbekistan-k82rekh2v8g7rep"
     },
     {
-      "id": "8yomo4hy7yjlq0j",
-      "slug": "turkiye-u18-vs-germany-u18-8yomo4hy7yjlq0j",
+      "id": "y0or5jh9l9klqwz",
+      "slug": "egypt-u21-vs-japan-u21-y0or5jh9l9klqwz",
       "competition": "International Friendly",
-      "home": "Turkiye U18",
-      "away": "Germany U18",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzE1MzM0ZjA0NDIyYjE4NDJiOThmZjM1NGVkY2U4NDE1LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Y4MWIyMGRlOWM2OWJhYjAwNWFlNWNjYThkOGVhNjg0LnBuZw==",
+      "home": "Egypt U21",
+      "away": "Japan U21",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzEzYTI0ZTc1MTQzMGQ3N2RkNTU1YjQ4MTJmYmEzMjljLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzMwM2ZjYzFhM2JmMjAwODA5YjdiODZkNjc1NzNjMDNhLnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "TBD",
-      "time_label": "17 Nov 2026 • 21:00 WIB",
-      "match_time": 1794924000,
+      "status": "Half Time",
+      "time_label": "17 Nov 2026 • 23:00 WIB",
+      "match_time": 1794931200,
       "match_date": "2026-11-17",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
         "sd": "",
         "hd": ""
       },
-      "match_url": "https://kickofftv.id/match/turkiye-u18-vs-germany-u18-8yomo4hy7yjlq0j"
+      "match_url": "https://kickofftv.id/match/egypt-u21-vs-japan-u21-y0or5jh9l9klqwz"
+    },
+    {
+      "id": "vjxm8ghkv3j6r6o",
+      "slug": "jordan-vs-australia-vjxm8ghkv3j6r6o",
+      "competition": "International Friendly",
+      "home": "Jordan",
+      "away": "Australia",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2IzM2RiMzMxMDVjODI3MTgwMzRjMTc5NjA3YTRmYTU2LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzZmMjg5YmRmZmUwM2EyNDgwYWQ1MjFkYzJjMTE0ZDU2LnBuZw==",
+      "home_score": 1,
+      "away_score": 0,
+      "status": "Half Time",
+      "time_label": "17 Nov 2026 • 23:00 WIB",
+      "match_time": 1794931200,
+      "match_date": "2026-11-17",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjJtc9AEtysw5PsN/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/jordan-vs-australia-vjxm8ghkv3j6r6o"
+    },
+    {
+      "id": "318q66h8o7x9qo9",
+      "slug": "russia-vs-venezuela-318q66h8o7x9qo9",
+      "competition": "International Friendly",
+      "home": "Russia",
+      "away": "Venezuela",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZlMzA2OGJiZTk0ZGQ1ZjQyM2U5YjlhNjEzNWQ4YzQwLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzIxOGM4MTg5N2I3M2JkZmNkNjJlYTJhY2U3ODllNWQzLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Half Time",
+      "time_label": "17 Nov 2026 • 23:00 WIB",
+      "match_time": 1794931200,
+      "match_date": "2026-11-17",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk3sP3NfoAktnCFr/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/russia-vs-venezuela-318q66h8o7x9qo9"
+    },
+    {
+      "id": "vjxm8ghk4koyr6o",
+      "slug": "iraq-vs-ir-iran-vjxm8ghk4koyr6o",
+      "competition": "International Friendly",
+      "home": "Iraq",
+      "away": "IR Iran",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzg1ZWJhNjkwNTE4OWRiYTNiOWRlNjM0MmVkZTUzMTUwLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzU4YjVkNWYzNTJmYWZiODQ1YjRmNjc1NWMyZDViNzI0LnBuZw==",
+      "home_score": 1,
+      "away_score": 0,
+      "status": "First Half",
+      "time_label": "17 Nov 2026 • 23:15 WIB",
+      "match_time": 1794932100,
+      "match_date": "2026-11-17",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk46Rkg9Xfeydq8k/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/iraq-vs-ir-iran-vjxm8ghk4koyr6o"
+    },
+    {
+      "id": "965mkyh87gkdr1g",
+      "slug": "kuwait-vs-honduras-965mkyh87gkdr1g",
+      "competition": "International Friendly",
+      "home": "Kuwait",
+      "away": "Honduras",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzUwMTQwMmViYmFhODU1NTMyOWMyNWI1MmZlNzllY2IyLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzE1MmUyZWE1NmUyNmE1MjY4MmMzOTY2NDI3NTM3ZmU4LnBuZw==",
+      "home_score": 0,
+      "away_score": 1,
+      "status": "First Half",
+      "time_label": "17 Nov 2026 • 23:30 WIB",
+      "match_time": 1794933000,
+      "match_date": "2026-11-17",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk3sP3NUomQVecVN/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/kuwait-vs-honduras-965mkyh87gkdr1g"
     },
     {
       "id": "2y8m4zhv3e3pql0",
@@ -123,7 +167,7 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2RkODRmOTljYmMxZTFjNjkyMTVkMzU1ZTdjZDAzODlhLnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "TBD",
       "time_label": "17 Nov 2026 • 23:00 WIB",
       "match_time": 1794931200,
       "match_date": "2026-11-17",
@@ -134,116 +178,6 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/costa-rica-u17-vs-usa-u17-8yomo4hy767gq0j"
-    },
-    {
-      "id": "y0or5jh9l9klqwz",
-      "slug": "egypt-u21-vs-japan-u21-y0or5jh9l9klqwz",
-      "competition": "International Friendly",
-      "home": "Egypt U21",
-      "away": "Japan U21",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzEzYTI0ZTc1MTQzMGQ3N2RkNTU1YjQ4MTJmYmEzMjljLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzMwM2ZjYzFhM2JmMjAwODA5YjdiODZkNjc1NzNjMDNhLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "17 Nov 2026 • 23:00 WIB",
-      "match_time": 1794931200,
-      "match_date": "2026-11-17",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/egypt-u21-vs-japan-u21-y0or5jh9l9klqwz"
-    },
-    {
-      "id": "vjxm8ghkv3j6r6o",
-      "slug": "jordan-vs-australia-vjxm8ghkv3j6r6o",
-      "competition": "International Friendly",
-      "home": "Jordan",
-      "away": "Australia",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2IzM2RiMzMxMDVjODI3MTgwMzRjMTc5NjA3YTRmYTU2LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzZmMjg5YmRmZmUwM2EyNDgwYWQ1MjFkYzJjMTE0ZDU2LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "17 Nov 2026 • 23:00 WIB",
-      "match_time": 1794931200,
-      "match_date": "2026-11-17",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjJtc9AEtysw5PsN/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/jordan-vs-australia-vjxm8ghkv3j6r6o"
-    },
-    {
-      "id": "318q66h8o7x9qo9",
-      "slug": "russia-vs-venezuela-318q66h8o7x9qo9",
-      "competition": "International Friendly",
-      "home": "Russia",
-      "away": "Venezuela",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZlMzA2OGJiZTk0ZGQ1ZjQyM2U5YjlhNjEzNWQ4YzQwLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzIxOGM4MTg5N2I3M2JkZmNkNjJlYTJhY2U3ODllNWQzLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "17 Nov 2026 • 23:00 WIB",
-      "match_time": 1794931200,
-      "match_date": "2026-11-17",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk3sP3NfoAktnCFr/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/russia-vs-venezuela-318q66h8o7x9qo9"
-    },
-    {
-      "id": "vjxm8ghk4koyr6o",
-      "slug": "iraq-vs-ir-iran-vjxm8ghk4koyr6o",
-      "competition": "International Friendly",
-      "home": "Iraq",
-      "away": "IR Iran",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzg1ZWJhNjkwNTE4OWRiYTNiOWRlNjM0MmVkZTUzMTUwLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzU4YjVkNWYzNTJmYWZiODQ1YjRmNjc1NWMyZDViNzI0LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "17 Nov 2026 • 23:15 WIB",
-      "match_time": 1794932100,
-      "match_date": "2026-11-17",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk46Rkg9Xfeydq8k/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/iraq-vs-ir-iran-vjxm8ghk4koyr6o"
-    },
-    {
-      "id": "965mkyh87gkdr1g",
-      "slug": "kuwait-vs-honduras-965mkyh87gkdr1g",
-      "competition": "International Friendly",
-      "home": "Kuwait",
-      "away": "Honduras",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzUwMTQwMmViYmFhODU1NTMyOWMyNWI1MmZlNzllY2IyLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzE1MmUyZWE1NmUyNmE1MjY4MmMzOTY2NDI3NTM3ZmU4LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "17 Nov 2026 • 23:30 WIB",
-      "match_time": 1794933000,
-      "match_date": "2026-11-17",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk3sP3NUomQVecVN/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/kuwait-vs-honduras-965mkyh87gkdr1g"
     }
   ]
 }
