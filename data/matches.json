@@ -1,30 +1,8 @@
 {
-  "updated_at": "2026-11-17T11:01:42.048413+00:00",
+  "updated_at": "2026-11-17T12:01:27.945262+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 24,
+  "matches_count": 23,
   "matches": [
-    {
-      "id": "pxwrxlhlpe90ryk",
-      "slug": "singapore-vs-brazil-pxwrxlhlpe90ryk",
-      "competition": "International Friendly",
-      "home": "Singapore",
-      "away": "Brazil",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2U3OTU1M2JmZGQ3MDI1NjFkYmI3MDg5NzFjOGIwN2ViLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzliOGM2ZTg1MTU3ZjJjMDg1YTRmMmUyMzc0YjMxMzhjLnBuZw==",
-      "home_score": 0,
-      "away_score": 4,
-      "status": "Half Time",
-      "time_label": "17 Nov 2026 • 17:00 WIB",
-      "match_time": 1794909600,
-      "match_date": "2026-11-17",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjJtc9Amfi4eeE1v/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/singapore-vs-brazil-pxwrxlhlpe90ryk"
-    },
     {
       "id": "6ypq3nhk0kd9md7",
       "slug": "south-korea-u21-vs-mexico-u23-6ypq3nhk0kd9md7",
@@ -35,7 +13,7 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2E3YTk2ZmI2MzU2OWVjMTUzYTExZGRiMDBjMzg1MmExLnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "Half Time",
+      "status": "Second Half",
       "time_label": "17 Nov 2026 • 17:00 WIB",
       "match_time": 1794909600,
       "match_date": "2026-11-17",
@@ -46,28 +24,6 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/south-korea-u21-vs-mexico-u23-6ypq3nhk0kd9md7"
-    },
-    {
-      "id": "zp5rzgh3jdykq82",
-      "slug": "netherlands-u18-vs-sweden-u18-zp5rzgh3jdykq82",
-      "competition": "International Friendly",
-      "home": "Netherlands U18",
-      "away": "Sweden U18",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZmZDhkYWNlN2Y1ZjdmMmI0YmE0OWM3MDRjOTcwODI1LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Y3M2YyNDQ0MGJiYzM0NTNiMDc4MjI4MzgwODVkZWZlLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "First Half",
-      "time_label": "17 Nov 2026 • 17:30 WIB",
-      "match_time": 1794911400,
-      "match_date": "2026-11-17",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/netherlands-u18-vs-sweden-u18-zp5rzgh3jdykq82"
     },
     {
       "id": "k82rekhgkz41rep",
@@ -90,6 +46,28 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/ucsa-vs-polissya-zhytomyr-b-k82rekhgkz41rep"
+    },
+    {
+      "id": "zp5rzgh3jdykq82",
+      "slug": "netherlands-u18-vs-sweden-u18-zp5rzgh3jdykq82",
+      "competition": "International Friendly",
+      "home": "Netherlands U18",
+      "away": "Sweden U18",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZmZDhkYWNlN2Y1ZjdmMmI0YmE0OWM3MDRjOTcwODI1LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Y3M2YyNDQ0MGJiYzM0NTNiMDc4MjI4MzgwODVkZWZlLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "TBD",
+      "time_label": "17 Nov 2026 • 17:30 WIB",
+      "match_time": 1794911400,
+      "match_date": "2026-11-17",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/netherlands-u18-vs-sweden-u18-zp5rzgh3jdykq82"
     },
     {
       "id": "k82rekh2vjv9rep",
