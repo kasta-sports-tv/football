@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-17T01:01:08.440198+00:00",
+  "updated_at": "2026-11-17T02:01:11.149709+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 25,
+  "matches_count": 26,
   "matches": [
     {
       "id": "318q66h8o34vqo9",
@@ -101,7 +101,7 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzRhMjg5NWUyNTE4MDM5NzYzNTY2NGUwZDRlMWRjZWFkLnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "Delayed",
+      "status": "Not Started",
       "time_label": "17 Nov 2026 • 17:00 WIB",
       "match_time": 1794909600,
       "match_date": "2026-11-17",
@@ -178,6 +178,28 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/thailand-vs-tajikistan-8yomo4hy7oyxq0j"
+    },
+    {
+      "id": "dn1m1gh94y2nmoe",
+      "slug": "georgia-u18-vs-kazakhstan-u18-dn1m1gh94y2nmoe",
+      "competition": "International Friendly",
+      "home": "Georgia U18",
+      "away": "Kazakhstan U18",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2YwNGFlMzkwMTQ3YWIyMDE4NGRjOWMxNTA4MTYwM2I4LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2FjNDM3NTA4YjcxYTM5MjczYTYwZWM0NGZhMjhmYjdiLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "17 Nov 2026 • 20:00 WIB",
+      "match_time": 1794920400,
+      "match_date": "2026-11-17",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/georgia-u18-vs-kazakhstan-u18-dn1m1gh94y2nmoe"
     },
     {
       "id": "dn1m1gh94g43moe",
