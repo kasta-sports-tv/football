@@ -1233,20 +1233,20 @@
     "dn1m1gh94g43moe": 1794927677,
     "4wyrn4hy858vq86": 1794927677,
     "l5ergphko7opr8k": 1794920476,
-    "dn1m1gh94y2nmoe": 1794927677,
+    "dn1m1gh94y2nmoe": 1794931279,
     "2y8m4zhv3yvvql0": 1794920476,
     "3glrw7h4k6jeqdy": 1794912010,
     "y39mp1hd3k6lmoj": 1794912010,
     "8yomo4hy7yjlq0j": 1794920476,
     "dj2ryoh7k9k4q1z": 1794927677,
     "2y8m4zhv3e3pql0": 1794927677,
-    "k82rekh2v8g7rep": 1794927677,
+    "k82rekh2v8g7rep": 1794931279,
     "vjxm8ghkv3j6r6o": 1794927677,
     "318q66h8o7x9qo9": 1794927677,
-    "y0or5jh9l9klqwz": 1794927677,
-    "8yomo4hy767gq0j": 1794927677,
+    "y0or5jh9l9klqwz": 1794931279,
+    "8yomo4hy767gq0j": 1794931279,
     "vjxm8ghk4koyr6o": 1794927677,
-    "965mkyh87gkdr1g": 1794927677
+    "965mkyh87gkdr1g": 1794931279
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -4113,6 +4113,16 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk46Rkg9Xfeydq8k/playlist.m3u8",
       "hd": "",
       "slug": "iraq-vs-ir-iran-vjxm8ghk4koyr6o"
+    },
+    "k82rekh2v8g7rep": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk3sP3NZCj9TJSoA/playlist.m3u8",
+      "hd": "",
+      "slug": "saudi-arabia-vs-uzbekistan-k82rekh2v8g7rep"
+    },
+    "965mkyh87gkdr1g": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk3sP3NUomQVecVN/playlist.m3u8",
+      "hd": "",
+      "slug": "kuwait-vs-honduras-965mkyh87gkdr1g"
     }
   }
 }
