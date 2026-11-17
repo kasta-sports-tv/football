@@ -1,30 +1,8 @@
 {
-  "updated_at": "2026-11-17T10:01:33.043225+00:00",
+  "updated_at": "2026-11-17T10:40:26.077095+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 26,
+  "matches_count": 24,
   "matches": [
-    {
-      "id": "2y8m4zhv39vnql0",
-      "slug": "brunei-darussalam-vs-oman-2y8m4zhv39vnql0",
-      "competition": "International Friendly",
-      "home": "Brunei Darussalam",
-      "away": "Oman",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2U0NGU2NmJmN2ZiODU4NTUyMDJiZWJhM2UxYzQ2YTM0LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzExZmM1YmU2YmVkZmJjY2M1NjNjNTA1NGFkNTQ0MzIwLnBuZw==",
-      "home_score": 0,
-      "away_score": 4,
-      "status": "Half Time",
-      "time_label": "17 Nov 2026 • 16:00 WIB",
-      "match_time": 1794906000,
-      "match_date": "2026-11-17",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk4S1xx3XccTP64p/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/brunei-darussalam-vs-oman-2y8m4zhv39vnql0"
-    },
     {
       "id": "pxwrxlhlpe90ryk",
       "slug": "singapore-vs-brazil-pxwrxlhlpe90ryk",
@@ -34,12 +12,12 @@
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2U3OTU1M2JmZGQ3MDI1NjFkYmI3MDg5NzFjOGIwN2ViLnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzliOGM2ZTg1MTU3ZjJjMDg1YTRmMmUyMzc0YjMxMzhjLnBuZw==",
       "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
+      "away_score": 4,
+      "status": "First Half",
       "time_label": "17 Nov 2026 • 17:00 WIB",
       "match_time": 1794909600,
       "match_date": "2026-11-17",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
         "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjJtc9Amfi4eeE1v/playlist.m3u8",
@@ -57,39 +35,17 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2E3YTk2ZmI2MzU2OWVjMTUzYTExZGRiMDBjMzg1MmExLnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "First Half",
       "time_label": "17 Nov 2026 • 17:00 WIB",
       "match_time": 1794909600,
       "match_date": "2026-11-17",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk46Rkg7LBnVouyr/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/south-korea-u21-vs-mexico-u23-6ypq3nhk0kd9md7"
-    },
-    {
-      "id": "k82rekhgkz41rep",
-      "slug": "ucsa-vs-polissya-zhytomyr-b-k82rekhgkz41rep",
-      "competition": "Ukrainian First League",
-      "home": "UCSA",
-      "away": "Polissya Zhytomyr B",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzc5NjQ3MTRkN2NmNWFkNzBlZmVhMzg0NzU4MzIwYTM5LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzRhMjg5NWUyNTE4MDM5NzYzNTY2NGUwZDRlMWRjZWFkLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "17 Nov 2026 • 17:00 WIB",
-      "match_time": 1794909600,
-      "match_date": "2026-11-17",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwarNKLBPCNGt4AKa/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/ucsa-vs-polissya-zhytomyr-b-k82rekhgkz41rep"
     },
     {
       "id": "zp5rzgh3jdykq82",
@@ -101,17 +57,39 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Y3M2YyNDQ0MGJiYzM0NTNiMDc4MjI4MzgwODVkZWZlLnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "First Half",
       "time_label": "17 Nov 2026 • 17:30 WIB",
       "match_time": 1794911400,
       "match_date": "2026-11-17",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
         "sd": "",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/netherlands-u18-vs-sweden-u18-zp5rzgh3jdykq82"
+    },
+    {
+      "id": "k82rekhgkz41rep",
+      "slug": "ucsa-vs-polissya-zhytomyr-b-k82rekhgkz41rep",
+      "competition": "Ukrainian First League",
+      "home": "UCSA",
+      "away": "Polissya Zhytomyr B",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzc5NjQ3MTRkN2NmNWFkNzBlZmVhMzg0NzU4MzIwYTM5LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzRhMjg5NWUyNTE4MDM5NzYzNTY2NGUwZDRlMWRjZWFkLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "TBD",
+      "time_label": "17 Nov 2026 • 17:00 WIB",
+      "match_time": 1794909600,
+      "match_date": "2026-11-17",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwarNKLBPCNGt4AKa/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/ucsa-vs-polissya-zhytomyr-b-k82rekhgkz41rep"
     },
     {
       "id": "k82rekh2vjv9rep",
@@ -130,32 +108,10 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk46XgjaypEsQhJp/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/kyrgyzstan-vs-vietnam-k82rekh2vjv9rep"
-    },
-    {
-      "id": "8yomo4hy7oyxq0j",
-      "slug": "thailand-vs-tajikistan-8yomo4hy7oyxq0j",
-      "competition": "International Friendly",
-      "home": "Thailand",
-      "away": "Tajikistan",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Q0YzU1YzVkYWQ3ZTBhYjE3ZmVjYzMzZDFmZTA4ZTU3LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzZhNzgxMjFiNWUzMTJmY2MzNTE4ZWEzMzdiOTQ0NjYyLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "17 Nov 2026 • 19:30 WIB",
-      "match_time": 1794918600,
-      "match_date": "2026-11-17",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/thailand-vs-tajikistan-8yomo4hy7oyxq0j"
     },
     {
       "id": "2y8m4zhv3yvvql0",
@@ -284,7 +240,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk46RkgBj9XTTkHe/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/ukraine-u21-vs-usa-u23-3glrw7h4w4exqdy"
@@ -328,7 +284,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjJtc9AjUECApJs2/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/japan-vs-paraguay-3glrw7h4k6jeqdy"
@@ -350,7 +306,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk3sP3NbQD1w8Mx4/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/qatar-vs-south-korea-y39mp1hd3k6lmoj"
