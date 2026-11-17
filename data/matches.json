@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T09:01:26.309839+00:00",
+  "updated_at": "2026-11-17T10:01:33.043225+00:00",
   "source": "https://kickofftv.id",
   "matches_count": 26,
   "matches": [
@@ -12,12 +12,12 @@
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2U0NGU2NmJmN2ZiODU4NTUyMDJiZWJhM2UxYzQ2YTM0LnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzExZmM1YmU2YmVkZmJjY2M1NjNjNTA1NGFkNTQ0MzIwLnBuZw==",
       "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
+      "away_score": 4,
+      "status": "Half Time",
       "time_label": "17 Nov 2026 • 16:00 WIB",
       "match_time": 1794906000,
       "match_date": "2026-11-17",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
         "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk4S1xx3XccTP64p/playlist.m3u8",
