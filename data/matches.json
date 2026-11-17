@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T19:01:24.476282+00:00",
+  "updated_at": "2026-11-17T19:25:29.519166+00:00",
   "source": "https://kickofftv.id",
   "matches_count": 22,
   "matches": [
@@ -143,7 +143,7 @@
       "away": "Norway U21",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2UwN2E1ZWY1MmU3Y2JkYWYzMjM2MzNjNDQzYzI0YWNhLnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzI5NjhjNGFlODlkM2RjZDk4YTc0YzZmNWMxNTljNzE0LnBuZw==",
-      "home_score": 0,
+      "home_score": 1,
       "away_score": 0,
       "status": "Second Half",
       "time_label": "18 Nov 2026 • 00:30 WIB",
@@ -167,7 +167,7 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzE4ZTI4MDdkMTFkNzRiYWI5NjQwODUyNjI3MDE3ZTUwLnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "Half Time",
+      "status": "Second Half",
       "time_label": "18 Nov 2026 • 01:00 WIB",
       "match_time": 1794938400,
       "match_date": "2026-11-18",
