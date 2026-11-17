@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-11-17T12:01:27.945262+00:00",
+  "updated_at": "2026-11-17T13:01:27.736890+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 23,
+  "matches_count": 22,
   "matches": [
     {
-      "id": "6ypq3nhk0kd9md7",
-      "slug": "south-korea-u21-vs-mexico-u23-6ypq3nhk0kd9md7",
+      "id": "k82rekh2vjv9rep",
+      "slug": "kyrgyzstan-vs-vietnam-k82rekh2vjv9rep",
       "competition": "International Friendly",
-      "home": "South Korea U21",
-      "away": "Mexico U23",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzFjZGMyNmI1ZTQxNmE2NWEyMDc3ZGM5YmMyY2I3OWNlLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2E3YTk2ZmI2MzU2OWVjMTUzYTExZGRiMDBjMzg1MmExLnBuZw==",
+      "home": "Kyrgyzstan",
+      "away": "Vietnam",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZkNzIxZTFkZWE0YzU3ZWNiYTdkMzVjZDAxMjEyM2VkLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Y3MWU5YjRlYWY2MDU3ODBkMzY1NDc2ZTFjYTAzOGM2LnBuZw==",
       "home_score": 0,
-      "away_score": 0,
-      "status": "Second Half",
-      "time_label": "17 Nov 2026 • 17:00 WIB",
-      "match_time": 1794909600,
+      "away_score": 1,
+      "status": "Half Time",
+      "time_label": "17 Nov 2026 • 19:00 WIB",
+      "match_time": 1794916800,
       "match_date": "2026-11-17",
       "is_live": true,
       "is_finished": false,
       "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk46Rkg7LBnVouyr/playlist.m3u8",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk46XgjaypEsQhJp/playlist.m3u8",
         "hd": ""
       },
-      "match_url": "https://kickofftv.id/match/south-korea-u21-vs-mexico-u23-6ypq3nhk0kd9md7"
+      "match_url": "https://kickofftv.id/match/kyrgyzstan-vs-vietnam-k82rekh2vjv9rep"
     },
     {
       "id": "k82rekhgkz41rep",
@@ -33,19 +33,41 @@
       "away": "Polissya Zhytomyr B",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzc5NjQ3MTRkN2NmNWFkNzBlZmVhMzg0NzU4MzIwYTM5LnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzRhMjg5NWUyNTE4MDM5NzYzNTY2NGUwZDRlMWRjZWFkLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "TBD",
-      "time_label": "17 Nov 2026 • 17:00 WIB",
-      "match_time": 1794909600,
+      "home_score": 2,
+      "away_score": 1,
+      "status": "Half Time",
+      "time_label": "17 Nov 2026 • 19:00 WIB",
+      "match_time": 1794916800,
       "match_date": "2026-11-17",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
         "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwarNKLBPCNGt4AKa/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/ucsa-vs-polissya-zhytomyr-b-k82rekhgkz41rep"
+    },
+    {
+      "id": "318q66h8o3ovqo9",
+      "slug": "united-arab-emirates-u23-vs-jordan-u23-318q66h8o3ovqo9",
+      "competition": "International Friendly",
+      "home": "United Arab Emirates U23",
+      "away": "Jordan U23",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzE5ZDVhNjhmYWU2Zjk5OTNmOGQwM2ZhNTFlOTc5MDQ5LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzhiNDc0MWE3M2FhZmY1OWY2YjM2MTBmNDIwZWM0Y2QwLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "First Half",
+      "time_label": "17 Nov 2026 • 20:00 WIB",
+      "match_time": 1794920400,
+      "match_date": "2026-11-17",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/united-arab-emirates-u23-vs-jordan-u23-318q66h8o3ovqo9"
     },
     {
       "id": "zp5rzgh3jdykq82",
@@ -68,28 +90,6 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/netherlands-u18-vs-sweden-u18-zp5rzgh3jdykq82"
-    },
-    {
-      "id": "k82rekh2vjv9rep",
-      "slug": "kyrgyzstan-vs-vietnam-k82rekh2vjv9rep",
-      "competition": "International Friendly",
-      "home": "Kyrgyzstan",
-      "away": "Vietnam",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZkNzIxZTFkZWE0YzU3ZWNiYTdkMzVjZDAxMjEyM2VkLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Y3MWU5YjRlYWY2MDU3ODBkMzY1NDc2ZTFjYTAzOGM2LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "17 Nov 2026 • 19:00 WIB",
-      "match_time": 1794916800,
-      "match_date": "2026-11-17",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk46XgjaypEsQhJp/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/kyrgyzstan-vs-vietnam-k82rekh2vjv9rep"
     },
     {
       "id": "2y8m4zhv3yvvql0",
@@ -222,28 +222,6 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/ukraine-u21-vs-usa-u23-3glrw7h4w4exqdy"
-    },
-    {
-      "id": "318q66h8o3ovqo9",
-      "slug": "united-arab-emirates-u23-vs-jordan-u23-318q66h8o3ovqo9",
-      "competition": "International Friendly",
-      "home": "United Arab Emirates U23",
-      "away": "Jordan U23",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzE5ZDVhNjhmYWU2Zjk5OTNmOGQwM2ZhNTFlOTc5MDQ5LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzhiNDc0MWE3M2FhZmY1OWY2YjM2MTBmNDIwZWM0Y2QwLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "17 Nov 2026 • 20:00 WIB",
-      "match_time": 1794920400,
-      "match_date": "2026-11-17",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/united-arab-emirates-u23-vs-jordan-u23-318q66h8o3ovqo9"
     },
     {
       "id": "3glrw7h4k6jeqdy",
