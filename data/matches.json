@@ -1,184 +1,8 @@
 {
-  "updated_at": "2026-11-17T21:01:16.590109+00:00",
+  "updated_at": "2026-11-17T22:01:11.015294+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 13,
+  "matches_count": 5,
   "matches": [
-    {
-      "id": "vjxm8ghekdy5r6o",
-      "slug": "bosnia-and-herzegovina-vs-romania-vjxm8ghekdy5r6o",
-      "competition": "UEFA Nations League",
-      "home": "Bosnia and Herzegovina",
-      "away": "Romania",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzdlMjcxNWNiMWE3OWEyOTQ3NjE3Yzg2ZTZiMTdmOGUwLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzBkNjIyMTAxZGU5ZmY3ZTdiYzVjNGFiZTQ1Nzk2Y2ZhLnBuZw==",
-      "home_score": 1,
-      "away_score": 1,
-      "status": "Second Half",
-      "time_label": "18 Nov 2026 • 02:45 WIB",
-      "match_time": 1794944700,
-      "match_date": "2026-11-18",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwcqsu5rFHma2bWKS/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwcqsu5rFHma2bWKS/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/bosnia-and-herzegovina-vs-romania-vjxm8ghekdy5r6o"
-    },
-    {
-      "id": "dj2ryohl768nq1z",
-      "slug": "denmark-vs-norway-dj2ryohl768nq1z",
-      "competition": "UEFA Nations League",
-      "home": "Denmark",
-      "away": "Norway",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzYwMmI1YzI0MWM4ZTJmN2Y2ZDI5ZTAzMGRmZDc4YjZkLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzk0Nzc2ZDVjOThkZjYwNjEyNzI0ZjZmMDNiYTM2YzBhLnBuZw==",
-      "home_score": 2,
-      "away_score": 1,
-      "status": "Second Half",
-      "time_label": "18 Nov 2026 • 02:45 WIB",
-      "match_time": 1794944700,
-      "match_date": "2026-11-18",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwcqsu626khrmPnCY/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwcqsu626khrmPnCY/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/denmark-vs-norway-dj2ryohl768nq1z"
-    },
-    {
-      "id": "6ypq3nhvkyxgmd7",
-      "slug": "hungary-vs-northern-ireland-6ypq3nhvkyxgmd7",
-      "competition": "UEFA Nations League",
-      "home": "Hungary",
-      "away": "Northern Ireland",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2RkMWEwY2UzYmZkZDRiMzJjYzRjZGRlZTA0NDVjOTEyLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzU1ZTU3NjhkNTk2MTc2MTdkZDI0ODAzZWY5ZDFjYjZkLnBuZw==",
-      "home_score": 1,
-      "away_score": 0,
-      "status": "Second Half",
-      "time_label": "18 Nov 2026 • 02:45 WIB",
-      "match_time": 1794944700,
-      "match_date": "2026-11-18",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwcqsu61gaRHVJhWg/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwcqsu61gaRHVJhWg/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/hungary-vs-northern-ireland-6ypq3nhvkyxgmd7"
-    },
-    {
-      "id": "3glrw7hn42dpqdy",
-      "slug": "ireland-vs-kosovo-3glrw7hn42dpqdy",
-      "competition": "UEFA Nations League",
-      "home": "Ireland",
-      "away": "Kosovo",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2M5OTQ5YWU1ZDUzNGZlOTMwZWFlNjY2NDEzZDMyMjM5LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2JiZWEwMTJkNTNmMjFkNzg0ZjM4MGYzZjMzODkyZjA5LnBuZw==",
-      "home_score": 1,
-      "away_score": 0,
-      "status": "Second Half",
-      "time_label": "18 Nov 2026 • 02:45 WIB",
-      "match_time": 1794944700,
-      "match_date": "2026-11-18",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwcqsu5rHVFSWRRUL/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwcqsu5rHVFSWRRUL/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/ireland-vs-kosovo-3glrw7hn42dpqdy"
-    },
-    {
-      "id": "pxwrxlhyl8deryk",
-      "slug": "israel-vs-austria-pxwrxlhyl8deryk",
-      "competition": "UEFA Nations League",
-      "home": "Israel",
-      "away": "Austria",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2IwZGMxZWZmY2Q4ODMyOTljYThlYzk2ZGQ3MjBkMzBjLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzcwZjMxOWY4ZmFkZjQ0N2Y5ZDkzOWYwODk5NjViYjYzLnBuZw==",
-      "home_score": 1,
-      "away_score": 0,
-      "status": "Second Half",
-      "time_label": "18 Nov 2026 • 02:45 WIB",
-      "match_time": 1794944700,
-      "match_date": "2026-11-18",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwcqsu61eNwR1UnMn/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwcqsu61eNwR1UnMn/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/israel-vs-austria-pxwrxlhyl8deryk"
-    },
-    {
-      "id": "x7lm7phjxy4zm2w",
-      "slug": "poland-vs-sweden-x7lm7phjxy4zm2w",
-      "competition": "UEFA Nations League",
-      "home": "Poland",
-      "away": "Sweden",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzQ1ZGM1NGRkNGNhNWFmZGE1OWUwMjBmNDA5MjBjZjg0LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzM2OWU4NGFlY2RmNjQ4MTU4Yjc3ODVhYTVhYWVmMDdhLnBuZw==",
-      "home_score": 1,
-      "away_score": 1,
-      "status": "Second Half",
-      "time_label": "18 Nov 2026 • 02:45 WIB",
-      "match_time": 1794944700,
-      "match_date": "2026-11-18",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwcqsu5rMtDBU5Fn8/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwcqsu5rMtDBU5Fn8/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/poland-vs-sweden-x7lm7phjxy4zm2w"
-    },
-    {
-      "id": "8yomo4h1yln5q0j",
-      "slug": "ukraine-vs-georgia-8yomo4h1yln5q0j",
-      "competition": "UEFA Nations League",
-      "home": "Ukraine",
-      "away": "Georgia",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzE5YWQzYThkZjc0MTEyNDZmOTJkYWExMDg3NzgyMjYzLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzRjMTQ5NWUyMmQ1NDczMjMzNDAxMWQzZWExNWExZWIxLnBuZw==",
-      "home_score": 1,
-      "away_score": 0,
-      "status": "Second Half",
-      "time_label": "18 Nov 2026 • 02:45 WIB",
-      "match_time": 1794944700,
-      "match_date": "2026-11-18",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwcqsu62B9fbj3cWL/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwcqsu62B9fbj3cWL/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/ukraine-vs-georgia-8yomo4h1yln5q0j"
-    },
-    {
-      "id": "2y8m4zh5vyl1ql0",
-      "slug": "wales-vs-portugal-2y8m4zh5vyl1ql0",
-      "competition": "UEFA Nations League",
-      "home": "Wales",
-      "away": "Portugal",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzA4ZmY3NDQxYTAwODlhMDM0MTkxZDZmNGFiOTNhMTQ1LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzg4NjNiOWUxODZlMzU4MGFhNmRlYzI5ZjE5MTU1ZDNhLnBuZw==",
-      "home_score": 2,
-      "away_score": 2,
-      "status": "Second Half",
-      "time_label": "18 Nov 2026 • 02:45 WIB",
-      "match_time": 1794944700,
-      "match_date": "2026-11-18",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwcqsu62DM9UCsXfE/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwcqsu62DM9UCsXfE/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/wales-vs-portugal-2y8m4zh5vyl1ql0"
-    },
     {
       "id": "4wyrn4hy87yzq86",
       "slug": "argentina-vs-costa-rica-4wyrn4hy87yzq86",
@@ -196,7 +20,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk3sP3NkC8VrS2Ze/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/argentina-vs-costa-rica-4wyrn4hy87yzq86"
@@ -218,7 +42,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjJtc9AChW1TFUiU/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/chile-vs-colombia-x7lm7phxg80ym2w"
@@ -240,7 +64,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk3sP3NhzedNc7Qk/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/ecuador-vs-bolivia-l5ergphko5kor8k"
@@ -262,7 +86,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk3sRyyo7SeCakXr/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/uruguay-vs-dominican-republic-l5ergphko223r8k"

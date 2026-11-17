@@ -1261,10 +1261,10 @@
     "3glrw7hn42dpqdy": 1794938477,
     "vjxm8ghekdy5r6o": 1794938477,
     "x7lm7phjxy4zm2w": 1794938477,
-    "x7lm7phxg80ym2w": 1794949272,
-    "4wyrn4hy87yzq86": 1794949272,
-    "l5ergphko5kor8k": 1794949272,
-    "l5ergphko223r8k": 1794949272
+    "x7lm7phxg80ym2w": 1794952868,
+    "4wyrn4hy87yzq86": 1794952868,
+    "l5ergphko5kor8k": 1794952868,
+    "l5ergphko223r8k": 1794952868
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -4201,6 +4201,26 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwcqsu5rMtDBU5Fn8/playlist.m3u8",
       "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwcqsu5rMtDBU5Fn8/playlist.m3u8",
       "slug": "poland-vs-sweden-x7lm7phjxy4zm2w"
+    },
+    "x7lm7phxg80ym2w": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjJtc9AChW1TFUiU/playlist.m3u8",
+      "hd": "",
+      "slug": "chile-vs-colombia-x7lm7phxg80ym2w"
+    },
+    "4wyrn4hy87yzq86": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk3sP3NkC8VrS2Ze/playlist.m3u8",
+      "hd": "",
+      "slug": "argentina-vs-costa-rica-4wyrn4hy87yzq86"
+    },
+    "l5ergphko5kor8k": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk3sP3NhzedNc7Qk/playlist.m3u8",
+      "hd": "",
+      "slug": "ecuador-vs-bolivia-l5ergphko5kor8k"
+    },
+    "l5ergphko223r8k": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk3sRyyo7SeCakXr/playlist.m3u8",
+      "hd": "",
+      "slug": "uruguay-vs-dominican-republic-l5ergphko223r8k"
     }
   }
 }
