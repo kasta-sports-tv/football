@@ -1265,7 +1265,11 @@
     "4wyrn4hy87yzq86": 1794952868,
     "l5ergphko5kor8k": 1794952868,
     "l5ergphko223r8k": 1794952868,
-    "4wyrn4hy854vq86": 1794966515
+    "4wyrn4hy854vq86": 1794966515,
+    "y39mp1hdv522moj": 1795025053,
+    "k82rekh2z975rep": 1795025053,
+    "318q66h8z05lqo9": 1795025053,
+    "dn1m1gh9ve5vmoe": 1795025053
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -4222,6 +4226,26 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxk3sRyyo7SeCakXr/playlist.m3u8",
       "hd": "",
       "slug": "uruguay-vs-dominican-republic-l5ergphko223r8k"
+    },
+    "y39mp1hdv522moj": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjZPMxBs5XiYZ81v/playlist.m3u8",
+      "hd": "",
+      "slug": "bk-hacken-women-vs-manchester-city-women-y39mp1hdv522moj"
+    },
+    "k82rekh2z975rep": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjZPMxByfyKz2sUc/playlist.m3u8",
+      "hd": "",
+      "slug": "real-madrid-women-vs-inter-milan-women-k82rekh2z975rep"
+    },
+    "318q66h8z05lqo9": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjZPMxBwUVTWCxKi/playlist.m3u8",
+      "hd": "",
+      "slug": "chelsea-fc-women-vs-paris-saint-germain-women-318q66h8z05lqo9"
+    },
+    "dn1m1gh9ve5vmoe": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjZPMxC44w4wghnQ/playlist.m3u8",
+      "hd": "",
+      "slug": "juventus-women-vs-oud-heverlee-leuven-women-dn1m1gh9ve5vmoe"
     }
   }
 }

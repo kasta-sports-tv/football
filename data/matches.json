@@ -1,6 +1,271 @@
 {
-  "updated_at": "2026-11-18T13:10:07.922010+00:00",
+  "updated_at": "2026-11-18T18:04:18.658053+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 0,
-  "matches": []
+  "matches_count": 12,
+  "matches": [
+    {
+      "id": "y39mp1hdv522moj",
+      "slug": "bk-hacken-women-vs-manchester-city-women-y39mp1hdv522moj",
+      "competition": "UEFA Women's Champions League",
+      "home": "BK Hacken Women",
+      "away": "Manchester City Women",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2UxMjFjY2VkMzFkZTY4MmM1OTBkMzMwNTMyNzA2MWRmLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2M0YTY1MjhhMmVlMTQ3Yjk5Yzk4ODVlZjI0Mzg1YTRlLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "First Half",
+      "time_label": "19 Nov 2026 • 00:45 WIB",
+      "match_time": 1795023900,
+      "match_date": "2026-11-19",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjZPMxBs5XiYZ81v/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/bk-hacken-women-vs-manchester-city-women-y39mp1hdv522moj"
+    },
+    {
+      "id": "k82rekh2z975rep",
+      "slug": "real-madrid-women-vs-inter-milan-women-k82rekh2z975rep",
+      "competition": "UEFA Women's Champions League",
+      "home": "Real Madrid Women",
+      "away": "Inter Milan Women",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2JlN2ZlNTdmZmFlMjAxZDRkOGUxZjhhOGJmMzMyMzJmLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2VjZTQzMjIzZGQ1Y2E5NWMwNjE5MGQ0OTFhODIzOGUxLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "First Half",
+      "time_label": "19 Nov 2026 • 00:45 WIB",
+      "match_time": 1795023900,
+      "match_date": "2026-11-19",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjZPMxByfyKz2sUc/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/real-madrid-women-vs-inter-milan-women-k82rekh2z975rep"
+    },
+    {
+      "id": "318q66h8zl5lqo9",
+      "slug": "portugalete-vs-real-union-318q66h8zl5lqo9",
+      "competition": "Copa del Rey",
+      "home": "Portugalete",
+      "away": "Real Union",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzlmNWVhZjUwNTg3ZGY0YjgyMDgyOWNhNzU3NTdhYzA3LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzQyN2U1NDEyNzljNzIyN2IzMGE0MWNmMTdkNDg1N2Q2LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "First Half",
+      "time_label": "19 Nov 2026 • 01:00 WIB",
+      "match_time": 1795024800,
+      "match_date": "2026-11-19",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjKLjoE9z9pHgtTz/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/portugalete-vs-real-union-318q66h8zl5lqo9"
+    },
+    {
+      "id": "y39mp1hdv722moj",
+      "slug": "utebo-fc-vs-sabadell-y39mp1hdv722moj",
+      "competition": "Copa del Rey",
+      "home": "Utebo FC",
+      "away": "Sabadell",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2JiODNlMzE3YWE1OGUzMzBhYjdhMzkyMDA1OWI4YTJhLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2RiZWJhYzhkNWQ3YWNjMDgwYmZkZGY2MjBhNTZlMjEzLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "First Half",
+      "time_label": "19 Nov 2026 • 01:00 WIB",
+      "match_time": 1795024800,
+      "match_date": "2026-11-19",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjKLjoEgkt11FicY/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/utebo-fc-vs-sabadell-y39mp1hdv722moj"
+    },
+    {
+      "id": "dj2ryoh7v8wnq1z",
+      "slug": "cd-alcoyano-vs-rcd-mallorca-dj2ryoh7v8wnq1z",
+      "competition": "Copa del Rey",
+      "home": "CD Alcoyano",
+      "away": "RCD Mallorca",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2EwNmI4MzE5YWUzM2MwNjU0YzUxZDI5ZGYxNWM1NWIwLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZkZWY5MDQ1NmQyYTJlZWUwOTk3NmM1NTg0NTdhZWM3LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "19 Nov 2026 • 02:00 WIB",
+      "match_time": 1795028400,
+      "match_date": "2026-11-19",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjKLjnQ6zrDx8qyA/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/cd-alcoyano-vs-rcd-mallorca-dj2ryoh7v8wnq1z"
+    },
+    {
+      "id": "8yomo4hyenw5q0j",
+      "slug": "cd-badajoz-vs-tenerife-8yomo4hyenw5q0j",
+      "competition": "Copa del Rey",
+      "home": "CD Badajoz",
+      "away": "Tenerife",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2UzYTExMTNiMThmYjAzYmQ0NmI3MzA5OWEyZWM4ZTAwLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2M4MTZhN2NjN2FiMWViNmRjY2UzZmI0NDA4YWNkMzIwLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "19 Nov 2026 • 02:00 WIB",
+      "match_time": 1795028400,
+      "match_date": "2026-11-19",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjKLjnQBPoxungGx/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/cd-badajoz-vs-tenerife-8yomo4hyenw5q0j"
+    },
+    {
+      "id": "x7lm7phxg4lzm2w",
+      "slug": "deportiva-minera-vs-fc-cartagena-x7lm7phxg4lzm2w",
+      "competition": "Copa del Rey",
+      "home": "Deportiva Minera",
+      "away": "FC Cartagena",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzcxZDg2ZjliMDc4NTRiM2M1MzUyZmY2NTU4Y2QxZTczLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Q1ODA5ZGIwMzIxZDQxZWUzNGJhNWI0ODFmODZlMDFmLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "19 Nov 2026 • 02:30 WIB",
+      "match_time": 1795030200,
+      "match_date": "2026-11-19",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjKLjnEN8MYepKYk/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/deportiva-minera-vs-fc-cartagena-x7lm7phxg4lzm2w"
+    },
+    {
+      "id": "pxwrxlhlpd6eryk",
+      "slug": "reus-fc-reddis-vs-barakaldo-cf-pxwrxlhlpd6eryk",
+      "competition": "Copa del Rey",
+      "home": "Reus FC Reddis",
+      "away": "Barakaldo CF",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzljYmY5YWNiZmU2ZmVhMDMwMTUyMDdlMmI1ZDk3YTg0LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2YyNTk0MGQyNWFjZDAyOGZiYWU1MmY4ZGYyNDk3NzM0LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "19 Nov 2026 • 02:30 WIB",
+      "match_time": 1795030200,
+      "match_date": "2026-11-19",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjKLjnPed5nCDr8Q/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/reus-fc-reddis-vs-barakaldo-cf-pxwrxlhlpd6eryk"
+    },
+    {
+      "id": "318q66h8z05lqo9",
+      "slug": "chelsea-fc-women-vs-paris-saint-germain-women-318q66h8z05lqo9",
+      "competition": "UEFA Women's Champions League",
+      "home": "Chelsea FC Women",
+      "away": "Paris Saint Germain Women",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2JlNDY3MWMzYjczNTQxOTU5YTE4ZTM1OGRkOGRlNGQyLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzliNTMxYmUxMWNiNDFkNGY3OTk5ZmM5MWE5NDNjNzVmLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "19 Nov 2026 • 03:00 WIB",
+      "match_time": 1795032000,
+      "match_date": "2026-11-19",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjZPMxBwUVTWCxKi/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/chelsea-fc-women-vs-paris-saint-germain-women-318q66h8z05lqo9"
+    },
+    {
+      "id": "dn1m1gh9ve5vmoe",
+      "slug": "juventus-women-vs-oud-heverlee-leuven-women-dn1m1gh9ve5vmoe",
+      "competition": "UEFA Women's Champions League",
+      "home": "Juventus Women",
+      "away": "Oud Heverlee Leuven Women",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Q3ZTBkZDJjMzA0MTY0NTIxMTU5NTgzMzJiYTdjNGVlLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzRhNmYwZGVjMjA4OWIyNzVhNmM2ZGRkODU0MDcyZmJmLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "19 Nov 2026 • 03:00 WIB",
+      "match_time": 1795032000,
+      "match_date": "2026-11-19",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjZPMxC44w4wghnQ/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/juventus-women-vs-oud-heverlee-leuven-women-dn1m1gh9ve5vmoe"
+    },
+    {
+      "id": "4wyrn4hy854vq86",
+      "slug": "western-springs-afc-vs-tonga-4wyrn4hy854vq86",
+      "competition": "International Friendly",
+      "home": "Western Springs AFC",
+      "away": "Tonga",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2RjOTA3ZjExOGE5OTQ2Njc5YzllNjcxNDNkOTM4OGIzLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2MyN2Y1NTIzN2YyOGJhYmE1ZGU5NTM0ODFjYWY0YzNiLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Delayed",
+      "time_label": "19 Nov 2026 • 13:00 WIB",
+      "match_time": 1795068000,
+      "match_date": "2026-11-19",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/western-springs-afc-vs-tonga-4wyrn4hy854vq86"
+    },
+    {
+      "id": "8yomo4hy76xdq0j",
+      "slug": "italy-w-u16-vs-germany-u16-women-8yomo4hy76xdq0j",
+      "competition": "International Friendly",
+      "home": "Italy (w) U16",
+      "away": "Germany U16 Women",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzlkY2NjOTc2YWRhY2FkNzBjYzExOTU2ZTMxN2Q2ZDA1LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzhjYWQ1NWE4NzVjYjZjYzYxYjM0NmUxNWFjOTc0ZDc0LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "19 Nov 2026 • 20:30 WIB",
+      "match_time": 1795095000,
+      "match_date": "2026-11-19",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/italy-w-u16-vs-germany-u16-women-8yomo4hy76xdq0j"
+    }
+  ]
 }
