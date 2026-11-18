@@ -1,29 +1,6 @@
 {
-  "updated_at": "2026-11-18T09:16:20.805701+00:00",
+  "updated_at": "2026-11-18T13:10:07.922010+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 1,
-  "matches": [
-    {
-      "id": "4wyrn4hy854vq86",
-      "slug": "western-springs-afc-vs-tonga-4wyrn4hy854vq86",
-      "competition": "International Friendly",
-      "home": "Western Springs AFC",
-      "away": "Tonga",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2RjOTA3ZjExOGE5OTQ2Njc5YzllNjcxNDNkOTM4OGIzLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2MyN2Y1NTIzN2YyOGJhYmE1ZGU5NTM0ODFjYWY0YzNiLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Delayed",
-      "time_label": "18 Nov 2026 • 13:00 WIB",
-      "match_time": 1794981600,
-      "match_date": "2026-11-18",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/western-springs-afc-vs-tonga-4wyrn4hy854vq86"
-    }
-  ]
+  "matches_count": 0,
+  "matches": []
 }
