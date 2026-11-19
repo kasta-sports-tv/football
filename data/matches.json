@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-19T00:28:10.298208+00:00",
+  "updated_at": "2026-11-19T07:49:09.329238+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 2,
+  "matches_count": 3,
   "matches": [
     {
       "id": "4wyrn4hy854vq86",
@@ -11,13 +11,13 @@
       "away": "Tonga",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2RjOTA3ZjExOGE5OTQ2Njc5YzllNjcxNDNkOTM4OGIzLnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2MyN2Y1NTIzN2YyOGJhYmE1ZGU5NTM0ODFjYWY0YzNiLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
+      "home_score": 1,
+      "away_score": 6,
+      "status": "Second Half",
       "time_label": "19 Nov 2026 • 13:00 WIB",
       "match_time": 1795068000,
       "match_date": "2026-11-19",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
         "sd": "",
@@ -26,12 +26,34 @@
       "match_url": "https://kickofftv.id/match/western-springs-afc-vs-tonga-4wyrn4hy854vq86"
     },
     {
+      "id": "dn1m1gh94j13moe",
+      "slug": "switzerland-u17-vs-czechia-republic-u17-dn1m1gh94j13moe",
+      "competition": "International Friendly",
+      "home": "Switzerland U17",
+      "away": "Czechia Republic U17",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzBjYjk0YTJlOTllZWIxNDYxYmYxZmIzMjY4YTZkOWJkLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2EwNzRjZTZlYzM0OGQ1ODg3NDJhYmY4ZjllM2NkMTRkLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "19 Nov 2026 • 17:00 WIB",
+      "match_time": 1795082400,
+      "match_date": "2026-11-19",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/switzerland-u17-vs-czechia-republic-u17-dn1m1gh94j13moe"
+    },
+    {
       "id": "8yomo4hy76xdq0j",
       "slug": "italy-w-u16-vs-germany-u16-women-8yomo4hy76xdq0j",
       "competition": "International Friendly",
       "home": "Italy (w) U16",
       "away": "Germany U16 Women",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzlkY2NjOTc2YWRhY2FkNzBjYzExOTU2ZTMxN2Q2ZDA1LnBuZw==",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzUzZDk1N2JkZWY1ZTQ5MWZiNGRkOTUxNDRjNzRhM2JlLnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzhjYWQ1NWE4NzVjYjZjYzYxYjM0NmUxNWFjOTc0ZDc0LnBuZw==",
       "home_score": 0,
       "away_score": 0,
