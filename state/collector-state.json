@@ -1271,7 +1271,12 @@
     "318q66h8z05lqo9": 1795025053,
     "dn1m1gh9ve5vmoe": 1795025053,
     "dn1m1gh94j13moe": 1795074545,
-    "8yomo4hy76xdq0j": 1795074545
+    "8yomo4hy76xdq0j": 1795074545,
+    "4wyrn4hyzej8q86": 1795112136,
+    "l5ergphk03z3r8k": 1795112136,
+    "jw2r09h54nexrz8": 1795112136,
+    "l7oqdehjy6v0r51": 1795112136,
+    "dj2ryoh7vywnq1z": 1795112136
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -4248,6 +4253,31 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjZPMxC44w4wghnQ/playlist.m3u8",
       "hd": "",
       "slug": "juventus-women-vs-oud-heverlee-leuven-women-dn1m1gh9ve5vmoe"
+    },
+    "4wyrn4hyzej8q86": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjZPMxC1sTCTrndW/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MxjZPMxC1sTCTrndW/playlist.m3u8",
+      "slug": "austria-wien-women-vs-bayern-munchen-women-4wyrn4hyzej8q86"
+    },
+    "l5ergphk03z3r8k": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjZPMxC8TtouLY6C/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MxjZPMxC8TtouLY6C/playlist.m3u8",
+      "slug": "paris-fc-women-vs-hb-koge-s-women-l5ergphk03z3r8k"
+    },
+    "jw2r09h54nexrz8": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjZPMxC6GQwRWcwJ/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MxjZPMxC6GQwRWcwJ/playlist.m3u8",
+      "slug": "arsenal-women-vs-ol-lyonnes-women-jw2r09h54nexrz8"
+    },
+    "l7oqdehjy6v0r51": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjZPMxBbhAdBmhwe/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MxjZPMxBbhAdBmhwe/playlist.m3u8",
+      "slug": "barcelona-women-vs-servette-women-l7oqdehjy6v0r51"
+    },
+    "dj2ryoh7vywnq1z": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjZPMxBZVgkhwnnk/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MxjZPMxBZVgkhwnnk/playlist.m3u8",
+      "slug": "sl-benfica-women-vs-as-roma-women-dj2ryoh7vywnq1z"
     }
   }
 }
