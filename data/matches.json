@@ -1,74 +1,8 @@
 {
-  "updated_at": "2026-11-21T12:01:37.797099+00:00",
+  "updated_at": "2026-11-21T13:01:30.434639+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 29,
+  "matches_count": 26,
   "matches": [
-    {
-      "id": "jw2r09hkz4v6rz8",
-      "slug": "lokomotiv-kyiv-vs-prykarpattya-ivano-frankivsk-jw2r09hkz4v6rz8",
-      "competition": "Ukrainian First League",
-      "home": "Lokomotiv Kyiv",
-      "away": "Prykarpattya Ivano Frankivsk",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzg1OTczY2QxM2NhNWY4NmZmMDhmNGI0MTQ5MmNkZTM5LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2UxMDExMWU0NWMzZDkzOWQ0YzU3NzkyNzFkZTkxYTQ5LnBuZw==",
-      "home_score": 1,
-      "away_score": 0,
-      "status": "Second Half",
-      "time_label": "21 Nov 2026 • 17:00 WIB",
-      "match_time": 1795255200,
-      "match_date": "2026-11-21",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwarNKL1R8zNhn8yn/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/lokomotiv-kyiv-vs-prykarpattya-ivano-frankivsk-jw2r09hkz4v6rz8"
-    },
-    {
-      "id": "y39mp1h6gwnzmoj",
-      "slug": "genclerbirligi-vs-gaziantep-futbol-kul-b-y39mp1h6gwnzmoj",
-      "competition": "Turkish Super League",
-      "home": "Genclerbirligi",
-      "away": "Gaziantep Futbol Kulübü",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2VjMTExZTg4OTk3ZGNlNWE1Zjc2YzI2YjhlODVkN2YzLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzFkNTkwZmJjNjZkYjQ3N2JiNWNiMTQzMDRjZDAwYzg0LnBuZw==",
-      "home_score": 1,
-      "away_score": 0,
-      "status": "Second Half",
-      "time_label": "21 Nov 2026 • 17:30 WIB",
-      "match_time": 1795257000,
-      "match_date": "2026-11-21",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb6hHRUbEnHxkhb6/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/genclerbirligi-vs-gaziantep-futbol-kul-b-y39mp1h6gwnzmoj"
-    },
-    {
-      "id": "l5ergph41068r8k",
-      "slug": "kulykiv-vs-fc-chernigiv-l5ergph41068r8k",
-      "competition": "Ukrainian First League",
-      "home": "Kulykiv",
-      "away": "FC Chernigiv",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2RlMTUzNDVlZTBkMWE2YTMwYWMzNmVhMDA2YTdhNTA5LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzk5YmE3ZmM4Njc4ZDhlZTQwYWIxYzU2NDQzZjRiMWEzLnBuZw==",
-      "home_score": 1,
-      "away_score": 0,
-      "status": "Half Time",
-      "time_label": "21 Nov 2026 • 18:00 WIB",
-      "match_time": 1795258800,
-      "match_date": "2026-11-21",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwarNKL1TLUFBc48g/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/kulykiv-vs-fc-chernigiv-l5ergph41068r8k"
-    },
     {
       "id": "8yomo4h1peo8q0j",
       "slug": "polissya-zhytomyr-b-vs-fc-inhulets-petrove-8yomo4h1peo8q0j",
@@ -79,7 +13,7 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzBmMTM2YWMwMzAwYTljZDlkMjdmZjBhNWM3YjZmMmE3LnBuZw==",
       "home_score": 2,
       "away_score": 0,
-      "status": "Half Time",
+      "status": "Second Half",
       "time_label": "21 Nov 2026 • 18:00 WIB",
       "match_time": 1795258800,
       "match_date": "2026-11-21",
@@ -99,9 +33,9 @@
       "away": "Metalist 1925 Kharkiv",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2UzZWRkMDBhM2IxODNjMzIxZjZkN2NjMGEzMzk4ZmIwLnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Q3NzVhMzVmMWEzYTc1OTU1OGY2OWU0NmE1ZTBjYTM2LnBuZw==",
-      "home_score": 0,
+      "home_score": 1,
       "away_score": 1,
-      "status": "First Half",
+      "status": "Second Half",
       "time_label": "21 Nov 2026 • 18:40 WIB",
       "match_time": 1795261200,
       "match_date": "2026-11-21",
@@ -114,6 +48,28 @@
       "match_url": "https://kickofftv.id/match/kolos-kovalivka-vs-metalist-1925-kharkiv-1l4rjnh9099xm7v"
     },
     {
+      "id": "1l4rjnh9p066m7v",
+      "slug": "manchester-city-vs-fulham-1l4rjnh9p066m7v",
+      "competition": "English Premier League",
+      "home": "Manchester City",
+      "away": "Fulham",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2VjMmMzMGZhZjI4NzQ2ZTdiNjA3ODhiNTZhZTFiNmUzLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzAxYWM3MzIzODc5MDRiMDQ4YmM2OTgyYTRmNDU2NzBmLnBuZw==",
+      "home_score": 0,
+      "away_score": 1,
+      "status": "First Half",
+      "time_label": "21 Nov 2026 • 19:30 WIB",
+      "match_time": 1795264200,
+      "match_date": "2026-11-21",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQgo9yQfUNbPfE/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/manchester-city-vs-fulham-1l4rjnh9p066m7v"
+    },
+    {
       "id": "4jwq2ghnjnn7m0v",
       "slug": "kryvbas-vs-kudrivka-4jwq2ghnjnn7m0v",
       "competition": "Ukrainian Premier League",
@@ -123,9 +79,9 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzkzYTI4NGFmYmU4M2FiYjZjZTNjZmIyODQ3OTk4OGNkLnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "Delayed",
-      "time_label": "21 Nov 2026 • 18:00 WIB",
-      "match_time": 1795258800,
+      "status": "TBD",
+      "time_label": "21 Nov 2026 • 19:00 WIB",
+      "match_time": 1795262400,
       "match_date": "2026-11-21",
       "is_live": false,
       "is_finished": false,
@@ -134,28 +90,6 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/kryvbas-vs-kudrivka-4jwq2ghnjnn7m0v"
-    },
-    {
-      "id": "1l4rjnh9p066m7v",
-      "slug": "manchester-city-vs-fulham-1l4rjnh9p066m7v",
-      "competition": "English Premier League",
-      "home": "Manchester City",
-      "away": "Fulham",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2VjMmMzMGZhZjI4NzQ2ZTdiNjA3ODhiNTZhZTFiNmUzLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzAxYWM3MzIzODc5MDRiMDQ4YmM2OTgyYTRmNDU2NzBmLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "21 Nov 2026 • 19:30 WIB",
-      "match_time": 1795264200,
-      "match_date": "2026-11-21",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQgo9yQfUNbPfE/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/manchester-city-vs-fulham-1l4rjnh9p066m7v"
     },
     {
       "id": "pxwrxlhyove5ryk",
@@ -372,8 +306,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaDhV81MMoRGSAU/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaDhV81MMoRGSAU/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/borussia-monchengladbach-vs-borussia-dortmund-y0or5jh8k0yeqwz"
     },
