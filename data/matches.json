@@ -1,73 +1,29 @@
 {
-  "updated_at": "2026-11-21T13:01:30.434639+00:00",
+  "updated_at": "2026-11-21T15:01:27.932418+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 26,
+  "matches_count": 20,
   "matches": [
     {
-      "id": "8yomo4h1peo8q0j",
-      "slug": "polissya-zhytomyr-b-vs-fc-inhulets-petrove-8yomo4h1peo8q0j",
-      "competition": "Ukrainian First League",
-      "home": "Polissya Zhytomyr B",
-      "away": "FC Inhulets Petrove",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzRhMjg5NWUyNTE4MDM5NzYzNTY2NGUwZDRlMWRjZWFkLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzBmMTM2YWMwMzAwYTljZDlkMjdmZjBhNWM3YjZmMmE3LnBuZw==",
-      "home_score": 2,
-      "away_score": 0,
-      "status": "Second Half",
-      "time_label": "21 Nov 2026 • 18:00 WIB",
-      "match_time": 1795258800,
-      "match_date": "2026-11-21",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwarNKL1Zvurd5obN/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/polissya-zhytomyr-b-vs-fc-inhulets-petrove-8yomo4h1peo8q0j"
-    },
-    {
-      "id": "1l4rjnh9099xm7v",
-      "slug": "kolos-kovalivka-vs-metalist-1925-kharkiv-1l4rjnh9099xm7v",
-      "competition": "Ukrainian Premier League",
-      "home": "Kolos Kovalivka",
-      "away": "Metalist 1925 Kharkiv",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2UzZWRkMDBhM2IxODNjMzIxZjZkN2NjMGEzMzk4ZmIwLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Q3NzVhMzVmMWEzYTc1OTU1OGY2OWU0NmE1ZTBjYTM2LnBuZw==",
+      "id": "23xmvkh6j9pgqg8",
+      "slug": "sabadell-vs-granada-cf-23xmvkh6j9pgqg8",
+      "competition": "Spanish Segunda Division",
+      "home": "Sabadell",
+      "away": "Granada CF",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2RiZWJhYzhkNWQ3YWNjMDgwYmZkZGY2MjBhNTZlMjEzLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Y4YWMxNzU1OWYyMDRkMTM5NTYzOTI5ZGM3ZWVlZGViLnBuZw==",
       "home_score": 1,
       "away_score": 1,
       "status": "Second Half",
-      "time_label": "21 Nov 2026 • 18:40 WIB",
-      "match_time": 1795261200,
+      "time_label": "21 Nov 2026 • 20:00 WIB",
+      "match_time": 1795266000,
       "match_date": "2026-11-21",
       "is_live": true,
       "is_finished": false,
       "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2gpL91sbNGGQ/playlist.m3u8",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARkDwZawzBLLg/playlist.m3u8",
         "hd": ""
       },
-      "match_url": "https://kickofftv.id/match/kolos-kovalivka-vs-metalist-1925-kharkiv-1l4rjnh9099xm7v"
-    },
-    {
-      "id": "1l4rjnh9p066m7v",
-      "slug": "manchester-city-vs-fulham-1l4rjnh9p066m7v",
-      "competition": "English Premier League",
-      "home": "Manchester City",
-      "away": "Fulham",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2VjMmMzMGZhZjI4NzQ2ZTdiNjA3ODhiNTZhZTFiNmUzLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzAxYWM3MzIzODc5MDRiMDQ4YmM2OTgyYTRmNDU2NzBmLnBuZw==",
-      "home_score": 0,
-      "away_score": 1,
-      "status": "First Half",
-      "time_label": "21 Nov 2026 • 19:30 WIB",
-      "match_time": 1795264200,
-      "match_date": "2026-11-21",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQgo9yQfUNbPfE/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/manchester-city-vs-fulham-1l4rjnh9p066m7v"
+      "match_url": "https://kickofftv.id/match/sabadell-vs-granada-cf-23xmvkh6j9pgqg8"
     },
     {
       "id": "4jwq2ghnjnn7m0v",
@@ -78,128 +34,18 @@
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzdlNmNiYzVjMmExZjViNTA3ZWFiNWFjOTVlZWU0NTRiLnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzkzYTI4NGFmYmU4M2FiYjZjZTNjZmIyODQ3OTk4OGNkLnBuZw==",
       "home_score": 0,
-      "away_score": 0,
-      "status": "TBD",
-      "time_label": "21 Nov 2026 • 19:00 WIB",
-      "match_time": 1795262400,
+      "away_score": 1,
+      "status": "First Half",
+      "time_label": "21 Nov 2026 • 20:30 WIB",
+      "match_time": 1795267800,
       "match_date": "2026-11-21",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
         "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2gpHwY17YM7W/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/kryvbas-vs-kudrivka-4jwq2ghnjnn7m0v"
-    },
-    {
-      "id": "pxwrxlhyove5ryk",
-      "slug": "deportivo-alav-s-vs-rc-deportivo-pxwrxlhyove5ryk",
-      "competition": "Spanish La Liga",
-      "home": "Deportivo Alavés",
-      "away": "RC Deportivo",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzQwMTRjZDc3OWI4OTQ5YzVhYjIxOTA4ZWEzZGNkYTMxLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzkwYjdkNDIxZTIwZDQ2ZjViMWM5OTEzNTA0YzY3ZWQwLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "21 Nov 2026 • 20:00 WIB",
-      "match_time": 1795266000,
-      "match_date": "2026-11-21",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGyxgET1KyZqbE/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/deportivo-alav-s-vs-rc-deportivo-pxwrxlhyove5ryk"
-    },
-    {
-      "id": "23xmvkh6j9pgqg8",
-      "slug": "sabadell-vs-granada-cf-23xmvkh6j9pgqg8",
-      "competition": "Spanish Segunda Division",
-      "home": "Sabadell",
-      "away": "Granada CF",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2RiZWJhYzhkNWQ3YWNjMDgwYmZkZGY2MjBhNTZlMjEzLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Y4YWMxNzU1OWYyMDRkMTM5NTYzOTI5ZGM3ZWVlZGViLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "21 Nov 2026 • 20:00 WIB",
-      "match_time": 1795266000,
-      "match_date": "2026-11-21",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARkDwZawzBLLg/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/sabadell-vs-granada-cf-23xmvkh6j9pgqg8"
-    },
-    {
-      "id": "1l4rjnh9o502m7v",
-      "slug": "amedspor-vs-caykur-rizespor-1l4rjnh9o502m7v",
-      "competition": "Turkish Super League",
-      "home": "Amedspor",
-      "away": "Caykur Rizespor",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzUyYThjMDFjNDlkNzZmMWY3NGFkMTQ4YjA3ZWY4M2Y5LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2JlOWRkNzcxNWI4OGU2NjJkMzY2ZGYxMzJjNjMwZjcyLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "21 Nov 2026 • 20:00 WIB",
-      "match_time": 1795266000,
-      "match_date": "2026-11-21",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb6hHRduvzPyz9Ke/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/amedspor-vs-caykur-rizespor-1l4rjnh9o502m7v"
-    },
-    {
-      "id": "965mkyhkd5x2r1g",
-      "slug": "galatasaray-vs-samsunspor-965mkyhkd5x2r1g",
-      "competition": "Turkish Super League",
-      "home": "Galatasaray",
-      "away": "Samsunspor",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZiY2YwMDJjOGQ2ZGQzNDgxM2ZhMmIzYTRjYzliMDRjLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Q0YzgxMjFiNWY3MzhjZmFmMjIyNzc5YTQzZTc0OTVkLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "21 Nov 2026 • 20:00 WIB",
-      "match_time": 1795266000,
-      "match_date": "2026-11-21",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb6hHRUUeLgXGx8Q/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/galatasaray-vs-samsunspor-965mkyhkd5x2r1g"
-    },
-    {
-      "id": "x7lm7phxkd6em2w",
-      "slug": "usa-u16-vs-sweden-u16-x7lm7phxkd6em2w",
-      "competition": "International Friendly",
-      "home": "USA U16",
-      "away": "Sweden U16",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2JlYmRjZjRiMDM0OWU0YzZhZTI3YTJkMWM1YWJiYzM3LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Q3YzQ5ZmE4ZGU5NGY1YTIwMGRkODE2Y2EyM2M0OWVmLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "21 Nov 2026 • 21:00 WIB",
-      "match_time": 1795269600,
-      "match_date": "2026-11-21",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/usa-u16-vs-sweden-u16-x7lm7phxkd6em2w"
     },
     {
       "id": "jw2r09hkdlvnrz8",
@@ -209,13 +55,13 @@
       "away": "Cagliari",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzFjNmNiZWUwZWM4MTRhZTliZDM3NDhlY2FhZGYyY2Q5LnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2JiZTQ5MjBjMWUzMzQ2ZjY5M2IzYzAyZjhjYjM4ZmExLnBuZw==",
-      "home_score": 0,
+      "home_score": 1,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "Half Time",
       "time_label": "21 Nov 2026 • 21:00 WIB",
       "match_time": 1795269600,
       "match_date": "2026-11-21",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
         "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jaVPVQz1po3qz/playlist.m3u8",
@@ -231,13 +77,13 @@
       "away": "Lecce",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2E3ZDhkZjQ0ZGEyZjRjNzNhMDAwMDkyMjBmY2Q5NGE0LnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzI4YTM4NmUzN2ZkZTQ1MjdhMjMwZDk2M2Q2ZTBkOGJlLnBuZw==",
-      "home_score": 0,
+      "home_score": 1,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "Half Time",
       "time_label": "21 Nov 2026 • 21:00 WIB",
       "match_time": 1795269600,
       "match_date": "2026-11-21",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
         "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jaVinAa22JWvL/playlist.m3u8",
@@ -254,16 +100,16 @@
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2FjNzkzODU4MjllYjRhMjNhMDQ4NTQxMjEzMWQxM2IyLnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzNhMDdhNTg4OWU2MjQ0N2JiNDI3ZmJiN2FlMDIzNjE5LnBuZw==",
       "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
+      "away_score": 1,
+      "status": "First Half",
       "time_label": "21 Nov 2026 • 21:30 WIB",
       "match_time": 1795271400,
       "match_date": "2026-11-21",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaDhVHQSXeQ9iCp/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaDhVHQSXeQ9iCp/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/1-fc-union-berlin-vs-rb-leipzig-vjxm8ghe62d4r6o"
     },
@@ -275,17 +121,17 @@
       "away": "SC Paderborn 07",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2RkZTYwMTk0MDE4MTQ0MDA5ZTA3OWZjOWMwYWY5MDkwLnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2MwODc1YmNhMjA2MzRiYjk5YTZiNzQ4NDBkYThjMDIxLnBuZw==",
-      "home_score": 0,
+      "home_score": 1,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "First Half",
       "time_label": "21 Nov 2026 • 21:30 WIB",
       "match_time": 1795271400,
       "match_date": "2026-11-21",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaDhVHpcpDgEntg/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaDhVHpcpDgEntg/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/bayer-04-leverkusen-vs-sc-paderborn-07-l7oqdehgkekkr51"
     },
@@ -299,11 +145,11 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzdiZGI5ZWVlNzY5YzQzMzc5OGE5YmU1YTRmYzMyNzkyLnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "First Half",
       "time_label": "21 Nov 2026 • 21:30 WIB",
       "match_time": 1795271400,
       "match_date": "2026-11-21",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
         "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaDhV81MMoRGSAU/playlist.m3u8",
@@ -319,17 +165,17 @@
       "away": "TSG Hoffenheim",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2UxMjhkN2IxYTE1OTQwYmI4ZTUyNmZhZTVjZTg3ZGRjLnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2I4ZTZlZTA5ZDI0MTQ4MzRiNTQ3YzNhOTU1ZGFiOTliLnBuZw==",
-      "home_score": 0,
+      "home_score": 1,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "First Half",
       "time_label": "21 Nov 2026 • 21:30 WIB",
       "match_time": 1795271400,
       "match_date": "2026-11-21",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaDhVHrpJ6A4i3a/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaDhVHrpJ6A4i3a/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/eintracht-frankfurt-vs-tsg-hoffenheim-8yomo4h1o5odq0j"
     },
@@ -343,9 +189,31 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2FkYTNiNjhhMjA0MTQ5MmI5MzEwNmJjZTdlNWVlOTg2LnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "First Half",
       "time_label": "21 Nov 2026 • 21:30 WIB",
       "match_time": 1795271400,
+      "match_date": "2026-11-21",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaDiEShxvcTfkmE/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaDiEShxvcTfkmE/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/sv-07-elversberg-vs-sc-freiburg-ednm9whw4d1yryo"
+    },
+    {
+      "id": "x7lm7phxkd6em2w",
+      "slug": "usa-u16-vs-sweden-u16-x7lm7phxkd6em2w",
+      "competition": "International Friendly",
+      "home": "USA U16",
+      "away": "Sweden U16",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2JlYmRjZjRiMDM0OWU0YzZhZTI3YTJkMWM1YWJiYzM3LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Q3YzQ5ZmE4ZGU5NGY1YTIwMGRkODE2Y2EyM2M0OWVmLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "TBD",
+      "time_label": "21 Nov 2026 • 21:00 WIB",
+      "match_time": 1795269600,
       "match_date": "2026-11-21",
       "is_live": false,
       "is_finished": false,
@@ -353,7 +221,7 @@
         "sd": "",
         "hd": ""
       },
-      "match_url": "https://kickofftv.id/match/sv-07-elversberg-vs-sc-freiburg-ednm9whw4d1yryo"
+      "match_url": "https://kickofftv.id/match/usa-u16-vs-sweden-u16-x7lm7phxkd6em2w"
     },
     {
       "id": "8yomo4h1jjn8q0j",
@@ -372,8 +240,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQgofXoULazDJY/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQgofXoULazDJY/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/aston-villa-vs-sunderland-8yomo4h1jjn8q0j"
     },
@@ -394,8 +262,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQgpAkQxNUwnZn/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQgpAkQxNUwnZn/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/bournemouth-afc-vs-nottingham-forest-4jwq2ghndjokm0v"
     },
@@ -416,8 +284,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQgoztx25k9Wgg/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQgoztx25k9Wgg/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/chelsea-vs-leeds-united-dn1m1ghldzvkmoe"
     },
@@ -438,8 +306,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQhZ9nJ8UXaUZE/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQhZ9nJ8UXaUZE/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/coventry-city-vs-crystal-palace-1l4rjnh9p016m7v"
     },
@@ -460,8 +328,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQhZKSmfQsFAfr/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQhZKSmfQsFAfr/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/tottenham-hotspur-vs-ipswich-town-l7oqdehgzknor51"
     },
@@ -482,8 +350,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGyxWRBYuibUs2/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGyxWRBYuibUs2/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/rayo-vallecano-vs-valencia-cf-4jwq2ghnj1p3m0v"
     },
@@ -504,7 +372,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARkDym4pU1FVa/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/real-sociedad-b-vs-cadiz-cf-n54qllhn61pdqvy"
@@ -526,7 +394,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb6hHRUfdk2vQXtt/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/kocaelispor-vs-fenerbahce-318q66hxy2p8qo9"
@@ -548,7 +416,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2gpDYaG9tWoi/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/fc-karpaty-lviv-vs-zorya-zp5rzghg9ggzq82"
@@ -570,8 +438,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdpxgYo4wVbsrvN4/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdpxgYo4wVbsrvN4/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/ogc-nice-vs-paris-saint-germain-zp5rzghgepn4q82"
     }
