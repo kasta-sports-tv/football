@@ -1,118 +1,8 @@
 {
-  "updated_at": "2026-11-21T21:01:09.600859+00:00",
+  "updated_at": "2026-11-21T21:57:09.803753+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 30,
+  "matches_count": 24,
   "matches": [
-    {
-      "id": "23xmvkh6zkewqg8",
-      "slug": "as-monaco-vs-aj-auxerre-23xmvkh6zkewqg8",
-      "competition": "French Ligue 1",
-      "home": "AS Monaco",
-      "away": "AJ Auxerre",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2VmNmU2NTcxNTE2ZTQzODlhY2FmYzIzOWU3MTQ2MmJmLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzIzM2UxMGUwZGI3MDRjYjg5MzA3OGJiMjgwZWMwYzYxLnBuZw==",
-      "home_score": 0,
-      "away_score": 1,
-      "status": "Second Half",
-      "time_label": "22 Nov 2026 • 02:45 WIB",
-      "match_time": 1795290300,
-      "match_date": "2026-11-22",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdpxgYo78yUMgqWx/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdpxgYo78yUMgqWx/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/as-monaco-vs-aj-auxerre-23xmvkh6zkewqg8"
-    },
-    {
-      "id": "x7lm7phjdwl9m2w",
-      "slug": "losc-lille-vs-lyon-x7lm7phjdwl9m2w",
-      "competition": "French Ligue 1",
-      "home": "LOSC Lille",
-      "away": "Lyon",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzg4Mjc2YzdiNzkyNjQzMzdhODRmMzk5NmFjYjU3MjMzLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2FhMzQ5N2NjYmMyMzQ4MTk5Y2JmY2YzYzlmOWQ5ZGVjLnBuZw==",
-      "home_score": 0,
-      "away_score": 1,
-      "status": "Second Half",
-      "time_label": "22 Nov 2026 • 02:45 WIB",
-      "match_time": 1795290300,
-      "match_date": "2026-11-22",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdpxgYnv9a7xZFkU/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdpxgYnv9a7xZFkU/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/losc-lille-vs-lyon-x7lm7phjdwl9m2w"
-    },
-    {
-      "id": "vjxm8gheo8n8r6o",
-      "slug": "rc-lens-vs-toulouse-fc-vjxm8gheo8n8r6o",
-      "competition": "French Ligue 1",
-      "home": "RC Lens",
-      "away": "Toulouse FC",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzNhNWIwZTY5ZGFiOTQ1NjBhMzFiMGQyZmYwMjVlYWI5LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZmZWRjODAwMDdlODRjYzdhODBmNGU0ODM5NTJiY2VhLnBuZw==",
-      "home_score": 1,
-      "away_score": 1,
-      "status": "Second Half",
-      "time_label": "22 Nov 2026 • 02:45 WIB",
-      "match_time": 1795290300,
-      "match_date": "2026-11-22",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdpxgYnxM3zSPAuN/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdpxgYnxM3zSPAuN/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/rc-lens-vs-toulouse-fc-vjxm8gheo8n8r6o"
-    },
-    {
-      "id": "4jwq2ghndx8zm0v",
-      "slug": "rc-strasbourg-alsace-vs-stade-brestois-29-4jwq2ghndx8zm0v",
-      "competition": "French Ligue 1",
-      "home": "RC Strasbourg Alsace",
-      "away": "Stade Brestois 29",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZiMDcwNGVjMThjNDRhMzdiODliYWI5MjViNWFiZTY0LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2U0MGIzMTIwNDg2YzQzNTVhYWM1NTYxZThmOWMwYTFlLnBuZw==",
-      "home_score": 0,
-      "away_score": 1,
-      "status": "Second Half",
-      "time_label": "22 Nov 2026 • 02:45 WIB",
-      "match_time": 1795290300,
-      "match_date": "2026-11-22",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdpxgYnYAmRAJ6DW/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdpxgYnYAmRAJ6DW/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/rc-strasbourg-alsace-vs-stade-brestois-29-4jwq2ghndx8zm0v"
-    },
-    {
-      "id": "y0or5jh8dlydqwz",
-      "slug": "napoli-vs-torino-y0or5jh8dlydqwz",
-      "competition": "Italian Serie A",
-      "home": "Napoli",
-      "away": "Torino",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzljNzM4Yjg1ZTA5MjQ4NGVhMDNiM2FhYjNmZDY4NDUwLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2EyYmI4YWJjNDA0NDQ1NWVhZWJjOTViOTdlNGY3MTkyLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Second Half",
-      "time_label": "22 Nov 2026 • 02:45 WIB",
-      "match_time": 1795290300,
-      "match_date": "2026-11-22",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jaUia8VB7LsKE/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jaUia8VB7LsKE/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/napoli-vs-torino-y0or5jh8dlydqwz"
-    },
     {
       "id": "ednm9whw4exjryo",
       "slug": "real-madrid-vs-rc-celta-ednm9whw4exjryo",
@@ -121,9 +11,9 @@
       "away": "RC Celta",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzVkODNmYmQ0YTIyYzQ0NTA4MGM1M2U4YWI4MzJhODg5LnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzRjYWUwMmU5NjNmMDQ2ZjM4MWMyNWE1ZDE2MDM5ZDBiLnBuZw==",
-      "home_score": 0,
+      "home_score": 2,
       "away_score": 1,
-      "status": "First Half",
+      "status": "Second Half",
       "time_label": "22 Nov 2026 • 03:00 WIB",
       "match_time": 1795291200,
       "match_date": "2026-11-22",
@@ -134,28 +24,6 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/real-madrid-vs-rc-celta-ednm9whw4exjryo"
-    },
-    {
-      "id": "1l4rjnh905j5m7v",
-      "slug": "tenerife-vs-rcd-mallorca-1l4rjnh905j5m7v",
-      "competition": "Spanish Segunda Division",
-      "home": "Tenerife",
-      "away": "RCD Mallorca",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2M4MTZhN2NjN2FiMWViNmRjY2UzZmI0NDA4YWNkMzIwLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZkZWY5MDQ1NmQyYTJlZWUwOTk3NmM1NTg0NTdhZWM3LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Half Time",
-      "time_label": "22 Nov 2026 • 03:00 WIB",
-      "match_time": 1795291200,
-      "match_date": "2026-11-22",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARkE1xYgwqAeU/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/tenerife-vs-rcd-mallorca-1l4rjnh905j5m7v"
     },
     {
       "id": "k82rekh2vkl5rep",
