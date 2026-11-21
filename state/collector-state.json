@@ -1289,8 +1289,8 @@
     "y39mp1h6gwnzmoj": 1795252429,
     "1l4rjnh9099xm7v": 1795252429,
     "4jwq2ghnjnn7m0v": 1795252429,
-    "l5ergph41068r8k": 1795258875,
-    "8yomo4h1peo8q0j": 1795258875,
+    "l5ergph41068r8k": 1795262480,
+    "8yomo4h1peo8q0j": 1795262480,
     "1l4rjnh9p066m7v": 1795252429,
     "pxwrxlhyove5ryk": 1795252429,
     "23xmvkh6j9pgqg8": 1795252429,
@@ -1298,22 +1298,22 @@
     "965mkyhkd5x2r1g": 1795252429,
     "jw2r09hkdlvnrz8": 1795252429,
     "k82rekhgdv47rep": 1795252429,
-    "x7lm7phxkd6em2w": 1795258875,
-    "l7oqdehgkekkr51": 1795258875,
-    "8yomo4h1o5odq0j": 1795258875,
-    "vjxm8ghe62d4r6o": 1795258875,
-    "y0or5jh8k0yeqwz": 1795258875,
-    "ednm9whw4d1yryo": 1795258875,
-    "8yomo4h1jjn8q0j": 1795258875,
-    "4jwq2ghndjokm0v": 1795258875,
-    "dn1m1ghldzvkmoe": 1795258875,
-    "l7oqdehgzknor51": 1795258875,
-    "1l4rjnh9p016m7v": 1795258875,
-    "4jwq2ghnj1p3m0v": 1795258875,
-    "n54qllhn61pdqvy": 1795258875,
-    "zp5rzghg9ggzq82": 1795258875,
-    "318q66hxy2p8qo9": 1795258875,
-    "zp5rzghgepn4q82": 1795258875
+    "x7lm7phxkd6em2w": 1795262480,
+    "l7oqdehgkekkr51": 1795262480,
+    "8yomo4h1o5odq0j": 1795262480,
+    "vjxm8ghe62d4r6o": 1795262480,
+    "y0or5jh8k0yeqwz": 1795262480,
+    "ednm9whw4d1yryo": 1795262480,
+    "8yomo4h1jjn8q0j": 1795262480,
+    "4jwq2ghndjokm0v": 1795262480,
+    "dn1m1ghldzvkmoe": 1795262480,
+    "l7oqdehgzknor51": 1795262480,
+    "1l4rjnh9p016m7v": 1795262480,
+    "4jwq2ghnj1p3m0v": 1795262480,
+    "n54qllhn61pdqvy": 1795262480,
+    "zp5rzghg9ggzq82": 1795262480,
+    "318q66hxy2p8qo9": 1795262480,
+    "zp5rzghgepn4q82": 1795262480
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -4405,6 +4405,16 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwarNKL1R8zNhn8yn/playlist.m3u8",
       "hd": "",
       "slug": "lokomotiv-kyiv-vs-prykarpattya-ivano-frankivsk-jw2r09hkz4v6rz8"
+    },
+    "l5ergph41068r8k": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwarNKL1TLUFBc48g/playlist.m3u8",
+      "hd": "",
+      "slug": "kulykiv-vs-fc-chernigiv-l5ergph41068r8k"
+    },
+    "8yomo4h1peo8q0j": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwarNKL1Zvurd5obN/playlist.m3u8",
+      "hd": "",
+      "slug": "polissya-zhytomyr-b-vs-fc-inhulets-petrove-8yomo4h1peo8q0j"
     }
   }
 }
