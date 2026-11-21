@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T01:53:46.091546+00:00",
+  "updated_at": "2026-11-21T09:14:14.345458+00:00",
   "source": "https://kickofftv.id",
   "matches_count": 31,
   "matches": [
@@ -13,14 +13,14 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2EyMzI0YzM3N2ExNDJkODJkZTliNzEwMzA4Y2NhNjAyLnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "First Half",
       "time_label": "21 Nov 2026 • 16:00 WIB",
       "match_time": 1795251600,
       "match_date": "2026-11-21",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwarNKLApEADgfR28/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/kolos-kovalivka-ii-vs-fc-victoria-mykolaivka-4wyrn4h63zn2q86"
@@ -86,7 +86,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb6hHRUbEnHxkhb6/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/genclerbirligi-vs-gaziantep-futbol-kul-b-y39mp1h6gwnzmoj"
@@ -152,7 +152,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2gpL91sbNGGQ/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/kolos-kovalivka-vs-metalist-1925-kharkiv-1l4rjnh9099xm7v"
@@ -174,7 +174,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2gpHwY17YM7W/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/kryvbas-vs-kudrivka-4jwq2ghnjnn7m0v"
@@ -196,7 +196,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQgo9yQfUNbPfE/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/manchester-city-vs-fulham-1l4rjnh9p066m7v"
@@ -218,7 +218,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGyxgET1KyZqbE/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/deportivo-alav-s-vs-rc-deportivo-pxwrxlhyove5ryk"
@@ -240,7 +240,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARkDwZawzBLLg/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/sabadell-vs-granada-cf-23xmvkh6j9pgqg8"
@@ -262,7 +262,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb6hHRduvzPyz9Ke/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/amedspor-vs-caykur-rizespor-1l4rjnh9o502m7v"
@@ -284,7 +284,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb6hHRUUeLgXGx8Q/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/galatasaray-vs-samsunspor-965mkyhkd5x2r1g"
@@ -328,7 +328,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jaVPVQz1po3qz/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/como-vs-cagliari-jw2r09hkdlvnrz8"
@@ -350,7 +350,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jaVinAa22JWvL/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/lazio-vs-lecce-k82rekhgdv47rep"

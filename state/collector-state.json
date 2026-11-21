@@ -1282,7 +1282,33 @@
     "l5ergph46567r8k": 1795198318,
     "4jwq2ghnjpz9m0v": 1795198318,
     "ednm9whwlvj7ryo": 1795198318,
-    "l5ergph46p8nr8k": 1795198318
+    "l5ergph46p8nr8k": 1795198318,
+    "4wyrn4h63zn2q86": 1795252429,
+    "jw2r09hkz4v6rz8": 1795252429,
+    "l7oqdehjnz9lr51": 1795252429,
+    "y39mp1h6gwnzmoj": 1795252429,
+    "1l4rjnh9099xm7v": 1795252429,
+    "4jwq2ghnjnn7m0v": 1795252429,
+    "l5ergph41068r8k": 1795252429,
+    "8yomo4h1peo8q0j": 1795252429,
+    "1l4rjnh9p066m7v": 1795252429,
+    "pxwrxlhyove5ryk": 1795252429,
+    "23xmvkh6j9pgqg8": 1795252429,
+    "1l4rjnh9o502m7v": 1795252429,
+    "965mkyhkd5x2r1g": 1795252429,
+    "jw2r09hkdlvnrz8": 1795252429,
+    "k82rekhgdv47rep": 1795252429,
+    "x7lm7phxkd6em2w": 1795252429,
+    "l7oqdehgkekkr51": 1795252429,
+    "8yomo4h1o5odq0j": 1795252429,
+    "vjxm8ghe62d4r6o": 1795252429,
+    "y0or5jh8k0yeqwz": 1795252429,
+    "ednm9whw4d1yryo": 1795252429,
+    "8yomo4h1jjn8q0j": 1795252429,
+    "4jwq2ghndjokm0v": 1795252429,
+    "dn1m1ghldzvkmoe": 1795252429,
+    "l7oqdehgzknor51": 1795252429,
+    "1l4rjnh9p016m7v": 1795252429
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -4314,6 +4340,61 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGyy1SodbDRUMn/playlist.m3u8",
       "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGyy1SodbDRUMn/playlist.m3u8",
       "slug": "athletic-club-vs-rcd-espanyol-de-barcelona-l5ergph46p8nr8k"
+    },
+    "4wyrn4h63zn2q86": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwarNKLApEADgfR28/playlist.m3u8",
+      "hd": "",
+      "slug": "kolos-kovalivka-ii-vs-fc-victoria-mykolaivka-4wyrn4h63zn2q86"
+    },
+    "y39mp1h6gwnzmoj": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb6hHRUbEnHxkhb6/playlist.m3u8",
+      "hd": "",
+      "slug": "genclerbirligi-vs-gaziantep-futbol-kul-b-y39mp1h6gwnzmoj"
+    },
+    "1l4rjnh9099xm7v": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2gpL91sbNGGQ/playlist.m3u8",
+      "hd": "",
+      "slug": "kolos-kovalivka-vs-metalist-1925-kharkiv-1l4rjnh9099xm7v"
+    },
+    "4jwq2ghnjnn7m0v": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2gpHwY17YM7W/playlist.m3u8",
+      "hd": "",
+      "slug": "kryvbas-vs-kudrivka-4jwq2ghnjnn7m0v"
+    },
+    "1l4rjnh9p066m7v": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQgo9yQfUNbPfE/playlist.m3u8",
+      "hd": "",
+      "slug": "manchester-city-vs-fulham-1l4rjnh9p066m7v"
+    },
+    "pxwrxlhyove5ryk": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGyxgET1KyZqbE/playlist.m3u8",
+      "hd": "",
+      "slug": "deportivo-alav-s-vs-rc-deportivo-pxwrxlhyove5ryk"
+    },
+    "23xmvkh6j9pgqg8": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARkDwZawzBLLg/playlist.m3u8",
+      "hd": "",
+      "slug": "sabadell-vs-granada-cf-23xmvkh6j9pgqg8"
+    },
+    "1l4rjnh9o502m7v": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb6hHRduvzPyz9Ke/playlist.m3u8",
+      "hd": "",
+      "slug": "amedspor-vs-caykur-rizespor-1l4rjnh9o502m7v"
+    },
+    "965mkyhkd5x2r1g": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb6hHRUUeLgXGx8Q/playlist.m3u8",
+      "hd": "",
+      "slug": "galatasaray-vs-samsunspor-965mkyhkd5x2r1g"
+    },
+    "jw2r09hkdlvnrz8": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jaVPVQz1po3qz/playlist.m3u8",
+      "hd": "",
+      "slug": "como-vs-cagliari-jw2r09hkdlvnrz8"
+    },
+    "k82rekhgdv47rep": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jaVinAa22JWvL/playlist.m3u8",
+      "hd": "",
+      "slug": "lazio-vs-lecce-k82rekhgdv47rep"
     }
   }
 }
