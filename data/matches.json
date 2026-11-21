@@ -1,30 +1,8 @@
 {
-  "updated_at": "2026-11-21T22:01:09.737709+00:00",
+  "updated_at": "2026-11-21T23:01:11.590898+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 24,
+  "matches_count": 23,
   "matches": [
-    {
-      "id": "ednm9whw4exjryo",
-      "slug": "real-madrid-vs-rc-celta-ednm9whw4exjryo",
-      "competition": "Spanish La Liga",
-      "home": "Real Madrid",
-      "away": "RC Celta",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzVkODNmYmQ0YTIyYzQ0NTA4MGM1M2U4YWI4MzJhODg5LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzRjYWUwMmU5NjNmMDQ2ZjM4MWMyNWE1ZDE2MDM5ZDBiLnBuZw==",
-      "home_score": 2,
-      "away_score": 1,
-      "status": "Second Half",
-      "time_label": "22 Nov 2026 • 03:00 WIB",
-      "match_time": 1795291200,
-      "match_date": "2026-11-22",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGyxWXmzXA5EKi/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/real-madrid-vs-rc-celta-ednm9whw4exjryo"
-    },
     {
       "id": "k82rekh2vkl5rep",
       "slug": "italy-w-u16-vs-germany-u16-women-k82rekh2vkl5rep",
