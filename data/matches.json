@@ -1,74 +1,8 @@
 {
-  "updated_at": "2026-11-22T17:24:37.390692+00:00",
+  "updated_at": "2026-11-22T18:01:10.865786+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 22,
+  "matches_count": 19,
   "matches": [
-    {
-      "id": "3glrw7hne5k5qdy",
-      "slug": "hull-city-vs-brighton-hove-albion-3glrw7hne5k5qdy",
-      "competition": "English Premier League",
-      "home": "Hull City",
-      "away": "Brighton Hove Albion",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzNlYTIyNGRjMGQxMTRiODk4YTUyYjZiZjJjNTI1ZDI5LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzI5MDgzZTliNzk5ODQ1YmU4MDU3MGZhMjYzYWE1YmU3LnBuZw==",
-      "home_score": 1,
-      "away_score": 0,
-      "status": "Second Half",
-      "time_label": "22 Nov 2026 • 21:00 WIB",
-      "match_time": 1795356000,
-      "match_date": "2026-11-22",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQgoAPax3egUM6/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQgoAPax3egUM6/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/hull-city-vs-brighton-hove-albion-3glrw7hne5k5qdy"
-    },
-    {
-      "id": "1l4rjnh9px8lm7v",
-      "slug": "paris-fc-vs-angers-sco-1l4rjnh9px8lm7v",
-      "competition": "French Ligue 1",
-      "home": "Paris FC",
-      "away": "Angers SCO",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzI2ODdmNjcxZjc4NzRmZjZiNDJmMDc5ODQyYjczZDlmLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzc4ZTI4ZGVhMmRjNzRkMmM5NDExNjU4OWQxN2EwMzYzLnBuZw==",
-      "home_score": 4,
-      "away_score": 0,
-      "status": "Second Half",
-      "time_label": "22 Nov 2026 • 21:00 WIB",
-      "match_time": 1795356000,
-      "match_date": "2026-11-22",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdpxgYnaNFHe81NQ/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdpxgYnaNFHe81NQ/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/paris-fc-vs-angers-sco-1l4rjnh9px8lm7v"
-    },
-    {
-      "id": "3glrw7hnew26qdy",
-      "slug": "sassuolo-vs-genoa-3glrw7hnew26qdy",
-      "competition": "Italian Serie A",
-      "home": "Sassuolo",
-      "away": "Genoa",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzYxNmJmMjQyYTUzMmY3MmU5NzA2NDhmMmVhZDQyM2NmLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzBiYjlkNmY1MmViYzQ4MDE4ODI0YzBlNjNiZDU0NzlkLnBuZw==",
-      "home_score": 0,
-      "away_score": 2,
-      "status": "Second Half",
-      "time_label": "22 Nov 2026 • 21:00 WIB",
-      "match_time": 1795356000,
-      "match_date": "2026-11-22",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jaVZ9tWxATjxc/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jaVZ9tWxATjxc/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/sassuolo-vs-genoa-3glrw7hnew26qdy"
-    },
     {
       "id": "pxwrxlhyo2odryk",
       "slug": "fc-augsburg-vs-1-fsv-mainz-05-pxwrxlhyo2odryk",
@@ -144,8 +78,8 @@
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzRmZGE5YTc3YmM5YzRkOGM5N2Q2OGY3OTJkYmI5NWQxLnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzYwNTZjNGIxOGU4MDRlZjBhZWM3MzMxZWY4M2M4MGU2LnBuZw==",
       "home_score": 2,
-      "away_score": 0,
-      "status": "First Half",
+      "away_score": 1,
+      "status": "Half Time",
       "time_label": "23 Nov 2026 • 00:00 WIB",
       "match_time": 1795366800,
       "match_date": "2026-11-23",
@@ -156,6 +90,72 @@
         "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jaUYsTUNHrG3i/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/ac-milan-vs-frosinone-318q66hxdoevqo9"
+    },
+    {
+      "id": "zp5rzghg914vq82",
+      "slug": "ca-osasuna-vs-malaga-zp5rzghg914vq82",
+      "competition": "Spanish La Liga",
+      "home": "CA Osasuna",
+      "away": "Malaga",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzA4YmNlZDQ1OTNmOTRmNmZhOTJiYjZmYjUwOWUxZjFmLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzU3YzJmNjU4ZjhlMzQ4Yjk4NTAxOGM2ZDY1YzhjYWEwLnBuZw==",
+      "home_score": 1,
+      "away_score": 0,
+      "status": "First Half",
+      "time_label": "23 Nov 2026 • 00:30 WIB",
+      "match_time": 1795368600,
+      "match_date": "2026-11-23",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGyxWLnbAkweZE/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGyxWLnbAkweZE/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/ca-osasuna-vs-malaga-zp5rzghg914vq82"
+    },
+    {
+      "id": "3glrw7hn5631qdy",
+      "slug": "celta-vigo-b-vs-real-valladolid-cf-3glrw7hn5631qdy",
+      "competition": "Spanish Segunda Division",
+      "home": "Celta Vigo B",
+      "away": "Real Valladolid CF",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzMwOTBkMjg2ODkzNmYwZjczZjM2ODQ0YTQzZDVjZThmLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZkZjYzNDYxYzAwNjY4NTk3MzE5YTRmMGRiMTRkY2VlLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "First Half",
+      "time_label": "23 Nov 2026 • 00:30 WIB",
+      "match_time": 1795368600,
+      "match_date": "2026-11-23",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARkDpy9LYhasz/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/celta-vigo-b-vs-real-valladolid-cf-3glrw7hn5631qdy"
+    },
+    {
+      "id": "y0or5jh8k6zgqwz",
+      "slug": "girona-fc-vs-eibar-y0or5jh8k6zgqwz",
+      "competition": "Spanish Segunda Division",
+      "home": "Girona FC",
+      "away": "Eibar",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzAwNmNlMjU5YjMzZWY3MmRkNTU3MGNmYThkYzM5ZjM4LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzIzMGJlN2Y0ZjIzZGUxY2IwODg3N2E3MmNkMDhmNjE5LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "First Half",
+      "time_label": "23 Nov 2026 • 00:30 WIB",
+      "match_time": 1795368600,
+      "match_date": "2026-11-23",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARkDsAdD2XW2t/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/girona-fc-vs-eibar-y0or5jh8k6zgqwz"
     },
     {
       "id": "4wyrn4h6p2n5q86",
@@ -244,72 +244,6 @@
         "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQgoAYNsXZz8xg/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/liverpool-vs-manchester-united-n54qllhny65lqvy"
-    },
-    {
-      "id": "zp5rzghg914vq82",
-      "slug": "ca-osasuna-vs-malaga-zp5rzghg914vq82",
-      "competition": "Spanish La Liga",
-      "home": "CA Osasuna",
-      "away": "Malaga",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzA4YmNlZDQ1OTNmOTRmNmZhOTJiYjZmYjUwOWUxZjFmLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzU3YzJmNjU4ZjhlMzQ4Yjk4NTAxOGM2ZDY1YzhjYWEwLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "23 Nov 2026 • 00:30 WIB",
-      "match_time": 1795368600,
-      "match_date": "2026-11-23",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGyxWLnbAkweZE/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGyxWLnbAkweZE/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/ca-osasuna-vs-malaga-zp5rzghg914vq82"
-    },
-    {
-      "id": "3glrw7hn5631qdy",
-      "slug": "celta-vigo-b-vs-real-valladolid-cf-3glrw7hn5631qdy",
-      "competition": "Spanish Segunda Division",
-      "home": "Celta Vigo B",
-      "away": "Real Valladolid CF",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzMwOTBkMjg2ODkzNmYwZjczZjM2ODQ0YTQzZDVjZThmLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZkZjYzNDYxYzAwNjY4NTk3MzE5YTRmMGRiMTRkY2VlLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "23 Nov 2026 • 00:30 WIB",
-      "match_time": 1795368600,
-      "match_date": "2026-11-23",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARkDpy9LYhasz/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/celta-vigo-b-vs-real-valladolid-cf-3glrw7hn5631qdy"
-    },
-    {
-      "id": "y0or5jh8k6zgqwz",
-      "slug": "girona-fc-vs-eibar-y0or5jh8k6zgqwz",
-      "competition": "Spanish Segunda Division",
-      "home": "Girona FC",
-      "away": "Eibar",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzAwNmNlMjU5YjMzZWY3MmRkNTU3MGNmYThkYzM5ZjM4LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzIzMGJlN2Y0ZjIzZGUxY2IwODg3N2E3MmNkMDhmNjE5LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "23 Nov 2026 • 00:30 WIB",
-      "match_time": 1795368600,
-      "match_date": "2026-11-23",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARkDsAdD2XW2t/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/girona-fc-vs-eibar-y0or5jh8k6zgqwz"
     },
     {
       "id": "n54qllhny8lkqvy",
