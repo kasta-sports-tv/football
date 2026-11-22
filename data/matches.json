@@ -1,139 +1,51 @@
 {
-  "updated_at": "2026-11-22T19:01:10.432882+00:00",
+  "updated_at": "2026-11-22T20:01:12.000146+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 17,
+  "matches_count": 11,
   "matches": [
     {
-      "id": "1l4rjnh90e57m7v",
-      "slug": "racing-santander-vs-real-sociedad-1l4rjnh90e57m7v",
-      "competition": "Spanish La Liga",
-      "home": "Racing Santander",
-      "away": "Real Sociedad",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzA3NDdiZWQ2MDEwYjQ5M2JiYjI0M2Q3YWFlYjdlNGEwLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzdhNTNlNmQyMzg4MTQ2OGU5NGMwMDBiYzZkYjQwYzNhLnBuZw==",
-      "home_score": 2,
-      "away_score": 0,
-      "status": "First Half",
-      "time_label": "22 Nov 2026 • 22:15 WIB",
-      "match_time": 1795360500,
-      "match_date": "2026-11-22",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGyxWTP2nCRQ1v/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGyxWTP2nCRQ1v/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/racing-santander-vs-real-sociedad-1l4rjnh90e57m7v"
-    },
-    {
-      "id": "zp5rzghg9460q82",
-      "slug": "sporting-gijon-vs-ud-las-palmas-zp5rzghg9460q82",
-      "competition": "Spanish Segunda Division",
-      "home": "Sporting Gijon",
-      "away": "UD Las Palmas",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZjNzQ5YjUwNjVkYjM2MzQ5N2I3ZDkzYzk2NmIwYTUxLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2VmZjliYjE3YWU1NGE4NDA2OGRmYzNiOWYxZjYyOGNiLnBuZw==",
-      "home_score": 0,
-      "away_score": 1,
-      "status": "First Half",
-      "time_label": "22 Nov 2026 • 22:15 WIB",
-      "match_time": 1795360500,
-      "match_date": "2026-11-22",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARkE4A2ZRf5oN/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/sporting-gijon-vs-ud-las-palmas-zp5rzghg9460q82"
-    },
-    {
-      "id": "zp5rzghg914vq82",
-      "slug": "ca-osasuna-vs-malaga-zp5rzghg914vq82",
-      "competition": "Spanish La Liga",
-      "home": "CA Osasuna",
-      "away": "Malaga",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzA4YmNlZDQ1OTNmOTRmNmZhOTJiYjZmYjUwOWUxZjFmLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzU3YzJmNjU4ZjhlMzQ4Yjk4NTAxOGM2ZDY1YzhjYWEwLnBuZw==",
-      "home_score": 1,
-      "away_score": 0,
-      "status": "Second Half",
-      "time_label": "23 Nov 2026 • 00:30 WIB",
-      "match_time": 1795368600,
-      "match_date": "2026-11-23",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGyxWLnbAkweZE/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGyxWLnbAkweZE/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/ca-osasuna-vs-malaga-zp5rzghg914vq82"
-    },
-    {
-      "id": "3glrw7hn5631qdy",
-      "slug": "celta-vigo-b-vs-real-valladolid-cf-3glrw7hn5631qdy",
-      "competition": "Spanish Segunda Division",
-      "home": "Celta Vigo B",
-      "away": "Real Valladolid CF",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzMwOTBkMjg2ODkzNmYwZjczZjM2ODQ0YTQzZDVjZThmLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZkZjYzNDYxYzAwNjY4NTk3MzE5YTRmMGRiMTRkY2VlLnBuZw==",
-      "home_score": 1,
-      "away_score": 0,
-      "status": "Second Half",
-      "time_label": "23 Nov 2026 • 00:30 WIB",
-      "match_time": 1795368600,
-      "match_date": "2026-11-23",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARkDpy9LYhasz/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/celta-vigo-b-vs-real-valladolid-cf-3glrw7hn5631qdy"
-    },
-    {
-      "id": "y0or5jh8k6zgqwz",
-      "slug": "girona-fc-vs-eibar-y0or5jh8k6zgqwz",
-      "competition": "Spanish Segunda Division",
-      "home": "Girona FC",
-      "away": "Eibar",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzAwNmNlMjU5YjMzZWY3MmRkNTU3MGNmYThkYzM5ZjM4LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzIzMGJlN2Y0ZjIzZGUxY2IwODg3N2E3MmNkMDhmNjE5LnBuZw==",
-      "home_score": 2,
-      "away_score": 1,
-      "status": "Second Half",
-      "time_label": "23 Nov 2026 • 00:30 WIB",
-      "match_time": 1795368600,
-      "match_date": "2026-11-23",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARkDsAdD2XW2t/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/girona-fc-vs-eibar-y0or5jh8k6zgqwz"
-    },
-    {
-      "id": "4wyrn4h6p2n5q86",
-      "slug": "trabzonspor-vs-eyupspor-4wyrn4h6p2n5q86",
-      "competition": "Turkish Super League",
-      "home": "Trabzonspor",
-      "away": "Eyupspor",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzlkYzljOGY5MjhkNWNhZmRjOTBhNzQ3ZmUwNDM5YzJkLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzVhMTVmYmVhZmJhY2U2NjUzY2Y3ODliMmEyNTI2MTVmLnBuZw==",
+      "id": "n54qllhny8lkqvy",
+      "slug": "marseille-vs-le-mans-n54qllhny8lkqvy",
+      "competition": "French Ligue 1",
+      "home": "Marseille",
+      "away": "Le Mans",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2JmMzg3MTBlMTM4ZjQzNjE4ZGFjMzEyZTA4ODE5NWJkLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzk4NDY1MzZjZDdkNzRiMTdiZjA2YjVkZmI2ZmY1NDY5LnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "Not Started",
-      "time_label": "22 Nov 2026 • 23:00 WIB",
-      "match_time": 1795363200,
-      "match_date": "2026-11-22",
-      "is_live": false,
+      "status": "First Half",
+      "time_label": "23 Nov 2026 • 02:45 WIB",
+      "match_time": 1795376700,
+      "match_date": "2026-11-23",
+      "is_live": true,
       "is_finished": false,
       "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb6hHRUk2hmt4NCg/playlist.m3u8",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdpxgYnzYXrvD64G/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdpxgYnzYXrvD64G/playlist.m3u8"
       },
-      "match_url": "https://kickofftv.id/match/trabzonspor-vs-eyupspor-4wyrn4h6p2n5q86"
+      "match_url": "https://kickofftv.id/match/marseille-vs-le-mans-n54qllhny8lkqvy"
+    },
+    {
+      "id": "ednm9whwlkl4ryo",
+      "slug": "atalanta-vs-inter-milan-ednm9whwlkl4ryo",
+      "competition": "Italian Serie A",
+      "home": "Atalanta",
+      "away": "Inter Milan",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzFmYjE2MjQxNGMxZDQ4MDE4NDIzZWE4Yjc0OWFjMWI4LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2E4Y2Q4M2M1ZWNhMzQyYmJhZmE2YWI4MTM0YzI3ZTgwLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "First Half",
+      "time_label": "23 Nov 2026 • 02:45 WIB",
+      "match_time": 1795376700,
+      "match_date": "2026-11-23",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jZj48PZv7X5oN/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jZj48PZv7X5oN/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/atalanta-vs-inter-milan-ednm9whwlkl4ryo"
     },
     {
       "id": "y0or5jh8d3v1qwz",
@@ -200,50 +112,6 @@
         "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQgoAYNsXZz8xg/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/liverpool-vs-manchester-united-n54qllhny65lqvy"
-    },
-    {
-      "id": "n54qllhny8lkqvy",
-      "slug": "marseille-vs-le-mans-n54qllhny8lkqvy",
-      "competition": "French Ligue 1",
-      "home": "Marseille",
-      "away": "Le Mans",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2JmMzg3MTBlMTM4ZjQzNjE4ZGFjMzEyZTA4ODE5NWJkLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzk4NDY1MzZjZDdkNzRiMTdiZjA2YjVkZmI2ZmY1NDY5LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "23 Nov 2026 • 02:45 WIB",
-      "match_time": 1795376700,
-      "match_date": "2026-11-23",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdpxgYnzYXrvD64G/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdpxgYnzYXrvD64G/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/marseille-vs-le-mans-n54qllhny8lkqvy"
-    },
-    {
-      "id": "ednm9whwlkl4ryo",
-      "slug": "atalanta-vs-inter-milan-ednm9whwlkl4ryo",
-      "competition": "Italian Serie A",
-      "home": "Atalanta",
-      "away": "Inter Milan",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzFmYjE2MjQxNGMxZDQ4MDE4NDIzZWE4Yjc0OWFjMWI4LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2E4Y2Q4M2M1ZWNhMzQyYmJhZmE2YWI4MTM0YzI3ZTgwLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "23 Nov 2026 • 02:45 WIB",
-      "match_time": 1795376700,
-      "match_date": "2026-11-23",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jZj48PZv7X5oN/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jZj48PZv7X5oN/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/atalanta-vs-inter-milan-ednm9whwlkl4ryo"
     },
     {
       "id": "y0or5jh8k16wqwz",
