@@ -1,74 +1,8 @@
 {
-  "updated_at": "2026-11-22T12:01:13.818648+00:00",
+  "updated_at": "2026-11-22T13:01:11.547423+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 23,
+  "matches_count": 19,
   "matches": [
-    {
-      "id": "2y8m4zh5o09vql0",
-      "slug": "probiy-horodenka-vs-metalist-kharkiv-2y8m4zh5o09vql0",
-      "competition": "Ukrainian First League",
-      "home": "Probiy Horodenka",
-      "away": "Metalist Kharkiv",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzNkNDQ4OTA2Y2Q3YjBiZTliZDA4NDAxODc0MDdhMWE5LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZhNWQ2ZjgxOWY4MGQ4NzYyNDhiYzdiYWY3ZGY5NjRmLnBuZw==",
-      "home_score": 0,
-      "away_score": 1,
-      "status": "Second Half",
-      "time_label": "22 Nov 2026 • 17:00 WIB",
-      "match_time": 1795341600,
-      "match_date": "2026-11-22",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwarNKL1c8Pj6uikG/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/probiy-horodenka-vs-metalist-kharkiv-2y8m4zh5o09vql0"
-    },
-    {
-      "id": "ednm9whwyx40ryo",
-      "slug": "erzurumspor-fk-vs-goztepe-ednm9whwyx40ryo",
-      "competition": "Turkish Super League",
-      "home": "Erzurumspor FK",
-      "away": "Goztepe",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2VmYmU0NjE0ZmZjYTQ0ZTY5ZWExOTA4NzFjM2QwMGFkLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2YwNTc5MmEzNzRhMDlmZTkwYmMyNzYzMDVmMWRjMWUxLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Second Half",
-      "time_label": "22 Nov 2026 • 17:30 WIB",
-      "match_time": 1795343400,
-      "match_date": "2026-11-22",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb6hHRUWqpZ16sHJ/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/erzurumspor-fk-vs-goztepe-ednm9whwyx40ryo"
-    },
-    {
-      "id": "dj2ryohlov0lq1z",
-      "slug": "fk-oleksandria-vs-ucsa-dj2ryohlov0lq1z",
-      "competition": "Ukrainian First League",
-      "home": "FK Oleksandria",
-      "away": "UCSA",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzcxYzFhZjQ5MDEwNTkzYjI5ZjlmYTQxYWEwZTIxYjQ5LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzc5NjQ3MTRkN2NmNWFkNzBlZmVhMzg0NzU4MzIwYTM5LnBuZw==",
-      "home_score": 1,
-      "away_score": 0,
-      "status": "Half Time",
-      "time_label": "22 Nov 2026 • 18:00 WIB",
-      "match_time": 1795345200,
-      "match_date": "2026-11-22",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwarNKL1VXx7fRyHa/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/fk-oleksandria-vs-ucsa-dj2ryohlov0lq1z"
-    },
     {
       "id": "23xmvkh6j66oqg8",
       "slug": "dynamo-kyiv-vs-obolon-kyiv-23xmvkh6j66oqg8",
@@ -77,9 +11,9 @@
       "away": "Obolon Kyiv",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzc1NjdiOTkzYTNmY2E1NDNjZjkyZTYwNzUzMDhhNjFmLnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzI2MGRkODUyMzY3MTBlNWZlODJiZTA0ODBjZTQ3NjRjLnBuZw==",
-      "home_score": 2,
-      "away_score": 0,
-      "status": "First Half",
+      "home_score": 4,
+      "away_score": 1,
+      "status": "Second Half",
       "time_label": "22 Nov 2026 • 18:00 WIB",
       "match_time": 1795345200,
       "match_date": "2026-11-22",
@@ -100,8 +34,8 @@
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2M3NjRkYTIyNjI2NzI0NDA1NWQwOGE0OGUwYTc3M2YyLnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Y0ZTFmMjRiMTkyNmE1NjQ2YzUyMmNkOTllNGM5MzU4LnBuZw==",
       "home_score": 1,
-      "away_score": 0,
-      "status": "Half Time",
+      "away_score": 3,
+      "status": "Second Half",
       "time_label": "22 Nov 2026 • 18:00 WIB",
       "match_time": 1795345200,
       "match_date": "2026-11-22",
@@ -121,9 +55,9 @@
       "away": "Venezia",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzNiMWVhY2UzOGI1ODQ3YWI4N2EwOWJiZGQ4ODVmMWM0LnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzIxNzg0NjI3OGRhZTQ3Yzg5NTVjZjVlYWEyMzBlNmU4LnBuZw==",
-      "home_score": 0,
+      "home_score": 3,
       "away_score": 0,
-      "status": "First Half",
+      "status": "Second Half",
       "time_label": "22 Nov 2026 • 18:30 WIB",
       "match_time": 1795347000,
       "match_date": "2026-11-22",
@@ -136,28 +70,6 @@
       "match_url": "https://kickofftv.id/match/juventus-vs-venezia-2y8m4zh5d3yzql0"
     },
     {
-      "id": "k82rekh2vkl5rep",
-      "slug": "italy-w-u16-vs-germany-u16-women-k82rekh2vkl5rep",
-      "competition": "International Friendly",
-      "home": "Italy (w) U16",
-      "away": "Germany U16 Women",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzUzZDk1N2JkZWY1ZTQ5MWZiNGRkOTUxNDRjNzRhM2JlLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzhjYWQ1NWE4NzVjYjZjYzYxYjM0NmUxNWFjOTc0ZDc0LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "TBD",
-      "time_label": "22 Nov 2026 • 17:00 WIB",
-      "match_time": 1795341600,
-      "match_date": "2026-11-22",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/italy-w-u16-vs-germany-u16-women-k82rekh2vkl5rep"
-    },
-    {
       "id": "l7oqdehgpykor51",
       "slug": "nyva-ternopil-vs-sc-poltava-l7oqdehgpykor51",
       "competition": "Ukrainian First League",
@@ -167,17 +79,39 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzg5ZjhlMDU1NzBiZTcwMzljNmFiZDY4Yjg3ZWE3MWQzLnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "Half Time",
       "time_label": "22 Nov 2026 • 19:00 WIB",
       "match_time": 1795348800,
       "match_date": "2026-11-22",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwarNKL1XjRz9FtSU/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/nyva-ternopil-vs-sc-poltava-l7oqdehgpykor51"
+    },
+    {
+      "id": "k82rekhgp64grep",
+      "slug": "kasimpasa-vs-alanyaspor-k82rekhgp64grep",
+      "competition": "Turkish Super League",
+      "home": "Kasimpasa",
+      "away": "Alanyaspor",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzQ4M2Y2YWRlMTU4ZjQ0ZWIyNDg0OWI2MDc2Mzc3MzU1LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzA2ODhlZDEzM2RhZGY1ZjA5YmI5NGM4NDE0ZWM1NTY1LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "First Half",
+      "time_label": "22 Nov 2026 • 20:00 WIB",
+      "match_time": 1795352400,
+      "match_date": "2026-11-22",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb6hHRUZ3JRUvnSC/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/kasimpasa-vs-alanyaspor-k82rekhgp64grep"
     },
     {
       "id": "vjxm8ghe6x3kr6o",
@@ -222,28 +156,6 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/cordoba-vs-real-oviedo-x7lm7phje83wm2w"
-    },
-    {
-      "id": "k82rekhgp64grep",
-      "slug": "kasimpasa-vs-alanyaspor-k82rekhgp64grep",
-      "competition": "Turkish Super League",
-      "home": "Kasimpasa",
-      "away": "Alanyaspor",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzQ4M2Y2YWRlMTU4ZjQ0ZWIyNDg0OWI2MDc2Mzc3MzU1LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzA2ODhlZDEzM2RhZGY1ZjA5YmI5NGM4NDE0ZWM1NTY1LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "22 Nov 2026 • 20:00 WIB",
-      "match_time": 1795352400,
-      "match_date": "2026-11-22",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb6hHRUZ3JRUvnSC/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/kasimpasa-vs-alanyaspor-k82rekhgp64grep"
     },
     {
       "id": "dn1m1ghly7zxmoe",
