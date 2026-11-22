@@ -1325,7 +1325,26 @@
     "23xmvkh6zkewqg8": 1795280473,
     "4jwq2ghndx8zm0v": 1795280473,
     "ednm9whw4exjryo": 1795280473,
-    "1l4rjnh905j5m7v": 1795280473
+    "1l4rjnh905j5m7v": 1795280473,
+    "2y8m4zh5o09vql0": 1795340456,
+    "k82rekh2vkl5rep": 1795340456,
+    "ednm9whwyx40ryo": 1795340456,
+    "23xmvkh6j66oqg8": 1795340456,
+    "y39mp1h6n66pmoj": 1795340456,
+    "dj2ryohlov0lq1z": 1795340456,
+    "2y8m4zh5d3yzql0": 1795340456,
+    "l7oqdehgpykor51": 1795340456,
+    "vjxm8ghe6x3kr6o": 1795340456,
+    "x7lm7phje83wm2w": 1795340456,
+    "k82rekhgp64grep": 1795340456,
+    "dn1m1ghly7zxmoe": 1795340456,
+    "x7lm7phjdk23m2w": 1795340456,
+    "3glrw7hnew26qdy": 1795340456,
+    "1l4rjnh9px8lm7v": 1795340456,
+    "3glrw7hne5k5qdy": 1795340456,
+    "pxwrxlhyo2odryk": 1795340456,
+    "1l4rjnh90e57m7v": 1795340456,
+    "zp5rzghg9460q82": 1795340456
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -4562,6 +4581,76 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARkE1xYgwqAeU/playlist.m3u8",
       "hd": "",
       "slug": "tenerife-vs-rcd-mallorca-1l4rjnh905j5m7v"
+    },
+    "2y8m4zh5o09vql0": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwarNKL1c8Pj6uikG/playlist.m3u8",
+      "hd": "",
+      "slug": "probiy-horodenka-vs-metalist-kharkiv-2y8m4zh5o09vql0"
+    },
+    "ednm9whwyx40ryo": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb6hHRUWqpZ16sHJ/playlist.m3u8",
+      "hd": "",
+      "slug": "erzurumspor-fk-vs-goztepe-ednm9whwyx40ryo"
+    },
+    "2y8m4zh5d3yzql0": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jaVZ16bUFA5M2/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jaVZ16bUFA5M2/playlist.m3u8",
+      "slug": "juventus-vs-venezia-2y8m4zh5d3yzql0"
+    },
+    "vjxm8ghe6x3kr6o": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGyxgJqy4wDfu2/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGyxgJqy4wDfu2/playlist.m3u8",
+      "slug": "fc-barcelona-vs-villarreal-cf-vjxm8ghe6x3kr6o"
+    },
+    "x7lm7phje83wm2w": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARkDuN75WMRBn/playlist.m3u8",
+      "hd": "",
+      "slug": "cordoba-vs-real-oviedo-x7lm7phje83wm2w"
+    },
+    "k82rekhgp64grep": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb6hHRUZ3JRUvnSC/playlist.m3u8",
+      "hd": "",
+      "slug": "kasimpasa-vs-alanyaspor-k82rekhgp64grep"
+    },
+    "dn1m1ghly7zxmoe": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb6hHRUdSGASacjz/playlist.m3u8",
+      "hd": "",
+      "slug": "konyaspor-vs-besiktas-jk-dn1m1ghly7zxmoe"
+    },
+    "x7lm7phjdk23m2w": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jZkEXfut5iFfe/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jZkEXfut5iFfe/playlist.m3u8",
+      "slug": "bologna-vs-udinese-x7lm7phjdk23m2w"
+    },
+    "3glrw7hnew26qdy": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jaVZ9tWxATjxc/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jaVZ9tWxATjxc/playlist.m3u8",
+      "slug": "sassuolo-vs-genoa-3glrw7hnew26qdy"
+    },
+    "1l4rjnh9px8lm7v": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdpxgYnaNFHe81NQ/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdpxgYnaNFHe81NQ/playlist.m3u8",
+      "slug": "paris-fc-vs-angers-sco-1l4rjnh9px8lm7v"
+    },
+    "3glrw7hne5k5qdy": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQgoAPax3egUM6/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQgoAPax3egUM6/playlist.m3u8",
+      "slug": "hull-city-vs-brighton-hove-albion-3glrw7hne5k5qdy"
+    },
+    "pxwrxlhyo2odryk": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaDhVHwDFq7iYMN/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaDhVHwDFq7iYMN/playlist.m3u8",
+      "slug": "fc-augsburg-vs-1-fsv-mainz-05-pxwrxlhyo2odryk"
+    },
+    "1l4rjnh90e57m7v": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGyxWTP2nCRQ1v/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGyxWTP2nCRQ1v/playlist.m3u8",
+      "slug": "racing-santander-vs-real-sociedad-1l4rjnh90e57m7v"
+    },
+    "zp5rzghg9460q82": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARkE4A2ZRf5oN/playlist.m3u8",
+      "hd": "",
+      "slug": "sporting-gijon-vs-ud-las-palmas-zp5rzghg9460q82"
     }
   }
 }
