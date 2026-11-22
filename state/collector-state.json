@@ -1348,7 +1348,15 @@
     "4wyrn4h6p2n5q86": 1795359671,
     "y0or5jh8d3v1qwz": 1795346150,
     "n54qllhny65lqvy": 1795346150,
-    "3glrw7hn5l2zqdy": 1795346150
+    "3glrw7hn5l2zqdy": 1795346150,
+    "318q66hxdoevqo9": 1795366884,
+    "zp5rzghg914vq82": 1795366884,
+    "3glrw7hn5631qdy": 1795366884,
+    "y0or5jh8k6zgqwz": 1795366884,
+    "ednm9whwlkl4ryo": 1795366884,
+    "n54qllhny8lkqvy": 1795366884,
+    "y0or5jh8k16wqwz": 1795366884,
+    "6ypq3nhvoe76md7": 1795366884
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -4685,6 +4693,46 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb6hHRUk2hmt4NCg/playlist.m3u8",
       "hd": "",
       "slug": "trabzonspor-vs-eyupspor-4wyrn4h6p2n5q86"
+    },
+    "318q66hxdoevqo9": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jaUYsTUNHrG3i/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jaUYsTUNHrG3i/playlist.m3u8",
+      "slug": "ac-milan-vs-frosinone-318q66hxdoevqo9"
+    },
+    "zp5rzghg914vq82": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGyxWLnbAkweZE/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGyxWLnbAkweZE/playlist.m3u8",
+      "slug": "ca-osasuna-vs-malaga-zp5rzghg914vq82"
+    },
+    "3glrw7hn5631qdy": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARkDpy9LYhasz/playlist.m3u8",
+      "hd": "",
+      "slug": "celta-vigo-b-vs-real-valladolid-cf-3glrw7hn5631qdy"
+    },
+    "y0or5jh8k6zgqwz": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARkDsAdD2XW2t/playlist.m3u8",
+      "hd": "",
+      "slug": "girona-fc-vs-eibar-y0or5jh8k6zgqwz"
+    },
+    "ednm9whwlkl4ryo": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jZj48PZv7X5oN/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jZj48PZv7X5oN/playlist.m3u8",
+      "slug": "atalanta-vs-inter-milan-ednm9whwlkl4ryo"
+    },
+    "n54qllhny8lkqvy": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdpxgYnzYXrvD64G/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdpxgYnzYXrvD64G/playlist.m3u8",
+      "slug": "marseille-vs-le-mans-n54qllhny8lkqvy"
+    },
+    "y0or5jh8k16wqwz": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGyxfn5EtDeqkU/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGyxfn5EtDeqkU/playlist.m3u8",
+      "slug": "getafe-vs-atletico-madrid-y0or5jh8k16wqwz"
+    },
+    "6ypq3nhvoe76md7": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARkPE4KBXarvL/playlist.m3u8",
+      "hd": "",
+      "slug": "burgos-cf-vs-albacete-balompi-sad-6ypq3nhvoe76md7"
     }
   }
 }

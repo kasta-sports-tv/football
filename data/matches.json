@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-22T16:01:12.751486+00:00",
+  "updated_at": "2026-11-22T17:01:29.814921+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 10,
+  "matches_count": 22,
   "matches": [
     {
       "id": "3glrw7hne5k5qdy",
@@ -222,6 +222,270 @@
         "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQgoAYNsXZz8xg/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/liverpool-vs-manchester-united-n54qllhny65lqvy"
+    },
+    {
+      "id": "318q66hxdoevqo9",
+      "slug": "ac-milan-vs-frosinone-318q66hxdoevqo9",
+      "competition": "Italian Serie A",
+      "home": "AC Milan",
+      "away": "Frosinone",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzRmZGE5YTc3YmM5YzRkOGM5N2Q2OGY3OTJkYmI5NWQxLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzYwNTZjNGIxOGU4MDRlZjBhZWM3MzMxZWY4M2M4MGU2LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "23 Nov 2026 • 00:00 WIB",
+      "match_time": 1795366800,
+      "match_date": "2026-11-23",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jaUYsTUNHrG3i/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jaUYsTUNHrG3i/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/ac-milan-vs-frosinone-318q66hxdoevqo9"
+    },
+    {
+      "id": "zp5rzghg914vq82",
+      "slug": "ca-osasuna-vs-malaga-zp5rzghg914vq82",
+      "competition": "Spanish La Liga",
+      "home": "CA Osasuna",
+      "away": "Malaga",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzA4YmNlZDQ1OTNmOTRmNmZhOTJiYjZmYjUwOWUxZjFmLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzU3YzJmNjU4ZjhlMzQ4Yjk4NTAxOGM2ZDY1YzhjYWEwLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "23 Nov 2026 • 00:30 WIB",
+      "match_time": 1795368600,
+      "match_date": "2026-11-23",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGyxWLnbAkweZE/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGyxWLnbAkweZE/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/ca-osasuna-vs-malaga-zp5rzghg914vq82"
+    },
+    {
+      "id": "3glrw7hn5631qdy",
+      "slug": "celta-vigo-b-vs-real-valladolid-cf-3glrw7hn5631qdy",
+      "competition": "Spanish Segunda Division",
+      "home": "Celta Vigo B",
+      "away": "Real Valladolid CF",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzMwOTBkMjg2ODkzNmYwZjczZjM2ODQ0YTQzZDVjZThmLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZkZjYzNDYxYzAwNjY4NTk3MzE5YTRmMGRiMTRkY2VlLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "23 Nov 2026 • 00:30 WIB",
+      "match_time": 1795368600,
+      "match_date": "2026-11-23",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARkDpy9LYhasz/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/celta-vigo-b-vs-real-valladolid-cf-3glrw7hn5631qdy"
+    },
+    {
+      "id": "y0or5jh8k6zgqwz",
+      "slug": "girona-fc-vs-eibar-y0or5jh8k6zgqwz",
+      "competition": "Spanish Segunda Division",
+      "home": "Girona FC",
+      "away": "Eibar",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzAwNmNlMjU5YjMzZWY3MmRkNTU3MGNmYThkYzM5ZjM4LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzIzMGJlN2Y0ZjIzZGUxY2IwODg3N2E3MmNkMDhmNjE5LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "23 Nov 2026 • 00:30 WIB",
+      "match_time": 1795368600,
+      "match_date": "2026-11-23",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARkDsAdD2XW2t/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/girona-fc-vs-eibar-y0or5jh8k6zgqwz"
+    },
+    {
+      "id": "n54qllhny8lkqvy",
+      "slug": "marseille-vs-le-mans-n54qllhny8lkqvy",
+      "competition": "French Ligue 1",
+      "home": "Marseille",
+      "away": "Le Mans",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2JmMzg3MTBlMTM4ZjQzNjE4ZGFjMzEyZTA4ODE5NWJkLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzk4NDY1MzZjZDdkNzRiMTdiZjA2YjVkZmI2ZmY1NDY5LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "23 Nov 2026 • 02:45 WIB",
+      "match_time": 1795376700,
+      "match_date": "2026-11-23",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdpxgYnzYXrvD64G/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdpxgYnzYXrvD64G/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/marseille-vs-le-mans-n54qllhny8lkqvy"
+    },
+    {
+      "id": "ednm9whwlkl4ryo",
+      "slug": "atalanta-vs-inter-milan-ednm9whwlkl4ryo",
+      "competition": "Italian Serie A",
+      "home": "Atalanta",
+      "away": "Inter Milan",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzFmYjE2MjQxNGMxZDQ4MDE4NDIzZWE4Yjc0OWFjMWI4LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2E4Y2Q4M2M1ZWNhMzQyYmJhZmE2YWI4MTM0YzI3ZTgwLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "23 Nov 2026 • 02:45 WIB",
+      "match_time": 1795376700,
+      "match_date": "2026-11-23",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jZj48PZv7X5oN/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jZj48PZv7X5oN/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/atalanta-vs-inter-milan-ednm9whwlkl4ryo"
+    },
+    {
+      "id": "y0or5jh8k16wqwz",
+      "slug": "getafe-vs-atletico-madrid-y0or5jh8k16wqwz",
+      "competition": "Spanish La Liga",
+      "home": "Getafe",
+      "away": "Atletico Madrid",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzQ2ZjdhZjg2NGY0OTQyNTFiYjJmNWU5MTZkMjIwNDhhLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzEwY2M1YjczNDAxNDRiOGViODIzODE2NmU2NGJkNjJmLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "23 Nov 2026 • 03:00 WIB",
+      "match_time": 1795377600,
+      "match_date": "2026-11-23",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGyxfn5EtDeqkU/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGyxfn5EtDeqkU/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/getafe-vs-atletico-madrid-y0or5jh8k16wqwz"
+    },
+    {
+      "id": "6ypq3nhvoe76md7",
+      "slug": "burgos-cf-vs-albacete-balompi-sad-6ypq3nhvoe76md7",
+      "competition": "Spanish Segunda Division",
+      "home": "Burgos CF",
+      "away": "Albacete Balompié SAD",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzFlODg4Y2E1NDJkODkyNjAwZDNiMjgxOGQxYzQwZTIyLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2EyZjczMWU5MTQ3ZjY0MDgyZjIyYjlhNTYxNDI1MzA4LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "23 Nov 2026 • 03:00 WIB",
+      "match_time": 1795377600,
+      "match_date": "2026-11-23",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARkPE4KBXarvL/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/burgos-cf-vs-albacete-balompi-sad-6ypq3nhvoe76md7"
+    },
+    {
+      "id": "zp5rzgh3jk2kq82",
+      "slug": "qatar-u16-vs-usa-u16-zp5rzgh3jk2kq82",
+      "competition": "International Friendly",
+      "home": "Qatar U16",
+      "away": "USA U16",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzAzMzIyZTEwZTJmNzU1MDE2MjA4ODhhMWY0ZWNlOWM0LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2JlYmRjZjRiMDM0OWU0YzZhZTI3YTJkMWM1YWJiYzM3LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "23 Nov 2026 • 17:00 WIB",
+      "match_time": 1795428000,
+      "match_date": "2026-11-23",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/qatar-u16-vs-usa-u16-zp5rzgh3jk2kq82"
+    },
+    {
+      "id": "n54qllhn6nn2qvy",
+      "slug": "chornomorets-odesa-vs-fk-epitsentr-dunayivtsi-n54qllhn6nn2qvy",
+      "competition": "Ukrainian Premier League",
+      "home": "Chornomorets Odesa",
+      "away": "FK Epitsentr Dunayivtsi",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzQ3OTc5NjQxOTc3NzNjMDJlNGQ1ZTJkZTkzNTkxYTI4LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzlkODg2MjBmMzk3OTUyOTU4M2QwN2Y1NzkwYWMyZGFjLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "23 Nov 2026 • 18:00 WIB",
+      "match_time": 1795431600,
+      "match_date": "2026-11-23",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/chornomorets-odesa-vs-fk-epitsentr-dunayivtsi-n54qllhn6nn2qvy"
+    },
+    {
+      "id": "965mkyhkxkkgr1g",
+      "slug": "lnz-cherkasy-vs-polissya-zhytomyr-965mkyhkxkkgr1g",
+      "competition": "Ukrainian Premier League",
+      "home": "LNZ Cherkasy",
+      "away": "Polissya Zhytomyr",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzAyNTE5ZDMyNzNkZTcwODE3ZmI4NjJjNjk1NWYxMWVlLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzhmMjUzMjg0YzlkOTE4NjdhNDIxNzQ1ZDAwYThlZjZmLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "23 Nov 2026 • 18:00 WIB",
+      "match_time": 1795431600,
+      "match_date": "2026-11-23",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/lnz-cherkasy-vs-polissya-zhytomyr-965mkyhkxkkgr1g"
+    },
+    {
+      "id": "4jwq2ghg4208m0v",
+      "slug": "spain-u16-vs-sweden-u16-4jwq2ghg4208m0v",
+      "competition": "International Friendly",
+      "home": "Spain U16",
+      "away": "Sweden U16",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2U1YWZmYzM1YTA5MTRkZjE5NGVjNDY3NzZiNmQ3YmRhLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Q3YzQ5ZmE4ZGU5NGY1YTIwMGRkODE2Y2EyM2M0OWVmLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "23 Nov 2026 • 21:00 WIB",
+      "match_time": 1795442400,
+      "match_date": "2026-11-23",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/spain-u16-vs-sweden-u16-4jwq2ghg4208m0v"
     }
   ]
 }
