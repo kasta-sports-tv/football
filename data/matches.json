@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T11:15:57.168057+00:00",
+  "updated_at": "2026-11-22T12:01:13.818648+00:00",
   "source": "https://kickofftv.id",
   "matches_count": 23,
   "matches": [
@@ -35,7 +35,7 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2YwNTc5MmEzNzRhMDlmZTkwYmMyNzYzMDVmMWRjMWUxLnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "First Half",
+      "status": "Second Half",
       "time_label": "22 Nov 2026 • 17:30 WIB",
       "match_time": 1795343400,
       "match_date": "2026-11-22",
@@ -55,9 +55,9 @@
       "away": "UCSA",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzcxYzFhZjQ5MDEwNTkzYjI5ZjlmYTQxYWEwZTIxYjQ5LnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzc5NjQ3MTRkN2NmNWFkNzBlZmVhMzg0NzU4MzIwYTM5LnBuZw==",
-      "home_score": 0,
+      "home_score": 1,
       "away_score": 0,
-      "status": "First Half",
+      "status": "Half Time",
       "time_label": "22 Nov 2026 • 18:00 WIB",
       "match_time": 1795345200,
       "match_date": "2026-11-22",
@@ -77,7 +77,7 @@
       "away": "Obolon Kyiv",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzc1NjdiOTkzYTNmY2E1NDNjZjkyZTYwNzUzMDhhNjFmLnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzI2MGRkODUyMzY3MTBlNWZlODJiZTA0ODBjZTQ3NjRjLnBuZw==",
-      "home_score": 1,
+      "home_score": 2,
       "away_score": 0,
       "status": "First Half",
       "time_label": "22 Nov 2026 • 18:00 WIB",
@@ -99,9 +99,9 @@
       "away": "FC Bukovyna Chernivtsi",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2M3NjRkYTIyNjI2NzI0NDA1NWQwOGE0OGUwYTc3M2YyLnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Y0ZTFmMjRiMTkyNmE1NjQ2YzUyMmNkOTllNGM5MzU4LnBuZw==",
-      "home_score": 0,
+      "home_score": 1,
       "away_score": 0,
-      "status": "First Half",
+      "status": "Half Time",
       "time_label": "22 Nov 2026 • 18:00 WIB",
       "match_time": 1795345200,
       "match_date": "2026-11-22",
@@ -112,6 +112,28 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/veres-vs-fc-bukovyna-chernivtsi-y39mp1h6n66pmoj"
+    },
+    {
+      "id": "2y8m4zh5d3yzql0",
+      "slug": "juventus-vs-venezia-2y8m4zh5d3yzql0",
+      "competition": "Italian Serie A",
+      "home": "Juventus",
+      "away": "Venezia",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzNiMWVhY2UzOGI1ODQ3YWI4N2EwOWJiZGQ4ODVmMWM0LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzIxNzg0NjI3OGRhZTQ3Yzg5NTVjZjVlYWEyMzBlNmU4LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "First Half",
+      "time_label": "22 Nov 2026 • 18:30 WIB",
+      "match_time": 1795347000,
+      "match_date": "2026-11-22",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jaVZ16bUFA5M2/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jaVZ16bUFA5M2/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/juventus-vs-venezia-2y8m4zh5d3yzql0"
     },
     {
       "id": "k82rekh2vkl5rep",
@@ -134,28 +156,6 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/italy-w-u16-vs-germany-u16-women-k82rekh2vkl5rep"
-    },
-    {
-      "id": "2y8m4zh5d3yzql0",
-      "slug": "juventus-vs-venezia-2y8m4zh5d3yzql0",
-      "competition": "Italian Serie A",
-      "home": "Juventus",
-      "away": "Venezia",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzNiMWVhY2UzOGI1ODQ3YWI4N2EwOWJiZGQ4ODVmMWM0LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzIxNzg0NjI3OGRhZTQ3Yzg5NTVjZjVlYWEyMzBlNmU4LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "22 Nov 2026 • 18:30 WIB",
-      "match_time": 1795347000,
-      "match_date": "2026-11-22",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jaVZ16bUFA5M2/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jaVZ16bUFA5M2/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/juventus-vs-venezia-2y8m4zh5d3yzql0"
     },
     {
       "id": "l7oqdehgpykor51",
