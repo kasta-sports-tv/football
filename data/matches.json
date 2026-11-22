@@ -1,30 +1,8 @@
 {
-  "updated_at": "2026-11-22T09:41:10.282725+00:00",
+  "updated_at": "2026-11-22T11:15:57.168057+00:00",
   "source": "https://kickofftv.id",
   "matches_count": 23,
   "matches": [
-    {
-      "id": "k82rekh2vkl5rep",
-      "slug": "italy-w-u16-vs-germany-u16-women-k82rekh2vkl5rep",
-      "competition": "International Friendly",
-      "home": "Italy (w) U16",
-      "away": "Germany U16 Women",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzUzZDk1N2JkZWY1ZTQ5MWZiNGRkOTUxNDRjNzRhM2JlLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzhjYWQ1NWE4NzVjYjZjYzYxYjM0NmUxNWFjOTc0ZDc0LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "22 Nov 2026 • 17:00 WIB",
-      "match_time": 1795341600,
-      "match_date": "2026-11-22",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/italy-w-u16-vs-germany-u16-women-k82rekh2vkl5rep"
-    },
     {
       "id": "2y8m4zh5o09vql0",
       "slug": "probiy-horodenka-vs-metalist-kharkiv-2y8m4zh5o09vql0",
@@ -34,12 +12,12 @@
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzNkNDQ4OTA2Y2Q3YjBiZTliZDA4NDAxODc0MDdhMWE5LnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZhNWQ2ZjgxOWY4MGQ4NzYyNDhiYzdiYWY3ZGY5NjRmLnBuZw==",
       "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
+      "away_score": 1,
+      "status": "Second Half",
       "time_label": "22 Nov 2026 • 17:00 WIB",
       "match_time": 1795341600,
       "match_date": "2026-11-22",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
         "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwarNKL1c8Pj6uikG/playlist.m3u8",
@@ -53,15 +31,15 @@
       "competition": "Turkish Super League",
       "home": "Erzurumspor FK",
       "away": "Goztepe",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzBkNDQ3Y2FjMWMzYjUzMTJlYTY5ZmNjN2U1NWU5YTlkLnBuZw==",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2VmYmU0NjE0ZmZjYTQ0ZTY5ZWExOTA4NzFjM2QwMGFkLnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2YwNTc5MmEzNzRhMDlmZTkwYmMyNzYzMDVmMWRjMWUxLnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "First Half",
       "time_label": "22 Nov 2026 • 17:30 WIB",
       "match_time": 1795343400,
       "match_date": "2026-11-22",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
         "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb6hHRUWqpZ16sHJ/playlist.m3u8",
@@ -79,14 +57,14 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzc5NjQ3MTRkN2NmNWFkNzBlZmVhMzg0NzU4MzIwYTM5LnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "First Half",
       "time_label": "22 Nov 2026 • 18:00 WIB",
       "match_time": 1795345200,
       "match_date": "2026-11-22",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwarNKL1VXx7fRyHa/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/fk-oleksandria-vs-ucsa-dj2ryohlov0lq1z"
@@ -99,13 +77,13 @@
       "away": "Obolon Kyiv",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzc1NjdiOTkzYTNmY2E1NDNjZjkyZTYwNzUzMDhhNjFmLnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzI2MGRkODUyMzY3MTBlNWZlODJiZTA0ODBjZTQ3NjRjLnBuZw==",
-      "home_score": 0,
+      "home_score": 1,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "First Half",
       "time_label": "22 Nov 2026 • 18:00 WIB",
       "match_time": 1795345200,
       "match_date": "2026-11-22",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
         "sd": "",
@@ -123,9 +101,31 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Y0ZTFmMjRiMTkyNmE1NjQ2YzUyMmNkOTllNGM5MzU4LnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "First Half",
       "time_label": "22 Nov 2026 • 18:00 WIB",
       "match_time": 1795345200,
+      "match_date": "2026-11-22",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/veres-vs-fc-bukovyna-chernivtsi-y39mp1h6n66pmoj"
+    },
+    {
+      "id": "k82rekh2vkl5rep",
+      "slug": "italy-w-u16-vs-germany-u16-women-k82rekh2vkl5rep",
+      "competition": "International Friendly",
+      "home": "Italy (w) U16",
+      "away": "Germany U16 Women",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzUzZDk1N2JkZWY1ZTQ5MWZiNGRkOTUxNDRjNzRhM2JlLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzhjYWQ1NWE4NzVjYjZjYzYxYjM0NmUxNWFjOTc0ZDc0LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "TBD",
+      "time_label": "22 Nov 2026 • 17:00 WIB",
+      "match_time": 1795341600,
       "match_date": "2026-11-22",
       "is_live": false,
       "is_finished": false,
@@ -133,7 +133,7 @@
         "sd": "",
         "hd": ""
       },
-      "match_url": "https://kickofftv.id/match/veres-vs-fc-bukovyna-chernivtsi-y39mp1h6n66pmoj"
+      "match_url": "https://kickofftv.id/match/italy-w-u16-vs-germany-u16-women-k82rekh2vkl5rep"
     },
     {
       "id": "2y8m4zh5d3yzql0",
@@ -460,8 +460,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdpxgYo2k1jQ31DA/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdpxgYo2k1jQ31DA/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/lorient-vs-stade-rennais-fc-y0or5jh8d3v1qwz"
     },
@@ -482,8 +482,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaDhV85kKYNvGUG/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaDhV85kKYNvGUG/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/sv-werder-bremen-vs-hamburger-sv-3glrw7hn5l2zqdy"
     },
@@ -504,8 +504,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQgoAYNsXZz8xg/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQgoAYNsXZz8xg/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/liverpool-vs-manchester-united-n54qllhny65lqvy"
     }

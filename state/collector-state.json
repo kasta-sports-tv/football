@@ -1329,11 +1329,11 @@
     "2y8m4zh5o09vql0": 1795340456,
     "k82rekh2vkl5rep": 1795340456,
     "ednm9whwyx40ryo": 1795340456,
-    "23xmvkh6j66oqg8": 1795340456,
-    "y39mp1h6n66pmoj": 1795340456,
-    "dj2ryohlov0lq1z": 1795340456,
+    "23xmvkh6j66oqg8": 1795346150,
+    "y39mp1h6n66pmoj": 1795346150,
+    "dj2ryohlov0lq1z": 1795346150,
     "2y8m4zh5d3yzql0": 1795340456,
-    "l7oqdehgpykor51": 1795340456,
+    "l7oqdehgpykor51": 1795346150,
     "vjxm8ghe6x3kr6o": 1795340456,
     "x7lm7phje83wm2w": 1795340456,
     "k82rekhgp64grep": 1795340456,
@@ -1344,7 +1344,11 @@
     "3glrw7hne5k5qdy": 1795340456,
     "pxwrxlhyo2odryk": 1795340456,
     "1l4rjnh90e57m7v": 1795340456,
-    "zp5rzghg9460q82": 1795340456
+    "zp5rzghg9460q82": 1795340456,
+    "4wyrn4h6p2n5q86": 1795346150,
+    "y0or5jh8d3v1qwz": 1795346150,
+    "n54qllhny65lqvy": 1795346150,
+    "3glrw7hn5l2zqdy": 1795346150
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -4651,6 +4655,26 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARkE4A2ZRf5oN/playlist.m3u8",
       "hd": "",
       "slug": "sporting-gijon-vs-ud-las-palmas-zp5rzghg9460q82"
+    },
+    "dj2ryohlov0lq1z": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwarNKL1VXx7fRyHa/playlist.m3u8",
+      "hd": "",
+      "slug": "fk-oleksandria-vs-ucsa-dj2ryohlov0lq1z"
+    },
+    "y0or5jh8d3v1qwz": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdpxgYo2k1jQ31DA/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdpxgYo2k1jQ31DA/playlist.m3u8",
+      "slug": "lorient-vs-stade-rennais-fc-y0or5jh8d3v1qwz"
+    },
+    "n54qllhny65lqvy": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQgoAYNsXZz8xg/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQgoAYNsXZz8xg/playlist.m3u8",
+      "slug": "liverpool-vs-manchester-united-n54qllhny65lqvy"
+    },
+    "3glrw7hn5l2zqdy": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaDhV85kKYNvGUG/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaDhV85kKYNvGUG/playlist.m3u8",
+      "slug": "sv-werder-bremen-vs-hamburger-sv-3glrw7hn5l2zqdy"
     }
   }
 }
