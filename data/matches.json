@@ -1,74 +1,8 @@
 {
-  "updated_at": "2026-11-23T13:01:16.276103+00:00",
+  "updated_at": "2026-11-23T15:01:12.056588+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 4,
+  "matches_count": 1,
   "matches": [
-    {
-      "id": "n54qllhn6nn2qvy",
-      "slug": "chornomorets-odesa-vs-fk-epitsentr-dunayivtsi-n54qllhn6nn2qvy",
-      "competition": "Ukrainian Premier League",
-      "home": "Chornomorets Odesa",
-      "away": "FK Epitsentr Dunayivtsi",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzQ3OTc5NjQxOTc3NzNjMDJlNGQ1ZTJkZTkzNTkxYTI4LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzlkODg2MjBmMzk3OTUyOTU4M2QwN2Y1NzkwYWMyZGFjLnBuZw==",
-      "home_score": 0,
-      "away_score": 1,
-      "status": "Second Half",
-      "time_label": "23 Nov 2026 • 18:00 WIB",
-      "match_time": 1795431600,
-      "match_date": "2026-11-23",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2gp99cXCEgVv/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/chornomorets-odesa-vs-fk-epitsentr-dunayivtsi-n54qllhn6nn2qvy"
-    },
-    {
-      "id": "965mkyhkxkkgr1g",
-      "slug": "lnz-cherkasy-vs-polissya-zhytomyr-965mkyhkxkkgr1g",
-      "competition": "Ukrainian Premier League",
-      "home": "LNZ Cherkasy",
-      "away": "Polissya Zhytomyr",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzAyNTE5ZDMyNzNkZTcwODE3ZmI4NjJjNjk1NWYxMWVlLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzhmMjUzMjg0YzlkOTE4NjdhNDIxNzQ1ZDAwYThlZjZmLnBuZw==",
-      "home_score": 1,
-      "away_score": 1,
-      "status": "Second Half",
-      "time_label": "23 Nov 2026 • 18:00 WIB",
-      "match_time": 1795431600,
-      "match_date": "2026-11-23",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2gpNLVk5CBRJ/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/lnz-cherkasy-vs-polissya-zhytomyr-965mkyhkxkkgr1g"
-    },
-    {
-      "id": "zp5rzgh3jk2kq82",
-      "slug": "qatar-u16-vs-usa-u16-zp5rzgh3jk2kq82",
-      "competition": "International Friendly",
-      "home": "Qatar U16",
-      "away": "USA U16",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzAzMzIyZTEwZTJmNzU1MDE2MjA4ODhhMWY0ZWNlOWM0LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2JlYmRjZjRiMDM0OWU0YzZhZTI3YTJkMWM1YWJiYzM3LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Delayed",
-      "time_label": "23 Nov 2026 • 17:00 WIB",
-      "match_time": 1795428000,
-      "match_date": "2026-11-23",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/qatar-u16-vs-usa-u16-zp5rzgh3jk2kq82"
-    },
     {
       "id": "4jwq2ghg4208m0v",
       "slug": "spain-u16-vs-sweden-u16-4jwq2ghg4208m0v",
@@ -77,13 +11,13 @@
       "away": "Sweden U16",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2U1YWZmYzM1YTA5MTRkZjE5NGVjNDY3NzZiNmQ3YmRhLnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Q3YzQ5ZmE4ZGU5NGY1YTIwMGRkODE2Y2EyM2M0OWVmLnBuZw==",
-      "home_score": 0,
+      "home_score": 3,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "Half Time",
       "time_label": "23 Nov 2026 • 21:00 WIB",
       "match_time": 1795442400,
       "match_date": "2026-11-23",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
         "sd": "",
