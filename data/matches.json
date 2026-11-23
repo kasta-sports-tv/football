@@ -1,52 +1,8 @@
 {
-  "updated_at": "2026-11-23T21:01:07.999555+00:00",
+  "updated_at": "2026-11-23T22:01:09.679209+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 6,
+  "matches_count": 3,
   "matches": [
-    {
-      "id": "vjxm8ghe635jr6o",
-      "slug": "ad-ceuta-vs-almeria-vjxm8ghe635jr6o",
-      "competition": "Spanish Segunda Division",
-      "home": "AD Ceuta",
-      "away": "Almeria",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2NiNzZjOGZmYWM5NWU3ZTU0MjlhY2E1NzRhYWI1ZGViLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2QwMTk5NDNmYTM5Zjk3ZjcwY2Y0OTYwMWNjY2JmYTRiLnBuZw==",
-      "home_score": 2,
-      "away_score": 2,
-      "status": "Second Half",
-      "time_label": "24 Nov 2026 • 02:30 WIB",
-      "match_time": 1795462200,
-      "match_date": "2026-11-24",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARkDnmfU4sfj6/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/ad-ceuta-vs-almeria-vjxm8ghe635jr6o"
-    },
-    {
-      "id": "jw2r09hkdlynrz8",
-      "slug": "monza-vs-fiorentina-jw2r09hkdlynrz8",
-      "competition": "Italian Serie A",
-      "home": "Monza",
-      "away": "Fiorentina",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzRhY2YxOGVmMDU4YzQ2M2E4NTIwNGJiN2VhNDlkYmM3LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzUyM2FhMTVmM2ZlZjQ4MTc4OGU3ZjUyZGUwNGE0NThkLnBuZw==",
-      "home_score": 1,
-      "away_score": 0,
-      "status": "Second Half",
-      "time_label": "24 Nov 2026 • 02:45 WIB",
-      "match_time": 1795463100,
-      "match_date": "2026-11-24",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jaVYxu7bmLAC8/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jaVYxu7bmLAC8/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/monza-vs-fiorentina-jw2r09hkdlynrz8"
-    },
     {
       "id": "965mkyhk9xler1g",
       "slug": "brentford-vs-everton-965mkyhk9xler1g",
@@ -55,9 +11,9 @@
       "away": "Everton",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Y4Nzk4YzIyMjMyNDQ2M2U4MGE0MGYxMTc5YTBlMmIwLnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZkY2ZmMzZlNzI0NzRhYTU5ZDNjOWYyMGFmY2U3NjQ5LnBuZw==",
-      "home_score": 2,
+      "home_score": 3,
       "away_score": 0,
-      "status": "First Half",
+      "status": "Second Half",
       "time_label": "24 Nov 2026 • 03:00 WIB",
       "match_time": 1795464000,
       "match_date": "2026-11-24",
@@ -68,28 +24,6 @@
         "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQgpADeEBmNxRE/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/brentford-vs-everton-965mkyhk9xler1g"
-    },
-    {
-      "id": "n54qllhn6d1yqvy",
-      "slug": "levante-vs-elche-cf-n54qllhn6d1yqvy",
-      "competition": "Spanish La Liga",
-      "home": "Levante",
-      "away": "Elche CF",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzI3MjhkNGNiODZhMjQ1ZDY4MzVhNmQyZmRiYmQzYmFhLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzhhYzBmYTYzZDBkMDRiZTk4NGI2ZjdjYTU3ZDg1NGUxLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Half Time",
-      "time_label": "24 Nov 2026 • 03:00 WIB",
-      "match_time": 1795464000,
-      "match_date": "2026-11-24",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGyxfjsm1jpvba/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGyxfjsm1jpvba/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/levante-vs-elche-cf-n54qllhn6d1yqvy"
     },
     {
       "id": "vjxm8ghe1vnvr6o",
