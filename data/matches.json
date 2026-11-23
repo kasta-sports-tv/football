@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T09:01:16.607389+00:00",
+  "updated_at": "2026-11-23T10:01:12.590703+00:00",
   "source": "https://kickofftv.id",
   "matches_count": 4,
   "matches": [
@@ -42,7 +42,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2gp99cXCEgVv/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/chornomorets-odesa-vs-fk-epitsentr-dunayivtsi-n54qllhn6nn2qvy"
@@ -64,7 +64,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2gpNLVk5CBRJ/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/lnz-cherkasy-vs-polissya-zhytomyr-965mkyhkxkkgr1g"

@@ -1357,10 +1357,10 @@
     "n54qllhny8lkqvy": 1795366884,
     "y0or5jh8k16wqwz": 1795366884,
     "6ypq3nhvoe76md7": 1795366884,
-    "zp5rzgh3jk2kq82": 1795424473,
-    "n54qllhn6nn2qvy": 1795424473,
-    "965mkyhkxkkgr1g": 1795424473,
-    "4jwq2ghg4208m0v": 1795424473
+    "zp5rzgh3jk2kq82": 1795428069,
+    "n54qllhn6nn2qvy": 1795428069,
+    "965mkyhkxkkgr1g": 1795428069,
+    "4jwq2ghg4208m0v": 1795428069
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -4737,6 +4737,16 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARkPE4KBXarvL/playlist.m3u8",
       "hd": "",
       "slug": "burgos-cf-vs-albacete-balompi-sad-6ypq3nhvoe76md7"
+    },
+    "n54qllhn6nn2qvy": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2gp99cXCEgVv/playlist.m3u8",
+      "hd": "",
+      "slug": "chornomorets-odesa-vs-fk-epitsentr-dunayivtsi-n54qllhn6nn2qvy"
+    },
+    "965mkyhkxkkgr1g": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2gpNLVk5CBRJ/playlist.m3u8",
+      "hd": "",
+      "slug": "lnz-cherkasy-vs-polissya-zhytomyr-965mkyhkxkkgr1g"
     }
   }
 }
