@@ -1360,7 +1360,12 @@
     "zp5rzgh3jk2kq82": 1795428069,
     "n54qllhn6nn2qvy": 1795428069,
     "965mkyhkxkkgr1g": 1795428069,
-    "4jwq2ghg4208m0v": 1795446071
+    "4jwq2ghg4208m0v": 1795446071,
+    "4jwq2ghnypjpm0v": 1795453272,
+    "vjxm8ghe635jr6o": 1795453272,
+    "jw2r09hkdlynrz8": 1795453272,
+    "965mkyhk9xler1g": 1795453272,
+    "n54qllhn6d1yqvy": 1795453272
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -4747,6 +4752,31 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2gpNLVk5CBRJ/playlist.m3u8",
       "hd": "",
       "slug": "lnz-cherkasy-vs-polissya-zhytomyr-965mkyhkxkkgr1g"
+    },
+    "4jwq2ghnypjpm0v": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb6hHRdsjWXWAEAk/playlist.m3u8",
+      "hd": "",
+      "slug": "stanbul-ba-ak-ehir-fk-vs-corum-fk-4jwq2ghnypjpm0v"
+    },
+    "vjxm8ghe635jr6o": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARkDnmfU4sfj6/playlist.m3u8",
+      "hd": "",
+      "slug": "ad-ceuta-vs-almeria-vjxm8ghe635jr6o"
+    },
+    "jw2r09hkdlynrz8": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jaVYxu7bmLAC8/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jaVYxu7bmLAC8/playlist.m3u8",
+      "slug": "monza-vs-fiorentina-jw2r09hkdlynrz8"
+    },
+    "965mkyhk9xler1g": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQgpADeEBmNxRE/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQgpADeEBmNxRE/playlist.m3u8",
+      "slug": "brentford-vs-everton-965mkyhk9xler1g"
+    },
+    "n54qllhn6d1yqvy": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGyxfjsm1jpvba/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGyxfjsm1jpvba/playlist.m3u8",
+      "slug": "levante-vs-elche-cf-n54qllhn6d1yqvy"
     }
   }
 }
