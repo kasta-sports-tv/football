@@ -1,29 +1,6 @@
 {
-  "updated_at": "2026-11-23T15:01:12.056588+00:00",
+  "updated_at": "2026-11-23T16:01:11.670201+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 1,
-  "matches": [
-    {
-      "id": "4jwq2ghg4208m0v",
-      "slug": "spain-u16-vs-sweden-u16-4jwq2ghg4208m0v",
-      "competition": "International Friendly",
-      "home": "Spain U16",
-      "away": "Sweden U16",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2U1YWZmYzM1YTA5MTRkZjE5NGVjNDY3NzZiNmQ3YmRhLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Q3YzQ5ZmE4ZGU5NGY1YTIwMGRkODE2Y2EyM2M0OWVmLnBuZw==",
-      "home_score": 3,
-      "away_score": 0,
-      "status": "Half Time",
-      "time_label": "23 Nov 2026 • 21:00 WIB",
-      "match_time": 1795442400,
-      "match_date": "2026-11-23",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/spain-u16-vs-sweden-u16-4jwq2ghg4208m0v"
-    }
-  ]
+  "matches_count": 0,
+  "matches": []
 }
