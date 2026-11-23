@@ -1,30 +1,8 @@
 {
-  "updated_at": "2026-11-23T18:01:10.936185+00:00",
+  "updated_at": "2026-11-23T19:01:12.865059+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 7,
+  "matches_count": 6,
   "matches": [
-    {
-      "id": "4jwq2ghnypjpm0v",
-      "slug": "stanbul-ba-ak-ehir-fk-vs-corum-fk-4jwq2ghnypjpm0v",
-      "competition": "Turkish Super League",
-      "home": "İstanbul Başakşehir FK",
-      "away": "Corum FK",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2YwZDkzOWZlODZiYWE5Njg2ZDlmOWYxYWEzNGJjMTkxLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzBmMmEzNjlhZjM5ZDhiNWY4ZGUzODljY2EyYTIxN2FkLnBuZw==",
-      "home_score": 0,
-      "away_score": 1,
-      "status": "Half Time",
-      "time_label": "24 Nov 2026 • 00:00 WIB",
-      "match_time": 1795453200,
-      "match_date": "2026-11-24",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb6hHRdsjWXWAEAk/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/stanbul-ba-ak-ehir-fk-vs-corum-fk-4jwq2ghnypjpm0v"
-    },
     {
       "id": "vjxm8ghe635jr6o",
       "slug": "ad-ceuta-vs-almeria-vjxm8ghe635jr6o",
