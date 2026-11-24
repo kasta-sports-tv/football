@@ -1,30 +1,8 @@
 {
-  "updated_at": "2026-11-24T10:15:46.790726+00:00",
+  "updated_at": "2026-11-24T17:39:59.561799+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 2,
+  "matches_count": 11,
   "matches": [
-    {
-      "id": "vjxm8ghe1vnvr6o",
-      "slug": "ahrobiznes-volochysk-vs-fc-chernigiv-vjxm8ghe1vnvr6o",
-      "competition": "Ukrainian First League",
-      "home": "Ahrobiznes Volochysk",
-      "away": "FC Chernigiv",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2FmMjJkNGRiYzU4ZDBlZGU4NDU3ODQ1NDcyMjA3ODA3LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzk5YmE3ZmM4Njc4ZDhlZTQwYWIxYzU2NDQzZjRiMWEzLnBuZw==",
-      "home_score": 0,
-      "away_score": 1,
-      "status": "Second Half",
-      "time_label": "24 Nov 2026 • 16:00 WIB",
-      "match_time": 1795510800,
-      "match_date": "2026-11-24",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwarNKJg59F1Wcguv/playlist.m3u8",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/ahrobiznes-volochysk-vs-fc-chernigiv-vjxm8ghe1vnvr6o"
-    },
     {
       "id": "vjxm8ghk4130r6o",
       "slug": "ireland-u16-vs-hungary-u16-vjxm8ghk4130r6o",
@@ -46,6 +24,226 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/ireland-u16-vs-hungary-u16-vjxm8ghk4130r6o"
+    },
+    {
+      "id": "ednm9whwjy0dryo",
+      "slug": "fk-bodo-glimt-vs-lask-linz-ednm9whwjy0dryo",
+      "competition": "UEFA Champions League",
+      "home": "FK Bodo/Glimt",
+      "away": "LASK Linz",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzk4ODU0YWI5N2VhZGYzZDJjN2M2ZDY1N2FkOTlkZjk2LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzVkMzNmODMxZjc3OTQyODg1ODEzOGQyOGM5ZGQ0NDgwLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "25 Nov 2026 • 00:45 WIB",
+      "match_time": 1795542300,
+      "match_date": "2026-11-25",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXSLkPwrGQrjr/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXSLkPwrGQrjr/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/fk-bodo-glimt-vs-lask-linz-ednm9whwjy0dryo"
+    },
+    {
+      "id": "zp5rzghgnv64q82",
+      "slug": "galatasaray-vs-aston-villa-zp5rzghgnv64q82",
+      "competition": "UEFA Champions League",
+      "home": "Galatasaray",
+      "away": "Aston Villa",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZiY2YwMDJjOGQ2ZGQzNDgxM2ZhMmIzYTRjYzliMDRjLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzQyNzAzYTZkNjU0OTQ0NTRhMjUyYzEyZGU2NjA2NzY3LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "25 Nov 2026 • 00:45 WIB",
+      "match_time": 1795542300,
+      "match_date": "2026-11-25",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXSWJH3BAboPn/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXSWJH3BAboPn/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/galatasaray-vs-aston-villa-zp5rzghgnv64q82"
+    },
+    {
+      "id": "965mkyhkjd11r1g",
+      "slug": "arsenal-vs-borussia-dortmund-965mkyhkjd11r1g",
+      "competition": "UEFA Champions League",
+      "home": "Arsenal",
+      "away": "Borussia Dortmund",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzEwZWE2NjhhZThiZDQ5NWViYTY3NTlmNWNiZjUxODk4LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzdiZGI5ZWVlNzY5YzQzMzc5OGE5YmU1YTRmYzMyNzkyLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "25 Nov 2026 • 03:00 WIB",
+      "match_time": 1795550400,
+      "match_date": "2026-11-25",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xWhBdrxEc2Pwv/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xWhBdrxEc2Pwv/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/arsenal-vs-borussia-dortmund-965mkyhkjd11r1g"
+    },
+    {
+      "id": "jw2r09hkey03rz8",
+      "slug": "como-vs-aek-athens-jw2r09hkey03rz8",
+      "competition": "UEFA Champions League",
+      "home": "Como",
+      "away": "AEK Athens",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzFjNmNiZWUwZWM4MTRhZTliZDM3NDhlY2FhZGYyY2Q5LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzEyZGNjNjliZWY2N2FhMmE5MzEwN2U5NDBlZTg5MTQ0LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "25 Nov 2026 • 03:00 WIB",
+      "match_time": 1795550400,
+      "match_date": "2026-11-25",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXSAyKyJVGRAY/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXSAyKyJVGRAY/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/como-vs-aek-athens-jw2r09hkey03rz8"
+    },
+    {
+      "id": "x7lm7phjly39m2w",
+      "slug": "feyenoord-vs-fc-porto-x7lm7phjly39m2w",
+      "competition": "UEFA Champions League",
+      "home": "Feyenoord",
+      "away": "FC Porto",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzQ0MDczZjJkMmM5NzlhOTM4OGY5ODUwNWFjM2I3NTRkLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzgzYWE4MjZlM2M0NWQ1MDQ3YThjOTE3ZmIwYjQxYTVlLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "25 Nov 2026 • 03:00 WIB",
+      "match_time": 1795550400,
+      "match_date": "2026-11-25",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXSfcyFHBqF8L/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXSfcyFHBqF8L/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/feyenoord-vs-fc-porto-x7lm7phjly39m2w"
+    },
+    {
+      "id": "1l4rjnh98o4lm7v",
+      "slug": "manchester-city-vs-napoli-1l4rjnh98o4lm7v",
+      "competition": "UEFA Champions League",
+      "home": "Manchester City",
+      "away": "Napoli",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2VjMmMzMGZhZjI4NzQ2ZTdiNjA3ODhiNTZhZTFiNmUzLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzljNzM4Yjg1ZTA5MjQ4NGVhMDNiM2FhYjNmZDY4NDUwLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "25 Nov 2026 • 03:00 WIB",
+      "match_time": 1795550400,
+      "match_date": "2026-11-25",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXRVkTdVwCuQc/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXRVkTdVwCuQc/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/manchester-city-vs-napoli-1l4rjnh98o4lm7v"
+    },
+    {
+      "id": "n54qllhnlgnkqvy",
+      "slug": "rb-leipzig-vs-rc-lens-n54qllhnlgnkqvy",
+      "competition": "UEFA Champions League",
+      "home": "RB Leipzig",
+      "away": "RC Lens",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzNhMDdhNTg4OWU2MjQ0N2JiNDI3ZmJiN2FlMDIzNjE5LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzNhNWIwZTY5ZGFiOTQ1NjBhMzFiMGQyZmYwMjVlYWI5LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "25 Nov 2026 • 03:00 WIB",
+      "match_time": 1795550400,
+      "match_date": "2026-11-25",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXRq7cBF6NCnk/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXRq7cBF6NCnk/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/rb-leipzig-vs-rc-lens-n54qllhnlgnkqvy"
+    },
+    {
+      "id": "zp5rzghgnvg4q82",
+      "slug": "real-madrid-vs-psv-eindhoven-zp5rzghgnvg4q82",
+      "competition": "UEFA Champions League",
+      "home": "Real Madrid",
+      "away": "PSV Eindhoven",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzVkODNmYmQ0YTIyYzQ0NTA4MGM1M2U4YWI4MzJhODg5LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2NhZDVhZjRkMWZmMGU2ZjMxMTlhZjNkMjczZDk1ZDMxLnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "25 Nov 2026 • 03:00 WIB",
+      "match_time": 1795550400,
+      "match_date": "2026-11-25",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXQzupxAqWVgL/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/real-madrid-vs-psv-eindhoven-zp5rzghgnvg4q82"
+    },
+    {
+      "id": "23xmvkh6e1ywqg8",
+      "slug": "slovan-bratislava-vs-real-betis-23xmvkh6e1ywqg8",
+      "competition": "UEFA Champions League",
+      "home": "Slovan Bratislava",
+      "away": "Real Betis",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzhlMjIwYTc0NzkxYmU5ZTBlYjEzNTA3ZjBjZTQ0NGRiLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzc5ZDU0M2U2ZmNlYTRlODA4M2UzMGFmODIzODBhNzQ3LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "25 Nov 2026 • 03:00 WIB",
+      "match_time": 1795550400,
+      "match_date": "2026-11-25",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xYBAEQ2dQrc5N/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xYBAEQ2dQrc5N/playlist.m3u8"
+      },
+      "match_url": "https://kickofftv.id/match/slovan-bratislava-vs-real-betis-23xmvkh6e1ywqg8"
+    },
+    {
+      "id": "pxwrxlhyoy34ryk",
+      "slug": "kryvbas-vs-metalist-1925-kharkiv-pxwrxlhyoy34ryk",
+      "competition": "Ukrainian Premier League",
+      "home": "Kryvbas",
+      "away": "Metalist 1925 Kharkiv",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzdlNmNiYzVjMmExZjViNTA3ZWFiNWFjOTVlZWU0NTRiLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Q3NzVhMzVmMWEzYTc1OTU1OGY2OWU0NmE1ZTBjYTM2LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "25 Nov 2026 • 18:00 WIB",
+      "match_time": 1795604400,
+      "match_date": "2026-11-25",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/kryvbas-vs-metalist-1925-kharkiv-pxwrxlhyoy34ryk"
     }
   ]
 }
