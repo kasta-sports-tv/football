@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-24T17:40:25.662967+00:00",
+  "updated_at": "2026-11-24T19:49:48.309811+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 11,
+  "matches_count": 9,
   "matches": [
     {
       "id": "vjxm8ghk4130r6o",
@@ -24,50 +24,6 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/ireland-u16-vs-hungary-u16-vjxm8ghk4130r6o"
-    },
-    {
-      "id": "ednm9whwjy0dryo",
-      "slug": "fk-bodo-glimt-vs-lask-linz-ednm9whwjy0dryo",
-      "competition": "UEFA Champions League",
-      "home": "FK Bodo/Glimt",
-      "away": "LASK Linz",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzk4ODU0YWI5N2VhZGYzZDJjN2M2ZDY1N2FkOTlkZjk2LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzVkMzNmODMxZjc3OTQyODg1ODEzOGQyOGM5ZGQ0NDgwLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "25 Nov 2026 • 00:45 WIB",
-      "match_time": 1795542300,
-      "match_date": "2026-11-25",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXSLkPwrGQrjr/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXSLkPwrGQrjr/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/fk-bodo-glimt-vs-lask-linz-ednm9whwjy0dryo"
-    },
-    {
-      "id": "zp5rzghgnv64q82",
-      "slug": "galatasaray-vs-aston-villa-zp5rzghgnv64q82",
-      "competition": "UEFA Champions League",
-      "home": "Galatasaray",
-      "away": "Aston Villa",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZiY2YwMDJjOGQ2ZGQzNDgxM2ZhMmIzYTRjYzliMDRjLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzQyNzAzYTZkNjU0OTQ0NTRhMjUyYzEyZGU2NjA2NzY3LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "25 Nov 2026 • 00:45 WIB",
-      "match_time": 1795542300,
-      "match_date": "2026-11-25",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXSWJH3BAboPn/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXSWJH3BAboPn/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/galatasaray-vs-aston-villa-zp5rzghgnv64q82"
     },
     {
       "id": "965mkyhkjd11r1g",
