@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T00:24:42.257275+00:00",
+  "updated_at": "2026-11-24T10:15:46.790726+00:00",
   "source": "https://kickofftv.id",
   "matches_count": 2,
   "matches": [
@@ -12,15 +12,15 @@
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2FmMjJkNGRiYzU4ZDBlZGU4NDU3ODQ1NDcyMjA3ODA3LnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzk5YmE3ZmM4Njc4ZDhlZTQwYWIxYzU2NDQzZjRiMWEzLnBuZw==",
       "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
+      "away_score": 1,
+      "status": "Second Half",
       "time_label": "24 Nov 2026 • 16:00 WIB",
       "match_time": 1795510800,
       "match_date": "2026-11-24",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwarNKJg59F1Wcguv/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/ahrobiznes-volochysk-vs-fc-chernigiv-vjxm8ghe1vnvr6o"
