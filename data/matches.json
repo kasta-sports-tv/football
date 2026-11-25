@@ -1,52 +1,8 @@
 {
-  "updated_at": "2026-11-25T17:34:47.552771+00:00",
+  "updated_at": "2026-11-25T19:59:39.023939+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 15,
+  "matches_count": 13,
   "matches": [
-    {
-      "id": "x7lm7phjlyx9m2w",
-      "slug": "sk-slavia-praha-vs-villarreal-cf-x7lm7phjlyx9m2w",
-      "competition": "UEFA Champions League",
-      "home": "SK Slavia Praha",
-      "away": "Villarreal CF",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzIwODBlZGUyYzVkMDk2MzhhNzE4ODkxM2M4MTA3NWVmLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2MyM2Y3OTA2Yzk1ZjQzOWVhZmViYjg1NzVjMzBlN2UzLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "26 Nov 2026 • 00:45 WIB",
-      "match_time": 1795628700,
-      "match_date": "2026-11-26",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xYBA3QdH1j2Jt/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xYBA3QdH1j2Jt/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/sk-slavia-praha-vs-villarreal-cf-x7lm7phjlyx9m2w"
-    },
-    {
-      "id": "l5ergph4zx4xr8k",
-      "slug": "sabah-baku-vs-fc-barcelona-l5ergph4zx4xr8k",
-      "competition": "UEFA Champions League",
-      "home": "Sabah Baku",
-      "away": "FC Barcelona",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzMzMzNlN2E0NzZiMmI3ZTA1NTVjMGM3NjA3ZDFhMTBlLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2M4OGViMzAzYjU2YjQ1YjA4ODk0NGVkOTVkYzNkNDQzLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "26 Nov 2026 • 00:45 WIB",
-      "match_time": 1795628700,
-      "match_date": "2026-11-26",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXQqD9wN21tQp/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXQqD9wN21tQp/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/sabah-baku-vs-fc-barcelona-l5ergph4zx4xr8k"
-    },
     {
       "id": "k82rekh2v7e4rep",
       "slug": "paraguay-u16-vs-brasil-u16-k82rekh2v7e4rep",
