@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-25T19:59:39.023939+00:00",
+  "updated_at": "2026-11-25T22:46:37.810532+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 13,
+  "matches_count": 6,
   "matches": [
     {
       "id": "k82rekh2v7e4rep",
@@ -13,7 +13,7 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzI4NmQ3ZjMzMzgzYzI3NjNkNzI2NWNjODA2OWY5NDUzLnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "Delayed",
       "time_label": "26 Nov 2026 • 03:00 WIB",
       "match_time": 1795636800,
       "match_date": "2026-11-26",
@@ -24,160 +24,6 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/paraguay-u16-vs-brasil-u16-k82rekh2v7e4rep"
-    },
-    {
-      "id": "jw2r09hkey93rz8",
-      "slug": "atletico-madrid-vs-viking-jw2r09hkey93rz8",
-      "competition": "UEFA Champions League",
-      "home": "Atletico Madrid",
-      "away": "Viking",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzEwY2M1YjczNDAxNDRiOGViODIzODE2NmU2NGJkNjJmLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2I2MzdmN2NjYzVlODRmZTRhNGMzZTgyMmQyMTIzMzMzLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "26 Nov 2026 • 03:00 WIB",
-      "match_time": 1795636800,
-      "match_date": "2026-11-26",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xWg1gxNiPkDvQ/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xWg1gxNiPkDvQ/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/atletico-madrid-vs-viking-jw2r09hkey93rz8"
-    },
-    {
-      "id": "965mkyhkjdo1r1g",
-      "slug": "club-brugge-vs-liverpool-965mkyhkjdo1r1g",
-      "competition": "UEFA Champions League",
-      "home": "Club Brugge",
-      "away": "Liverpool",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzJlOWY2NTJkMjhlYzkxZTBiNjZjMGI3MTRiZmY4ZDc4LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2IzZGY0NDk2ZTg1NzAzMGNiZDUwNTMyOTY5YmFkOWE2LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "26 Nov 2026 • 03:00 WIB",
-      "match_time": 1795636800,
-      "match_date": "2026-11-26",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXSLFphY2fwkC/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXSLFphY2fwkC/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/club-brugge-vs-liverpool-965mkyhkjdo1r1g"
-    },
-    {
-      "id": "6ypq3nhv2yk0md7",
-      "slug": "fc-shakhtar-donetsk-vs-fenerbahce-6ypq3nhv2yk0md7",
-      "competition": "UEFA Champions League",
-      "home": "FC Shakhtar Donetsk",
-      "away": "Fenerbahce",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzE0MWJjZjZhYjZkMGJjN2I4YzY3ZGM1ZWViOWYzNDdkLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2RmZjAwZjFmZDRhN2RkMmZlYWMwMDBiNDYyNDE2ODY3LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "26 Nov 2026 • 03:00 WIB",
-      "match_time": 1795636800,
-      "match_date": "2026-11-26",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXQqSLpatyPLC/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXQqSLpatyPLC/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/fc-shakhtar-donetsk-vs-fenerbahce-6ypq3nhv2yk0md7"
-    },
-    {
-      "id": "k82rekhg5p0erep",
-      "slug": "inter-milan-vs-vfb-stuttgart-k82rekhg5p0erep",
-      "competition": "UEFA Champions League",
-      "home": "Inter Milan",
-      "away": "VfB Stuttgart",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2E4Y2Q4M2M1ZWNhMzQyYmJhZmE2YWI4MTM0YzI3ZTgwLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzU4ZDEwYWYyZTEyZTRlZDE4ZWU5ZGUwMmMwYzQyMzVlLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "26 Nov 2026 • 03:00 WIB",
-      "match_time": 1795636800,
-      "match_date": "2026-11-26",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXSVvJEUNLdrp/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXSVvJEUNLdrp/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/inter-milan-vs-vfb-stuttgart-k82rekhg5p0erep"
-    },
-    {
-      "id": "8yomo4h1wl3eq0j",
-      "slug": "losc-lille-vs-fc-bayern-munich-8yomo4h1wl3eq0j",
-      "competition": "UEFA Champions League",
-      "home": "LOSC Lille",
-      "away": "FC Bayern Munich",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzg4Mjc2YzdiNzkyNjQzMzdhODRmMzk5NmFjYjU3MjMzLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Q3ZDE4MzI2MDRkZTQ2NTU5OTA5YjAxMGIzM2U2MGFiLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "26 Nov 2026 • 03:00 WIB",
-      "match_time": 1795636800,
-      "match_date": "2026-11-26",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXRfT8eJkhWg8/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXRfT8eJkhWg8/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/losc-lille-vs-fc-bayern-munich-8yomo4h1wl3eq0j"
-    },
-    {
-      "id": "l7oqdehgvwo5r51",
-      "slug": "paris-saint-germain-vs-as-roma-l7oqdehgvwo5r51",
-      "competition": "UEFA Champions League",
-      "home": "Paris Saint Germain",
-      "away": "AS Roma",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzUyYjFmYWFjMDExMTRkYjU5Nzk4YjUxOTFkZjVjOTI1LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzdhMTkyNjg2ZDMwYzFhZDAzMWQyZmI2MDVlYWYyZjJhLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "26 Nov 2026 • 03:00 WIB",
-      "match_time": 1795636800,
-      "match_date": "2026-11-26",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xXRzpHC3urp4G/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXRzpHC3urp4G/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/paris-saint-germain-vs-as-roma-l7oqdehgvwo5r51"
-    },
-    {
-      "id": "ednm9whwjy57ryo",
-      "slug": "sporting-cp-vs-manchester-united-ednm9whwjy57ryo",
-      "competition": "UEFA Champions League",
-      "home": "Sporting CP",
-      "away": "Manchester United",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzY0Njc2NGU2ZTJmZTRjYTc5NzBiOWViODdjOGI2NWFmLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzg1ZjNiYzY2ZWZmYzQyMjViMGVmYjYwMmJiNWU4NWUzLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "26 Nov 2026 • 03:00 WIB",
-      "match_time": 1795636800,
-      "match_date": "2026-11-26",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xYB9n2GBewcEc/playlist.m3u8",
-        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xYB9n2GBewcEc/playlist.m3u8"
-      },
-      "match_url": "https://kickofftv.id/match/sporting-cp-vs-manchester-united-ednm9whwjy57ryo"
     },
     {
       "id": "8yomo4hy7d75q0j",
