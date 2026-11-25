@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-11-25T03:47:05.284587+00:00",
+  "updated_at": "2026-11-25T13:38:13.575817+00:00",
   "source": "https://kickofftv.id",
   "matches_count": 2,
   "matches": [
+    {
+      "id": "pxwrxlhyoy34ryk",
+      "slug": "kryvbas-vs-metalist-1925-kharkiv-pxwrxlhyoy34ryk",
+      "competition": "Ukrainian Premier League",
+      "home": "Kryvbas",
+      "away": "Metalist 1925 Kharkiv",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzdlNmNiYzVjMmExZjViNTA3ZWFiNWFjOTVlZWU0NTRiLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Q3NzVhMzVmMWEzYTc1OTU1OGY2OWU0NmE1ZTBjYTM2LnBuZw==",
+      "home_score": 0,
+      "away_score": 2,
+      "status": "Second Half",
+      "time_label": "25 Nov 2026 • 19:15 WIB",
+      "match_time": 1795608900,
+      "match_date": "2026-11-25",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW1wKYsdYwDAsA/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/kryvbas-vs-metalist-1925-kharkiv-pxwrxlhyoy34ryk"
+    },
     {
       "id": "8yomo4hy7nj4q0j",
       "slug": "andorra-u17-women-vs-philippines-u17-women-8yomo4hy7nj4q0j",
@@ -13,7 +35,7 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2JhNWEyNzBiZWZmMDFlOTRkNGMzNzJlNTI4M2VlNjU0LnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "TBD",
       "time_label": "25 Nov 2026 • 18:00 WIB",
       "match_time": 1795604400,
       "match_date": "2026-11-25",
@@ -24,28 +46,6 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/andorra-u17-women-vs-philippines-u17-women-8yomo4hy7nj4q0j"
-    },
-    {
-      "id": "pxwrxlhyoy34ryk",
-      "slug": "kryvbas-vs-metalist-1925-kharkiv-pxwrxlhyoy34ryk",
-      "competition": "Ukrainian Premier League",
-      "home": "Kryvbas",
-      "away": "Metalist 1925 Kharkiv",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzdlNmNiYzVjMmExZjViNTA3ZWFiNWFjOTVlZWU0NTRiLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2Q3NzVhMzVmMWEzYTc1OTU1OGY2OWU0NmE1ZTBjYTM2LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "25 Nov 2026 • 18:00 WIB",
-      "match_time": 1795604400,
-      "match_date": "2026-11-25",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/kryvbas-vs-metalist-1925-kharkiv-pxwrxlhyoy34ryk"
     }
   ]
 }

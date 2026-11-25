@@ -1376,7 +1376,8 @@
     "1l4rjnh98o4lm7v": 1795541993,
     "n54qllhnlgnkqvy": 1795541993,
     "zp5rzghgnvg4q82": 1795541993,
-    "23xmvkh6e1ywqg8": 1795541993
+    "23xmvkh6e1ywqg8": 1795541993,
+    "pxwrxlhyoy34ryk": 1795613893
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -4838,6 +4839,11 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xYBAEQ2dQrc5N/playlist.m3u8",
       "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xYBAEQ2dQrc5N/playlist.m3u8",
       "slug": "slovan-bratislava-vs-real-betis-23xmvkh6e1ywqg8"
+    },
+    "pxwrxlhyoy34ryk": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW1wKYsdYwDAsA/playlist.m3u8",
+      "hd": "",
+      "slug": "kryvbas-vs-metalist-1925-kharkiv-pxwrxlhyoy34ryk"
     }
   }
 }
