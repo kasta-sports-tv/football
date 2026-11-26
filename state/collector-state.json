@@ -1389,7 +1389,10 @@
     "ednm9whwjy57ryo": 1795628080,
     "k82rekh2v7e4rep": 1795636778,
     "8yomo4hy7d75q0j": 1795667508,
-    "6ypq3nhk0j0gmd7": 1795667508
+    "6ypq3nhk0j0gmd7": 1795667508,
+    "965mkyh84ll5r1g": 1795702926,
+    "x7lm7phjl47ym2w": 1795702926,
+    "4wyrn4hy8gp2q86": 1795702926
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -4901,6 +4904,11 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4xYB9n2GBewcEc/playlist.m3u8",
       "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xYB9n2GBewcEc/playlist.m3u8",
       "slug": "sporting-cp-vs-manchester-united-ednm9whwjy57ryo"
+    },
+    "x7lm7phjl47ym2w": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxip8Jp51y7KV1PCk/playlist.m3u8",
+      "hd": "",
+      "slug": "fc-kairat-almaty-vs-mjallby-aif-x7lm7phjl47ym2w"
     }
   }
 }

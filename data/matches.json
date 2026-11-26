@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-11-26T04:31:51.543625+00:00",
+  "updated_at": "2026-11-26T14:22:08.476185+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 5,
+  "matches_count": 4,
   "matches": [
     {
-      "id": "8yomo4hy7d75q0j",
-      "slug": "spain-u16-vs-usa-u16-8yomo4hy7d75q0j",
+      "id": "965mkyh84ll5r1g",
+      "slug": "palestine-u20-women-vs-lebanon-u20-women-965mkyh84ll5r1g",
       "competition": "International Friendly",
-      "home": "Spain U16",
-      "away": "USA U16",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2U1YWZmYzM1YTA5MTRkZjE5NGVjNDY3NzZiNmQ3YmRhLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2JlYmRjZjRiMDM0OWU0YzZhZTI3YTJkMWM1YWJiYzM3LnBuZw==",
+      "home": "Palestine U20 Women",
+      "away": "Lebanon U20 Women",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzE3YWE3MmNmY2QyODVhMjYzZWI0NGJlMzZlNWY0ZDFhLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2EyMDc2YzA0YjU2NjExY2QzZGIxODNlM2ZiMDU3NjVkLnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "Not Started",
-      "time_label": "26 Nov 2026 • 17:00 WIB",
-      "match_time": 1795687200,
+      "status": "First Half",
+      "time_label": "26 Nov 2026 • 21:00 WIB",
+      "match_time": 1795701600,
       "match_date": "2026-11-26",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
         "sd": "",
         "hd": ""
       },
-      "match_url": "https://kickofftv.id/match/spain-u16-vs-usa-u16-8yomo4hy7d75q0j"
+      "match_url": "https://kickofftv.id/match/palestine-u20-women-vs-lebanon-u20-women-965mkyh84ll5r1g"
     },
     {
       "id": "6ypq3nhk0j0gmd7",
@@ -35,9 +35,9 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzAzMzIyZTEwZTJmNzU1MDE2MjA4ODhhMWY0ZWNlOWM0LnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "Not Started",
-      "time_label": "26 Nov 2026 • 17:00 WIB",
-      "match_time": 1795687200,
+      "status": "Delayed",
+      "time_label": "26 Nov 2026 • 18:00 WIB",
+      "match_time": 1795690800,
       "match_date": "2026-11-26",
       "is_live": false,
       "is_finished": false,
@@ -46,28 +46,6 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/sweden-u16-vs-qatar-u16-6ypq3nhk0j0gmd7"
-    },
-    {
-      "id": "965mkyh84ll5r1g",
-      "slug": "palestine-u20-women-vs-lebanon-u20-women-965mkyh84ll5r1g",
-      "competition": "International Friendly",
-      "home": "Palestine U20 Women",
-      "away": "Lebanon U20 Women",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzE3YWE3MmNmY2QyODVhMjYzZWI0NGJlMzZlNWY0ZDFhLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2EyMDc2YzA0YjU2NjExY2QzZGIxODNlM2ZiMDU3NjVkLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "26 Nov 2026 • 21:00 WIB",
-      "match_time": 1795701600,
-      "match_date": "2026-11-26",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/palestine-u20-women-vs-lebanon-u20-women-965mkyh84ll5r1g"
     },
     {
       "id": "x7lm7phjl47ym2w",
@@ -86,7 +64,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxip8Jp51y7KV1PCk/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/fc-kairat-almaty-vs-mjallby-aif-x7lm7phjl47ym2w"
