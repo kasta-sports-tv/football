@@ -1431,7 +1431,22 @@
     "ednm9whwj129ryo": 1795713726,
     "jw2r09h5lo38rz8": 1795755811,
     "jw2r09hkvkk5rz8": 1795755811,
-    "3glrw7h4wvgoqdy": 1795791461
+    "3glrw7h4wvgoqdy": 1795791461,
+    "l5ergph4xy6jr8k": 1795801575,
+    "pxwrxlhy8e8pryk": 1795801575,
+    "2y8m4zhvj381ql0": 1795801575,
+    "dj2ryoh7ykgnq1z": 1795801575,
+    "l5ergphko97zr8k": 1795801575,
+    "8yomo4h1o5pkq0j": 1795801575,
+    "4wyrn4h6n2o1q86": 1795801575,
+    "zp5rzghgejnkq82": 1795801575,
+    "k82rekhgdo5erep": 1795801575,
+    "k82rekhgd4y0rep": 1795801575,
+    "23xmvkh6jx0jqg8": 1795801575,
+    "jw2r09h5log8rz8": 1795801575,
+    "l7oqdehjn5zyr51": 1795801575,
+    "pxwrxlhlgk0zryk": 1795801575,
+    "1l4rjnhn6vvem7v": 1795801575
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -5123,6 +5138,46 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mxip8JouH6ceBgrnL/playlist.m3u8",
       "hd": "",
       "slug": "cska-sofia-vs-trabzonspor-ednm9whwj129ryo"
+    },
+    "l5ergph4xy6jr8k": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb6hHRUhqDuQET3n/playlist.m3u8",
+      "hd": "",
+      "slug": "alanyaspor-vs-konyaspor-l5ergph4xy6jr8k"
+    },
+    "pxwrxlhy8e8pryk": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb6hHQeAGfzpwVZJ/playlist.m3u8",
+      "hd": "",
+      "slug": "caykur-rizespor-vs-kasimpasa-pxwrxlhy8e8pryk"
+    },
+    "8yomo4h1o5pkq0j": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaDhVTbgnmTPETz/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaDhVTbgnmTPETz/playlist.m3u8",
+      "slug": "sv-werder-bremen-vs-borussia-monchengladbach-8yomo4h1o5pkq0j"
+    },
+    "4wyrn4h6n2o1q86": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARjPSCWutiJ16/playlist.m3u8",
+      "hd": "",
+      "slug": "cd-leganes-vs-sabadell-4wyrn4h6n2o1q86"
+    },
+    "zp5rzghgejnkq82": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jbEYBmh4D6Rx4/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jbEYBmh4D6Rx4/playlist.m3u8",
+      "slug": "venezia-vs-bologna-zp5rzghgejnkq82"
+    },
+    "k82rekhgdo5erep": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdpxgXxQnW5s6DQt/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdpxgXxQnW5s6DQt/playlist.m3u8",
+      "slug": "stade-brestois-29-vs-paris-fc-k82rekhgdo5erep"
+    },
+    "k82rekhgd4y0rep": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwdqQhYeq51XzQKNG/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MwdqQhYeq51XzQKNG/playlist.m3u8",
+      "slug": "nottingham-forest-vs-chelsea-k82rekhgd4y0rep"
+    },
+    "23xmvkh6jx0jqg8": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGyxqw828o4Srk/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGyxqw828o4Srk/playlist.m3u8",
+      "slug": "levante-vs-racing-santander-23xmvkh6jx0jqg8"
     }
   }
 }
