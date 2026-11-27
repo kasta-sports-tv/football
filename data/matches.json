@@ -1,52 +1,8 @@
 {
-  "updated_at": "2026-11-27T05:03:32.729638+00:00",
+  "updated_at": "2026-11-27T14:57:42.850807+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 4,
+  "matches_count": 2,
   "matches": [
-    {
-      "id": "jw2r09h5lo38rz8",
-      "slug": "cyprus-women-vs-luxembourg-women-jw2r09h5lo38rz8",
-      "competition": "International Friendly",
-      "home": "Cyprus Women",
-      "away": "Luxembourg Women",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzdiYWM1NzNjY2IzMjlhNmRhYjJiYTc5ZTcwNzVmN2EwLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2UwZGY5OTA2MmQ5YzU0MWUxODcxMjVjYTU5MjQyYjIzLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "27 Nov 2026 • 16:00 WIB",
-      "match_time": 1795770000,
-      "match_date": "2026-11-27",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/cyprus-women-vs-luxembourg-women-jw2r09h5lo38rz8"
-    },
-    {
-      "id": "jw2r09hkvkk5rz8",
-      "slug": "fc-livyi-bereh-vs-kolos-kovalivka-jw2r09hkvkk5rz8",
-      "competition": "Ukrainian Premier League",
-      "home": "FC Livyi Bereh",
-      "away": "Kolos Kovalivka",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzBlMDUzN2I0YTEwMWRlNDg3ZmNlN2VjZjE4NDc3MmE1LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2UzZWRkMDBhM2IxODNjMzIxZjZkN2NjMGEzMzk4ZmIwLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "27 Nov 2026 • 18:00 WIB",
-      "match_time": 1795777200,
-      "match_date": "2026-11-27",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/fc-livyi-bereh-vs-kolos-kovalivka-jw2r09hkvkk5rz8"
-    },
     {
       "id": "6ypq3nhk0jpwmd7",
       "slug": "switzerland-u19-women-vs-sweden-u18-women-6ypq3nhk0jpwmd7",
@@ -57,7 +13,7 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzkzNDVlZmMwMTg1MzRkYTc3N2FiYzU5YmMwNTdmODc2LnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "TBD",
       "time_label": "27 Nov 2026 • 20:30 WIB",
       "match_time": 1795786200,
       "match_date": "2026-11-27",
