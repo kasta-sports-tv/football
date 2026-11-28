@@ -1,52 +1,8 @@
 {
-  "updated_at": "2026-11-27T23:21:00.359479+00:00",
+  "updated_at": "2026-11-28T04:48:45.406944+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 28,
+  "matches_count": 27,
   "matches": [
-    {
-      "id": "1l4rjnhn6vvem7v",
-      "slug": "bolivia-women-vs-uruguay-women-1l4rjnhn6vvem7v",
-      "competition": "International Friendly",
-      "home": "Bolivia Women",
-      "away": "Uruguay Women",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzE5MDVjN2IwMjA2ZGE4MzE3YzQyOTIxZjA0ZmIxYWFhLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzEzZjZhZmFjOWQ1ZDhhYTc0MWU3MWY2NGRmYjRlNTYyLnBuZw==",
-      "home_score": 0,
-      "away_score": 1,
-      "status": "First Half",
-      "time_label": "28 Nov 2026 • 06:00 WIB",
-      "match_time": 1795820400,
-      "match_date": "2026-11-28",
-      "is_live": true,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/bolivia-women-vs-uruguay-women-1l4rjnhn6vvem7v"
-    },
-    {
-      "id": "pxwrxlhlgk0zryk",
-      "slug": "peru-women-vs-dominican-republic-women-pxwrxlhlgk0zryk",
-      "competition": "International Friendly",
-      "home": "Peru Women",
-      "away": "Dominican Republic Women",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzBkMjBkMTFiYTgyYzEyZjZkZTRkMjJmODkwOTU2YzM1LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzczYTcwYTc1NjUzMzRlMjY4NjUwOGQwNDZhZTljNzBmLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "TBD",
-      "time_label": "28 Nov 2026 • 04:00 WIB",
-      "match_time": 1795813200,
-      "match_date": "2026-11-28",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/peru-women-vs-dominican-republic-women-pxwrxlhlgk0zryk"
-    },
     {
       "id": "y39mp1hd5vv4moj",
       "slug": "australia-women-vs-colombia-women-y39mp1hd5vv4moj",
@@ -310,6 +266,28 @@
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/samsunspor-vs-genclerbirligi-s-k-3glrw7hn262wqdy"
+    },
+    {
+      "id": "pxwrxlhl1gwpryk",
+      "slug": "iraqi-w-u20-vs-united-arab-emirates-w-u20-pxwrxlhl1gwpryk",
+      "competition": "International Friendly",
+      "home": "Iraqi (W) U20",
+      "away": "United Arab Emirates (W) U20",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzg2YmJlYWY1ODgzMjI0YzRkNWUzNGI3N2YzOTQyN2IzLnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzEwMDczZGFiMzI3YzNhZWI4OGRmZGRmOTBmNjAyYTQ4LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Not Started",
+      "time_label": "28 Nov 2026 • 21:00 WIB",
+      "match_time": 1795874400,
+      "match_date": "2026-11-28",
+      "is_live": false,
+      "is_finished": false,
+      "streams": {
+        "sd": "",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/iraqi-w-u20-vs-united-arab-emirates-w-u20-pxwrxlhl1gwpryk"
     },
     {
       "id": "4wyrn4h618jvq86",
