@@ -1450,7 +1450,30 @@
     "y39mp1hd5vv4moj": 1795841322,
     "23xmvkh65vj7qg8": 1795841322,
     "3glrw7hn8k55qdy": 1795841322,
-    "x7lm7phj6ge6m2w": 1795841322
+    "x7lm7phj6ge6m2w": 1795841322,
+    "k82rekhg4gg6rep": 1795869497,
+    "l7oqdehgkggxr51": 1795869497,
+    "23xmvkhy3ekoqg8": 1795869497,
+    "8yomo4hy7nnpq0j": 1795869497,
+    "vjxm8ghe1v6dr6o": 1795869497,
+    "2y8m4zh591pxql0": 1795869497,
+    "dj2ryohl04ezq1z": 1795869497,
+    "3glrw7hn262wqdy": 1795869497,
+    "4wyrn4h618jvq86": 1795869497,
+    "pxwrxlhl1gwpryk": 1795869497,
+    "4wyrn4h6n7p3q86": 1795869497,
+    "l5ergph465x9r8k": 1795869497,
+    "l7oqdehgkew7r51": 1795869497,
+    "3glrw7hn5l8zqdy": 1795869497,
+    "1l4rjnh9p0zem7v": 1795869497,
+    "965mkyhk9x35r1g": 1795869497,
+    "1l4rjnh90el7m7v": 1795869497,
+    "ednm9whw4x22ryo": 1795869497,
+    "318q66hxp261qo9": 1795869497,
+    "8yomo4h1lxowq0j": 1795869497,
+    "965mkyhk9ejkr1g": 1795869497,
+    "6ypq3nhk0xxjmd7": 1795869497,
+    "4wyrn4hyezyvq86": 1795869497
   },
   "streams": {
     "1l4rjnh90ezlm7v": {
@@ -5182,6 +5205,66 @@
       "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGyxqw828o4Srk/playlist.m3u8",
       "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGyxqw828o4Srk/playlist.m3u8",
       "slug": "levante-vs-racing-santander-23xmvkh6jx0jqg8"
+    },
+    "k82rekhg4gg6rep": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2goqZmZMdMGk/playlist.m3u8",
+      "hd": "",
+      "slug": "dynamo-kyiv-vs-chornomorets-odesa-k82rekhg4gg6rep"
+    },
+    "l7oqdehgkggxr51": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2gebGXCJ3jqz/playlist.m3u8",
+      "hd": "",
+      "slug": "obolon-kyiv-vs-zorya-l7oqdehgkggxr51"
+    },
+    "8yomo4hy7nnpq0j": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjoYWrxRXbcn1WzL/playlist.m3u8",
+      "hd": "",
+      "slug": "latvia-women-vs-lithuania-women-8yomo4hy7nnpq0j"
+    },
+    "vjxm8ghe1v6dr6o": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwarNKL17Z9QsAokc/playlist.m3u8",
+      "hd": "",
+      "slug": "metalist-kharkiv-vs-polissya-zhytomyr-b-vjxm8ghe1v6dr6o"
+    },
+    "2y8m4zh591pxql0": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGyy1bbZ58j8yN/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGyy1bbZ58j8yN/playlist.m3u8",
+      "slug": "real-betis-vs-rayo-vallecano-2y8m4zh591pxql0"
+    },
+    "dj2ryohl04ezq1z": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARjNypkU8oJAL/playlist.m3u8",
+      "hd": "",
+      "slug": "ud-las-palmas-vs-andorra-cf-dj2ryohl04ezq1z"
+    },
+    "3glrw7hn262wqdy": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb6hHQe85C8M7aQQ/playlist.m3u8",
+      "hd": "",
+      "slug": "samsunspor-vs-genclerbirligi-s-k-3glrw7hn262wqdy"
+    },
+    "4wyrn4h618jvq86": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jbECu2741axsi/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jbECu2741axsi/playlist.m3u8",
+      "slug": "frosinone-vs-parma-4wyrn4h618jvq86"
+    },
+    "4wyrn4h6n7p3q86": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaDhVcqz38Wxqtk/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaDhVcqz38Wxqtk/playlist.m3u8",
+      "slug": "1-fsv-mainz-05-vs-1-fc-union-berlin-4wyrn4h6n7p3q86"
+    },
+    "l5ergph465x9r8k": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaDhVconZG38vjr/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaDhVconZG38vjr/playlist.m3u8",
+      "slug": "hamburger-sv-vs-fc-bayern-munich-l5ergph465x9r8k"
+    },
+    "l7oqdehgkew7r51": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaDhVTQhPR4FehW/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaDhVTQhPR4FehW/playlist.m3u8",
+      "slug": "fc-k-ln-vs-sv-07-elversberg-l7oqdehgkew7r51"
+    },
+    "3glrw7hn5l8zqdy": {
+      "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaDhVTdtGdwD9ct/playlist.m3u8",
+      "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaDhVTdtGdwD9ct/playlist.m3u8",
+      "slug": "sc-paderborn-07-vs-schalke-04-3glrw7hn5l8zqdy"
     }
   }
 }

@@ -1,96 +1,8 @@
 {
-  "updated_at": "2026-11-28T04:48:45.406944+00:00",
+  "updated_at": "2026-11-28T12:38:31.349900+00:00",
   "source": "https://kickofftv.id",
-  "matches_count": 27,
+  "matches_count": 24,
   "matches": [
-    {
-      "id": "y39mp1hd5vv4moj",
-      "slug": "australia-women-vs-colombia-women-y39mp1hd5vv4moj",
-      "competition": "International Friendly",
-      "home": "Australia Women",
-      "away": "Colombia Women",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzE2ZTA3ZjIwNjEzZDQ0OGFkNDQwZjc0NDVjZThkZDVhLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzg4YzllOGYyZmRmZmRlMjk5MGY4NDUwNDJiMDJjYWE0LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "28 Nov 2026 • 15:35 WIB",
-      "match_time": 1795854900,
-      "match_date": "2026-11-28",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/australia-women-vs-colombia-women-y39mp1hd5vv4moj"
-    },
-    {
-      "id": "23xmvkh65vj7qg8",
-      "slug": "fc-victoria-mykolaivka-vs-lokomotiv-kyiv-23xmvkh65vj7qg8",
-      "competition": "Ukrainian First League",
-      "home": "FC Victoria Mykolaivka",
-      "away": "Lokomotiv Kyiv",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2EyMzI0YzM3N2ExNDJkODJkZTliNzEwMzA4Y2NhNjAyLnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzg1OTczY2QxM2NhNWY4NmZmMDhmNGI0MTQ5MmNkZTM5LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "28 Nov 2026 • 16:00 WIB",
-      "match_time": 1795856400,
-      "match_date": "2026-11-28",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/fc-victoria-mykolaivka-vs-lokomotiv-kyiv-23xmvkh65vj7qg8"
-    },
-    {
-      "id": "3glrw7hn8k55qdy",
-      "slug": "fc-inhulets-petrove-vs-fk-oleksandria-3glrw7hn8k55qdy",
-      "competition": "Ukrainian First League",
-      "home": "FC Inhulets Petrove",
-      "away": "FK Oleksandria",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzBmMTM2YWMwMzAwYTljZDlkMjdmZjBhNWM3YjZmMmE3LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzcxYzFhZjQ5MDEwNTkzYjI5ZjlmYTQxYWEwZTIxYjQ5LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "28 Nov 2026 • 17:00 WIB",
-      "match_time": 1795860000,
-      "match_date": "2026-11-28",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/fc-inhulets-petrove-vs-fk-oleksandria-3glrw7hn8k55qdy"
-    },
-    {
-      "id": "x7lm7phj6ge6m2w",
-      "slug": "prykarpattya-ivano-frankivsk-vs-kulykiv-x7lm7phj6ge6m2w",
-      "competition": "Ukrainian First League",
-      "home": "Prykarpattya Ivano Frankivsk",
-      "away": "Kulykiv",
-      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2UxMDExMWU0NWMzZDkzOWQ0YzU3NzkyNzFkZTkxYTQ5LnBuZw==",
-      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2RlMTUzNDVlZTBkMWE2YTMwYWMzNmVhMDA2YTdhNTA5LnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
-      "time_label": "28 Nov 2026 • 17:30 WIB",
-      "match_time": 1795861800,
-      "match_date": "2026-11-28",
-      "is_live": false,
-      "is_finished": false,
-      "streams": {
-        "sd": "",
-        "hd": ""
-      },
-      "match_url": "https://kickofftv.id/match/prykarpattya-ivano-frankivsk-vs-kulykiv-x7lm7phj6ge6m2w"
-    },
     {
       "id": "23xmvkhy3ekoqg8",
       "slug": "catalonia-women-vs-south-korea-women-23xmvkhy3ekoqg8",
@@ -99,13 +11,13 @@
       "away": "South Korea Women",
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzdiMGUzZmE2ZTQwMzM2NTNiMzgwOGYzMzNjMzMwZDk5LnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzY4MTVjNDkzN2VhMTc5NmMwYTZjMTgyZjEwMTg1YzQwLnBuZw==",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
+      "home_score": 1,
+      "away_score": 2,
+      "status": "Second Half",
       "time_label": "28 Nov 2026 • 18:00 WIB",
       "match_time": 1795863600,
       "match_date": "2026-11-28",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
         "sd": "",
@@ -122,15 +34,15 @@
       "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2RkYzYwODdkNzJkZDg4ODYzMWM0ZTY3ZDgyMTA1NTNiLnBuZw==",
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzM1ZDRkN2IxYzM0YWExZGFiZGQ5YjFkZDAwYjg0NmY2LnBuZw==",
       "home_score": 0,
-      "away_score": 0,
-      "status": "Not Started",
+      "away_score": 2,
+      "status": "Second Half",
       "time_label": "28 Nov 2026 • 18:00 WIB",
       "match_time": 1795863600,
       "match_date": "2026-11-28",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MxjoYWrxRXbcn1WzL/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/latvia-women-vs-lithuania-women-8yomo4hy7nnpq0j"
@@ -145,14 +57,14 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzQ3OTc5NjQxOTc3NzNjMDJlNGQ1ZTJkZTkzNTkxYTI4LnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "Second Half",
       "time_label": "28 Nov 2026 • 18:00 WIB",
       "match_time": 1795863600,
       "match_date": "2026-11-28",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2goqZmZMdMGk/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/dynamo-kyiv-vs-chornomorets-odesa-k82rekhg4gg6rep"
@@ -167,14 +79,14 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtL2ZiZmRkYWU5ZDkxZWFlYzNkMjJkZDU2Yzk1ZjQwNjdmLnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "Second Half",
       "time_label": "28 Nov 2026 • 18:00 WIB",
       "match_time": 1795863600,
       "match_date": "2026-11-28",
-      "is_live": false,
+      "is_live": true,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaW2gebGXCJ3jqz/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/obolon-kyiv-vs-zorya-l7oqdehgkggxr51"
@@ -189,9 +101,31 @@
       "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzRhMjg5NWUyNTE4MDM5NzYzNTY2NGUwZDRlMWRjZWFkLnBuZw==",
       "home_score": 0,
       "away_score": 0,
-      "status": "Not Started",
+      "status": "Half Time",
       "time_label": "28 Nov 2026 • 18:30 WIB",
       "match_time": 1795865400,
+      "match_date": "2026-11-28",
+      "is_live": true,
+      "is_finished": false,
+      "streams": {
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MwarNKL17Z9QsAokc/playlist.m3u8",
+        "hd": ""
+      },
+      "match_url": "https://kickofftv.id/match/metalist-kharkiv-vs-polissya-zhytomyr-b-vjxm8ghe1v6dr6o"
+    },
+    {
+      "id": "3glrw7hn8k55qdy",
+      "slug": "fc-inhulets-petrove-vs-fk-oleksandria-3glrw7hn8k55qdy",
+      "competition": "Ukrainian First League",
+      "home": "FC Inhulets Petrove",
+      "away": "FK Oleksandria",
+      "home_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzBmMTM2YWMwMzAwYTljZDlkMjdmZjBhNWM3YjZmMmE3LnBuZw==",
+      "away_logo": "https://kickofftv.id/cdn/team/aHR0cHM6Ly9pbWcudGhlc3BvcnRzLmNvbS9mb290YmFsbC90ZWFtLzcxYzFhZjQ5MDEwNTkzYjI5ZjlmYTQxYWEwZTIxYjQ5LnBuZw==",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Delayed",
+      "time_label": "28 Nov 2026 • 17:00 WIB",
+      "match_time": 1795860000,
       "match_date": "2026-11-28",
       "is_live": false,
       "is_finished": false,
@@ -199,7 +133,7 @@
         "sd": "",
         "hd": ""
       },
-      "match_url": "https://kickofftv.id/match/metalist-kharkiv-vs-polissya-zhytomyr-b-vjxm8ghe1v6dr6o"
+      "match_url": "https://kickofftv.id/match/fc-inhulets-petrove-vs-fk-oleksandria-3glrw7hn8k55qdy"
     },
     {
       "id": "2y8m4zh591pxql0",
@@ -218,8 +152,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaGyy1bbZ58j8yN/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaGyy1bbZ58j8yN/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/real-betis-vs-rayo-vallecano-2y8m4zh591pxql0"
     },
@@ -240,7 +174,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaARjNypkU8oJAL/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/ud-las-palmas-vs-andorra-cf-dj2ryohl04ezq1z"
@@ -262,7 +196,7 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwb6hHQe85C8M7aQQ/playlist.m3u8",
         "hd": ""
       },
       "match_url": "https://kickofftv.id/match/samsunspor-vs-genclerbirligi-s-k-3glrw7hn262wqdy"
@@ -306,8 +240,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6Mwe5jbECu2741axsi/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6Mwe5jbECu2741axsi/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/frosinone-vs-parma-4wyrn4h618jvq86"
     },
@@ -328,8 +262,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaDhVcqz38Wxqtk/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaDhVcqz38Wxqtk/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/1-fsv-mainz-05-vs-1-fc-union-berlin-4wyrn4h6n7p3q86"
     },
@@ -350,8 +284,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaDhVTQhPR4FehW/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaDhVTQhPR4FehW/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/fc-k-ln-vs-sv-07-elversberg-l7oqdehgkew7r51"
     },
@@ -372,8 +306,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaDhVconZG38vjr/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaDhVconZG38vjr/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/hamburger-sv-vs-fc-bayern-munich-l5ergph465x9r8k"
     },
@@ -394,8 +328,8 @@
       "is_live": false,
       "is_finished": false,
       "streams": {
-        "sd": "",
-        "hd": ""
+        "sd": "https://apxvf0ws91.yarncdn.live/live/sd-6MweaDhVTdtGdwD9ct/playlist.m3u8",
+        "hd": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MweaDhVTdtGdwD9ct/playlist.m3u8"
       },
       "match_url": "https://kickofftv.id/match/sc-paderborn-07-vs-schalke-04-3glrw7hn5l8zqdy"
     },
